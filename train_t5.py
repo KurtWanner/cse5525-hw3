@@ -38,7 +38,7 @@ def get_args():
                         help="How many epochs to warm up the learning rate for if using a scheduler")
     parser.add_argument('--max_n_epochs', type=int, default=0,
                         help="How many epochs to train the model for")
-    parser.add_argument('--patience_epochs', type=int, default=3,
+    parser.add_argument('--patience_epochs', type=int, default=2,
                         help="If validation performance stops improving, how many epochs should we wait before stopping?")
 
     parser.add_argument('--use_wandb', action='store_true',
@@ -63,18 +63,17 @@ def train(args, model, train_loader, dev_loader, optimizer, scheduler):
     gt_record_path = os.path.join(f'records/ground_truth_dev.pkl')
     model_sql_path = os.path.join(f'results/t5_{model_type}_{args.experiment_name}_dev.sql')
     model_record_path = os.path.join(f'records/t5_{model_type}_{args.experiment_name}_dev.pkl')
+
     for epoch in range(args.max_n_epochs):
         tr_loss = train_epoch(args, model, train_loader, optimizer, scheduler)
 
-        
-        
         eval_loss, record_f1, record_em, sql_em, error_rate = eval_epoch(args, model, dev_loader,
                                                                          gt_sql_path, model_sql_path,
                                                                          gt_record_path, model_record_path, True)
         
         print(f"Epoch {epoch}: Average train loss was {tr_loss}")
-        print(f"Epoch {epoch}: Record F1: {record_f1}")
-        #print(f"Epoch {epoch}: {error_rate*100:.2f}% of the generated outputs led to SQL errors")
+        print(f"Epoch {epoch}: Dev loss: {eval_loss}, Record F1: {record_f1}, Record EM: {record_em}, SQL EM: {sql_em}")
+        print(f"Epoch {epoch}: {error_rate*100:.2f}% of the generated outputs led to SQL errors")
 
         if args.use_wandb:
             result_dict = {
@@ -191,17 +190,10 @@ def eval_epoch(args, model, dev_loader, gt_sql_pth, model_sql_path, gt_record_pa
 
         save_queries_and_records(sql_queries, model_sql_path, model_record_path)
 
-        if training:
-
-            # Load ground truth
-            gt_qs, gt_records, _ = load_queries_and_records(gt_sql_pth, gt_record_path)
-
-            # Load model predictions
-            model_qs, model_records, model_error_msgs = load_queries_and_records(model_sql_path, model_record_path)
-
-            record_f1 = compute_record_F1(gt_records, model_records)
-        else:
-            sql_em, record_em, record_f1, model_error_msgs = compute_metrics(gt_sql_pth, model_sql_path, gt_record_path, model_record_path)
+        
+        sql_em, record_em, record_f1, model_error_msgs = compute_metrics(gt_sql_pth, model_sql_path, gt_record_path, model_record_path)
+        
+        if not training:
             dev_loss = total_loss / total_tokens
             errors = [1 if "error" in msg or "Error" in msg else 0 for msg in model_error_msgs]
             dev_error_rate = sum(errors) / len(errors)
@@ -223,37 +215,36 @@ def main():
         # Recommended: Using wandb (or tensorboard) for result logging can make experimentation easier
         setup_wandb(args)
 
-    with torch.amp.autocast('cuda', dtype=torch.bfloat16):
 
-        # Load the data and the model
-        train_loader, dev_loader, test_loader = load_t5_data(args.batch_size, args.test_batch_size)
-        model = initialize_model(args)
-        optimizer, scheduler = initialize_optimizer_and_scheduler(args, model, len(train_loader))
+    # Load the data and the model
+    train_loader, dev_loader, test_loader = load_t5_data(args.batch_size, args.test_batch_size)
+    model = initialize_model(args)
+    optimizer, scheduler = initialize_optimizer_and_scheduler(args, model, len(train_loader))
 
-        # Train 
-        train(args, model, train_loader, dev_loader, optimizer, scheduler)
+    # Train 
+    train(args, model, train_loader, dev_loader, optimizer, scheduler)
 
-        # Evaluate
-        model = load_model_from_checkpoint(args, best=True)
-        model.eval()
+    # Evaluate
+    model = load_model_from_checkpoint(args, best=True)
+    model.eval()
     
-        # Dev set
-        experiment_name = args.experiment_name
-        model_type = 'ft' if args.finetune else 'scr'
-        gt_sql_path = os.path.join(f'data/dev.sql')
-        gt_record_path = os.path.join(f'records/ground_truth_dev.pkl')
-        model_sql_path = os.path.join(f'results/t5_{model_type}_{experiment_name}_dev.sql')
-        model_record_path = os.path.join(f'records/t5_{model_type}_{experiment_name}_dev.pkl')
-        dev_loss, dev_record_f1, dev_record_em, dev_sql_em, dev_error_rate = eval_epoch(args, model, dev_loader,
-                                                                                        gt_sql_path, model_sql_path,
-                                                                                        gt_record_path, model_record_path)
-        print(f"Dev set results: Loss: {dev_loss}, Record F1: {dev_record_f1}, Record EM: {dev_record_em}, SQL EM: {dev_sql_em}")
-        print(f"Dev set results: {dev_error_rate*100:.2f}% of the generated outputs led to SQL errors")
+    # Dev set
+    experiment_name = args.experiment_name
+    model_type = 'ft' if args.finetune else 'scr'
+    gt_sql_path = os.path.join(f'data/dev.sql')
+    gt_record_path = os.path.join(f'records/ground_truth_dev.pkl')
+    model_sql_path = os.path.join(f'results/t5_{model_type}_{experiment_name}_dev.sql')
+    model_record_path = os.path.join(f'records/t5_{model_type}_{experiment_name}_dev.pkl')
+    dev_loss, dev_record_f1, dev_record_em, dev_sql_em, dev_error_rate = eval_epoch(args, model, dev_loader,
+                                                                                    gt_sql_path, model_sql_path,
+                                                                                    gt_record_path, model_record_path)
+    print(f"Dev set results: Loss: {dev_loss}, Record F1: {dev_record_f1}, Record EM: {dev_record_em}, SQL EM: {dev_sql_em}")
+    print(f"Dev set results: {dev_error_rate*100:.2f}% of the generated outputs led to SQL errors")
 
-        # Test set
-        model_sql_path = os.path.join(f'results/t5_{model_type}_{experiment_name}_test.sql')
-        model_record_path = os.path.join(f'records/t5_{model_type}_{experiment_name}_test.pkl')
-        test_inference(args, model, test_loader, model_sql_path, model_record_path)
+    # Test set
+    model_sql_path = os.path.join(f'results/t5_{model_type}_{experiment_name}_test.sql')
+    model_record_path = os.path.join(f'records/t5_{model_type}_{experiment_name}_test.pkl')
+    test_inference(args, model, test_loader, model_sql_path, model_record_path)
 
 if __name__ == "__main__":
     main()

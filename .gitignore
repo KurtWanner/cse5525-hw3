@@ -1,3 +1,4 @@
 *.vsidx
 .vs
 .DS_Store
+checkpoints

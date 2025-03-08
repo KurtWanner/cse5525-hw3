@@ -46,7 +46,7 @@ class T5Dataset(Dataset):
         if not self.test:
             with open(data_folder + '/' + split + '.sql', "r+") as file:
                 sqlData = file.readlines()
-                # extra_id_0 serves as beginning of sentence
+                # extra_id_1 serves as beginning of sentence
                 self.sql = [torch.Tensor(tokenizer(T5Dataset.SOS + x).input_ids) for x in sqlData]
                 
         
@@ -62,7 +62,7 @@ class T5Dataset(Dataset):
         if not test:
             with open(data_folder + '/' + split + '.sql', "r+") as file:
                 sqlData = file.readlines()
-                # extra_id_0 serves as beginning of sentence
+                # extra_id_1 serves as beginning of sentence
                 sql = [torch.Tensor(tokenizer(T5Dataset.SOS + x).input_ids) for x in sqlData]
 
         if test:
