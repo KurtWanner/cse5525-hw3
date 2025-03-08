@@ -1,0 +1,32 @@
+
+Data - Natural Language -> SQL
+flight_database.db
+
+train/dev/test.nl Natural Language
+train/dev.sql Corresponding SQL 
+
+Task 1 - Finetune pretrained T5 model
+
+* Implement model initialization from HuggingFace transformer implementations
+
+load_data.py
+* T5Dataset
+* Collate functions
+
+Part 3
+load_data.py
+* load_prompting_data
+
+
+
+
+
+Report 
+* Table 1 - Data stats before preprocessing
+* Table 2 - Data stats after preprocessing
+
+* Table 3 - Describe details of best performing T5 Model (fine-tuned)
+* Table 4 - Describe details of best performing T5 Model (scratch)
+
+* Table 5 - Give instruction prompts for ICL
+* Table 6 - 
