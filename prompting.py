@@ -64,7 +64,6 @@ def create_prompt(sentence, k):
         prompt += 'Give your answer using the syntax and schema from the examples provided. \n'
 
     prompt += 'Convert the following natural language instruction into its equivalent SQL instruction. \
-    The instructions are for a flight database. \
     Make sure your response is a syntactically valid SQL instruction. \
     Only return the output and nothing else. \n'
     

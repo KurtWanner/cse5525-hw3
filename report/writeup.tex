@@ -139,6 +139,7 @@ For all entries, you need to specify the corresponding values of $k$.
 \midrule
     \textcolor{gray}{0} & \textcolor{gray}{Convert the following natural language instruction into its equivalent SQL instruction.} \\
     & \textcolor{gray}{Ensure your response is a syntactically valid SQL instruction.} \\
+    & \textcolor{gray}{The instructions are for a flight database.} \\
     & \textcolor{gray}{Only return the output and nothing else.} \\
     & \textcolor{gray}{[Instruction]: [NL INSTRUCTION]} \\
     & \textcolor{gray}{[Answer]: } \\
@@ -156,8 +157,11 @@ For all entries, you need to specify the corresponding values of $k$.
 & \textcolor{gray}{[Instruction]: all flights and fares from atlanta to dallas round trip after 12pm less than 1100 dollars} \\
 & \textcolor{gray}{[Answer]: [CORRESPONDING SQL QUERY]} \\
 & \\
+& \textcolor{gray}{Give your answer using the syntax and schema from the examples provided.} \\
+& \\
 & \textcolor{gray}{Convert the following natural language instruction into its equivalent SQL instruction.} \\
 & \textcolor{gray}{Ensure your response is a syntactically valid SQL instruction.} \\
+& \textcolor{gray}{The instructions are for a flight database.} \\
 & \textcolor{gray}{Only return the output and nothing else.} \\
 & \textcolor{gray}{[Instruction]: [NL INSTRUCTION]} \\
 & \textcolor{gray}{[Answer]: } \\
@@ -198,20 +202,22 @@ When reporting your results in \autoref{tab:results}, you will need to refer to 
 \toprule
 \textbf{Prompt} \\
 \midrule
-    \textcolor{gray}{Everything in this table serves as a placeholder to show an example of prompt and formatting. It is just for reference, and you need to remove all the text here and put your own prompt.} \\
-    \textcolor{gray}{You can design and experiment with different prompts to find what works better.} \textcolor{ForestGreen}{In the prompt, it could be helpful to provide clear instructions, provide the relevant context, and you can also provide examples.} \textcolor{gray}{You need to experiment with different numbers of examples. In this prompt, two examples are provided below ($k = 2$, and this is 2-shot prompting):} \\
-   \textcolor{gray}{Instruction: [instruction-sentence]} \\
-    \textcolor{gray}{Response: [response]} \\
-    \textcolor{gray}{Instruction: [instruction-sentence]} \\
-    \textcolor{gray}{Response: [response]} \\
-    \\
-   \textcolor{Blue}{You can choose to provide additional instruction or not before providing the instruction to the model as well. Below is the task that you are asking the model to perform:} \\
-    \textcolor{gray}{Instruction: [instruction-sentence]} \\
-    \textcolor{gray}{Response: } \\
+\textcolor{gray}{[Instruction]: what evening flights do you have available from baltimore to philadelphia}\\
+ \textcolor{gray}{[Answer]: [CORRESPONDING SQL QUERY]} \\
+ \\
+ \textcolor{Red}{Give your answer using the syntax and schema from the examples provided.} \\
+ \\
+ \textcolor{gray}{Convert the following natural language instruction into its equivalent SQL instruction.} \\
+ \textcolor{Blue}{The instructions are for a flight database.} \\
+ \textcolor{gray}{Ensure your response is a syntactically valid SQL instruction.} \\
+ \textcolor{gray}{Only return the output and nothing else.} \\
+ \textcolor{gray}{[Instruction]: [NL INSTRUCTION]} \\
+ \textcolor{gray}{[Answer]: } \\
+
 \bottomrule
 \end{tabular}
 \caption{The best prompt.
-{\textcolor{gray}{Remove this text and place a short description of your best prompt. If it is the same as the prompt in \autoref{tab:icl_prompts}, clearly mention the value of $k$. If it is not the same, state explicitly how you built it.}}
+{\textcolor{gray}{My best prompt was the Purple ablation experiment with $k=1$.}}
 }
 \label{tab:best_prompt}
 \end{table}
@@ -224,9 +230,9 @@ When reporting your results in \autoref{tab:results}, you will need to refer to 
 \toprule
 \textbf{Color} & \textbf{Description} \\
 \midrule
-\textcolor{ForestGreen}{ForestGreen} & \textcolor{ForestGreen}{This is the description for the ablation experiment where the part in ForestGreen is ablated from the best prompt.} \\
-\textcolor{Blue}{Blue} & \textcolor{Blue}{This is the description for the ablation experiment where the part in Blue is ablated from the best prompt.} \\
-& \textcolor{Blue}{In the ablation experiment, we experimented with swapping the order of both sentences, because...} \\
+\textcolor{Red}{Red} & \textcolor{Red}{In this experiment, the Red text was removed.} \\
+\textcolor{Blue}{Blue} & \textcolor{Blue}{In this experiment, the Blue text was removed.} \\
+\textcolor{Purple}{Purple} & \textcolor{Purple}{In this experiment, both the Red and Blue text was removed.} \\
 % \midrule
 \bottomrule
 \end{tabular}
@@ -262,23 +268,25 @@ You may add more rows if needed.
   \multicolumn{3}{l}{\textbf{Dev Results}} \\
   \midrule
   \multicolumn{3}{l}{\textbf{LLM Prompting}} \\
-  Gemma-2B & 12.02 & 12.42 \\ 
-  ICL, $k=0$ & 11.80 & 11.80 \\
-  ICL, $k=1$ & 12.02 & 12.42 \\
-  ICL, $k=3$ & 11.37 & 12.00 \\
-  Variant3 \textcolor{ForestGreen}{(e.g. ablating the explanation sentence in \autoref{tab:best_prompt})} & XX.XX & XX.XX \\
-  Variant4 \textcolor{Blue}{(e.g. ablating by doing ... in \autoref{tab:best_prompt})} & XX.XX & XX.XX \\
-  Variant & XX.XX & XX.XX \\[5pt]
+	Full Model: Gemma-2B &  &  \\ 
+	ICL, $k=0$ & 0.0 & 11.80 \\
+	ICL, $k=1$ & 0.0 & 11.25 \\
+	ICL, $k=2$ & 0.0 & 11.76 \\
+	ICL, $k=3$ & 0.0 & 12.33 \\
+	\textcolor{Red}{Red Ablation}, $k=1$ & 0.0 & 11.56 \\
+	\textcolor{Blue}{Blue Ablation}, $k=1$ & 0.0 & 11.77 \\
+	\textcolor{Purple}{Purple Ablation}, $k=0$ & 0.0 & 11.80 \\
+	\textcolor{Purple}{Purple Ablation}, $k=1$ & 0.0 & 12.42 \\
+	\textcolor{Purple}{Purple Ablation}, $k=3$ & 0.0 & 12.08 \\
+	
   \multicolumn{3}{l}{\textbf{T5 fine-tuned}} \\
   Full model & 4.94 & 87.90 \\[5pt]
   % Variant1 & XX.XX & XX.XX \\
-  % Variant2 & XX.XX & XX.XX \\
-  % Variant3 & XX.XX & XX.XX \\
+
   \multicolumn{3}{l}{\textbf{T5 from scratch}} \\
   Full model & 4.51 & 70.59 \\ 
   % Variant1 & XX.XX & XX.XX \\
-  % Variant2 & XX.XX & XX.XX \\
-  % Variant3 & XX.XX & XX.XX \\
+
   \midrule
   \multicolumn{3}{l}{\textbf{Test Results}} \\
   \midrule
@@ -294,7 +302,34 @@ You may add more rows if needed.
 
 \paragraph{ICL sensitivity to $k$:} For ICL, please provide a plot of the Record F1 on the development set that the model achieved with different values of $k$. The x-axis should be $k$, and the y-axis the Record F1. The prompts and examples used for this plot should correspond to the ones you described in Subsection \ref{sec:llm:icl}.
 
-\textcolor{gray}{Remove this text and place your plot here!}
+\begin{center}
+	\centering
+	\begin{tikzpicture}[scale=0.6]
+		\begin{axis}[
+			xlabel={k-shot},
+			ylabel={Record F1},
+			xmin=0, xmax=3,
+			ymin=11, ymax=13,
+			xtick={0,1,2,3},
+			ytick={11, 11.25, 11.5, 11.75, 12, 12.25, 12.5, 12.75, 13},
+			legend pos=north west,
+			ymajorgrids=true,
+			grid style=dashed,
+			]
+			
+			\addplot[
+			color=blue,
+			mark=square,
+			]
+			coordinates {
+				(0,11.8)(1, 11.25)(2, 11.76)(3, 12.33)
+			};
+			
+			
+		\end{axis}
+	\end{tikzpicture}
+\end{center}
+
 
 \newpage
 

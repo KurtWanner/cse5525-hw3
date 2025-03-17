@@ -181,7 +181,7 @@ def eval_epoch(args, model, dev_loader, gt_sql_pth, model_sql_path, gt_record_pa
                 input_ids = encoder_input,
                 attention_mask = encoder_mask,
                 decoder_input_ids=decoder_input,
-                max_new_tokens=50
+                max_new_tokens=200
             )
             #print(output)
             sql = T5Dataset.Tokenizer.batch_decode(output, skip_special_tokens=True)
@@ -206,7 +206,26 @@ def test_inference(args, model, test_loader, model_sql_path, model_record_path):
     You must implement inference to compute your model's generated SQL queries and its associated 
     database records. Implementation should be very similar to eval_epoch.
     '''
-    pass
+
+    sql_queries = []
+    model.eval()
+    model.to(DEVICE)
+    for encoder_ids, encoder_mask, initial_decoder_inputs in tqdm(test_loader):
+        encoder_input = encoder_ids.to(DEVICE)
+        encoder_mask = encoder_mask.to(DEVICE)
+        decoder_input = initial_decoder_inputs.to(DEVICE)
+
+        output = model.generate(
+            input_ids = encoder_input,
+            attention_mask = encoder_mask,
+            decoder_input_ids=decoder_input,
+            max_new_tokens=200
+        )
+
+        sql = T5Dataset.Tokenizer.batch_decode(output, skip_special_tokens=True)
+        sql_queries.extend(sql)
+
+    save_queries_and_records(sql_queries, model_sql_path, model_record_path)
 
 def main():
     # Get key arguments
