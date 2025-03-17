@@ -27,11 +27,11 @@ Depending on your pre-processing, some numbers may be identical across tables.
 \toprule
 Statistics Name & Train & Dev \\
 \midrule
-Number of examples & \textcolor{gray}{XXX} & \textcolor{gray}{XXX} \\
-Mean sentence length & \textcolor{gray}{XXX}& \textcolor{gray}{XXX} \\
-Mean SQL query length & \textcolor{gray}{XXX}& \textcolor{gray}{XXX}  \\
-Vocabulary size (natural language)& \textcolor{gray}{XXX}& \textcolor{gray}{XXX}  \\
-Vocabulary size (SQL)& \textcolor{gray}{XXX}& \textcolor{gray}{XXX}  \\
+Number of examples & \textcolor{gray}{4225} & \textcolor{gray}{466} \\
+Mean sentence length & \textcolor{gray}{10.96}& \textcolor{gray}{10.91} \\
+Mean SQL query length & \textcolor{gray}{60.9}& \textcolor{gray}{58.90}  \\
+Vocabulary size (natural language)& \textcolor{gray}{1134}& \textcolor{gray}{548}  \\
+Vocabulary size (SQL)& \textcolor{gray}{759}& \textcolor{gray}{438}  \\
 \bottomrule
 \end{tabular}
 \caption{Data statistics before any pre-processing. \textcolor{gray}{You need to at least provide the statistics listed above, and can add new entries.}}
@@ -44,11 +44,11 @@ Vocabulary size (SQL)& \textcolor{gray}{XXX}& \textcolor{gray}{XXX}  \\
 \toprule
 Statistics Name & Train & Dev \\
 \midrule
-\multicolumn{3}{l}{\textbf{Model name}} \\ % \textcolor{gray}{(T5 fine-tuning or T5 from scratch)}} \\
-\textcolor{gray}{Statistics Name} & \textcolor{gray}{XXX}& \textcolor{gray}{XXX} \\
-\midrule
-\multicolumn{3}{l}{\textbf{Model name}} \\ % \textcolor{gray}{(T5 fine-tuning or T5 from scratch)}} \\
-\textcolor{gray}{Statistics Name} & \textcolor{gray}{XXX}& \textcolor{gray}{XXX} \\
+\multicolumn{3}{l}{\textbf{Model: T5 Fine-tuning \& T5 from Scratch}} \\ % \textcolor{gray}{(T5 fine-tuning or T5 from scratch)}} \\
+Mean sentence length & \textcolor{gray}{18.10}& \textcolor{gray}{18.07} \\
+Mean SQL query length & \textcolor{gray}{218}& \textcolor{gray}{212} \\
+Vocab size (NL) & \textcolor{gray}{792}& \textcolor{gray}{466} \\
+Vocab size (SQL) & \textcolor{gray}{557}& \textcolor{gray}{397} \\
 \bottomrule
 \end{tabular}
 \caption{Data statistics after pre-processing. \textcolor{gray}{You need to at least provide the statistics listed in \autoref{tab:data_stats_before} (except for the number of lines), and can add new entries.}}
@@ -73,10 +73,17 @@ Be clear enough that we can replicate your approach in PyTorch using only your d
 \toprule
 Design choice & Description \\
 \midrule
-Data processing & \textcolor{gray}{Describe the data processing steps you undertook, if any.} \\
-Tokenization & \textcolor{gray}{Describe how you did the tokenization for the inputs to the encoder and decoder. If you use anything else than the default T5 tokenizer, specify what you use, and why you choose to use it.} \\
-Architecture & \textcolor{gray}{Describe the components in the T5 architecture that you chose to fine-tune. Did you fine-tune the entire model, specific layers?} \\
-Hyperparameters & \textcolor{gray}{List the key hyperparameters that you used, including the learning rate, batch size, and stopping criteria.} \\
+Data processing & No data processing occurred for either the natural language instructions or the SQL instructions. \\
+Tokenization & For the natural language instructions, the default T5 tokenizer was used without change. For SQL instructions, a start-of-sequence token was inserted at the front of each instruction. \\
+Architecture & I fine-tuned the entire model. To increase training speed, the model's parameters were converted to type bfloat16. \\
+Hyperparameters & 
+\textbf{Learning Rate:} \textcolor{gray}{1e-5}
+ 
+\textbf{Batch Size:} \textcolor{gray}{8} 
+
+\textbf{Stopping Criteria:} \textcolor{gray}{2 consecutive epochs with diminishing validation performance.} 
+
+\textbf{LR Scheduler:} \textcolor{gray}{Cosine}  \\
 \bottomrule
 \end{tabular}
 \caption{Details of the best-performing T5 model configurations (fine-tuned)}
@@ -90,9 +97,16 @@ Hyperparameters & \textcolor{gray}{List the key hyperparameters that you used, i
 \toprule
 Design choice & Description \\
 \midrule
-Data processing & \textcolor{gray}{Describe the data processing steps you undertook, if any.} \\
-Tokenization & \textcolor{gray}{Describe how you did the tokenization for the inputs to the encoder and decoder. If you use anything else than the default T5 tokenizer, specify what you use, and why you choose to use it.} \\
-Hyperparameters & \textcolor{gray}{List the key hyperparameters that you used, including the learning rate, batch size, and stopping criteria.} \\
+Data processing & The Data Processing was identical to the fine-tuned model. \\
+Tokenization & The tokenization was identical to the fine-tuned model. \\
+Architecture & Similar to the fine-tuned model, the model's parameters were converted to type bfloat16 to improve training speed. \\
+Hyperparameters & \textbf{Learning Rate:} \textcolor{gray}{1e-4}
+
+\textbf{Batch Size:} \textcolor{gray}{8} 
+
+\textbf{Stopping Criteria:} \textcolor{gray}{2 consecutive epochs with diminishing validation performance.} 
+
+\textbf{LR Scheduler:} \textcolor{gray}{Cosine}  \\
 \bottomrule
 \end{tabular}
 \caption{Details of the best-performing T5 model configurations (from scratch)}
@@ -123,16 +137,30 @@ For all entries, you need to specify the corresponding values of $k$.
 \toprule
 \textbf{Shot} & \textbf{Prompt} \\
 \midrule
-    \textcolor{gray}{k} & \textcolor{gray}{Everything in this table serves as a placeholder to show an example of prompt and formatting. It is just for reference, and you need to remove all the text here and put your own prompt.} \\
-    & \textcolor{gray}{You can design and experiment with different prompts to find what works better. In the prompt, it could be helpful to provide clear instructions, provide the relevant context, and you can also provide examples. You need to experiment with different numbers of examples. In this prompt, two examples are provided below ($k = 2$, and this is 2-shot prompting):} \\
-    & \textcolor{gray}{Instruction: [instruction-sentence]} \\
-    & \textcolor{gray}{Response: [response]} \\
-    & \textcolor{gray}{Instruction: [instruction-sentence]} \\
-    & \textcolor{gray}{Response: [response]} \\
-    & \\
-    & \textcolor{gray}{You can choose to provide additional instruction or not before providing the instruction to the model as well. Below is the task that you are asking the model to perform:} \\
-    & \textcolor{gray}{Instruction: [instruction-sentence]} \\
-    & \textcolor{gray}{Response: } \\
+    \textcolor{gray}{0} & \textcolor{gray}{Convert the following natural language instruction into its equivalent SQL instruction.} \\
+    & \textcolor{gray}{Ensure your response is a syntactically valid SQL instruction.} \\
+    & \textcolor{gray}{Only return the output and nothing else.} \\
+    & \textcolor{gray}{[Instruction]: [NL INSTRUCTION]} \\
+    & \textcolor{gray}{[Answer]: } \\
+\midrule
+
+\textcolor{gray}{$k > 0$} & \textcolor{gray}{[Instruction]: what evening flights do you have available from baltimore to philadelphia }\\
+& \textcolor{gray}{[Answer]: [CORRESPONDING SQL QUERY]} \\
+& \\
+& \textcolor{gray}{[Instruction]: how much is coach flight from pittsburgh to atlanta} \\
+& \textcolor{gray}{[Answer]: [CORRESPONDING SQL QUERY]} \\
+& \\
+& \textcolor{gray}{[Instruction]: get saturday fares from washington to montreal} \\
+& \textcolor{gray}{[Answer]: [CORRESPONDING SQL QUERY]} \\
+& \\
+& \textcolor{gray}{[Instruction]: all flights and fares from atlanta to dallas round trip after 12pm less than 1100 dollars} \\
+& \textcolor{gray}{[Answer]: [CORRESPONDING SQL QUERY]} \\
+& \\
+& \textcolor{gray}{Convert the following natural language instruction into its equivalent SQL instruction.} \\
+& \textcolor{gray}{Ensure your response is a syntactically valid SQL instruction.} \\
+& \textcolor{gray}{Only return the output and nothing else.} \\
+& \textcolor{gray}{[Instruction]: [NL INSTRUCTION]} \\
+& \textcolor{gray}{[Answer]: } \\
 \bottomrule
 \end{tabular}
 \caption{Instruction prompts used for zero- and/or few-shot prompting.}
@@ -142,7 +170,7 @@ For all entries, you need to specify the corresponding values of $k$.
 
 \paragraph{Example selections:} Please provide a clear, detailed, and succinct description of how you selected the examples when $k > 0$.
 
-\textcolor{gray}{Remove this text and place your description here!}
+\textcolor{gray}{The examples were selected based on how well representative their task was to the rest of the training data. The first example provided above I felt was most representative of the training dataset in terms of both the NL instruction and the corresponding SQL elements. The second example provided was second most representative and so on. For $k$-shot prompting, the first $k$ examples were selected from the above list.}
 
 
 
@@ -229,24 +257,25 @@ You may add more rows if needed.
 \centering
 \begin{tabular}{lcc}
   \toprule
-  System & Query EM & F1 score\\
+  System & Query EM \% & F1 score\\
   \midrule
   \multicolumn{3}{l}{\textbf{Dev Results}} \\
   \midrule
   \multicolumn{3}{l}{\textbf{LLM Prompting}} \\
-  Full model & XX.XX & XX.XX \\ 
-  Variant1 \textcolor{gray}{(e.g. ICL, $k$ = $...$)} & XX.XX & XX.XX \\
-  Variant2 \textcolor{gray}{(e.g. ICL, $k$ = $...$)} & XX.XX & XX.XX \\
+  Gemma-2B & 12.02 & 12.42 \\ 
+  ICL, $k=0$ & 11.80 & 11.80 \\
+  ICL, $k=1$ & 12.02 & 12.42 \\
+  ICL, $k=3$ & 11.37 & 12.00 \\
   Variant3 \textcolor{ForestGreen}{(e.g. ablating the explanation sentence in \autoref{tab:best_prompt})} & XX.XX & XX.XX \\
   Variant4 \textcolor{Blue}{(e.g. ablating by doing ... in \autoref{tab:best_prompt})} & XX.XX & XX.XX \\
   Variant & XX.XX & XX.XX \\[5pt]
   \multicolumn{3}{l}{\textbf{T5 fine-tuned}} \\
-  Full model & XX.XX & XX.XX \\[5pt]
+  Full model & 4.94 & 87.90 \\[5pt]
   % Variant1 & XX.XX & XX.XX \\
   % Variant2 & XX.XX & XX.XX \\
   % Variant3 & XX.XX & XX.XX \\
   \multicolumn{3}{l}{\textbf{T5 from scratch}} \\
-  Full model & XX.XX & XX.XX \\ 
+  Full model & 4.51 & 70.59 \\ 
   % Variant1 & XX.XX & XX.XX \\
   % Variant2 & XX.XX & XX.XX \\
   % Variant3 & XX.XX & XX.XX \\

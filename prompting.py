@@ -6,11 +6,18 @@ from transformers import GemmaTokenizerFast, GemmaForCausalLM
 from transformers import GemmaTokenizer, AutoModelForCausalLM
 from transformers import BitsAndBytesConfig
 
+from load_data import load_lines
+
 from utils import set_random_seeds, compute_metrics, save_queries_and_records, compute_records
 from prompting_utils import read_schema, extract_sql_query, save_logs
 from load_data import load_prompting_data
 
 DEVICE = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu') # you can add mps
+
+MAX_NEW_TOKENS = 1500
+
+SHOT_X = load_lines('prompts/train_nl.txt')
+SHOT_Y = load_lines('prompts/train_sql.txt')
 
 
 def get_args():
@@ -47,7 +54,25 @@ def create_prompt(sentence, k):
         * sentence (str): A text string
         * k (int): Number of examples in k-shot prompting
     '''
-    # TODO
+    prompt = ''
+
+    k = min(k, 4)
+    if k > 0:
+        for i in range(k):
+            prompt += '[Instruction]: ' + SHOT_X[i] + '\n'
+            prompt += '[Answer]: ' + SHOT_Y[i] + '\n\n'
+
+    prompt += 'Convert the following natural language instruction into its equivalent SQL instruction. \
+    Ensure your response is a syntactically valid SQL instruction. \
+    Only return the output and nothing else. \n'
+    
+
+    prompt += '[Instruction]: ' + sentence + '\n'
+    prompt += '[Answer]: '
+
+
+    return prompt
+
 
 
 def exp_kshot(tokenizer, model, inputs, k):
@@ -86,7 +111,11 @@ def eval_outputs(eval_x, eval_y, gt_sql_pth, model_sql_path, gt_record_path, mod
 
     Add/modify the arguments and code as needed.
     '''
-    # TODO
+    sql_em, record_em, record_f1, model_error_msgs = compute_metrics(gt_sql_pth, model_sql_path, gt_record_path, model_record_path)
+
+    errors = [1 if "error" in msg or "Error" in msg else 0 for msg in model_error_msgs]
+    error_rate = sum(errors) / len(errors)
+
     return sql_em, record_em, record_f1, model_error_msgs, error_rate
 
 
@@ -148,22 +177,28 @@ def main():
     for eval_split in ["dev", "test"]:
         eval_x, eval_y = (dev_x, dev_y) if eval_split == "dev" else (test_x, None)
 
-        raw_outputs, extracted_queries = exp_kshot(tokenizer, model, eval_x, k)
+        raw_outputs, extracted_queries = exp_kshot(tokenizer, model, eval_x, shot)
 
         # You can add any post-processing if needed
         # You can compute the records with `compute_records``
 
         gt_query_records = f"records/{eval_split}_gt_records.pkl"
-        gt_sql_path = os.path.join(f'data/{eval_split}.sql')
+        gt_sql_pth = os.path.join(f'data/{eval_split}.sql')
         gt_record_path = os.path.join(f'records/{eval_split}_gt_records.pkl')
-        model_sql_path = os.path.join(f'results/gemma_{experiment_name}_dev.sql')
-        model_record_path = os.path.join(f'records/gemma_{experiment_name}_dev.pkl')
+        model_sql_path = os.path.join(f'results/gemma_{experiment_name}_{eval_split}.sql')
+        model_record_path = os.path.join(f'records/gemma_{experiment_name}_{eval_split}.pkl')
+
+        save_queries_and_records(extracted_queries, model_sql_path, model_record_path)
+        
+        if eval_split == "test":
+            continue
+
         sql_em, record_em, record_f1, model_error_msgs, error_rate = eval_outputs(
             eval_x, eval_y,
-            gt_path=gt_sql_path,
-            model_path=model_sql_path,
-            gt_query_records=gt_query_records,
-            model_query_records=model_record_path
+            gt_sql_pth=gt_sql_pth,
+            model_sql_path=model_sql_path,
+            gt_record_path=gt_query_records,
+            model_record_path=model_record_path
         )
         print(f"{eval_split} set results: ")
         print(f"Record F1: {record_f1}, Record EM: {record_em}, SQL EM: {sql_em}")
@@ -173,7 +208,7 @@ def main():
         # You can for instance use the `save_queries_and_records` function
 
         # Save logs, if needed
-        log_path = "" # to specify
+        log_path = os.path.join("logs", experiment_name + ".txt") # to specify
         save_logs(log_path, sql_em, record_em, record_f1, model_error_msgs)
 
 

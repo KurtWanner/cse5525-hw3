@@ -1,0 +1,7 @@
+
+python evaluate.py --predicted_sql results/gemma_shot_0_dev.sql --predicted_records records/gemma_shot_0_dev.pkl --development_sql data/dev.sql --development_records records/ground_truth_dev.pkl
+python evaluate.py --predicted_sql results/gemma_shot_1_dev.sql --predicted_records records/gemma_shot_1_dev.pkl --development_sql data/dev.sql --development_records records/ground_truth_dev.pkl
+python evaluate.py --predicted_sql results/gemma_shot_3_dev.sql --predicted_records records/gemma_shot_3_dev.pkl --development_sql data/dev.sql --development_records records/ground_truth_dev.pkl
+
+
+

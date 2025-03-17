@@ -1,0 +1,4 @@
+SQL EM: 0.0
+Record EM: 0.0
+Record F1: 0.0
+Model Error Messages: ['OperationalError: near "1": syntax error']

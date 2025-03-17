@@ -11,7 +11,21 @@ def extract_sql_query(response):
     '''
     Extract the SQL query from the model's response
     '''
-    # TODO
+
+    start_index = response.rfind("sql") + 3
+    end_index = response.rfind('```')
+
+    sql = response[start_index:end_index]
+
+    sql = sql.replace('\n', ' ') \
+          .replace('JOIN', ',') \
+          .replace(';', '')
+
+    sql = ' '.join(sql.split())
+    
+    #print(sql)
+    
+    return sql 
 
 def save_logs(output_path, sql_em, record_em, record_f1, error_msgs):
     '''

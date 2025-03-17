@@ -1,0 +1,4 @@
+python prompting.py --shot 0 --experiment_name shot_0
+python prompting.py --shot 1 --experiment_name shot_1
+python prompting.py --shot 3 --experiment_name shot_3
+

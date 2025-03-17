@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.3.7)  7 MAR 2025 16:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.3.7)  16 MAR 2025 21:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -530,57 +530,57 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 
 {C:/Users/kurtw/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{D:/ProgramDat
 a/MiKTeX/fonts/enc/dvips/base/8r.enc}]
-Overfull \hbox (10.62721pt too wide) in paragraph at lines 72--82
+Overfull \hbox (10.62721pt too wide) in paragraph at lines 72--89
  [][] 
  []
 
 
-Overfull \hbox (10.62721pt too wide) in paragraph at lines 89--98
+Overfull \hbox (10.62721pt too wide) in paragraph at lines 96--112
  [][] 
  []
 
 [2] [3] [4] [5] [6]
-Underfull \hbox (badness 10000) in paragraph at lines 285--285
+Underfull \hbox (badness 10000) in paragraph at lines 314--314
 []\OT1/ppl/b/n/10 Relevant
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--288
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
 [][]\OT1/ppl/m/n/10 Provide statis-tics in the form
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--288
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
 \OT1/ppl/m/n/10 ``COUNT/TOTAL'' on the preva-
  []
 
 
-Underfull \hbox (badness 1881) in paragraph at lines 287--288
+Underfull \hbox (badness 1881) in paragraph at lines 316--317
 \OT1/ppl/m/n/10 lence of the er-ror. TO-TAL is the
  []
 
 
-Underfull \hbox (badness 4024) in paragraph at lines 287--288
+Underfull \hbox (badness 4024) in paragraph at lines 316--317
 \OT1/ppl/m/n/10 num-ber of rel-e-vant ex-am-ples (e.g.
  []
 
 
-Underfull \hbox (badness 2689) in paragraph at lines 287--288
+Underfull \hbox (badness 2689) in paragraph at lines 316--317
 \OT1/ppl/m/n/10 num-ber of queries, for query-level
  []
 
 
-Underfull \hbox (badness 1990) in paragraph at lines 288--289
+Underfull \hbox (badness 1990) in paragraph at lines 317--318
 \OT1/ppl/m/n/10 els, you should pro-vide the statis-
  []
 
 
-Underfull \hbox (badness 2790) in paragraph at lines 288--289
+Underfull \hbox (badness 2790) in paragraph at lines 317--318
 \OT1/ppl/m/n/10 tics in the form ``MODEL NAME:
  []
 
 
-Overfull \hbox (35.53058pt too wide) in paragraph at lines 283--294
+Overfull \hbox (35.53058pt too wide) in paragraph at lines 312--323
  [][] 
  []
 
@@ -599,7 +599,7 @@ Package rerunfilecheck Info: File `writeup.out' has not changed.
 Here is how much of TeX's memory you used:
  11830 strings out of 474486
  181983 string characters out of 5754543
- 1938542 words of memory out of 5000000
+ 1940542 words of memory out of 5000000
  33892 multiletter control sequences out of 15000+600000
  577799 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -609,7 +609,7 @@ ata/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/ProgramData/MiKTeX/font
 s/type1/public/amsfonts/cm/cmtt9.pfb><D:/ProgramData/MiKTeX/fonts/type1/urw/pal
 atino/uplb8a.pfb><D:/ProgramData/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><D:
 /ProgramData/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on writeup.pdf (7 pages, 103281 bytes).
+Output written on writeup.pdf (7 pages, 104717 bytes).
 PDF statistics:
  120 PDF objects out of 1000 (max. 8388607)
  32 named destinations out of 1000 (max. 500000)

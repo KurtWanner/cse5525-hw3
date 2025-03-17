@@ -1,0 +1,40 @@
+
+
+python evaluate.py --predicted_sql results/t5_ft_ft1_dev.sql --predicted_records records/t5_ft_ft1_dev.pkl --development_sql data/dev.sql --development_records records/ground_truth_dev.pkl
+
+python evaluate.py --predicted_sql results/t5_scr_scratch_dev.sql --predicted_records records/t5_scr_scratch_dev.pkl --development_sql data/dev.sql --development_records records/ground_truth_dev.pkl
+
+
+ft -
+
+SQL EM - 0.049356
+record EM - 0.875536
+Record F1 - 0.879042
+
+
+scratch -
+
+SQL EM - 0.045064
+Record EM - 0.704862
+Record F1 - 0.705937
+
+Prompt - Zero Shot
+
+Convert the given natural language instruction into its equivalent SQL instruction. Ensure your response is a syntactically valid SQL instruction. Only return the SQL instruction. 
+
+Instruction: [Instruction]
+
+Prompt - Three-Shot
+
+Convert the given natural language instruction into its equivalent SQL instruction. Below are three examples of equivalent instructions.
+
+Instruction: [Instruction]
+Answer: [Answer]
+
+Instruction: [Instruction]
+Answer: [Answer]
+
+Instruction: [Instruction]
+Answer: [Answer]
+
+Based on the provided examples above, produce the equivalent SQL instruction given the natural language instruction provided below. Ensure your response is a syntactically valid SQL instruction. Only return the SQL instruction.
