@@ -185,7 +185,7 @@ def main():
     # Model and tokenizer
     tokenizer, model = initialize_model_and_tokenizer(model_name, to_quantize)
 
-    for eval_split in ["dev", "test"]:
+    for eval_split in ["dev"]:
         eval_x, eval_y = (dev_x, dev_y) if eval_split == "dev" else (test_x, None)
 
         raw_outputs, extracted_queries = exp_kshot(tokenizer, model, eval_x, shot)
