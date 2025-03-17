@@ -61,9 +61,11 @@ def create_prompt(sentence, k):
         for i in range(k):
             prompt += '[Instruction]: ' + SHOT_X[i] + '\n'
             prompt += '[Answer]: ' + SHOT_Y[i] + '\n\n'
+        prompt += 'Give your answer using the syntax and schema from the examples provided. \n'
 
     prompt += 'Convert the following natural language instruction into its equivalent SQL instruction. \
-    Ensure your response is a syntactically valid SQL instruction. \
+    The instructions are for a flight database. \
+    Make sure your response is a syntactically valid SQL instruction. \
     Only return the output and nothing else. \n'
     
 
@@ -132,10 +134,19 @@ def initialize_model_and_tokenizer(model_name, to_quantize=False):
         model_id = "google/gemma-1.1-2b-it"
         tokenizer = GemmaTokenizerFast.from_pretrained(model_id)
         # Native weights exported in bfloat16 precision, but you can use a different precision if needed
-        model = GemmaForCausalLM.from_pretrained(
-            model_id,
-            torch_dtype=torch.bfloat16, 
-        ).to(DEVICE)
+        if to_quantize:
+            nf4_config = BitsAndBytesConfig(load_in_4bit=True, bnb_4bit_quant_type="nf4")
+            model = GemmaForCausalLM.from_pretrained(
+                model_id,
+                torch_dtype=torch.bfloat16,
+                quantization_config=nf4_config 
+            )
+
+        else:
+            model = GemmaForCausalLM.from_pretrained(
+                model_id,
+                torch_dtype=torch.bfloat16,
+            ).to(DEVICE)
     elif model_name == "codegemma":
         model_id = "google/codegemma-7b-it"
         tokenizer = GemmaTokenizer.from_pretrained(model_id)
