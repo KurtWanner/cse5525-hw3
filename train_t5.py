@@ -15,6 +15,7 @@ from load_data import load_t5_data, T5Dataset
 from utils import compute_metrics, save_queries_and_records, compute_record_F1, load_queries_and_records
 
 DEVICE = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
+#DEVICE = torch.device('cpu')
 PAD_IDX = 0
 
 def get_args():
@@ -54,7 +55,7 @@ def get_args():
     return args
 
 def train(args, model, train_loader, dev_loader, optimizer, scheduler):
-    best_f1 = -1
+    
     epochs_since_improvement = 0
 
     model_type = 'ft' if args.finetune else 'scr'
@@ -64,9 +65,11 @@ def train(args, model, train_loader, dev_loader, optimizer, scheduler):
     model_sql_path = os.path.join(f'results/t5_{model_type}_{args.experiment_name}_dev.sql')
     model_record_path = os.path.join(f'records/t5_{model_type}_{args.experiment_name}_dev.pkl')
 
-    for epoch in range(args.max_n_epochs):
-        tr_loss = train_epoch(args, model, train_loader, optimizer, scheduler)
 
+    for epoch in range(args.max_n_epochs):
+        
+        tr_loss = train_epoch(args, model, train_loader, optimizer, scheduler)
+        """
         eval_loss, record_f1, record_em, sql_em, error_rate = eval_epoch(args, model, dev_loader,
                                                                          gt_sql_path, model_sql_path,
                                                                          gt_record_path, model_record_path, True)
@@ -91,13 +94,46 @@ def train(args, model, train_loader, dev_loader, optimizer, scheduler):
             epochs_since_improvement = 0
         else:
             epochs_since_improvement += 1
-
+        """
+        print(estimate_f1(args, model, dev_loader))
         save_model(checkpoint_dir, model, best=False)
+        """
         if epochs_since_improvement == 0:
             save_model(checkpoint_dir, model, best=True)
 
         if epochs_since_improvement >= args.patience_epochs:
             break
+        """
+
+def estimate_f1(args, model, dev_loader):
+    model.eval()
+    total_loss = 0
+    total_tokens = 0
+    criterion = nn.CrossEntropyLoss()
+
+    with torch.no_grad():
+
+        for encoder_input, encoder_mask, decoder_input, decoder_targets, _ in tqdm(dev_loader):
+            encoder_input = encoder_input.to(DEVICE)
+            encoder_mask = encoder_mask.to(DEVICE)
+            decoder_input = decoder_input.to(DEVICE)
+            decoder_targets = decoder_targets.to(DEVICE)
+
+            logits = model(
+                input_ids=encoder_input,
+                attention_mask=encoder_mask,
+                decoder_input_ids=decoder_input
+            )['logits']
+
+            non_pad = decoder_targets != PAD_IDX
+            loss = criterion(logits[non_pad], decoder_targets[non_pad])
+
+            num_tokens = torch.sum(non_pad).item()
+            total_loss += loss.item() * num_tokens
+            total_tokens += num_tokens
+        
+    return total_loss / total_tokens
+
 
 def train_epoch(args, model, train_loader, optimizer, scheduler):
     model.train()
@@ -117,7 +153,7 @@ def train_epoch(args, model, train_loader, optimizer, scheduler):
         logits = model(
             input_ids=encoder_input,
             attention_mask=encoder_mask,
-            decoder_input_ids=decoder_input,
+            decoder_input_ids=decoder_input
         )['logits']
 
         non_pad = decoder_targets != PAD_IDX
@@ -129,10 +165,9 @@ def train_epoch(args, model, train_loader, optimizer, scheduler):
 
         with torch.no_grad():
             num_tokens = torch.sum(non_pad).item()
-            if not math.isnan(loss.item()):
-                total_loss += loss.item() * num_tokens
+            total_loss += loss.item() * num_tokens
             total_tokens += num_tokens
-    #print(total_loss, total_tokens)
+
     return total_loss / total_tokens
         
 def eval_epoch(args, model, dev_loader, gt_sql_pth, model_sql_path, gt_record_path, model_record_path, training=False):
@@ -160,12 +195,11 @@ def eval_epoch(args, model, dev_loader, gt_sql_pth, model_sql_path, gt_record_pa
             decoder_input = decoder_input.to(DEVICE)
             decoder_targets = decoder_targets.to(DEVICE)
 
-
             if not training:
                 logits = model(
                     input_ids=encoder_input,
                     attention_mask=encoder_mask,
-                    decoder_input_ids=decoder_input,
+                    decoder_input_ids=decoder_input
                 )['logits']
 
                 non_pad = decoder_targets != PAD_IDX
@@ -181,7 +215,7 @@ def eval_epoch(args, model, dev_loader, gt_sql_pth, model_sql_path, gt_record_pa
                 input_ids = encoder_input,
                 attention_mask = encoder_mask,
                 decoder_input_ids=decoder_input,
-                max_new_tokens=200
+                max_new_tokens=512
             )
             #print(output)
             sql = T5Dataset.Tokenizer.batch_decode(output, skip_special_tokens=True)
@@ -254,12 +288,13 @@ def main():
     gt_record_path = os.path.join(f'records/ground_truth_dev.pkl')
     model_sql_path = os.path.join(f'results/t5_{model_type}_{experiment_name}_dev.sql')
     model_record_path = os.path.join(f'records/t5_{model_type}_{experiment_name}_dev.pkl')
+    
     dev_loss, dev_record_f1, dev_record_em, dev_sql_em, dev_error_rate = eval_epoch(args, model, dev_loader,
                                                                                     gt_sql_path, model_sql_path,
                                                                                     gt_record_path, model_record_path)
     print(f"Dev set results: Loss: {dev_loss}, Record F1: {dev_record_f1}, Record EM: {dev_record_em}, SQL EM: {dev_sql_em}")
     print(f"Dev set results: {dev_error_rate*100:.2f}% of the generated outputs led to SQL errors")
-
+    
     # Test set
     model_sql_path = os.path.join(f'results/t5_{model_type}_{experiment_name}_test.sql')
     model_record_path = os.path.join(f'records/t5_{model_type}_{experiment_name}_test.pkl')

@@ -16,11 +16,11 @@ PAD_IDX = 0
 class T5Dataset(Dataset):
 
     
-    SOS = "<extra_id_1>"
-    EOS = "<extra_id_2>"
+    SOS = "<extra_id_1> "
+    EOS = "<extra_id_2> "
     Tokenizer = T5TokenizerFast.from_pretrained('google-t5/t5-small')
-    SOS_IDX = torch.tensor([Tokenizer(SOS).input_ids])
-    EOS_IDX = torch.tensor([Tokenizer(EOS).input_ids])
+    SOS_IDX = Tokenizer(SOS).input_ids[0]
+    EOS_IDX = Tokenizer(EOS).input_ids[0]
 
     def __init__(self, data_folder, split):
         '''
@@ -40,15 +40,33 @@ class T5Dataset(Dataset):
 
         with open(data_folder + '/' + split + '.nl', "r+") as file:
             nlData = file.readlines()
-            self.nl = [torch.Tensor(tokenizer(x).input_ids) for x in nlData]
-
+            encoding = tokenizer(
+                nlData,
+                padding="longest",
+                truncation=True,
+                return_tensors="pt"
+            )
+            self.input_ids, self.attention_mask = encoding.input_ids, encoding.attention_mask
 
         if not self.test:
             with open(data_folder + '/' + split + '.sql', "r+") as file:
                 sqlData = file.readlines()
-                # extra_id_1 serves as beginning of sentence
-                self.sql = [torch.Tensor(tokenizer(T5Dataset.SOS + x).input_ids) for x in sqlData]
-                
+
+                sqlData = [T5Dataset.SOS + x for x in sqlData]
+
+                target = tokenizer(
+                    sqlData,
+                    padding="longest",
+                    truncation=True,
+                    return_tensors="pt"
+                )
+
+                labels = target.input_ids
+                labels[labels == tokenizer.pad_token_id] = PAD_IDX
+
+                self.labels = labels
+
+                # extra_id_1 serves as beginning of sentence                
         
     def process_data(self, data_folder, split, tokenizer):
         
@@ -72,13 +90,13 @@ class T5Dataset(Dataset):
         
     
     def __len__(self):
-        return len(self.nl)
+        return len(self.input_ids)
 
     def __getitem__(self, idx):
         if self.test:
-            return self.nl[idx]
+            return [self.input_ids[idx], self.attention_mask[idx]]
         else:
-            return (self.nl[idx], self.sql[idx])
+            return [self.input_ids[idx], self.attention_mask[idx], self.labels[idx]]
 
 def normal_collate_fn(batch):
     '''
@@ -96,20 +114,23 @@ def normal_collate_fn(batch):
         * decoder_targets: The target tokens with which to train the decoder (the tokens following each decoder input)
         * initial_decoder_inputs: The very first input token to be decoder (only to be used in evaluation)
     '''
+
+    
     nl = [item[0] for item in batch]
-    sql = [item[1] for item in batch]
-    target = [item[1][1:] for item in batch]
+    encoder_ids = pad_sequence(nl, True)
 
-    padding = torch.tensor([[0] for i in range(len(batch))])
+    mask = [item[1] for item in batch]
+    encoder_mask = pad_sequence(mask, True)
+    
+    sql = [item[2] for item in batch]
+    decoder_inputs = pad_sequence(sql, True)
 
-    encoder_ids = pad_sequence(nl, True).to(torch.long)
-    encoder_mask = encoder_ids == 0
+    padding = torch.tensor([[PAD_IDX] for i in range(len(batch))])
 
-    decoder_inputs = pad_sequence(sql, True).to(torch.long)
-    decoder_targets = torch.cat((pad_sequence(target, True), padding), dim=1).to(torch.long)
+    decoder_targets = decoder_inputs[:,1:]
+    decoder_targets = torch.cat((decoder_targets, padding), dim=1)
 
-    initial_decoder_inputs = T5Dataset.SOS
-
+    initial_decoder_inputs = T5Dataset.SOS_IDX
 
     return encoder_ids, encoder_mask, decoder_inputs, decoder_targets, initial_decoder_inputs
 
@@ -126,12 +147,16 @@ def test_collate_fn(batch):
         * encoder_mask: Mask of shape BxT associated with padding tokens in the encoder input
         * initial_decoder_inputs: The very first input token to be decoder (only to be used in evaluation)
     '''
-    encoder_ids = pad_sequence(batch, True).to(torch.long)
-    encoder_mask = encoder_ids == 0
+    
+    nl = [item[0] for item in batch]
+    encoder_ids = pad_sequence(nl, True).to(torch.long)
 
-    initial_decoder_inputs = T5Dataset.start_token
+    mask = [item[1] for item in batch]
+    encoder_mask = pad_sequence(mask, True).to(torch.long)
 
-    return encoder_ids, encoder_mask, initial_decoder_inputs
+    decoder_inputs = torch.tensor([[T5Dataset.SOS_IDX] for i in range(len(batch))])
+
+    return encoder_ids, encoder_mask, decoder_inputs
 
 def get_dataloader(batch_size, split):
     data_folder = 'data'
