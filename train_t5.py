@@ -215,7 +215,7 @@ def eval_epoch(args, model, dev_loader, gt_sql_pth, model_sql_path, gt_record_pa
                 input_ids = encoder_input,
                 attention_mask = encoder_mask,
                 decoder_input_ids=decoder_input,
-                max_new_tokens=512
+                max_new_tokens=400
             )
             #print(output)
             sql = T5Dataset.Tokenizer.batch_decode(output, skip_special_tokens=True)
@@ -253,7 +253,7 @@ def test_inference(args, model, test_loader, model_sql_path, model_record_path):
             input_ids = encoder_input,
             attention_mask = encoder_mask,
             decoder_input_ids=decoder_input,
-            max_new_tokens=200
+            max_new_tokens=400
         )
 
         sql = T5Dataset.Tokenizer.batch_decode(output, skip_special_tokens=True)
