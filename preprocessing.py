@@ -11,18 +11,46 @@ from transformers import T5TokenizerFast, AutoTokenizer, AutoModelForCausalLM
 import torch
 
 tokenizer = T5TokenizerFast.from_pretrained('google-t5/t5-small')
-SOS = "<extra_id_1>"
+SOS = "<extra_id_0>"
+EOS = "<extra_id_1>"
 
+ex1 = "<extra_id_10>mke "
+ex2 = "what flights are available from pittsburgh to baltimore on july twenty fifth 1991"
+
+def load_stop_words():
+    with open('data/stop_words.txt', "r+") as file:
+         stop = file.readlines()
+         
+    return [line.strip() for line in stop]
+
+def load_stop_phrases():
+    with open('data/stop_phrases.txt', "r+") as file:
+         stop = file.readlines()
+         
+    return [line.replace('\n', '') for line in stop]
+
+def load_replacements():
+    with open('data/replacements.txt', "r+") as file:
+        rep = dict(tuple(x.replace('\n', '') for x in line.split('\t'))
+            for line in file.readlines())
+    return rep
 
 def load_train():
     with open('data/train.nl', "r+") as file:
          nlData = file.readlines()
+         nlData = [line.strip() for line in nlData]
 
              
     with open('data/train.sql', "r+") as file:
          sqlData = file.readlines()
+         sqlData = [line.strip() for line in sqlData]
 
     return (nlData, sqlData)
+
+def print_train(nl):
+    with open('data/train_post.nl', "w+") as file:
+        for ex in nl:
+            print(ex, file=file)
     
 
 def load_dev():
@@ -34,6 +62,9 @@ def load_dev():
          sqlData = file.readlines()
 
     return (nlData, sqlData)
+
+def remove_words(nl, stop_words):
+    return [" ".join([w for w in s.split() if w not in stop_words]) for s in nl]
 
 def get_unique_set(data):
     s = set()
@@ -72,39 +103,57 @@ def test_b2():
     outputs = model.generate(**input_ids, max_new_tokens=1500)
     print(tokenizer.decode(outputs[0]))
 
+def test_pre():
+    
+
+    tokenizer.add_tokens(["amberstone"])
+    nl = tokenizer(
+          train,
+          padding="longest",
+          return_tensors="pt"
+    ).input_ids
+    print(nl)
+
+def remove_stop_words(s, stop_words):
+    result = s
+    for stop in stop_words:
+        result = result.replace(stop, " ")
+    return result
+
+def remove_stop_list(nl, stop_words):
+    return [remove_stop_words(s, stop_words) for s in nl]
+
+def replace_word(s, m):
+    result = s
+    for key, value in m.items():
+        result = result.replace(key, value)
+    return result
+
+def replace_list(nl, m):
+    return [replace_word(s, m) for s in nl]
+
+def preprocessing(nl):
+    stop_p = load_stop_phrases()
+    stop_w = load_stop_words()
+    replacements = load_replacements()
+    
+    nl = remove_stop_list(nl, stop_p)
+
+    nl = replace_list(nl, replacements)
+
+    nl = remove_words(nl, stop_w)
+
+    return nl
 
 def main():
 
     trainNL, trainSQL = load_train()
 
     devNL, devSQL = load_dev()
-
-    train_nl_data = [ex.split(' ') for ex in trainNL]
     
-    train_sql_data = [ex.split(' ') for ex in trainSQL]
-
-    dev_nl_data = [ex.split(' ') for ex in devNL]
-
-    dev_sql_data = [ex.split(' ') for ex in devSQL]
-
-    """
-    print("\t Training NL Stats")
-    print_statistics(train_nl_data)
-
-    print("\t Training SQL Stats")
-    print_statistics(train_sql_data)
-
-    print("\t Dev NL Stats")
-    print_statistics(dev_nl_data)
-
-    print("\t Dev NL Stats")
-    print_statistics(dev_sql_data)
-    """
-
     train_nl_tkns = [tokenizer(ex).input_ids for ex in trainNL]
     train_sql_tkns = [tokenizer(SOS + ex).input_ids for ex in trainSQL]
 
-    
     dev_nl_tkns = [tokenizer(ex).input_ids for ex in devNL]
     dev_sql_tkns = [tokenizer(SOS + ex).input_ids for ex in devSQL]
 
@@ -114,15 +163,32 @@ def main():
     print("\t Training SQL Stats")
     print_statistics(train_sql_tkns)
 
+    print(trainNL[0])
+
     print("\t Dev NL Stats")
     print_statistics(dev_nl_tkns)
 
     print("\t Dev NL Stats")
     print_statistics(dev_sql_tkns)
 
+    post_train = preprocessing(trainNL)
+    post_dev = preprocessing(devNL)
+
+    post_train_nl_tkns = [tokenizer(ex).input_ids for ex in post_train]
+    post_dev_nl_tkns = [tokenizer(ex).input_ids for ex in post_dev]
+
+    print("\t Post Train NL Stats")
+    print_statistics(post_train_nl_tkns)
+
+    print("\t Post Dev NL Stats")
+    print_statistics(post_dev_nl_tkns)
+
+    print(trainNL[0])
+    print(train_nl_tkns[0])
+    print(post_train_nl_tkns[0])
 
 
 if __name__ == "__main__":
     #main()
-    test_b2()
-
+    #test_b2()
+    test_pre()

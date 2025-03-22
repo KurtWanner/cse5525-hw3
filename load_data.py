@@ -5,22 +5,18 @@ import pickle
 
 from torch.utils.data import Dataset, DataLoader
 from torch.nn.utils.rnn import pad_sequence
+from preprocessing import preprocessing
 
 import nltk
 nltk.download('punkt')
 from transformers import T5TokenizerFast
 import torch
+from t5_utils import Tokens
 
 PAD_IDX = 0
 
-class T5Dataset(Dataset):
 
-    
-    SOS = "<extra_id_1> "
-    EOS = "<extra_id_2> "
-    Tokenizer = T5TokenizerFast.from_pretrained('google-t5/t5-small')
-    SOS_IDX = Tokenizer(SOS).input_ids[0]
-    EOS_IDX = Tokenizer(EOS).input_ids[0]
+class T5Dataset(Dataset):
 
     def __init__(self, data_folder, split):
         '''
@@ -36,25 +32,31 @@ class T5Dataset(Dataset):
 
         self.test = split == 'test'
       
-        tokenizer = T5Dataset.Tokenizer
+        if self.test:
+            self.tokenizer = Tokens.T_Gen
+        else:
+            self.tokenizer = Tokens.T_Train
 
         with open(data_folder + '/' + split + '.nl', "r+") as file:
-            nlData = file.readlines()
-            encoding = tokenizer(
+            nlData = [line.strip() for line in file.readlines()]
+            #nlData = preprocessing(nlData)
+            #print(nlData[0])
+            #print(len(nlData))
+            encoding = self.tokenizer(
                 nlData,
                 padding="longest",
-                truncation=True,
                 return_tensors="pt"
             )
+            #print(encoding.input_ids[0])
             self.input_ids, self.attention_mask = encoding.input_ids, encoding.attention_mask
 
         if not self.test:
             with open(data_folder + '/' + split + '.sql', "r+") as file:
                 sqlData = file.readlines()
 
-                sqlData = [T5Dataset.SOS + x for x in sqlData]
+                sqlData = [Tokens.SOS + x for x in sqlData]
 
-                target = tokenizer(
+                target = self.tokenizer(
                     sqlData,
                     padding="longest",
                     truncation=True,
@@ -62,7 +64,7 @@ class T5Dataset(Dataset):
                 )
 
                 labels = target.input_ids
-                labels[labels == tokenizer.pad_token_id] = PAD_IDX
+                labels[labels == self.tokenizer.pad_token_id] = PAD_IDX
 
                 self.labels = labels
 
@@ -81,7 +83,7 @@ class T5Dataset(Dataset):
             with open(data_folder + '/' + split + '.sql', "r+") as file:
                 sqlData = file.readlines()
                 # extra_id_1 serves as beginning of sentence
-                sql = [torch.Tensor(tokenizer(T5Dataset.SOS + x).input_ids) for x in sqlData]
+                sql = [torch.Tensor(tokenizer(Tokens.SOS + x).input_ids) for x in sqlData]
 
         if test:
             return nl
@@ -130,7 +132,7 @@ def normal_collate_fn(batch):
     decoder_targets = decoder_inputs[:,1:]
     decoder_targets = torch.cat((decoder_targets, padding), dim=1)
 
-    initial_decoder_inputs = T5Dataset.SOS_IDX
+    initial_decoder_inputs = Tokens.SOS_IDX
 
     return encoder_ids, encoder_mask, decoder_inputs, decoder_targets, initial_decoder_inputs
 
@@ -154,7 +156,7 @@ def test_collate_fn(batch):
     mask = [item[1] for item in batch]
     encoder_mask = pad_sequence(mask, True).to(torch.long)
 
-    decoder_inputs = torch.tensor([[T5Dataset.SOS_IDX] for i in range(len(batch))])
+    decoder_inputs = torch.tensor([[Tokens.SOS_IDX] for i in range(len(batch))])
 
     return encoder_ids, encoder_mask, decoder_inputs
 

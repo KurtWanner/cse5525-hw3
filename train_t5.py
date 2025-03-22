@@ -9,10 +9,11 @@ import torch.nn as nn
 import numpy as np
 import wandb
 
-from t5_utils import initialize_model, initialize_optimizer_and_scheduler, save_model, load_model_from_checkpoint, setup_wandb
+from t5_utils import initialize_model, initialize_optimizer_and_scheduler, save_model, load_model_from_checkpoint, setup_wandb, Tokens
 from transformers import GenerationConfig
 from load_data import load_t5_data, T5Dataset
 from utils import compute_metrics, save_queries_and_records, compute_record_F1, load_queries_and_records
+from transformers import T5TokenizerFast
 
 DEVICE = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
 #DEVICE = torch.device('cpu')
@@ -189,12 +190,12 @@ def eval_epoch(args, model, dev_loader, gt_sql_pth, model_sql_path, gt_record_pa
     criterion = nn.CrossEntropyLoss()
 
     with torch.no_grad():
-        for encoder_input, encoder_mask, decoder_input, decoder_targets, _ in tqdm(dev_loader):
+        for encoder_input, encoder_mask, decoder_input, decoder_targets, initial_decoder_inputs in tqdm(dev_loader):
             encoder_input = encoder_input.to(DEVICE)
             encoder_mask = encoder_mask.to(DEVICE)
             decoder_input = decoder_input.to(DEVICE)
             decoder_targets = decoder_targets.to(DEVICE)
-
+            #print(encoder_input, encoder_mask, decoder_input, initial_decoder_inputs)
             if not training:
                 logits = model(
                     input_ids=encoder_input,
@@ -215,7 +216,7 @@ def eval_epoch(args, model, dev_loader, gt_sql_pth, model_sql_path, gt_record_pa
                 input_ids = encoder_input,
                 attention_mask = encoder_mask,
                 decoder_input_ids=decoder_input,
-                max_new_tokens=400
+                max_new_tokens=200
             )
             #print(output)
             sql = T5Dataset.Tokenizer.batch_decode(output, skip_special_tokens=True)
@@ -248,18 +249,54 @@ def test_inference(args, model, test_loader, model_sql_path, model_record_path):
         encoder_input = encoder_ids.to(DEVICE)
         encoder_mask = encoder_mask.to(DEVICE)
         decoder_input = initial_decoder_inputs.to(DEVICE)
+        #print(encoder_input, encoder_mask, decoder_input)
 
         output = model.generate(
             input_ids = encoder_input,
             attention_mask = encoder_mask,
             decoder_input_ids=decoder_input,
-            max_new_tokens=400
+            max_new_tokens=150
         )
 
-        sql = T5Dataset.Tokenizer.batch_decode(output, skip_special_tokens=True)
+        #print(output[0])
+
+        sql = Tokens.T_Gen.batch_decode(output, skip_special_tokens=False)
         sql_queries.extend(sql)
 
     save_queries_and_records(sql_queries, model_sql_path, model_record_path)
+
+def test_generation(model):
+
+    #tokenizer = T5TokenizerFast.from_pretrained('google-t5/t5-small', padding_side="left")
+    tokenizer = Tokens.T_Gen
+    inputs = [
+        "What do i want for lunch switz h",
+        "What is this in my calendar",
+        "What flights go from Baltimore to Toronto"
+    ]
+    for x in inputs:
+        print(x)
+
+    start_token = tokenizer("<extra_id_0>").input_ids[0]
+    #print("Start token: ", start_token)
+
+    nl = tokenizer(inputs, padding="longest", return_tensors="pt")
+    #print(nl.input_ids)
+
+    m_out = model.generate(
+        **nl,
+        decoder_start_token_id=Tokens.SOS_IDX
+    )
+
+    print(m_out)
+
+    output = tokenizer.batch_decode(m_out, skip_special_tokens=False)
+    #print(tokenizer.decode([32099, 1], skip_special_tokens=True))
+    
+    for x in output:
+        print(x)
+
+
 
 def main():
     # Get key arguments
@@ -280,6 +317,10 @@ def main():
     # Evaluate
     model = load_model_from_checkpoint(args, best=True)
     model.eval()
+
+    test_generation(model)
+
+    return
     
     # Dev set
     experiment_name = args.experiment_name
@@ -288,13 +329,13 @@ def main():
     gt_record_path = os.path.join(f'records/ground_truth_dev.pkl')
     model_sql_path = os.path.join(f'results/t5_{model_type}_{experiment_name}_dev.sql')
     model_record_path = os.path.join(f'records/t5_{model_type}_{experiment_name}_dev.pkl')
-    
+    """
     dev_loss, dev_record_f1, dev_record_em, dev_sql_em, dev_error_rate = eval_epoch(args, model, dev_loader,
                                                                                     gt_sql_path, model_sql_path,
                                                                                     gt_record_path, model_record_path)
     print(f"Dev set results: Loss: {dev_loss}, Record F1: {dev_record_f1}, Record EM: {dev_record_em}, SQL EM: {dev_sql_em}")
     print(f"Dev set results: {dev_error_rate*100:.2f}% of the generated outputs led to SQL errors")
-    
+    """
     # Test set
     model_sql_path = os.path.join(f'results/t5_{model_type}_{experiment_name}_test.sql')
     model_record_path = os.path.join(f'records/t5_{model_type}_{experiment_name}_test.pkl')

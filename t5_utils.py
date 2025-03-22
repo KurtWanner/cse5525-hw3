@@ -3,9 +3,20 @@ import os
 import torch
 
 import transformers
-from transformers import T5ForConditionalGeneration, T5Config
+from transformers import T5ForConditionalGeneration, T5Config, T5TokenizerFast
 from transformers.pytorch_utils import ALL_LAYERNORM_LAYERS
 import wandb
+
+class Tokens():
+    
+    T_Train = T5TokenizerFast.from_pretrained('google-t5/t5-small', padding_side="right")
+    T_Gen = T5TokenizerFast.from_pretrained('google-t5/t5-small', padding_side="left")
+    SOS = "<extra_id_0>"
+    EOS = "<extra_id_1>"
+    SOS_IDX = T_Train(SOS).input_ids[0]
+    EOS_IDX = T_Train(EOS).input_ids[0]
+    def __init__(self):
+        pass
 
 DEVICE = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
 

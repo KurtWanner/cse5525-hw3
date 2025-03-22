@@ -1,0 +1,188 @@
+general mitchell international airport	mke
+general mitchell international	mke
+general mitchell airport	mke
+general mitchell	mke
+baltimore washington airport	bwi
+baltimore washington	bwi
+baltimore airport	bwi
+baltimore	bwi
+toronto international airport	yyz
+toronto international	yyz
+toronto airport	yyz
+rental cars	rental car
+car rentals	rental car
+orlando international airport	mco
+orlando international	mco
+love field	dal
+dallas forth worth	dfw
+forth worth	dfw
+la guardia airport	lga
+la guardia	lga
+pittsburgh airport	pit
+ fly	 flight 
+new york city	<extra_id_2>
+new york	<extra_id_2>
+montreal canada	<extra_id_3>
+montreal quebec	<extra_id_3>
+montreal	<extra_id_3>
+denver	<extra_id_4>
+boston	<extra_id_5>
+tacoma washington	<extra_id_6>
+tacoma	<extra_id_6>
+orlando	<extra_id_7>
+atlanta	<extra_id_8>
+chicago	<extra_id_9>
+milwaukee	<extra_id_10>
+san francisco	<extra_id_11>
+kansas city	<extra_id_12>
+minneapolis	<extra_id_13>
+baltimore	<extra_id_14>
+san diego california	<extra_id_15>
+san diego	<extra_id_15>
+pittsburgh	<extra_id_16>
+charlotte	<extra_id_17>
+toronto	<extra_id_18>
+memphis	<extra_id_19>
+las vegas	<extra_id_20>
+vegas	<extra_id_20>
+los angeles	<extra_id_21>
+dallas	<extra_id_22>
+oakland california	<extra_id_23>
+oakland	<extra_id_23>
+burbank	<extra_id_24>
+houston texas	<extra_id_25>
+houston	<extra_id_25>
+san jose	<extra_id_26>
+westchester county	<extra_id_27>
+cleveland ohio	<extra_id_28>
+cleveland	<extra_id_28>
+miami	<extra_id_29>
+philadelphia	<extra_id_30>
+st. petersburg	<extra_id_31>
+newark new jersey	<extra_id_32>
+newark	<extra_id_32>
+indianapolis	<extra_id_33>
+phoenix	<extra_id_34>
+st. louis	<extra_id_35>
+chicago	<extra_id_36>
+washington dc	<extra_id_37>
+washington	<extra_id_37>
+st. paul	<extra_id_38>
+pheonix arizona	<extra_id_39>
+pheonix	<extra_id_39>
+ontario canada	<extra_id_40>
+ontario	<extra_id_40>
+columbus ohio	<extra_id_41>
+columbus	<extra_id_41>
+long beach	<extra_id_42>
+alaska airlines	as
+delta airlines	dl
+delta airline	dl
+delta's	dl
+delta	dl
+american airlines	aa
+american airline	aa
+american	aa
+eastern airlines	ea
+eastern airline	ea
+eastern	ea
+united airlines	ua
+united airline	ua
+united	ua
+trans world airlines	tw
+trans world airline	tw
+trans world	tw
+ twa 	tw
+midwest express airlines	yx
+midwest express airline	yx
+midwest express	yx
+northwest airlines	nw
+northwest airline	nw
+northwest	nw
+southwest airlines	wn
+southwest airline	wn
+southwest	wn
+continental airlines	co
+first class ticket	<extra_id_99> class
+first class service	<extra_id_99> class
+first class fare	<extra_id_99> class
+first class	<extra_id_99> class
+business class ticket	<extra_id_98> class
+business class service	<extra_id_98> class
+business class fare	<extra_id_98> class
+business class	<extra_id_98> class
+economy class ticket	<extra_id_97> class
+economy class service	<extra_id_97> class
+economy class fare	<extra_id_97> class
+economy class	<extra_id_97> class
+economy fare	<extra_id_97> class
+thirty second	32
+thirty first	31
+thirty	30
+thirtieth	30
+twenty ninth	29
+twenty nine	29
+twenty eighth	28
+twenty eight	28
+twenty seventh	27
+twenty seven	27
+twenty sixth	26
+twenty fifth	25
+twenty fourth	24
+twenty four	24
+twenty third	23
+twenty three	23
+twenty second	22
+twenty two	22
+twenty first	21
+twenty one	21
+twenty	20
+nineteenth	19
+eighteenth	18
+eighteenth	18
+seventeenth	17
+seventeen	17
+sixteenth	16
+sixteen	16
+fifteenth	15
+fifteen	15
+fourteenth	14
+fourteen	14
+thirteenth	13
+thirteen	13
+twelfth	12
+twelve	12
+eleventh	11
+eleven	11
+tenth	10
+ten	10
+ninth	9
+nine	9
+eighth	8
+eight	8
+seventh	7
+seven	7
+sixth	6
+six	6
+fifth	5
+five	5
+fourth	4
+third	3
+second	2
+stopovers	layover
+stopover	layover
+ la california	<extra_id_21>
+ la 	<extra_id_21>
+ noon	 12pm
+january	m1
+february	m2
+march	m3
+april	m4
+may	m5
+june	m6
+july	m7
+august	m8
+september	m9
+october	m10
+november	m11
+december	m12

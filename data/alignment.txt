@@ -1,6 +1,9 @@
 general mitchell international airport	mke
 general mitchell international	mke
+general mitchell airport	mke
+general mitchell	mke
 baltimore washington airport	bwi
+toronto international airport	yyz
 rental cars	rental car
 car rentals	rental car
 orlando international airport	mco
