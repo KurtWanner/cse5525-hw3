@@ -21,8 +21,8 @@ class Tokens():
          
     #print(len(tkns))
     
-    T_Train.add_tokens(tkns)
-    T_Gen.add_tokens(tkns)
+    #T_Train.add_tokens(tkns)
+    #T_Gen.add_tokens(tkns)
 
     
 

@@ -140,7 +140,7 @@ def preprocessing(nl):
     
     nl = remove_stop_list(nl, stop_p)
 
-    nl = replace_list(nl, replacements)
+    #nl = replace_list(nl, replacements)
 
     nl = remove_words(nl, stop_w)
 
