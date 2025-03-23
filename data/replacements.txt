@@ -1,121 +1,79 @@
-general mitchell international airport	mke
-general mitchell international	mke
-general mitchell airport	mke
-general mitchell	mke
-baltimore washington airport	bwi
-baltimore washington	bwi
-baltimore airport	bwi
-baltimore	bwi
-toronto international airport	yyz
-toronto international	yyz
-toronto airport	yyz
+general mitchell international airport	general_mitchell_airport
+general mitchell international	general_mitchell_airport
+general mitchell airport	general_mitchell_airport
+general mitchell	general_mitchell_airport
+baltimore washington airport	baltimore_washington_airport
+baltimore washington	baltimore_washington_airport
+baltimore airport	baltimore_washington_airport
+toronto international airport	toronto_international
+toronto international	toronto_international
+toronto airport	toronto_international
 rental cars	rental car
 car rentals	rental car
-orlando international airport	mco
-orlando international	mco
-love field	dal
-dallas forth worth	dfw
-forth worth	dfw
-la guardia airport	lga
-la guardia	lga
-pittsburgh airport	pit
+orlando international airport	orlando_international
+orlando international	orlando_international
+dallas forth worth	forth_worth
+forth worth	forth_worth
+la guardia airport	la_guardia_airport
+la guardia	la_guardia_airport
+pittsburgh airport	pittsburgh_airport
  fly	 flight 
-new york city	<extra_id_2>
-new york	<extra_id_2>
-montreal canada	<extra_id_3>
-montreal quebec	<extra_id_3>
-montreal	<extra_id_3>
-denver	<extra_id_4>
-boston	<extra_id_5>
-tacoma washington	<extra_id_6>
-tacoma	<extra_id_6>
-orlando	<extra_id_7>
-atlanta	<extra_id_8>
-chicago	<extra_id_9>
-milwaukee	<extra_id_10>
-san francisco	<extra_id_11>
-kansas city	<extra_id_12>
-minneapolis	<extra_id_13>
-baltimore	<extra_id_14>
-san diego california	<extra_id_15>
-san diego	<extra_id_15>
-pittsburgh	<extra_id_16>
-charlotte	<extra_id_17>
-toronto	<extra_id_18>
-memphis	<extra_id_19>
-las vegas	<extra_id_20>
-vegas	<extra_id_20>
-los angeles	<extra_id_21>
-dallas	<extra_id_22>
-oakland california	<extra_id_23>
-oakland	<extra_id_23>
-burbank	<extra_id_24>
-houston texas	<extra_id_25>
-houston	<extra_id_25>
-san jose	<extra_id_26>
-westchester county	<extra_id_27>
-cleveland ohio	<extra_id_28>
-cleveland	<extra_id_28>
-miami	<extra_id_29>
-philadelphia	<extra_id_30>
-st. petersburg	<extra_id_31>
-newark new jersey	<extra_id_32>
-newark	<extra_id_32>
-indianapolis	<extra_id_33>
-phoenix	<extra_id_34>
-st. louis	<extra_id_35>
-chicago	<extra_id_36>
-washington dc	<extra_id_37>
-washington	<extra_id_37>
-st. paul	<extra_id_38>
-pheonix arizona	<extra_id_39>
-pheonix	<extra_id_39>
-ontario canada	<extra_id_40>
-ontario	<extra_id_40>
-columbus ohio	<extra_id_41>
-columbus	<extra_id_41>
-long beach	<extra_id_42>
-alaska airlines	as
-delta airlines	dl
-delta airline	dl
-delta's	dl
-delta	dl
-american airlines	aa
-american airline	aa
-american	aa
-eastern airlines	ea
-eastern airline	ea
-eastern	ea
-united airlines	ua
-united airline	ua
-united	ua
-trans world airlines	tw
-trans world airline	tw
-trans world	tw
- twa 	tw
-midwest express airlines	yx
-midwest express airline	yx
-midwest express	yx
-northwest airlines	nw
-northwest airline	nw
-northwest	nw
-southwest airlines	wn
-southwest airline	wn
-southwest	wn
-continental airlines	co
-first class ticket	<extra_id_99> class
-first class service	<extra_id_99> class
-first class fare	<extra_id_99> class
-first class	<extra_id_99> class
-business class ticket	<extra_id_98> class
-business class service	<extra_id_98> class
-business class fare	<extra_id_98> class
-business class	<extra_id_98> class
-economy class ticket	<extra_id_97> class
-economy class service	<extra_id_97> class
-economy class fare	<extra_id_97> class
-economy class	<extra_id_97> class
-economy fare	<extra_id_97> class
+new york city	new york
+montreal canada	montreal
+montreal quebec	montreal
+tacoma washington	tacoma
+san diego california	san diego
+las vegas	vegas
+vegas	vegas
+oakland california	oakland
+houston texas	houston
+cleveland ohio	cleveland
+newark new jersey	newark
+washington dc	washington
+pheonix arizona	pheonix
+ontario canada	ontario
+columbus ohio	columbus
+alaska airlines	alaska_a
+delta airlines	delta_a
+delta airline	delta_a
+delta's	delta_a
+delta	delta_a
+american airlines	american_a
+american airline	american_a
+american	american_a
+eastern airlines	eastern_a
+eastern airline	eastern_a
+eastern	eastern_a
+united airlines	united_a
+united airline	united_a
+united	united_a
+trans world airlines	trans_a
+trans world airline	trans_a
+trans world	trans_a
+ twa 	trans_a
+midwest express airlines	midwest_a
+midwest express airline	midwest_a
+midwest express	midwest_a
+northwest airlines	northwest_a
+northwest airline	northwest_a
+northwest	northwest_a
+southwest airlines	southwest_a
+southwest airline	southwest_a
+southwest	southwest_a
+continental airlines	continental_a
+first class ticket	first_class
+first class service	first_class
+first class fare	first_class
+first class	first_class
+business class ticket	business_class
+business class service	business_class
+business class fare	business_class
+business class	business_class
+economy class ticket	economy_class
+economy class service	economy_class
+economy class fare	economy_class
+economy class	economy_class
+economy fare	economy_class
 thirty second	32
 thirty first	31
 thirty	30
@@ -171,18 +129,6 @@ third	3
 second	2
 stopovers	layover
 stopover	layover
- la california	<extra_id_21>
- la 	<extra_id_21>
+ la california	los angeles
+ la 	los angeles
  noon	 12pm
-january	m1
-february	m2
-march	m3
-april	m4
-may	m5
-june	m6
-july	m7
-august	m8
-september	m9
-october	m10
-november	m11
-december	m12

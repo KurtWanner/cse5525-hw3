@@ -9,8 +9,9 @@ from torch.nn.utils.rnn import pad_sequence
 import nltk
 from transformers import T5TokenizerFast, AutoTokenizer, AutoModelForCausalLM
 import torch
+from t5_utils import Tokens
 
-tokenizer = T5TokenizerFast.from_pretrained('google-t5/t5-small')
+tokenizer = Tokens.T_Train
 SOS = "<extra_id_0>"
 EOS = "<extra_id_1>"
 
@@ -147,28 +148,29 @@ def preprocessing(nl):
 
 def main():
 
+    t_old = T5TokenizerFast.from_pretrained('google-t5/t5-small', padding_side="right")
     trainNL, trainSQL = load_train()
 
     devNL, devSQL = load_dev()
     
-    train_nl_tkns = [tokenizer(ex).input_ids for ex in trainNL]
-    train_sql_tkns = [tokenizer(SOS + ex).input_ids for ex in trainSQL]
+    train_nl_tkns = [t_old(ex).input_ids for ex in trainNL]
+    train_sql_tkns = [t_old(SOS + ex).input_ids for ex in trainSQL]
 
-    dev_nl_tkns = [tokenizer(ex).input_ids for ex in devNL]
-    dev_sql_tkns = [tokenizer(SOS + ex).input_ids for ex in devSQL]
+    dev_nl_tkns = [t_old(ex).input_ids for ex in devNL]
+    dev_sql_tkns = [t_old(SOS + ex).input_ids for ex in devSQL]
 
-    print("\t Training NL Stats")
-    print_statistics(train_nl_tkns)
+    #print("\t Training NL Stats")
+    #print_statistics(train_nl_tkns)
 
     print("\t Training SQL Stats")
     print_statistics(train_sql_tkns)
 
-    print(trainNL[0])
+    #print(trainNL[0])
 
-    print("\t Dev NL Stats")
-    print_statistics(dev_nl_tkns)
+    #print("\t Dev NL Stats")
+    #print_statistics(dev_nl_tkns)
 
-    print("\t Dev NL Stats")
+    print("\t Dev SQL Stats")
     print_statistics(dev_sql_tkns)
 
     post_train = preprocessing(trainNL)
@@ -177,18 +179,33 @@ def main():
     post_train_nl_tkns = [tokenizer(ex).input_ids for ex in post_train]
     post_dev_nl_tkns = [tokenizer(ex).input_ids for ex in post_dev]
 
-    print("\t Post Train NL Stats")
-    print_statistics(post_train_nl_tkns)
+    post_train_sql_tkns = [tokenizer(ex).input_ids for ex in trainSQL]
+    post_dev_sql_tkns = [tokenizer(ex).input_ids for ex in devSQL]
 
-    print("\t Post Dev NL Stats")
-    print_statistics(post_dev_nl_tkns)
+    #print("\t Post Train NL Stats")
+    #print_statistics(post_train_nl_tkns)
 
-    print(trainNL[0])
-    print(train_nl_tkns[0])
-    print(post_train_nl_tkns[0])
+    print("\t Post Train SQL Stats")
+    print_statistics(post_train_sql_tkns)
+
+    #print("\t Post Dev NL Stats")
+    #print_statistics(post_dev_nl_tkns)
+
+    print("\t Post Dev SQL Stats")
+    print_statistics(post_dev_sql_tkns)
+    
+    for x in post_train_nl_tkns:
+        x = torch.tensor(x)
+        #x[x > 30000] = 0
+        print(tokenizer.decode(x, skip_special_tokens = True))
+    
+
+    #print(trainNL[0])
+    #print(train_nl_tkns[0])
+    #print(post_train_nl_tkns[0])
 
 
 if __name__ == "__main__":
-    #main()
+    main()
     #test_b2()
-    test_pre()
+    #test_pre()

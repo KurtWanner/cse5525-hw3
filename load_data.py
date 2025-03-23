@@ -39,12 +39,13 @@ class T5Dataset(Dataset):
 
         with open(data_folder + '/' + split + '.nl', "r+") as file:
             nlData = [line.strip() for line in file.readlines()]
-            #nlData = preprocessing(nlData)
+            nlData = preprocessing(nlData)
             #print(nlData[0])
             #print(len(nlData))
             encoding = self.tokenizer(
                 nlData,
                 padding="longest",
+                truncation=True,
                 return_tensors="pt"
             )
             #print(encoding.input_ids[0])
@@ -53,7 +54,6 @@ class T5Dataset(Dataset):
         if not self.test:
             with open(data_folder + '/' + split + '.sql', "r+") as file:
                 sqlData = file.readlines()
-
                 sqlData = [Tokens.SOS + x for x in sqlData]
 
                 target = self.tokenizer(
@@ -63,7 +63,7 @@ class T5Dataset(Dataset):
                     return_tensors="pt"
                 )
 
-                labels = target.input_ids
+                labels = target.input_ids[:,:-1]
                 labels[labels == self.tokenizer.pad_token_id] = PAD_IDX
 
                 self.labels = labels
@@ -132,7 +132,7 @@ def normal_collate_fn(batch):
     decoder_targets = decoder_inputs[:,1:]
     decoder_targets = torch.cat((decoder_targets, padding), dim=1)
 
-    initial_decoder_inputs = Tokens.SOS_IDX
+    initial_decoder_inputs = torch.tensor([[Tokens.SOS_IDX]] * len(batch))
 
     return encoder_ids, encoder_mask, decoder_inputs, decoder_targets, initial_decoder_inputs
 

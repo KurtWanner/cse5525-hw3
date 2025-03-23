@@ -96,7 +96,8 @@ def train(args, model, train_loader, dev_loader, optimizer, scheduler):
         else:
             epochs_since_improvement += 1
         """
-        print(estimate_f1(args, model, dev_loader))
+        print("Training loss: ", tr_loss)
+        print("Dev f1: ", estimate_f1(args, model, dev_loader))
         save_model(checkpoint_dir, model, best=False)
         """
         if epochs_since_improvement == 0:
@@ -145,11 +146,17 @@ def train_epoch(args, model, train_loader, optimizer, scheduler):
     criterion = nn.CrossEntropyLoss()
 
     for encoder_input, encoder_mask, decoder_input, decoder_targets, _ in tqdm(train_loader):
+        
         optimizer.zero_grad()
         encoder_input = encoder_input.to(DEVICE)
         encoder_mask = encoder_mask.to(DEVICE)
         decoder_input = decoder_input.to(DEVICE)
         decoder_targets = decoder_targets.to(DEVICE)
+
+        #print(encoder_input.size())
+        #print(encoder_mask.size())
+        #print(decoder_input.size())
+        #print(decoder_targets.size())
 
         logits = model(
             input_ids=encoder_input,
@@ -195,7 +202,8 @@ def eval_epoch(args, model, dev_loader, gt_sql_pth, model_sql_path, gt_record_pa
             encoder_mask = encoder_mask.to(DEVICE)
             decoder_input = decoder_input.to(DEVICE)
             decoder_targets = decoder_targets.to(DEVICE)
-            #print(encoder_input, encoder_mask, decoder_input, initial_decoder_inputs)
+            initial_decoder_inputs = initial_decoder_inputs.to(DEVICE)
+
             if not training:
                 logits = model(
                     input_ids=encoder_input,
@@ -215,12 +223,12 @@ def eval_epoch(args, model, dev_loader, gt_sql_pth, model_sql_path, gt_record_pa
             output = model.generate(
                 input_ids = encoder_input,
                 attention_mask = encoder_mask,
-                decoder_input_ids=decoder_input,
-                max_new_tokens=200
+                decoder_input_ids=initial_decoder_inputs,
+                max_new_tokens=250
             )
-            #print(output)
-            sql = T5Dataset.Tokenizer.batch_decode(output, skip_special_tokens=True)
-            #print(sql[0])
+            
+            sql = Tokens.T_Train.batch_decode(output, skip_special_tokens=True)
+            
             sql_queries.extend(sql)
 
         save_queries_and_records(sql_queries, model_sql_path, model_record_path)
@@ -255,12 +263,12 @@ def test_inference(args, model, test_loader, model_sql_path, model_record_path):
             input_ids = encoder_input,
             attention_mask = encoder_mask,
             decoder_input_ids=decoder_input,
-            max_new_tokens=150
+            max_new_tokens=250
         )
 
         #print(output[0])
 
-        sql = Tokens.T_Gen.batch_decode(output, skip_special_tokens=False)
+        sql = Tokens.T_Gen.batch_decode(output, skip_special_tokens=True)
         sql_queries.extend(sql)
 
     save_queries_and_records(sql_queries, model_sql_path, model_record_path)
@@ -269,16 +277,35 @@ def test_generation(model):
 
     #tokenizer = T5TokenizerFast.from_pretrained('google-t5/t5-small', padding_side="left")
     tokenizer = Tokens.T_Gen
+    tokenizer.add_tokens(["Long Beach", "SELECT ", "DISTINCT ", " flight_1"])
+    nl = "Long Beach to Toronto"
+    sql = "SELECT DISTINCT flight_1.flight_id FROM flight flight_1"
+
+    nl_tkns = tokenizer(nl).input_ids
+    sql_tkns = tokenizer(sql).input_ids
+
+    print(nl_tkns)
+    print(tokenizer.decode(nl_tkns, skip_special_tokens=True))
+
+    print(sql_tkns)
+    print(tokenizer.decode(sql_tkns, skip_special_tokens=True))
+
+
+    """
     inputs = [
         "What do i want for lunch switz h",
         "What is this in my calendar",
-        "What flights go from Baltimore to Toronto"
+        "Baltimore to Toronto"
     ]
     for x in inputs:
         print(x)
 
-    start_token = tokenizer("<extra_id_0>").input_ids[0]
-    #print("Start token: ", start_token)
+    start_token = tokenizer("Get flights from Toronto to Newark").input_ids
+    print("Start token: ", tokenizer.decode(start_token))
+
+    end = "SELECT DISTINCT flight_1.flight_id FROM flight flight_1 , airport airport_1 , airport_service airport_service_1 , city city_1 WHERE flight_1.to_airport = airport_1.airport_code AND airport_1.airport_code = 'MKE' AND flight_1.from_airport = airport_service_1.airport_code AND airport_service_1.city_code = city_1.city_code AND 1 = 1"
+
+    print(tokenizer(Tokens.SOS + end).input_ids[:-1])
 
     nl = tokenizer(inputs, padding="longest", return_tensors="pt")
     #print(nl.input_ids)
@@ -295,6 +322,7 @@ def test_generation(model):
     
     for x in output:
         print(x)
+    """
 
 
 
@@ -318,9 +346,7 @@ def main():
     model = load_model_from_checkpoint(args, best=True)
     model.eval()
 
-    test_generation(model)
-
-    return
+    #test_generation(model)
     
     # Dev set
     experiment_name = args.experiment_name
@@ -329,13 +355,14 @@ def main():
     gt_record_path = os.path.join(f'records/ground_truth_dev.pkl')
     model_sql_path = os.path.join(f'results/t5_{model_type}_{experiment_name}_dev.sql')
     model_record_path = os.path.join(f'records/t5_{model_type}_{experiment_name}_dev.pkl')
-    """
+    
     dev_loss, dev_record_f1, dev_record_em, dev_sql_em, dev_error_rate = eval_epoch(args, model, dev_loader,
                                                                                     gt_sql_path, model_sql_path,
                                                                                     gt_record_path, model_record_path)
     print(f"Dev set results: Loss: {dev_loss}, Record F1: {dev_record_f1}, Record EM: {dev_record_em}, SQL EM: {dev_sql_em}")
     print(f"Dev set results: {dev_error_rate*100:.2f}% of the generated outputs led to SQL errors")
-    """
+    
+    
     # Test set
     model_sql_path = os.path.join(f'results/t5_{model_type}_{experiment_name}_test.sql')
     model_record_path = os.path.join(f'records/t5_{model_type}_{experiment_name}_test.pkl')

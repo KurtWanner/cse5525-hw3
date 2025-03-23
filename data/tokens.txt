@@ -1,0 +1,418 @@
+rental car
+atlanta
+boston
+baltimore
+burbank
+chicago
+charlotte
+columbus
+cleveland
+dallas
+denver
+indianapolis
+kansas city
+houston
+long beach
+montreal
+milwaukee
+minneapolis
+memphis
+newark
+new york
+ontario
+orlando
+oakland
+pheonix
+pittsburgh
+philadelphia
+san diego
+san jose
+san francisco
+seattle
+st. petersburg
+st. paul
+st. louis
+toronto
+tacoma
+vegas
+westchester county
+washington
+abbreviations
+ap/57
+one way
+nonstop
+alaska_a
+delta_a
+american_a
+eastern_a
+united_a
+trans_a
+midwest_a
+northwest_a
+southwest_a
+continental_a
+first_class
+business_class
+economy_class
+layover
+pm
+am
+january
+february
+march
+april
+may
+june
+july
+august
+september
+october
+november
+december
+general_mitchell_airport
+baltimore_washington_airport
+toronto_international
+orlando_international
+love field
+forth_worth
+pittsburgh_airport
+la_guardia_airport
+GROUP BY
+flight_id 
+flight_days 
+flight_number 
+departure_time 
+arrival_time 
+from_airport 
+to_airport 
+fare_id 
+fare_basis_code 
+ground_fare 
+transport_type 
+time_elapsed 
+day_name 
+day_number 
+date_number 
+days_code 
+month_name 
+round_trip_cost 
+stop_airport 
+round_trip_required 
+month_number 
+restriction_code 
+maximum_stay 
+minimum_stay 
+saturday_stay_required 
+no_discounts 
+basic_type 
+basis_days 
+basis_code 
+restriction_code 
+basic_type 
+manufacturer 
+compartment 
+airline_code 
+airline_name 
+aircraft_code 
+aircraft_code_sequence 
+airport_code 
+airport_name 
+city_name 
+city_code 
+country_name 
+state_name 
+state_code 
+booking_class 
+one_direction_cost 
+meal_description 
+meal_code 
+class_type 
+leg_flight 
+ flight_1
+ flight_2
+ flight_3
+ airport_1
+ airport_2
+ airport_3
+ airport_4
+ flight_fare
+ airport_service
+ equipment_sequence
+ equipment_sequence_1
+ equipment_sequence_2
+ equipment_sequence_3
+ equipment_sequence_4
+ airport_service_1
+ airport_service_2
+ airport_service_3
+ airport_service_4
+ ground_service
+ ground_service_1
+ ground_service_2
+ ground_service_3
+ ground_service_4
+ fare_1
+ fare_2
+ fare_3
+ fare_code
+ fare_code_1
+ fare_code_2
+ fare_code_3
+ fare_basis
+ fare_basis_1
+ fare_basis_2
+ fare_basis_3
+ class_of_service
+ class_of_service_1
+ class_of_service_2
+ class_of_service_3
+ class_of_service_4
+ aircraft
+ aircraft_1
+ aircraft_2
+ aircraft_3
+ aircraft_4
+ airline
+ airline_1
+ airline_2
+ airline_3
+ airline_4
+ city
+ city_1
+ city_2
+ city_3
+ city_4
+ state
+ state_1
+ state_2
+ state_3
+ state_4
+ food_service
+ food_service_1
+ food_service_2
+ food_service_3
+ food_service_4
+ flight_stop
+ flight_stop_1
+ flight_stop_2
+ flight_stop_3
+ flight_stop_4
+ flight_fare
+ flight_fare_1
+ flight_fare_2
+ flight_fare_3
+ flight_fare_4
+ restriction
+ restriction_1
+ restriction_2
+ restriction_3
+ restriction_4
+ days
+ days_1
+ days_2
+ days_3
+ date_day
+ date_day_1
+ date_day_2
+ date_day_3
+ date_day_4
+ flight_leg
+ flight_leg_1
+ flight_leg_2
+ flight_leg_3
+flight_1
+flight_2
+flight_3
+airport_1
+airport_2
+airport_3
+flight_fare
+airport_service
+airport_service_1
+airport_service_2
+airport_service_3
+airport_service_4
+ground_service
+ground_service_1
+ground_service_2
+ground_service_3
+ground_service_4
+fare
+fare_1
+fare_2
+fare_3
+fare_4
+fare_basis
+fare_basis_1
+fare_basis_2
+fare_basis_3
+fare_basis_4
+class_of_service
+class_of_service_1
+class_of_service_2
+class_of_service_3
+class_of_service_4
+aircraft
+aircraft_1
+aircraft_2
+aircraft_3
+aircraft_4
+airline
+airline_1
+airline_2
+airline_3
+airline_4
+city
+city_1
+city_2
+city_3
+state
+state_1
+state_2
+state_3
+food_service
+food_service_1
+food_service_2
+flight_stop
+flight_stop_1
+flight_stop_2
+flight_stop_3
+flight_fare
+flight_fare_1
+flight_fare_2
+flight_fare_3
+restriction
+restriction_1
+restriction_2
+restriction_3
+days
+days_1
+days_2
+days_3
+date_day
+date_day_1
+date_day_2
+date_day_3
+airport_code
+equipment_sequence
+equipment_sequence_1
+equipment_sequence_2
+equipment_sequence_3
+flight_leg
+flight_leg_1
+flight_leg_2
+flight_leg_3
+'AA'
+'FF'
+'YX'
+'HP'
+'UA'
+'CO'
+'DL'
+'TW'
+'NW'
+'US'
+'Y'
+'NEWARK'
+'OAKLAND'
+'MIAMI'
+'ATLANTA'
+'BURBANK'
+'DALLAS'
+'PHILADELPHIA'
+'PITTSBURGH'
+'HOUSTON'
+'NEWARK'
+'BALTIMORE'
+'CINCINNATI'
+'LAS VEGAS'
+'WESTCHESTER COUNTY'
+'MEMPHIS'
+'NASHVILLE'
+'NEW JERSEY'
+'ST. PETERSBURG'
+'ST. PAUL'
+'ST. LOUIS'
+'MONTREAL'
+'MINNEAPOLIS'
+'FORT WORTH'
+'LOS ANGELES'
+'SALT LAKE CITY'
+'CHICAGO'
+'SAN JOSE'
+'CHARLOTTE'
+'TAMPA'
+'TORONTO'
+'SAN DIEGO'
+'SAN FRANCISCO'
+'CLEVELAND'
+'COLUMBUS'
+'CANADA'
+'SEATTLE'
+'ONTARIO'
+'DETROIT'
+'WASHINGTON'
+'TACOMA'
+'LONG BEACH'
+'MILWAUKEE'
+'FORT WORTH'
+'TENNESSEE'
+'BALTIMORE'
+'PHOENIX'
+'NEW YORK'
+'BOSTON'
+'KANSAS CITY'
+'INDIANAPOLIS'
+'DENVER'
+'DAL'
+'BOS'
+'JFK'
+'MKE'
+'LAX'
+'PIT'
+'DFW'
+'HOU'
+'BWI'
+'LGA'
+'ATL'
+'DAILY'
+'MONDAY'
+'TUESDAY'
+'WEDNESDAY'
+'THURSDAY'
+'FRIDAY'
+'SATURDAY'
+'SUNDAY'
+'RAPID TRANSIT'
+'AIR TAXI OPERATION'
+'%LIMOUSINE%'
+'%CANADIAN AIRLINES INTERNATIONAL%'
+'%CANADIAN AIRLINES%'
+'RENTAL CAR'
+'LIMOUSINE'
+'NO'
+'SA'
+'YN'
+'OHIO'
+'DC'
+'AS'
+'CALIFORNIA'
+'QX'
+'ASD'
+'FIRST'
+'BUSINESS'
+'THRIFT'
+'BREAKFAST'
+'LUNCH'
+'SNACK'
+'DINNER'
+'COACH'
+'AP/57'
+'D10'
+'EA'
+'QW'
+'72S'
+'747'
+ 1 = 1
+'YES'
+'%STAPLETON%'

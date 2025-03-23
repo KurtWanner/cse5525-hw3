@@ -70,7 +70,8 @@ def save_queries_and_records(sql_queries: List[str], sql_path: str, record_path:
     # First save the queries
     with open(sql_path, 'w') as f:
         for query in sql_queries:
-            f.write(f'{query}\n')
+            #print(query)
+            print(query, file = f)
 
     # Next compute and save records
     records, error_msgs = compute_records(sql_queries)    

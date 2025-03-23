@@ -15,6 +15,17 @@ class Tokens():
     EOS = "<extra_id_1>"
     SOS_IDX = T_Train(SOS).input_ids[0]
     EOS_IDX = T_Train(EOS).input_ids[0]
+
+    with open('data/tokens.txt', "r+") as file:
+         tkns = [line.replace('\n', '') for line in file.readlines()]
+         
+    #print(len(tkns))
+    
+    T_Train.add_tokens(tkns)
+    T_Gen.add_tokens(tkns)
+
+    
+
     def __init__(self):
         pass
 
@@ -57,6 +68,7 @@ def initialize_model(args):
 
         print("Created New Model")
 
+    model.resize_token_embeddings(len(Tokens.T_Train))
     
     return model
     
