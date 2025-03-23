@@ -1,0 +1,86 @@
+rental car
+atlanta
+boston
+baltimore
+burbank
+chicago
+charlotte
+columbus
+cleveland
+dallas
+denver
+indianapolis
+kansas city
+houston
+long beach
+montreal
+milwaukee
+minneapolis
+memphis
+newark
+new york
+ontario
+orlando
+oakland
+pheonix
+pittsburgh
+philadelphia
+san diego
+san jose
+san francisco
+seattle
+st. petersburg
+st. paul
+st. louis
+toronto
+tacoma
+vegas
+westchester county
+washington
+abbreviations
+ap/57
+one way
+nonstop
+alaska_a
+delta_a
+american_a
+eastern_a
+united_a
+trans_a
+midwest_a
+northwest_a
+southwest_a
+continental_a
+first_class
+business_class
+economy_class
+layover
+pm
+am
+january
+february
+march
+april
+may
+june
+july
+august
+september
+october
+november
+december
+general_mitchell_airport
+baltimore_washington_airport
+toronto_international
+orlando_international
+love field
+forth_worth
+pittsburgh_airport
+la_guardia_airport
+fare
+aircraft
+airline
+city
+state
+restriction
+days

@@ -5,24 +5,34 @@ import torch
 import transformers
 from transformers import T5ForConditionalGeneration, T5Config, T5TokenizerFast
 from transformers.pytorch_utils import ALL_LAYERNORM_LAYERS
+from tokenizers import AddedToken
 import wandb
 
 class Tokens():
-    
-    T_Train = T5TokenizerFast.from_pretrained('google-t5/t5-small', padding_side="right")
-    T_Gen = T5TokenizerFast.from_pretrained('google-t5/t5-small', padding_side="left")
+
+    Tokenizer = T5TokenizerFast.from_pretrained(
+        'google-t5/t5-small', 
+        padding_side="right"
+    )
     SOS = "<extra_id_0>"
     EOS = "<extra_id_1>"
-    SOS_IDX = T_Train(SOS).input_ids[0]
-    EOS_IDX = T_Train(EOS).input_ids[0]
 
-    with open('data/tokens.txt', "r+") as file:
-         tkns = [line.replace('\n', '') for line in file.readlines()]
+
+    with open('data/tokens_nl.txt', "r+") as file:
+         tkns = [AddedToken(line.strip(), normalized=True) 
+         for line in file.readlines()]
+
+    with open('data/tokens_sql.txt', "r+") as file:
+         tkns.extend([AddedToken(line.replace('\n', ''), normalized=False) 
+         for line in file.readlines()])
          
     #print(len(tkns))
     
-    #T_Train.add_tokens(tkns)
-    #T_Gen.add_tokens(tkns)
+    Tokenizer.add_tokens(tkns)
+    Tokenizer.add_tokens([AddedToken(' ', lstrip = False, rstrip = False)])
+
+    SOS_IDX = Tokenizer(SOS).input_ids[0]
+    EOS_IDX = Tokenizer(EOS).input_ids[0]
 
     
 
@@ -68,7 +78,7 @@ def initialize_model(args):
 
         print("Created New Model")
 
-    model.resize_token_embeddings(len(Tokens.T_Train))
+    model.resize_token_embeddings(len(Tokens.Tokenizer))
     
     return model
     

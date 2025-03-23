@@ -32,21 +32,20 @@ class T5Dataset(Dataset):
 
         self.test = split == 'test'
       
-        if self.test:
-            self.tokenizer = Tokens.T_Gen
-        else:
-            self.tokenizer = Tokens.T_Train
-
+        self.tokenizer = Tokens.Tokenizer
+        
         with open(data_folder + '/' + split + '.nl', "r+") as file:
             nlData = [line.strip() for line in file.readlines()]
             nlData = preprocessing(nlData)
+            nlData = [line.split() for line in nlData]
             #print(nlData[0])
             #print(len(nlData))
             encoding = self.tokenizer(
                 nlData,
                 padding="longest",
                 truncation=True,
-                return_tensors="pt"
+                return_tensors="pt",
+                is_split_into_words=True
             )
             #print(encoding.input_ids[0])
             self.input_ids, self.attention_mask = encoding.input_ids, encoding.attention_mask
@@ -55,7 +54,7 @@ class T5Dataset(Dataset):
             with open(data_folder + '/' + split + '.sql', "r+") as file:
                 sqlData = file.readlines()
                 sqlData = [Tokens.SOS + x for x in sqlData]
-
+                sqlData = preprocessing(sqlData)
                 target = self.tokenizer(
                     sqlData,
                     padding="longest",

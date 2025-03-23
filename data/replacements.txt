@@ -132,3 +132,19 @@ stopover	layover
  la california	los angeles
  la 	los angeles
  noon	 12pm
+WHERE(	WHERE (
+SELECT(	SELECT (
+AND(	AND (
+MIN(	MIN (
+MAX(	MAX (
+count(	count (
+OR(	OR (
+0100	100
+0200	200
+0300	300
+0400	400
+0500	500
+0600	600
+0700	700
+0800	800
+0900	900

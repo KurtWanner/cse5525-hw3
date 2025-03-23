@@ -227,7 +227,7 @@ def eval_epoch(args, model, dev_loader, gt_sql_pth, model_sql_path, gt_record_pa
                 max_new_tokens=250
             )
             
-            sql = Tokens.T_Train.batch_decode(output, skip_special_tokens=True)
+            sql = Tokens.Tokenizer.batch_decode(output, skip_special_tokens=True)
             
             sql_queries.extend(sql)
 
@@ -268,7 +268,7 @@ def test_inference(args, model, test_loader, model_sql_path, model_record_path):
 
         #print(output[0])
 
-        sql = Tokens.T_Gen.batch_decode(output, skip_special_tokens=True)
+        sql = Tokens.Tokenizer.batch_decode(output, skip_special_tokens=True)
         sql_queries.extend(sql)
 
     save_queries_and_records(sql_queries, model_sql_path, model_record_path)
@@ -276,7 +276,7 @@ def test_inference(args, model, test_loader, model_sql_path, model_record_path):
 def test_generation(model):
 
     #tokenizer = T5TokenizerFast.from_pretrained('google-t5/t5-small', padding_side="left")
-    tokenizer = Tokens.T_Gen
+    tokenizer = Tokens.Tokenizer
     tokenizer.add_tokens(["Long Beach", "SELECT ", "DISTINCT ", " flight_1"])
     nl = "Long Beach to Toronto"
     sql = "SELECT DISTINCT flight_1.flight_id FROM flight flight_1"

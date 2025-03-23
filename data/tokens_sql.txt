@@ -1,0 +1,228 @@
+airport_code
+equipment_sequence
+_1
+_2
+_3
+_4
+_5
+_6
+'AA'
+'FF'
+'YX'
+'HP'
+'UA'
+'CO'
+'DL'
+'TW'
+'NW'
+'US'
+'Y'
+'OAKLAND'
+'MIAMI'
+'ATLANTA'
+'BURBANK'
+'DALLAS'
+'PHILADELPHIA'
+'PITTSBURGH'
+'HOUSTON'
+'NEWARK'
+'CINCINNATI'
+'LAS VEGAS'
+'WESTCHESTER COUNTY'
+'MEMPHIS'
+'NASHVILLE'
+'NEW JERSEY'
+'ST. PETERSBURG'
+'ST. PAUL'
+'ST. LOUIS'
+'MONTREAL'
+'MINNEAPOLIS'
+'LOS ANGELES'
+'SALT LAKE CITY'
+'CHICAGO'
+'SAN JOSE'
+'CHARLOTTE'
+'TAMPA'
+'TORONTO'
+'SAN DIEGO'
+'SAN FRANCISCO'
+'CLEVELAND'
+'COLUMBUS'
+'CANADA'
+'SEATTLE'
+'ONTARIO'
+'DETROIT'
+'WASHINGTON'
+'TACOMA'
+'LONG BEACH'
+'MILWAUKEE'
+'FORT WORTH'
+'TENNESSEE'
+'BALTIMORE'
+'PHOENIX'
+'ORLANDO'
+'NEW YORK'
+'BOSTON'
+'KANSAS CITY'
+'INDIANAPOLIS'
+'DENVER'
+'DAL'
+'BOS'
+'JFK'
+'MKE'
+'LAX'
+'PIT'
+'MCO'
+'DFW'
+'HOU'
+'BWI'
+'OAK'
+'LGA'
+'EWR'
+'ATL'
+'DAILY'
+'MONDAY'
+'TUESDAY'
+'WEDNESDAY'
+'THURSDAY'
+'FRIDAY'
+'SATURDAY'
+'SUNDAY'
+'RAPID TRANSIT'
+'AIR TAXI OPERATION'
+'%LIMOUSINE%'
+'%CANADIAN AIRLINES INTERNATIONAL%'
+'%CANADIAN AIRLINES%'
+'RENTAL CAR'
+'LIMOUSINE'
+'NO'
+'SA'
+'LH'
+'TX'
+'NX'
+'YN'
+'BUR'
+'OHIO'
+'DC'
+'AS'
+'CALIFORNIA'
+'QX'
+'ASD'
+'FIRST'
+'BUSINESS'
+'THRIFT'
+'BREAKFAST'
+'LUNCH'
+'SNACK'
+'DINNER'
+'COACH'
+'AP/57'
+'D10'
+'EA'
+'H'
+'QW'
+'Q'
+'F'
+class_description
+'72S'
+'AP/80'
+'747'
+1 = 1
+'YES'
+'%STAPLETON%'
+SELECT 
+DISTINCT 
+ FROM 
+ WHERE 
+ GROUP BY 
+ AND 
+ OR 
+ BETWEEN 
+ IS NOT NULL 
+ MIN 
+ MAX 
+flight_id
+flight_days
+flight_number
+departure_time
+arrival_time
+from_airport
+to_airport
+fare_id
+fare_basis_code
+ground_fare
+transport_type
+time_elapsed
+day_name
+day_number
+date_number
+days_code
+month_name
+round_trip_cost
+stop_airport
+round_trip_required
+month_number
+restriction_code
+maximum_stay
+minimum_stay
+saturday_stay_required
+no_discounts
+basic_type
+basis_days
+basis_code
+manufacturer
+compartment
+airline_code
+airline_name
+aircraft_code
+aircraft_code_sequence
+airport_name
+city_name
+city_code
+country_name
+state_name
+state_code
+booking_class
+one_direction_cost
+meal_description
+meal_code
+class_type
+leg_flight
+date_day
+flight_leg
+airport_service
+ground_service
+fare_basis
+class_of_service
+food_service
+flight_stop
+flight_fare
+.
+ , 
+ = 
+1991
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1159
+1200
+1300
+1400
+1500
+1600
+1700
+1800
+1900
+2000
+2100
+2200
+2300
+2359

@@ -10,8 +10,9 @@ import nltk
 from transformers import T5TokenizerFast, AutoTokenizer, AutoModelForCausalLM
 import torch
 from t5_utils import Tokens
+from utils import *
 
-tokenizer = Tokens.T_Train
+tokenizer = Tokens.Tokenizer
 SOS = "<extra_id_0>"
 EOS = "<extra_id_1>"
 
@@ -105,15 +106,46 @@ def test_b2():
     print(tokenizer.decode(outputs[0]))
 
 def test_pre():
-    
 
-    tokenizer.add_tokens(["amberstone"])
-    nl = tokenizer(
-          train,
-          padding="longest",
-          return_tensors="pt"
+    with open('data/tokens_sql.txt', "r+") as file:
+         tokens = [line.strip() for line in file.readlines()]
+
+    s = set()
+    for w in tokens:
+        if w not in s:
+            s.add(w)
+        else:
+            print(w)
+
+    nlData, sqlData = load_dev()
+    sqlData = preprocessing(sqlData)    
+    #print(sqlData[0])
+    sqlTkns = tokenizer(
+        sqlData,
+        padding="longest",
+        truncation=True,
+        return_tensors="pt"
+        
     ).input_ids
-    print(nl)
+    #print(sqlTkns[0])
+    #print(tokenizer.decode(sqlTkns[0]))
+    recon = [tokenizer.decode(ex, skip_special_tokens=True) for ex in sqlTkns]
+
+    test = tokenizer("SELECT DISTINCT flight_1.food_service").input_ids[:-1]
+    #print(test)
+    #print(tokenizer.decode(test))
+    
+    sql_path = "results/test_pre.sql"
+    record_path = "records/test_pre.pkl"
+
+    save_queries_and_records(recon, sql_path, record_path)
+
+    sql_em, record_em, record_f1, model_errors = compute_metrics("data/dev.sql", sql_path, "records/dev_gt_records.pkl", record_path)
+    
+    print("Sql_em: ", sql_em)
+    print("Record_em: ", record_em)
+    print("Record_f1:", record_f1)
+    
 
 def remove_stop_words(s, stop_words):
     result = s
@@ -140,7 +172,7 @@ def preprocessing(nl):
     
     nl = remove_stop_list(nl, stop_p)
 
-    #nl = replace_list(nl, replacements)
+    nl = replace_list(nl, replacements)
 
     nl = remove_words(nl, stop_w)
 
@@ -159,16 +191,16 @@ def main():
     dev_nl_tkns = [t_old(ex).input_ids for ex in devNL]
     dev_sql_tkns = [t_old(SOS + ex).input_ids for ex in devSQL]
 
-    #print("\t Training NL Stats")
-    #print_statistics(train_nl_tkns)
+    print("\t Training NL Stats")
+    print_statistics(train_nl_tkns)
 
     print("\t Training SQL Stats")
     print_statistics(train_sql_tkns)
 
-    #print(trainNL[0])
+    print(trainNL[0])
 
-    #print("\t Dev NL Stats")
-    #print_statistics(dev_nl_tkns)
+    print("\t Dev NL Stats")
+    print_statistics(dev_nl_tkns)
 
     print("\t Dev SQL Stats")
     print_statistics(dev_sql_tkns)
@@ -176,33 +208,36 @@ def main():
     post_train = preprocessing(trainNL)
     post_dev = preprocessing(devNL)
 
-    post_train_nl_tkns = [tokenizer(ex).input_ids for ex in post_train]
-    post_dev_nl_tkns = [tokenizer(ex).input_ids for ex in post_dev]
+    post_train_nl_tkns = [tokenizer(ex.split(), is_split_into_words=True).input_ids for ex in post_train]
+    post_dev_nl_tkns = [tokenizer(ex.split(), is_split_into_words=True).input_ids for ex in post_dev]
 
-    post_train_sql_tkns = [tokenizer(ex).input_ids for ex in trainSQL]
-    post_dev_sql_tkns = [tokenizer(ex).input_ids for ex in devSQL]
+    post_train_sql_tkns = [tokenizer(ex).input_ids for ex in preprocessing(trainSQL)]
+    post_dev_sql_tkns = [tokenizer(ex).input_ids for ex in preprocessing(devSQL)]
 
-    #print("\t Post Train NL Stats")
-    #print_statistics(post_train_nl_tkns)
+    print("\t Post Train NL Stats")
+    print_statistics(post_train_nl_tkns)
 
     print("\t Post Train SQL Stats")
     print_statistics(post_train_sql_tkns)
 
-    #print("\t Post Dev NL Stats")
-    #print_statistics(post_dev_nl_tkns)
+    print("\t Post Dev NL Stats")
+    print_statistics(post_dev_nl_tkns)
 
     print("\t Post Dev SQL Stats")
     print_statistics(post_dev_sql_tkns)
-    
-    for x in post_train_nl_tkns:
+    """
+    for x in post_train_sql_tkns:
         x = torch.tensor(x)
-        #x[x > 30000] = 0
+        x[x > 30000] = 0
         print(tokenizer.decode(x, skip_special_tokens = True))
-    
-
-    #print(trainNL[0])
-    #print(train_nl_tkns[0])
-    #print(post_train_nl_tkns[0])
+    """
+    print("Space token: ", tokenizer(' ').input_ids[0])
+    x = tokenizer(["hello world".split(), "la_guardia_airport".split()], padding="longest", is_split_into_words=True)
+    print(x.input_ids)
+    print(x.attention_mask)
+    print(trainNL[0])
+    print(train_nl_tkns[0])
+    print(post_train_nl_tkns[0])
 
 
 if __name__ == "__main__":
