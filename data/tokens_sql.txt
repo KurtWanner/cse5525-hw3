@@ -65,11 +65,19 @@ _6
 'BOSTON'
 'KANSAS CITY'
 'INDIANAPOLIS'
+'INDIANA'
+'MICHIGAN'
+'MISSOURI'
 'DENVER'
+'DEN'
 'DAL'
+'ONT'
 'BOS'
 'JFK'
+'IAH'
+'ORD'
 'MKE'
+'PHL'
 'LAX'
 'PIT'
 'MCO'
@@ -78,6 +86,12 @@ _6
 'BWI'
 'OAK'
 'LGA'
+'YYZ'
+'MIA'
+'SLC'
+'BNA'
+'SFO'
+'IAD'
 'EWR'
 'ATL'
 'DAILY'
@@ -90,6 +104,7 @@ _6
 'SUNDAY'
 'RAPID TRANSIT'
 'AIR TAXI OPERATION'
+'%TAXI%'
 '%LIMOUSINE%'
 '%CANADIAN AIRLINES INTERNATIONAL%'
 '%CANADIAN AIRLINES%'
@@ -99,13 +114,28 @@ _6
 'SA'
 'LH'
 'TX'
+'CA'
+'LS'
+'FN'
 'NX'
+'GA'
+'CP'
+'WN'
 'YN'
 'BUR'
 'OHIO'
+'ARIZONA'
+'UTAH'
+'TEXAS'
 'DC'
 'AS'
 'CALIFORNIA'
+'FLORIDA'
+'COLORADO'
+'QUEBEC'
+'GEORGIA'
+'MINNESOTA'
+'NEVADA'
 'QX'
 'ASD'
 'FIRST'
@@ -117,19 +147,52 @@ _6
 'DINNER'
 'COACH'
 'AP/57'
+'SD/D'
+'J31'
+'F28'
 'D10'
+'DC10'
 'EA'
+'D/S'
 'H'
 'QW'
+'ML'
+'QO'
 'Q'
+'B'
+'BB'
+'AC'
 'F'
 class_description
-'72S'
+'TURBOPROP'
+'BOEING'
+'JET'
+'AP'
+'AP/55'
 'AP/80'
+'AP/68'
+'D9S'
+'S/'
+'S'
+'UNITED'
+'C'
+'M80'
+'100'
+'M'
+'72S'
+'73S'
+'733'
+'727'
+'734'
+'737'
 '747'
+'757'
+'767'
 1 = 1
 'YES'
-'%STAPLETON%'
+'USAIR'
+'TAXI'
+'STAPLETON'
 SELECT 
 DISTINCT 
  FROM 
@@ -179,6 +242,7 @@ aircraft_code_sequence
 airport_name
 city_name
 city_code
+propulsion
 country_name
 state_name
 state_code
@@ -200,6 +264,10 @@ flight_fare
 .
  , 
  = 
+ <= 
+ >= 
+ > 
+ < 
 1991
 100
 200

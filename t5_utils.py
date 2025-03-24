@@ -19,7 +19,7 @@ class Tokens():
 
 
     with open('data/tokens_nl.txt', "r+") as file:
-         tkns = [AddedToken(line.strip(), normalized=True) 
+         tkns = [AddedToken(line.strip(), normalized=False) 
          for line in file.readlines()]
 
     with open('data/tokens_sql.txt', "r+") as file:

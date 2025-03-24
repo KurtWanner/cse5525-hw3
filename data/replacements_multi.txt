@@ -1,0 +1,177 @@
+general mitchell international airport	'MKE'
+general mitchell international	'MKE'
+general mitchell airport	'MKE'
+general mitchell	'MKE'
+john f kennedy airport	'JFK'
+kennedy airport	'JFK'
+baltimore washington airport	'BWI'
+baltimore washington	'BWI'
+baltimore airport	'BWI'
+toronto international airport	'YYZ'
+toronto international	'YYZ'
+toronto airport	'YYZ'
+atlanta airport	'ATL'
+hartsfield airport	'ATL'
+hartsfield	'ATL'
+denver international airport	'DEN'
+denver airport	'DEN'
+boston logan international airport	'BOS'
+boston logan international	'BOS'
+boston logan airport	'BOS'
+boston logan	'BOS'
+rental cars	'RENTAL CAR'
+rental car	'RENTAL CAR'
+rent car	'RENTAL CAR'
+car rentals	'RENTAL CAR'
+car rental	'RENTAL CAR'
+orlando international airport	'MCO'
+orlando international	'MCO'
+dallas fort worth	'DFW'
+fort worth	'DFW'
+love field airport	'DAL'
+love field	'DAL'
+la guardia airport	'LGA'
+la guardia	'LGA'
+pittsburgh airport	'PIT'
+new york city	'NEW YORK'
+new york	'NEW YORK'
+orlando florida	'ORLANDO'
+orlando	'ORLANDO'
+boston	'BOSTON'
+toronto	'TORONTO'
+nashville tennessee	'NASHVILLE'
+philadelphia pennsylvania	'PHILADELPHIA'
+chicago	'CHICAGO'
+pittsburgh pennsylvania	'PITTSBURGH'
+tampa florida	'TAMPA'
+memphis tennessee	'MEMPHIS'
+charlotte north carolina	'CHARLOTTE'
+san francisco california	'SAN FRANCISCO'
+san francisco	'SAN FRANCISCO'
+montreal canada	'MONTREAL'
+montreal quebec	'MONTREAL'
+tacoma washington	'TACOMA'
+detroit michigan	'DETROIT'
+westchester county	'WESTCHESTER COUNTY'
+dallas texas	'DALLAS'
+san diego california	'SAN DIEGO'
+san diego	'SAN DIEGO'
+las vegas	'LAS VEGAS'
+oakland california	'OAKLAND'
+indianapolis indiana	'INDIANAPOLIS'
+houston texas	'HOUSTON'
+cleveland ohio	'CLEVELAND'
+st. louis	'ST. LOUIS'
+st. paul	'ST. PAUL'
+st. petersburg	'ST. PETERSBURG'
+st louis	'ST. LOUIS'
+st paul	'ST. PAUL'
+st petersburg	'ST. PETERSBURG'
+st. paul minnesota	'ST. PAUL'
+st paul minnesota	'ST. PAUL'
+newark new jersey	'NEWARK'
+ la california	'LOS ANGELES'
+los angeles	'LOS ANGELES'
+washington dc	'WASHINGTON'
+phoenix arizona	'PHOENIX'
+san jose	'SAN JOSE'
+long beach	'LONG BEACH'
+miami florida	'MIAMI'
+salt lake city utah	'SALT LAKE CITY'
+salt lake city	'SALT LAKE CITY'
+salt lake	'SALT LAKE CITY'
+kansas city	'KANSAS CITY'
+ontario canada	'ONTARIO'
+columbus ohio	'COLUMBUS'
+alaska airlines	'AS'
+alaska airline	'AS'
+alaskan airlines	'AS'
+delta airlines	'DL'
+delta airline	'DL'
+american airlines	'AA'
+american airline	'AA'
+eastern airlines	'EA'
+lufthansa airlines	'LH'
+lufthansa	'LH'
+eastern airline	'EA'
+united airlines	'UA'
+united airline	'UA'
+tower air	'FF'
+trans world airlines	'TW'
+trans world airline	'TW'
+trans world	'TW'
+midwest express airlines	'YX'
+midwest express airline	'YX'
+midwest express	'YX'
+northwest airlines	'NW'
+northwest airline	'NW'
+southwest airlines	'WN'
+southwest airline	'WN'
+america west airlines	'HP'
+america west airline	'HP'
+america west	'HP'
+continental airlines	'CO'
+air canada airlines	'AC'
+air canada	'AC'
+canadian airlines international	'CP'
+canadian airlines	'CP'
+nationair	'NX'
+us airlines	'US'
+us air	'US'
+first class ticket	'FIRST'
+first class service	'FIRST'
+first class fare	'FIRST'
+first class	'FIRST'
+business class ticket	'BUSINESS'
+business class service	'BUSINESS'
+business class fare	'BUSINESS'
+business class	'BUSINESS'
+coach class ticket	'COACH'
+coach class service	'COACH'
+coach class fare	'COACH'
+coach class	'COACH'
+economy class ticket	economy
+economy class service	economy
+economy class fare	economy
+economy class	economy
+economy fare	economy
+thirty second	32
+thirty first	31
+thirty	30
+thirtieth	30
+twenty ninth	29
+twenty nine	29
+twenty eighth	28
+twenty eight	28
+twenty seventh	27
+twenty seven	27
+twenty sixth	26
+twenty fifth	25
+twenty fourth	24
+twenty four	24
+twenty third	23
+twenty three	23
+twenty second	22
+twenty two	22
+twenty first	21
+twenty one	21
+0 am	0am
+1 am	1am
+2 am	2am
+3 am	3am
+4 am	4am
+5 am	5am
+6 am	6am
+7 am	7am
+8 am	8am
+9 am	9am
+0 pm	0pm
+1 pm	1pm
+2 pm	2pm
+3 pm	3pm
+4 pm	4pm
+5 pm	5pm
+6 pm	6pm
+7 pm	7pm
+8 pm	8pm
+9 pm	9pm

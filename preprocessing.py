@@ -5,6 +5,8 @@ import pickle
 
 from torch.utils.data import Dataset, DataLoader
 from torch.nn.utils.rnn import pad_sequence
+from tokenizers import AddedToken
+
 
 import nltk
 from transformers import T5TokenizerFast, AutoTokenizer, AutoModelForCausalLM
@@ -32,10 +34,13 @@ def load_stop_phrases():
     return [line.replace('\n', '') for line in stop]
 
 def load_replacements():
-    with open('data/replacements.txt', "r+") as file:
-        rep = dict(tuple(x.replace('\n', '') for x in line.split('\t'))
+    with open('data/replacements_multi.txt', "r+") as file:
+        multi = dict(tuple(x.replace('\n', '') for x in line.split('\t'))
             for line in file.readlines())
-    return rep
+    with open('data/replacements_single.txt', "r+") as file:
+        single = dict(tuple(x.replace('\n', '') for x in line.split('\t'))
+            for line in file.readlines())
+    return (single, multi)
 
 def load_train():
     with open('data/train.nl', "r+") as file:
@@ -162,17 +167,29 @@ def replace_word(s, m):
         result = result.replace(key, value)
     return result
 
-def replace_list(nl, m):
+def replace_strings(nl, m):
     return [replace_word(s, m) for s in nl]
+
+def replace_list(nl, m):
+    keys = m.keys()
+    nl = [s.split() for s in nl]
+    for s in nl:
+        for i in range(len(s)):
+            if s[i] in keys:
+                s[i] = m[s[i]]
+
+    return [' '.join(s) for s in nl]
 
 def preprocessing(nl):
     stop_p = load_stop_phrases()
     stop_w = load_stop_words()
-    replacements = load_replacements()
+    single, multi = load_replacements()
     
     nl = remove_stop_list(nl, stop_p)
 
-    nl = replace_list(nl, replacements)
+    nl = replace_strings(nl, multi)
+
+    nl = replace_list(nl, single)
 
     nl = remove_words(nl, stop_w)
 
@@ -182,9 +199,34 @@ def main():
 
     t_old = T5TokenizerFast.from_pretrained('google-t5/t5-small', padding_side="right")
     trainNL, trainSQL = load_train()
-
-    devNL, devSQL = load_dev()
     
+    devNL, devSQL = load_dev()
+    """
+    with open('data/train.sql', "r+") as file:
+         testSQL = file.readlines()
+         testSQL = [line.strip() for line in testSQL]
+
+    with open('data/tokens_sql.txt', "r+") as file:
+         tkns = [line.replace('\n', '') 
+         for line in file.readlines()]
+
+    s = get_unique_set([line.split() for line in trainSQL])
+    for w in s:
+        if w[0] == "'" and w not in tkns:
+            print(w)
+
+    with open('data/dev.nl', "r+") as file:
+         trainNL = [line.replace('\n', '') 
+         for line in file.readlines()]
+    
+    new = preprocessing(trainNL)
+
+    with open('data/nl_post.nl', "w+") as file:
+        for ex in new:
+            print(" ".join(ex.split()), file=file)
+
+    return
+    """
     train_nl_tkns = [t_old(ex).input_ids for ex in trainNL]
     train_sql_tkns = [t_old(SOS + ex).input_ids for ex in trainSQL]
 
