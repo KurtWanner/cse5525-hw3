@@ -1,6 +1,6 @@
 what flights available tomorrow from 'DENVER' to 'PHILADELPHIA'
 afternoon flights from 'WASHINGTON' to 'BOSTON'
-list all arrivals from any airport to 'BALTIMORE' on 'THURSDAY' morning arriving before 900
+list all arrivals from any airport to 'BALTIMORE' on 'THURSDAY' morning arriving before 9am
 flights from 'PHOENIX' to 'MILWAUKEE'
 flight from 'PHILADELPHIA' to 'SAN FRANCISCO' through 'DALLAS'
 starting from 'DENVER'
@@ -15,15 +15,15 @@ flight on 'UA' from 'BOSTON' to 'DENVER'
 flights from 'DENVER' to 'PHILADELPHIA'
 what earliest flight leaving 'DENVER' going to 'BOSTON'
 display all flights from 'SAN FRANCISCO' to 'BOSTON' on august 8
-flight from 'OAKLAND' to 'PHILADELPHIA' at one in afternoon arriving at 1700
+flight from 'OAKLAND' to 'PHILADELPHIA' at one in afternoon arriving at 5pm
 lowest round trip fare from 'DALLAS' to any city
 flight times flight from 'BOSTON' to 'BALTIMORE' in morning before 8
 list all flights from 'BOSTON' to 'SAN FRANCISCO' with maximum number of stops
 what flights 'AA' flight from 'PHILADELPHIA' to 'DALLAS'
 flights arriving in 'BALTIMORE' from 'PHILADELPHIA' at about 4
 what flights and prices from 'LOS ANGELES' to 'CHARLOTTE' for 'MONDAY' morning
-information on flights from 'PITTSBURGH' to 'BALTIMORE' arriving in 'BALTIMORE' before 1000 on 'THURSDAY'
-what flights available between 1000 and 1500 between 'PITTSBURGH' and 'DFW'
+information on flights from 'PITTSBURGH' to 'BALTIMORE' arriving in 'BALTIMORE' before 10am on 'THURSDAY'
+what flights available between 10am and 3pm between 'PITTSBURGH' and 'DFW'
 what flights from 'DALLAS' to 'PHILADELPHIA'
 what flights 'US' from 'SAN FRANCISCO' to 'PITTSBURGH' on 'TUESDAY'
 what cost of 'UA' flight 415 from 'CHICAGO' to 'KANSAS CITY' 'THURSDAY' night
@@ -39,10 +39,10 @@ flight from 'PHILADELPHIA' to 'DENVER' on 'SUNDAY'
 what flights 'DL' from 'DENVER' to 'DALLAS' after 5
 cost of flight 'UA' 201 from 'BOSTON' to 'DENVER' and flight 'UA' 343 from 'BOSTON' to 'DENVER'
 list all round trip flights between 'INDIANAPOLIS' and 'ORLANDO' on 27 of december
-information on flights from 'ATLANTA' to 'WASHINGTON' information on flights after 1600 on 'WEDNESDAY'
+information on flights from 'ATLANTA' to 'WASHINGTON' information on flights after 4pm on 'WEDNESDAY'
 from 'TORONTO' to 'ATLANTA' in afternoon
-leaving 'DENVER' flying to 'SAN FRANCISCO' before 1000 what type of aircraft used
-flight between 'DENVER' and 'SAN FRANCISCO' leaving from 'DENVER' in afternoon and arriving at 1700
+leaving 'DENVER' flying to 'SAN FRANCISCO' before 10am what type of aircraft used
+flight between 'DENVER' and 'SAN FRANCISCO' leaving from 'DENVER' in afternoon and arriving at 5pm
 from 'DENVER' to 'BALTIMORE'
 find travel arrangements for round trip flight from 'DALLAS' to 'PITTSBURGH'
 ground transportation schedule in 'PHILADELPHIA' in morning on 'WEDNESDAY'
@@ -60,8 +60,8 @@ flight from 'PHILADELPHIA' to 'DALLAS' through 'ATLANTA'
 list aircraft types flight between 'BOSTON' and 'SAN FRANCISCO'
 what flights available from 'BOSTON' to 'DENVER'
 go from 'BOSTON' to 'ATLANTA' in same day find earliest flight from 'BOSTON'
-'US' flights departing from 'CHARLOTTE' around 1300
-flights from 'SALT LAKE CITY' to 'NEW YORK' arriving before 1800
+'US' flights departing from 'CHARLOTTE' around 1pm
+flights from 'SALT LAKE CITY' to 'NEW YORK' arriving before 6pm
 can what flights available on december 16 going from 'OAKLAND' to 'DALLAS'
 all 'FIRST' prices from 'DALLAS' to 'BALTIMORE'
 fares for 'DL' flights from 'DALLAS' to 'SAN FRANCISCO'
@@ -85,7 +85,7 @@ airlines flight to 'MIAMI' from 'NEW YORK' on 'FRIDAY'
 flights leaving 'BOSTON' on 'WEDNESDAY' morning and arriving in 'DENVER'
 flights available from 'PITTSBURGH' to 'SAN FRANCISCO' for 'MONDAY'
 in 'BOSTON' ground transportation between airport and downtown
-flight from 'DALLAS' to 'SAN FRANCISCO' on 'SATURDAY' and arrive in 'SAN FRANCISCO' before 1600
+flight from 'DALLAS' to 'SAN FRANCISCO' on 'SATURDAY' and arrive in 'SAN FRANCISCO' before 4pm
 all flights from 'DENVER' to 'SAN FRANCISCO'
 what 'DL' flights from 'DALLAS' to 'BOSTON'
 what aircraft 'CO' 1209
@@ -99,7 +99,7 @@ what ground transportation available from 'PIT' to downtown and how much it cost
 flight information from 'SAN FRANCISCO' to 'PITTSBURGH'
 what flights available from 'SAN FRANCISCO' to 'PITTSBURGH' on 'MONDAY' morning
 train to 'NEWARK'
-traveling from 'BOSTON' to 'ATLANTA' and go sometime after 1700 but to know what kind of airplane it's on
+traveling from 'BOSTON' to 'ATLANTA' and go sometime after 5pm but to know what kind of airplane on
 'DALLAS' to 'BALTIMORE'
 what 'FF' mean
 well try last time kind of aircraft 'UA' flies from 'DENVER' to 'SAN FRANCISCO' before 10 in morning
@@ -114,7 +114,7 @@ what flights from 'SEATTLE' to 'SALT LAKE CITY'
 what earliest flight from 'PITTSBURGH' to 'SAN FRANCISCO'
 any flights from 'PITTSBURGH' to 'BOSTON' leave between 1200 and 5
 what 'ORD'
-list all nonstop flights from 'LOS ANGELES' to 'PITTSBURGH' arrive before 1700 on 'TUESDAY'
+list all nonstop flights from 'LOS ANGELES' to 'PITTSBURGH' arrive before 5pm on 'TUESDAY'
 about ground transportation in 'BOSTON'
 earliest flight from 'BOSTON' to 'BWI' serves lunch
 how many flights arrive at 'MKE'
@@ -123,25 +123,25 @@ what ground transportation available from 'PIT' to town
 capacity of an 'F28'
 what 'RENTAL CAR' available next 'SUNDAY' from 'DEN'
 flights leaving 'MIAMI' to 'CLEVELAND' on 'US' leave after 1200
-flight from 'ATLANTA' to 'WASHINGTON' leaves after 1500
+flight from 'ATLANTA' to 'WASHINGTON' leaves after 3pm
 flights from 'CLEVELAND' to 'MEMPHIS'
 what fare code 'QW' mean
 all flights from 'CINCINNATI' to 'TORONTO'
 from 'LAS VEGAS' to 'NEW YORK' nonstop 'TW' and fare
 know latest flight from 'ATLANTA' to 'BOSTON'
 flights from 'MEMPHIS' to 'LAS VEGAS'
-could find nonstop flight from 'ATLANTA' to 'BALTIMORE' on boeing '757' arriving at 1900
+could find nonstop flight from 'ATLANTA' to 'BALTIMORE' on boeing '757' arriving at 7pm
 what flights from 'ST. PAUL' to 'KANSAS CITY' on 'FRIDAY' with supper served
 could if ground transportation between 'BOSTON' airport and 'BOSTON' downtown
 it possible for to flight from 'BALTIMORE' to 'SAN FRANCISCO'
 what 'FIRST' for round trip 'DALLAS' to 'DENVER'
 list all flights on 'CO' leaving 'SEATTLE' on 'SUNDAY' after 430pm
-all flights and fares from 'PITTSBURGH' to 'DALLAS' round trip after 1200 less than 1100 dollars
+all flights and fares from 'PITTSBURGH' to 'DALLAS' round trip after 12pm less than 1100 dollars
 what flights available from 'BOSTON' to 'DALLAS'
 cheap flight from 'BALTIMORE' to 'SAN FRANCISCO'
 'FIRST' flight on 'AA' to 'SAN FRANCISCO' on coming 'TUESDAY'
 any airline an early afternoon flight from 'BOSTON' to 'DENVER'
-flights on 'MONDAY' from 'PHILADELPHIA' to 'BOSTON' after 700
+flights on 'MONDAY' from 'PHILADELPHIA' to 'BOSTON' after 7am
 flight to 'SALT LAKE CITY'
 nonstop flights from 'NASHVILLE' to 'ST. LOUIS'
 what different classes an airline offers
@@ -154,15 +154,15 @@ what cheapest one way fare from 'BOSTON' to 'WASHINGTON'
 flight this 'SUNDAY' from 'MIAMI' to 'LAS VEGAS' and would prefer morning flight
 how much it cost to flight from 'ATLANTA' to 'SAN FRANCISCO'
 an early flight from 'DENVER' to 'SAN FRANCISCO' and 'BREAKFAST' served on
-what round trip tickets from 'CLEVELAND' to 'MIAMI' on 'US' arrive before 1600
+what round trip tickets from 'CLEVELAND' to 'MIAMI' on 'US' arrive before 4pm
 what classes of service on 'LH'
 airlines provide direct flights between 'WASHINGTON' and 'DENVER'
 flight 'UA' 270 from 'DENVER' to 'PHILADELPHIA' meal
 all 'EA' flights leaving 'PITTSBURGH' between 12 and 4 in afternoon
 'US' flights for next 'WEDNESDAY' from 'CLEVELAND' to 'MIAMI'
-what nonstop flights available from 'OAKLAND' to 'PHILADELPHIA' arriving between 5 and 1800
+what nonstop flights available from 'OAKLAND' to 'PHILADELPHIA' arriving between 5 and 6pm
 flights from 'PHOENIX' to 'MILWAUKEE' on 'WEDNESDAY'
-all flights and fares from 'ATLANTA' to 'DALLAS' round trip after 1200 less than 1100 dollars
+all flights and fares from 'ATLANTA' to 'DALLAS' round trip after 12pm less than 1100 dollars
 nonstop flights from 'DALLAS' to 'HOUSTON'
 list of late afternoon flights from 'CHICAGO' to 'MILWAUKEE'
 what flights available on 'WEDNESDAY' from 'ATLANTA' to 'WASHINGTON'
@@ -198,14 +198,14 @@ could flights leaving 'PITTSBURGH' around 2400 for 'OAKLAND'
 how much flight 'UA' 297 from 'DENVER' to 'SAN FRANCISCO' cost
 flights go from 'PHILADELPHIA' to 'SAN FRANCISCO'
 'ATLANTA' to 'OAKLAND' 'THURSDAY'
-flights from 'TAMPA' to 'ST. LOUIS' leaving before 1000
+flights from 'TAMPA' to 'ST. LOUIS' leaving before 10am
 'AA' flight from 'PHILADELPHIA' to 'DALLAS'
 flights from 'KANSAS CITY' to 'CLEVELAND' on 'WEDNESDAY'
 flights from 'PHILADELPHIA' to 'BALTIMORE' in morning
 cities served by 'CP'
 'RENTAL CAR' in 'BALTIMORE'
 flight from 'SAN FRANCISCO' to 'BOSTON' with layover in 'DFW' and to flight on 'DL'
-all flights from 'BOSTON' to 'WASHINGTON' after 1700 on november 11 economy
+all flights from 'BOSTON' to 'WASHINGTON' after 5pm on november 11 economy
 'US' flights from 'ATLANTA' to 'BOSTON'
 'AA' flights to 'HOUSTON' from 'CINCINNATI'
 list flights from 'DENVER' to 'SAN FRANCISCO' no 'DENVER' to 'PHILADELPHIA'
@@ -224,7 +224,7 @@ what flights from 'ATLANTA' to 'ST. LOUIS' on 'TUESDAY' arriving around 230pm
 list flight from 'PHILADELPHIA' to 'SAN FRANCISCO' on 'AA'
 flights from 'MILWAUKEE' to 'ST. LOUIS' leaving 'SUNDAY' morning
 flights from 'PITTSBURGH' to 'NEWARK'
-on 800 flight from 'SAN FRANCISCO' to 'ATLANTA' what type of aircraft used
+on 8am flight from 'SAN FRANCISCO' to 'ATLANTA' what type of aircraft used
 ground transport in 'SEATTLE'
 information on least expensive airfare round trip from 'PITTSBURGH' to 'BOSTON'
 find nonstop flight from 'BOSTON' to 'ATLANTA' leaves sometime in afternoon and arrives in 'ATLANTA' before evening
@@ -250,7 +250,7 @@ what airlines flight from 'BOSTON' to 'ATLANTA'
 what fares for flights serving meal from 'BOSTON' to 'PITTSBURGH' before 1200 on 'THURSDAY'
 flights from 'DENVER' to 'PHILADELPHIA'
 what flights between 'DALLAS' and 'PITTSBURGH' on july 8
-flight times morning on 'UA' for september twentieth from 'PHILADELPHIA' to 'SAN FRANCISCO'
+flight times morning on 'UA' for september 20 from 'PHILADELPHIA' to 'SAN FRANCISCO'
 flights from 'PHILADELPHIA' to 'BALTIMORE'
 flight between 'OAKLAND' and 'BOSTON' with layover in 'DFW' one of those
 morning flights from 'SAN FRANCISCO' to 'PITTSBURGH'
@@ -326,7 +326,7 @@ list fares of 'US' flights from 'BOSTON' to 'PHILADELPHIA'
 an afternoon flight from 'DENVER' colorado to 'DALLAS'
 all flights from 'CHICAGO' to 'KANSAS CITY' on 'THURSDAY' june 17 arriving in 'KANSAS CITY' at around 7 in evening
 what flight from 'BOSTON' to 'ATLANTA' arrives earliest in 'ATLANTA'
-about flights from 'TORONTO' to 'SALT LAKE CITY' leaving 'TORONTO' between 530 and 1900
+about flights from 'TORONTO' to 'SALT LAKE CITY' leaving 'TORONTO' between 530 and 7pm
 flight 'DL' from 'ATLANTA' to 'PITTSBURGH'
 to travel from 'WASHINGTON' to 'PHILADELPHIA' on 'TUESDAY' morning
 airports in 'WASHINGTON'
@@ -382,7 +382,7 @@ what lowest cost for one way ticket from 'BOSTON' to 'WASHINGTON'
 what latest evening flight leaving 'SAN FRANCISCO' for 'WASHINGTON'
 what ground transport available in 'MINNEAPOLIS'
 what type of airplane an 'M80'
-flights from 'PITTSBURGH' to 'PHILADELPHIA' leaving before 900
+flights from 'PITTSBURGH' to 'PHILADELPHIA' leaving before 9am
 all economy prices from 'DALLAS' to 'BALTIMORE'
 what airport at 'TAMPA'
 all flights out of 'BOSTON' today
@@ -399,9 +399,9 @@ flight from 'TORONTO' to 'SAN DIEGO' stops in 'ST. LOUIS' flights
 could what earliest flight goes between 'ATLANTA' and 'DENVER' serves meal
 times for flights from 'SAN FRANCISCO' to 'ATLANTA'
 flights from 'WASHINGTON' to 'PHILADELPHIA' for december 2
-what flight goes from 'BALTIMORE' to 'SAN FRANCISCO' and arrives at 'SAN FRANCISCO' at 2000 on 'FRIDAY'
+what flight goes from 'BALTIMORE' to 'SAN FRANCISCO' and arrives at 'SAN FRANCISCO' at 8pm on 'FRIDAY'
 to go between 'BOSTON' and 'SAN FRANCISCO'
-what type of aircraft 'EA' flight from 'ATLANTA' to 'DENVER' before 1800
+what type of aircraft 'EA' flight from 'ATLANTA' to 'DENVER' before 6pm
 flight tomorrow morning from 'COLUMBUS' to 'NASHVILLE'
 all flights from 'SAN FRANCISCO' to 'BOSTON' for august 31 1991
 all 'FIRST's from 'NEW YORK' to 'MIAMI' leaving on 'TUESDAY'

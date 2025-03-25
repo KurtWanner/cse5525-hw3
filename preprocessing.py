@@ -112,19 +112,10 @@ def test_b2():
 
 def test_pre():
 
-    with open('data/tokens_sql.txt', "r+") as file:
-         tokens = [line.strip() for line in file.readlines()]
-
-    s = set()
-    for w in tokens:
-        if w not in s:
-            s.add(w)
-        else:
-            print(w)
-
     nlData, sqlData = load_dev()
     sqlData = preprocessing(sqlData)    
-    #print(sqlData[0])
+    
+
     sqlTkns = tokenizer(
         sqlData,
         padding="longest",
@@ -132,14 +123,9 @@ def test_pre():
         return_tensors="pt"
         
     ).input_ids
-    #print(sqlTkns[0])
-    #print(tokenizer.decode(sqlTkns[0]))
+    
     recon = [tokenizer.decode(ex, skip_special_tokens=True) for ex in sqlTkns]
 
-    test = tokenizer("SELECT DISTINCT flight_1.food_service").input_ids[:-1]
-    #print(test)
-    #print(tokenizer.decode(test))
-    
     sql_path = "results/test_pre.sql"
     record_path = "records/test_pre.pkl"
 
@@ -201,7 +187,7 @@ def main():
     trainNL, trainSQL = load_train()
     
     devNL, devSQL = load_dev()
-    """
+    
     with open('data/train.sql', "r+") as file:
          testSQL = file.readlines()
          testSQL = [line.strip() for line in testSQL]
@@ -225,8 +211,26 @@ def main():
         for ex in new:
             print(" ".join(ex.split()), file=file)
 
+    sample = ["flights from denver to la on american airlines",
+        "vegas to dwi"]
+    print(sample)
+    sample = preprocessing(sample)
+    print(sample)
+    print(tokenizer(sample).input_ids)
+
+    space = tokenizer(" ").input_ids[0]
+    print(space)
+
+    sample = tokenizer(sample).input_ids
+    print(sample)
+    sample = [[id for id in element if id != space and id != 1 ] for element in sample]
+    print(sample)
+    print(pad_sequence([torch.tensor(ex) for ex in sample], batch_first=True))
+
+    print(tokenizer("Hello world").attention_mask)
+
     return
-    """
+    
     train_nl_tkns = [t_old(ex).input_ids for ex in trainNL]
     train_sql_tkns = [t_old(SOS + ex).input_ids for ex in trainSQL]
 

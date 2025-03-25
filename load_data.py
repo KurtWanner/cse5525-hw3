@@ -37,19 +37,16 @@ class T5Dataset(Dataset):
         with open(data_folder + '/' + split + '.nl', "r+") as file:
             nlData = [line.strip() for line in file.readlines()]
             nlData = preprocessing(nlData)
-            nlData = [line.split() for line in nlData]
-            #print(nlData[0])
-            #print(len(nlData))
-            encoding = self.tokenizer(
-                nlData,
-                padding="longest",
-                truncation=True,
-                return_tensors="pt",
-                is_split_into_words=True
-            )
-            #print(encoding.input_ids[0])
-            self.input_ids, self.attention_mask = encoding.input_ids, encoding.attention_mask
+            
+            nlData = [self.tokenizer(ex).input_ids for ex in nlData]
 
+            nlData = [[id for id in element if id != Tokens.Space and id != 1 ] for element in nlData]
+
+            nlData = pad_sequence([torch.tensor(ex) for ex in nlData], batch_first=True)
+
+            self.input_ids = nlData
+            self.attention_mask = (nlData != PAD_IDX).long()
+            
         if not self.test:
             with open(data_folder + '/' + split + '.sql', "r+") as file:
                 sqlData = file.readlines()

@@ -33,6 +33,7 @@ class Tokens():
 
     SOS_IDX = Tokenizer(SOS).input_ids[0]
     EOS_IDX = Tokenizer(EOS).input_ids[0]
+    Space = Tokenizer(" ").input_ids[0]
 
     
 
