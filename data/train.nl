@@ -4223,3 +4223,10 @@ need a flight from pittsburgh to denver
 show me the cheapest flights from baltimore to dallas
 what flights depart baltimore and arrive by 8pm friday in san francisco
 i want a flight from pittsburgh to los angeles that departs after 6pm on thursday
+what does fare code bh mean
+what does fare code bh mean
+what does fare code bh mean
+which airline is us
+what airline is us
+which airline is ea
+what airline is as
