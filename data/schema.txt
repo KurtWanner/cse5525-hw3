@@ -1,4 +1,15 @@
 
+CREATE TABLE restriction (
+	no_discounts,
+	minimum_stay,
+	stopovers,
+	restriction_code RESTRICTIONCODE,
+	application APPLICATION,
+	maximum_stay int,
+	saturday_stay_required SATURDAYSTAYREQUIRED,
+	advance_purchase int
+);
+
 CREATE TABLE food_service (
 	meal_code,
 	compartment,

@@ -93,8 +93,9 @@ def create_prompt(sentence, k):
         * k (int): Number of examples in k-shot prompting
     '''
 
-    prompt = 'You are a very powerful text-to-sql model. \n\n'
-    #prompt += schema
+    prompt = 'You are a very powerful text-to-sql model. Given the following SQL tables, \
+        create an SQL query for a user request. \n\n'
+    prompt += schema
 
     key_words = get_key_words(sentence)
 
@@ -105,11 +106,11 @@ def create_prompt(sentence, k):
         cur_idx = get_matching_ex(key_words, k)
     
     for i in cur_idx:
-        prompt += '[Question]: ' + train_nl[i] + '\n'
-        prompt += '[Answer]: ' + train_sql[i] + '\n\n'
+        prompt += '\n[Question]: ' + train_nl[i] + '\n'
+        prompt += '[Answer]: ' + train_sql[i] + '\n'
         
     if len(cur_idx) > 0:
-        prompt += 'Base your answer on these examples. \n'
+        prompt += '\nBase your answer on these examples. \n'
 
     prompt += 'Create an SQL Query for the following question. \
     Only return the query and nothing else.  \
@@ -246,7 +247,7 @@ def main():
 
     #print(create_prompt(test_nl[0], 10))
 
-    #test_nl = test_nl[0:9]
+    #test_nl = test_nl[0:10]
 
     # Model and tokenizer
     tokenizer, model = initialize_model_and_tokenizer(model_name, to_quantize)

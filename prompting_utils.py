@@ -1,16 +1,34 @@
 import os
+import json
 from preprocessing import replace_list, replace_strings, remove_stop_list, remove_words
 
 with open("data/prompt_key_words.txt", "r") as f:
     key_words = [line.strip() for line in f.readlines()]
 
+def print_table(name, table):
+	type_map = {"INTEGER" : "int"}
+	result = f"CREATE TABLE {name} ("
+	for el in table['ents'][name]:
+		_type = table['ents'][name][el]['type'] if table['ents'][name][el]['type'] not in type_map else type_map[table['ents'][name][el]['type']]
+		result += f"\n\t{el} {_type},"
+		
+	result = result[:-1]
+	result += "\n);"
+
+	return result
+
 def read_schema(schema_path):
     '''
     Read the .schema file
     '''
-    with open(schema_path, "r") as f:
-        schema = f.read()
-    return schema
+    with open("data/flight_database.schema", "r") as f:
+        data = json.load(f)
+    
+    ids = [el for el in data['ents']]
+
+    tables = [print_table(name, data) for name in ids]
+
+    return "\n".join(tables)
 
 def process_nl(nl):
     with open("data/prompting_replacements_multi.txt", "r") as f:

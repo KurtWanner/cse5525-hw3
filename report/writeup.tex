@@ -29,7 +29,7 @@ Statistics Name & Train & Dev \\
 \midrule
 Number of examples & \textcolor{gray}{4225} & \textcolor{gray}{466} \\
 Mean sentence length & \textcolor{gray}{18.10}& \textcolor{gray}{18.07} \\
-Mean SQL query length & \textcolor{gray}{218}& \textcolor{gray}{212}  \\
+Mean SQL query length & \textcolor{gray}{218.37}& \textcolor{gray}{212.05}  \\
 Vocabulary size (natural language)& \textcolor{gray}{792}& \textcolor{gray}{466}  \\
 Vocabulary size (SQL)& \textcolor{gray}{557}& \textcolor{gray}{397}  \\
 \bottomrule
@@ -45,10 +45,10 @@ Vocabulary size (SQL)& \textcolor{gray}{557}& \textcolor{gray}{397}  \\
 Statistics Name & Train & Dev \\
 \midrule
 \multicolumn{3}{l}{\textbf{Model: T5 Fine-tuning \& T5 from Scratch}} \\ % \textcolor{gray}{(T5 fine-tuning or T5 from scratch)}} \\
-Mean sentence length & \textcolor{gray}{18.10}& \textcolor{gray}{18.07} \\
-Mean SQL query length & \textcolor{gray}{218}& \textcolor{gray}{212} \\
-Vocab size (NL) & \textcolor{gray}{792}& \textcolor{gray}{466} \\
-Vocab size (SQL) & \textcolor{gray}{557}& \textcolor{gray}{397} \\
+Mean sentence length & \textcolor{gray}{8.43}& \textcolor{gray}{8.35} \\
+Mean SQL query length & \textcolor{gray}{126.14}& \textcolor{gray}{121.96} \\
+Vocab size (NL) & \textcolor{gray}{727}& \textcolor{gray}{379} \\
+Vocab size (SQL) & \textcolor{gray}{491}& \textcolor{gray}{299} \\
 \bottomrule
 \end{tabular}
 \caption{Data statistics after pre-processing. \textcolor{gray}{You need to at least provide the statistics listed in \autoref{tab:data_stats_before} (except for the number of lines), and can add new entries.}}
@@ -73,15 +73,15 @@ Be clear enough that we can replicate your approach in PyTorch using only your d
 \toprule
 Design choice & Description \\
 \midrule
-Data processing & No data processing occurred for either the natural language instructions or the SQL instructions. \\
-Tokenization & For the natural language instructions, the default T5 tokenizer was used without change. For SQL instructions, a start-of-sequence token was inserted at the front of each instruction. \\
-Architecture & I fine-tuned the entire model. To increase training speed, the model's parameters were converted to type bfloat16. \\
+Data processing & The first step was to remove stop words. This list can be found in  \verb|data/stop_words.txt| and \verb|data/stop_phrases.txt|. Next, proper names (i.e. houston, california, atlanta airport, etc.) were converted to their SQL counterparts (i.e. 'HOUSTON', 'CALIFORNIA', and 'ATL').  \\
+Tokenization & The default T5 tokenizer was used with additional added tokens. These additional tokens can be found in \verb|data/tokens_nl.txt| and \verb|data/tokens_sql.txt|. \\
+Architecture & Because of the additional tokens, I resized the token embeddings. For fine-tuning, the entire model was tuned. To increase training speed, the model's parameters were converted to type bfloat16. \\
 Hyperparameters & 
-\textbf{Learning Rate:} \textcolor{gray}{1e-5}
+\textbf{Learning Rate:} \textcolor{gray}{3e-5}
  
-\textbf{Batch Size:} \textcolor{gray}{8} 
+\textbf{Batch Size:} \textcolor{gray}{16} 
 
-\textbf{Stopping Criteria:} \textcolor{gray}{2 consecutive epochs with diminishing validation performance.} 
+\textbf{Stopping Criteria:} \textcolor{gray}{Training periods of 15 epochs each, repeated until improvements in Record F1 slowed.} 
 
 \textbf{LR Scheduler:} \textcolor{gray}{Cosine}  \\
 \bottomrule
@@ -104,7 +104,7 @@ Hyperparameters & \textbf{Learning Rate:} \textcolor{gray}{1e-4}
 
 \textbf{Batch Size:} \textcolor{gray}{8} 
 
-\textbf{Stopping Criteria:} \textcolor{gray}{2 consecutive epochs with diminishing validation performance.} 
+\textbf{Stopping Criteria:} \textcolor{gray}{Training periods of 15 epochs each, repeated until improvements in Record F1 slowed.} 
 
 \textbf{LR Scheduler:} \textcolor{gray}{Cosine}  \\
 \bottomrule

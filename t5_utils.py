@@ -25,9 +25,7 @@ class Tokens():
     with open('data/tokens_sql.txt', "r+") as file:
          tkns.extend([AddedToken(line.replace('\n', ''), normalized=False) 
          for line in file.readlines()])
-         
-    #print(len(tkns))
-    
+             
     Tokenizer.add_tokens(tkns)
     Tokenizer.add_tokens([AddedToken(' ', lstrip = False, rstrip = False)])
 

@@ -1,4225 +1,4225 @@
-list all the flights that arrive at MKE from various cities
-give me the flights leaving DENVER august 9 coming back to BOSTON
+flights arrive at MKE from various cities
+flights leaving DENVER august 9 coming back to BOSTON
 what flights from TACOMA to ORLANDO on SATURDAY
-what is the most expensive one way fare from BOSTON to ATLANTA on AA
-what flights return from DENVER to PHILADELPHIA on a SATURDAY
-can you list all flights from CHICAGO to MILWAUKEE
-show me the flights from DENVER that go to PITTSBURGH and then ATLANTA
-i'd like to see flights from BALTIMORE to ATLANTA that arrive before noon and i'd like to see flights from DENVER to ATLANTA that arrive before noon
-do you have an 819 flight from DENVER to SAN FRANCISCO
-can you list all round trip flights from ORLANDO to KANSAS CITY and then to MINNEAPOLIS
-show me the UA flights from DENVER to BALTIMORE
-i would like a US flight from TORONTO to SAN DIEGO with a layover in DENVER please
-are there any nonstop flights leaving from DENVER arriving in BALTIMORE on july 7
-are there any flights between PITTSBURGH and BALTIMORE using a J31 aircraft
-what does D/S stand for for meal
+what most expensive one way fare from BOSTON to ATLANTA on AA
+what flights return from DENVER to PHILADELPHIA on SATURDAY
+can flights from CHICAGO to MILWAUKEE
+flights from DENVER go to PITTSBURGH and then ATLANTA
+to flights from BALTIMORE to ATLANTA arrive before noon and to flights from DENVER to ATLANTA arrive before noon
+do an 819 flight from DENVER to SAN FRANCISCO
+can round trip flights from ORLANDO to KANSAS CITY and then to MINNEAPOLIS
+UA flights from DENVER to BALTIMORE
+US flight from TORONTO to SAN DIEGO with layover in DENVER
+any nonstop flights leaving from DENVER arriving in BALTIMORE on july 7
+any flights between PITTSBURGH and BALTIMORE using J31 aircraft
+what D/S stand for for meal
 PITTSBURGH to BOSTON SATURDAY
-what are the flights from CHARLOTTE to ATLANTA returning on TUESDAY july 13
-i need the cost of a ticket going from DENVER to BALTIMORE a FIRST on UA
-is there a flight between SAN FRANCISCO and BOSTON with a layover at DFW
-list the takeoffs and landings at MKE
-what flights are there from MINNEAPOLIS to NEWARK on CO
-is there limo service at PIT
-i need a flight from PITTSBURGH to LOS ANGELES THURSDAY evening
-how much is a FIRST from BOSTON to SAN FRANCISCO
-in DFW i would like information on ground transportation
+what flights from CHARLOTTE to ATLANTA returning on TUESDAY july 13
+cost of ticket going from DENVER to BALTIMORE FIRST on UA
+flight between SAN FRANCISCO and BOSTON with layover at DFW
+takeoffs and landings at MKE
+what flights from MINNEAPOLIS to NEWARK on CO
+limo service at PIT
+flight from PITTSBURGH to LOS ANGELES THURSDAY evening
+how much FIRST from BOSTON to SAN FRANCISCO
+in DFW information on ground transportation
 what flights go from PHILADELPHIA to SAN FRANCISCO via DALLAS
-i'd like flights on AA from PHILADELPHIA PHILADELPHIA to DALLAS arriving before 1145am
+flights on AA from PHILADELPHIA PHILADELPHIA to DALLAS arriving before 1145am
 what airlines from WASHINGTON to COLUMBUS
-what flights do you have in the morning of september 20 on UA from PITTSBURGH to SAN FRANCISCO and a layover in DENVER
-what is the cost of a round trip flight from PITTSBURGH to ATLANTA beginning on april 25 and returning on may 6
-i would like a flight from WASHINGTON to BOSTON leaving at 230 on august 20
-are there any nonstop flights from PHILADELPHIA to DENVER that arrive before 5pm
-i need a flight from BALTIMORE to SEATTLE
-i'd like to flight nonstop from ATLANTA to BALTIMORE and get there at 7pm
-give me SUNDAY nonstop flights from MEMPHIS to LAS VEGAS
-what is the type of aircraft for UA flight 21
-can you give me information on transportation from the airport in PHILADELPHIA to downtown PHILADELPHIA
-list flights from PHOENIX to DETROIT on WEDNESDAY
-what is the fare going from BALTIMORE to BOSTON one way on november 7
-i would like to see the flights from DENVER to PHILADELPHIA
+what flights do in morning of september 20 on UA from PITTSBURGH to SAN FRANCISCO and layover in DENVER
+what cost of round trip flight from PITTSBURGH to ATLANTA beginning on april 25 and returning on may 6
+flight from WASHINGTON to BOSTON leaving at 230 on august 20
+any nonstop flights from PHILADELPHIA to DENVER arrive before 5pm
+flight from BALTIMORE to SEATTLE
+to flight nonstop from ATLANTA to BALTIMORE and at 7pm
+SUNDAY nonstop flights from MEMPHIS to LAS VEGAS
+what type of aircraft for UA flight 21
+can information on transportation from airport in PHILADELPHIA to downtown PHILADELPHIA
+flights from PHOENIX to DETROIT on WEDNESDAY
+what fare going from BALTIMORE to BOSTON one way on november 7
+to flights from DENVER to PHILADELPHIA
 on usa air how many flights leaving OAKLAND on july 27 to BOSTON nonstop
-what is the earliest flight from BOSTON to ATLANTA
-all flights from DENVER to PHILADELPHIA
+what earliest flight from BOSTON to ATLANTA
+flights from DENVER to PHILADELPHIA
 flights from CLEVELAND to KANSAS CITY
-show me the FIRST from BALTIMORE to DALLAS
-find travel arrangements for a round trip flight from BALTIMORE to PITTSBURGH
-show me flights from PITTSBURGH to SAN FRANCISCO on SUNDAY
-show me flights between NEW YORK and LAS VEGAS on SUNDAY
-what flights do you have from BURBANK to TACOMA
-show flights from PITTSBURGH to OAKLAND
-show me airline abbreviations
-show me all the available flights from BALTIMORE to DALLAS with economy
-is fare code B the same AS BUSINESS
-all flights and fares from ATLANTA to DALLAS round trip after 12pm less than 1100 dollars
-show me all flights from SAN FRANCISCO to OAKLAND
-i need flight information leaving ATLANTA and arriving in BALTIMORE for MONDAY
-i need to spend much of a day on the ground in ATLANTA find me an early flight from BOSTON and the lastest possible flight back from ATLANTA
-show me all flights from SAN FRANCISCO to DENVER
-list all flights from BURBANK to DENVER
-show me all UA FIRST flights
+FIRST from BALTIMORE to DALLAS
+travel arrangements for round trip flight from BALTIMORE to PITTSBURGH
+flights from PITTSBURGH to SAN FRANCISCO on SUNDAY
+flights between NEW YORK and LAS VEGAS on SUNDAY
+what flights do from BURBANK to TACOMA
+flights from PITTSBURGH to OAKLAND
+airline abbreviations
+available flights from BALTIMORE to DALLAS with economy
+fare code B same AS BUSINESS
+flights and fares from ATLANTA to DALLAS round trip after 12pm less than 1100 dollars
+flights from SAN FRANCISCO to OAKLAND
+flight information leaving ATLANTA and arriving in BALTIMORE for MONDAY
+to spend much of day on ground in ATLANTA an early flight from BOSTON and lastest possible flight back from ATLANTA
+flights from SAN FRANCISCO to DENVER
+flights from BURBANK to DENVER
+UA FIRST flights
 latest flight from HOUSTON to SAN JOSE
-what ground transportation is available at the ATL
-show me the one way flight from DETROIT to WESTCHESTER COUNTY with the highest fare
-which NW and UA flights go through DENVER before noon
-i'd like to book a flight from SAN DIEGO to TORONTO
-what are the flights between PITTSBURGH and SAN FRANCISCO
-show all TUESDAY morning flights from PITTSBURGH to DENVER
-what are the early weekday flights from SAN FRANCISCO to PITTSBURGH
-i would like to know what type of aircraft will be used on the morning of july 7 from ATLANTA to BOSTON
-show flights from CLEVELAND to MIAMI that arrive before 4pm
-list flights from PHILADELPHIA to SAN FRANCISCO THURSDAY
-how many passengers can a boeing 737 hold
-list all flights from LONG BEACH to COLUMBUS late SATURDAY
+what ground transportation available at ATL
+one way flight from DETROIT to WESTCHESTER COUNTY with highest fare
+NW and UA flights go through DENVER before noon
+to book flight from SAN DIEGO to TORONTO
+what flights between PITTSBURGH and SAN FRANCISCO
+TUESDAY morning flights from PITTSBURGH to DENVER
+what early weekday flights from SAN FRANCISCO to PITTSBURGH
+to know what type of aircraft will be used on morning of july 7 from ATLANTA to BOSTON
+flights from CLEVELAND to MIAMI arrive before 4pm
+flights from PHILADELPHIA to SAN FRANCISCO THURSDAY
+how many passengers can boeing 737 hold
+flights from LONG BEACH to COLUMBUS late SATURDAY
 ground transportation DENVER
-list all flights departing from MKE
-i would like to find a flight that goes from LGA to SAN JOSE i would like the flight to be on UA and arrive in SAN JOSE around 10pm
-i would like a flight leaving from BOSTON arriving in SAN FRANCISCO with a layover in ATLANTA
-please list all the takeoffs and landings for MKE
+flights departing from MKE
+to flight goes from LGA to SAN JOSE flight to be on UA and arrive in SAN JOSE around 10pm
+flight leaving from BOSTON arriving in SAN FRANCISCO with layover in ATLANTA
+takeoffs and landings for MKE
 FIRST from DETROIT to ST. PETERSBURG
-what is the distance from YYZ to TORONTO
-all flights from CLEVELAND to NEWARK
-show me all the flights from INDIANAPOLIS to SAN DIEGO on US
-okay i want a flight originating in DENVER going to PITTSBURGH
-what is the minimum connection time for HOUSTON intercontinental
-i'd like a ticket on a plane from DENVER to ATLANTA i would like a COACH or lowest fare ticket
-could you please tell me the cheapest fare from ATLANTA to BOSTON
-i would like an early morning flight from CHICAGO into SEATTLE on june first on CO airline
-list all flights arriving and departing at MKE
-show me all flights on US from BOSTON to OAKLAND which leave after 11 o'clock am
-show me ground transportation in WESTCHESTER COUNTY
+what distance from YYZ to TORONTO
+flights from CLEVELAND to NEWARK
+flights from INDIANAPOLIS to SAN DIEGO on US
+flight originating in DENVER going to PITTSBURGH
+what minimum connection time for HOUSTON intercontinental
+ticket on plane from DENVER to ATLANTA COACH or lowest fare ticket
+tell cheapest fare from ATLANTA to BOSTON
+an early morning flight from CHICAGO into SEATTLE on june first on CO airline
+flights arriving and departing at MKE
+flights on US from BOSTON to OAKLAND leave after 11 am
+ground transportation in WESTCHESTER COUNTY
 flights from PITTSBURGH to NEWARK
 flights from WASHINGTON to DENVER
-what is the cheapest one way fare between BOSTON and OAKLAND
-please give grounds transportation at DALLAS airport
+what cheapest one way fare between BOSTON and OAKLAND
+grounds transportation at DALLAS airport
 nonstop flights from NEW YORK to LAS VEGAS on SUNDAY
-i need a nonstop flight from SAN DIEGO to PHOENIX
-what are the flights from MILWAUKEE to ORLANDO on WEDNESDAY
-i need a flight from PHILADELPHIA to DALLAS next WEDNESDAY in the morning
-what ground transportation is available in SAN FRANCISCO
+nonstop flight from SAN DIEGO to PHOENIX
+what flights from MILWAUKEE to ORLANDO on WEDNESDAY
+flight from PHILADELPHIA to DALLAS next WEDNESDAY in morning
+what ground transportation available in SAN FRANCISCO
 what NW flights leave DENVER before noon
-okay can you tell me the earliest flight which leaves from PHILADELPHIA to DALLAS
-what are the flights from BOSTON to SAN FRANCISCO
+can tell earliest flight leaves from PHILADELPHIA to DALLAS
+what flights from BOSTON to SAN FRANCISCO
 ground transportation WASHINGTON
-what are the flights from BOSTON to WASHINGTON on october 15 1991
-show me the flights on DL to ATLANTA in the morning
-what is the first flight after 12 noon from WASHINGTON for DENVER
-what do you have going from ATLANTA to PHILADELPHIA serving breakfast
-list flights from PITTSBURGH to BALTIMORE on THURSDAY morning nonstop
-all flights PITTSBURGH to BALTIMORE on THURSDAY arrival by 10am
+what flights from BOSTON to WASHINGTON on october 15 1991
+flights on DL to ATLANTA in morning
+what first flight after 12 noon from WASHINGTON for DENVER
+what do going from ATLANTA to PHILADELPHIA serving breakfast
+flights from PITTSBURGH to BALTIMORE on THURSDAY morning nonstop
+flights PITTSBURGH to BALTIMORE on THURSDAY arrival by 10am
 what NW flights leave DENVER before noon
-show me the flights from WASHINGTON to SAN FRANCISCO with a layover in DENVER
-what is SA
-i would like to find flights from MINNEAPOLIS to LONG BEACH after 4 o'clock on MONDAY june 14 please
-show me one way flights from TAMPA to ST. LOUIS departing before 10am
-what is the fare from BOSTON to OAKLAND on UA
-find me a flight from BOSTON to SAN FRANCISCO with layover in DENVER on UA
-what is the last flight from WASHINGTON to BOSTON
-i need to make reservations from DENVER to BOSTON
-show ground transportation for PITTSBURGH
-i would like a flight from PHILADELPHIA to DALLAS on AA
-show UA flights between PITTSBURGH and BALTIMORE
-i would like to originate my flight in WASHINGTON stop in DENVER with the destination city of SAN FRANCISCO
-are there any flights from DENVER to ATLANTA to PITTSBURGH
-show me the latest dinner flight from BALTIMORE to OAKLAND
-please repeat the flight departures for MONDAY august 19 from DENVER to PITTSBURGH
-i need to flight from BOSTON to DENVER this MONDAY
-all flights to BALTIMORE after 12pm
+flights from WASHINGTON to SAN FRANCISCO with layover in DENVER
+what SA
+to flights from MINNEAPOLIS to LONG BEACH after 4 on MONDAY june 14
+one way flights from TAMPA to ST. LOUIS departing before 10am
+what fare from BOSTON to OAKLAND on UA
+flight from BOSTON to SAN FRANCISCO with layover in DENVER on UA
+what last flight from WASHINGTON to BOSTON
+to make reservations from DENVER to BOSTON
+ground transportation for PITTSBURGH
+flight from PHILADELPHIA to DALLAS on AA
+UA flights between PITTSBURGH and BALTIMORE
+to originate flight in WASHINGTON stop in DENVER with destination city of SAN FRANCISCO
+any flights from DENVER to ATLANTA to PITTSBURGH
+latest dinner flight from BALTIMORE to OAKLAND
+repeat flight departures for MONDAY august 19 from DENVER to PITTSBURGH
+to flight from BOSTON to DENVER MONDAY
+flights to BALTIMORE after 12pm
 what do these cost
-on a flight from SAN FRANCISCO to ATLANTA that leaves before 8am is there such a flight
+on flight from SAN FRANCISCO to ATLANTA leaves before 8am such flight
 what flights leave CHICAGO and arrive in DETROIT around 6pm next TUESDAY
 flights from PITTSBURGH to BALTIMORE arriving between 4 and 5pm
 display types of aircraft departing from CLEVELAND to DALLAS before noon
 what round trip flights between ATLANTA and DENVER qualify for fare code QX
 flights on TW from COLUMBUS to ST. LOUIS
-what is the earliest flight from BOSTON to OAKLAND that serves a meal
-tell me the flights from DALLAS to BALTIMORE
-what ground transportation is available at DEN
+what earliest flight from BOSTON to OAKLAND serves meal
+tell flights from DALLAS to BALTIMORE
+what ground transportation available at DEN
 cheapest fare from INDIANAPOLIS to SEATTLE
-i want to flight from MILWAUKEE to ORLANDO on either WEDNESDAY evening or THURSDAY morning
-show me flights from PHILADELPHIA to SAN FRANCISCO on WEDNESDAY
-i want a flight from ATLANTA to PITTSBURGH
-what is the AP/57 restriction
-i would like to flight US from ORLANDO to CLEVELAND in the late evening what do you have available
-please list all flights between BOSTON and ATLANTA
-what evening flights do you have available from BALTIMORE to PHILADELPHIA
-find a flight from WASHINGTON to SAN FRANCISCO on TUESDAY
-what do you have tomorrow morning from PITTSBURGH to ATLANTA
+to flight from MILWAUKEE to ORLANDO on either WEDNESDAY evening or THURSDAY morning
+flights from PHILADELPHIA to SAN FRANCISCO on WEDNESDAY
+flight from ATLANTA to PITTSBURGH
+what AP/57 restriction
+to flight US from ORLANDO to CLEVELAND in late evening what do available
+flights between BOSTON and ATLANTA
+what evening flights do available from BALTIMORE to PHILADELPHIA
+flight from WASHINGTON to SAN FRANCISCO on TUESDAY
+what do tomorrow morning from PITTSBURGH to ATLANTA
 flights from DENVER to SEATTLE on SATURDAY morning on CO
-what is the latest return flight from ATLANTA to BOSTON
-what flight from DENVER to PITTSBURGH arrives earliest in the morning
-show all flights from DENVER to SAN FRANCISCO
-what flights are there tomorrow from TACOMA to SAN JOSE
-list all AA from MILWAUKEE to PHOENIX on SATURDAY
-i'd like information on flights between PHILADELPHIA and SAN FRANCISCO with a stop in DALLAS
-show me the fares from WASHINGTON to OAKLAND
+what latest return flight from ATLANTA to BOSTON
+what flight from DENVER to PITTSBURGH arrives earliest in morning
+flights from DENVER to SAN FRANCISCO
+what flights tomorrow from TACOMA to SAN JOSE
+AA from MILWAUKEE to PHOENIX on SATURDAY
+information on flights between PHILADELPHIA and SAN FRANCISCO with stop in DALLAS
+fares from WASHINGTON to OAKLAND
 how many airlines flight from NEW YORK to LOS ANGELES by way of MILWAUKEE
-US 3724 BALTIMORE to PHILADELPHIA what is the fare
+US 3724 BALTIMORE to PHILADELPHIA what fare
 what flights go from BOSTON to WASHINGTON next TUESDAY
-find me the cheapest flight from BOSTON to WASHINGTON
-i want to know the cheapest way to flight from DENVER to OAKLAND
-what is EWR
-what are the flights from MILWAUKEE to ORLANDO on WEDNESDAY night
-list the flights from PHILADELPHIA to SAN FRANCISCO via DALLAS
+cheapest flight from BOSTON to WASHINGTON
+to know cheapest way to flight from DENVER to OAKLAND
+what EWR
+what flights from MILWAUKEE to ORLANDO on WEDNESDAY night
+flights from PHILADELPHIA to SAN FRANCISCO via DALLAS
 information on AA from DFW texas to PHILADELPHIA
-list all the flights from CHARLOTTE to ATLANTA that return around 7pm
-i want to flight DALLAS to SAN FRANCISCO on MONDAY july 8
-does DL flight from PITTSBURGH to ATLANTA
-is there ground transportation in ST. LOUIS
-i'm looking for ground transportation in DALLAS
-okay how about a flight on SUNDAY from TAMPA to CHARLOTTE
-list DAILY flights from BOSTON to OAKLAND using CO
-show me airline abbreviations
-can you find out about the ground transportation available in ATLANTA
+flights from CHARLOTTE to ATLANTA return around 7pm
+to flight DALLAS to SAN FRANCISCO on MONDAY july 8
+DL flight from PITTSBURGH to ATLANTA
+ground transportation in ST. LOUIS
+looking for ground transportation in DALLAS
+how about flight on SUNDAY from TAMPA to CHARLOTTE
+DAILY flights from BOSTON to OAKLAND using CO
+airline abbreviations
+can out about ground transportation available in ATLANTA
 flights from PITTSBURGH to BALTIMORE between 10am and 2pm
-i would like to see the DAILY flights from BALTIMORE to PHILADELPHIA
-what flights are there from MILWAUKEE to PHOENIX on SATURDAY
-show me the cheapest one way flight from SAN FRANCISCO to BOSTON leaving SAN FRANCISCO after 9pm
-what is the earliest flight in the morning to arrive in BALTIMORE from BOSTON
-show me the type of aircraft that CP uses
-list all flights from BALTIMORE to ATLANTA after 12 noon THURSDAY
-i'd like to flight from TAMPA to MONTREAL
-what does fare code QX mean
+to DAILY flights from BALTIMORE to PHILADELPHIA
+what flights from MILWAUKEE to PHOENIX on SATURDAY
+cheapest one way flight from SAN FRANCISCO to BOSTON leaving SAN FRANCISCO after 9pm
+what earliest flight in morning to arrive in BALTIMORE from BOSTON
+type of aircraft CP uses
+flights from BALTIMORE to ATLANTA after 12 noon THURSDAY
+to flight from TAMPA to MONTREAL
+what fare code QX mean
 SATURDAY flights from LAS VEGAS to PHOENIX
-what are the flights from BOSTON to SAN FRANCISCO leaving tomorrow
+what flights from BOSTON to SAN FRANCISCO leaving tomorrow
 what flights from BURBANK to MILWAUKEE leave BURBANK tomorrow
-may i have a listing of flights from MILWAUKEE to TACOMA departing in the evening
-please give me information on a flight on april 17 from PHILADELPHIA to BOSTON earliest
-what is the latest flight available between SAN FRANCISCO and BOSTON
-show me the AA flights leaving PHOENIX on WEDNESDAY and arriving in MILWAUKEE
-what flights are there from BOSTON to DALLAS
-what is BNA
-hi i need to get a flight from MEMPHIS to SALT LAKE CITY departing before 10am
-list DAILY flights of UA from DENVER to BALTIMORE with FIRST
-a FIRST flight on AA to SAN FRANCISCO on TUESDAY in the next week
-show me the one way flights from ATLANTA to PITTSBURGH
-i would like to flight from BOSTON to OAKLAND what airlines flight from BOSTON to OAKLAND
-is there an airline that advertises having more flights than any other airline
-while i'm in PITTSBURGH what ground transportation is available
-list DAILY flights from DENVER to BOSTON
-show me all flights which leave PITTSBURGH tomorrow and arrive in BALTIMORE after 5 o'clock pm
-like information on flights from SAN FRANCISCO to BOSTON on THURSDAY morning
-show me the first flight that arrives in TORONTO from CINCINNATI
+may listing of flights from MILWAUKEE to TACOMA departing in evening
+information on flight on april 17 from PHILADELPHIA to BOSTON earliest
+what latest flight available between SAN FRANCISCO and BOSTON
+AA flights leaving PHOENIX on WEDNESDAY and arriving in MILWAUKEE
+what flights from BOSTON to DALLAS
+what BNA
+to flight from MEMPHIS to SALT LAKE CITY departing before 10am
+DAILY flights of UA from DENVER to BALTIMORE with FIRST
+FIRST flight on AA to SAN FRANCISCO on TUESDAY in next week
+one way flights from ATLANTA to PITTSBURGH
+to flight from BOSTON to OAKLAND what airlines flight from BOSTON to OAKLAND
+an airline advertises having more flights than any other airline
+while in PITTSBURGH what ground transportation available
+DAILY flights from DENVER to BOSTON
+flights leave PITTSBURGH tomorrow and arrive in BALTIMORE after 5 pm
+information on flights from SAN FRANCISCO to BOSTON on THURSDAY morning
+first flight arrives in TORONTO from CINCINNATI
 flights from PITTSBURGH to BALTIMORE between 10am and 2pm
-what does s/ designate AS a meal
-show me the flights from SAN DIEGO to NEWARK
-is there a flight leaving SAN FRANCISCO to DENVER
-list the flights from PITTSBURGH to SAN FRANCISCO on THURSDAY
-what flights are available FRIDAY afternoon from PHILADELPHIA to OAKLAND
-list all round trip fares from PHOENIX to WASHINGTON
-what are all flights from BOSTON to PITTSBURGH on WEDNESDAY
-do you have a UA flight from DALLAS to SAN FRANCISCO
-show me the flights from BOSTON to DENVER
+what s/ designate AS meal
+flights from SAN DIEGO to NEWARK
+flight leaving SAN FRANCISCO to DENVER
+flights from PITTSBURGH to SAN FRANCISCO on THURSDAY
+what flights available FRIDAY afternoon from PHILADELPHIA to OAKLAND
+round trip fares from PHOENIX to WASHINGTON
+what flights from BOSTON to PITTSBURGH on WEDNESDAY
+do UA flight from DALLAS to SAN FRANCISCO
+flights from BOSTON to DENVER
 from WASHINGTON to ATLANTA
-show me flights from DALLAS to BALTIMORE
-what is the ground transportation available in DENVER
-list all flights from BOSTON to SAN FRANCISCO on UA
+flights from DALLAS to BALTIMORE
+what ground transportation available in DENVER
+flights from BOSTON to SAN FRANCISCO on UA
 flights from HOUSTON to LOS ANGELES departing after 1026
-what type of aircraft is used on the first flight from PHILADELPHIA to DALLAS in the morning
-give me flights from BALTIMORE to DENVER on UA that offer FIRST
-show me the evening flights from PHILADELPHIA to BALTIMORE
-list nonstop flights from HOUSTON to DALLAS which arrive before midnight
-can i take a single airline from LOS ANGELES to CHARLOTTE to NEWARK back to LOS ANGELES
-i would like to flight on TW from BALTIMORE to SAN FRANCISCO
-what is the round trip fare on CO 1291 from DALLAS to SAN FRANCISCO and return
-i want to flight from ATLANTA to PHILADELPHIA
-and how much does it cost to travel from BOSTON airport to downtown
-in DENVER what kind of ground transportation is there from the airport to downtown
-what are the lowest one way fares from PITTSBURGH to ATLANTA
-show me all flights from SAN DIEGO to NEW YORK nonstop
-find a flight from TORONTO to SAN DIEGO with a layover in SAN FRANCISCO on AC
-show me return flights from CINCINNATI to SALT LAKE CITY nonstop
-i'd like a nonstop flight from ATLANTA to BALTIMORE that gets in around 7pm
-please show me the flights from LAS VEGAS to DETROIT on the 28
-only show CO flights
-i'm in MIAMI and i'd like to travel to LAS VEGAS on SUNDAY
-does YX serve BALTIMORE
-i would like to book a flight on june first from LOS ANGELES to PITTSBURGH in the late afternoon
-how do i get from BOSTON to PITTSBURGH
+what type of aircraft used on first flight from PHILADELPHIA to DALLAS in morning
+flights from BALTIMORE to DENVER on UA offer FIRST
+evening flights from PHILADELPHIA to BALTIMORE
+nonstop flights from HOUSTON to DALLAS arrive before midnight
+can take single airline from LOS ANGELES to CHARLOTTE to NEWARK back to LOS ANGELES
+to flight on TW from BALTIMORE to SAN FRANCISCO
+what round trip fare on CO 1291 from DALLAS to SAN FRANCISCO and return
+to flight from ATLANTA to PHILADELPHIA
+and how much it cost to travel from BOSTON airport to downtown
+in DENVER what kind of ground transportation from airport to downtown
+what lowest one way fares from PITTSBURGH to ATLANTA
+flights from SAN DIEGO to NEW YORK nonstop
+flight from TORONTO to SAN DIEGO with layover in SAN FRANCISCO on AC
+return flights from CINCINNATI to SALT LAKE CITY nonstop
+nonstop flight from ATLANTA to BALTIMORE gets in around 7pm
+flights from LAS VEGAS to DETROIT on 28
+only CO flights
+in MIAMI and to travel to LAS VEGAS on SUNDAY
+YX serve BALTIMORE
+to book flight on june first from LOS ANGELES to PITTSBURGH in late afternoon
+how do from BOSTON to PITTSBURGH
 flights from WASHINGTON august 2
-i want a flight from DENVER to ATLANTA
-give me all nonstops from NEW YORK to LAS VEGAS that arrive on a SUNDAY
-i'd like to flight from BOSTON to BALTIMORE
-FIRST from DALLAS to BALTIMORE please
-what is the cheapest fare from BALTIMORE to DALLAS in any class
-show me the flights from DENVER to WESTCHESTER COUNTY
-please list all FIRST flights on UA from DENVER to BALTIMORE
-what are all flights from BOSTON to DENVER
-i want to arrive in DETROIT around 6pm and i'm leaving from CHICAGO
-please show me flights from BOSTON to DENVER with a layover in PHILADELPHIA
-please book for me a flight on TW from WASHINGTON to SAN FRANCISCO earliest possible time
-i need a list of late afternoon flights from ST. LOUIS to CHICAGO
-show me all flights both direct and connecting from DFW to either SAN FRANCISCO or OAKLAND that depart after 7pm
-would you be able to put me on a flight with DL leaving the morning of august 27 from BALTIMORE to SAN FRANCISCO
-what kind of airline is flight UA 281 from BOSTON to DENVER
+flight from DENVER to ATLANTA
+nonstops from NEW YORK to LAS VEGAS arrive on SUNDAY
+to flight from BOSTON to BALTIMORE
+FIRST from DALLAS to BALTIMORE
+what cheapest fare from BALTIMORE to DALLAS in any class
+flights from DENVER to WESTCHESTER COUNTY
+FIRST flights on UA from DENVER to BALTIMORE
+what flights from BOSTON to DENVER
+to arrive in DETROIT around 6pm and leaving from CHICAGO
+flights from BOSTON to DENVER with layover in PHILADELPHIA
+book for flight on TW from WASHINGTON to SAN FRANCISCO earliest possible time
+of late afternoon flights from ST. LOUIS to CHICAGO
+flights both direct and connecting from DFW to either SAN FRANCISCO or OAKLAND depart after 7pm
+be able to put on flight with DL leaving morning of august 27 from BALTIMORE to SAN FRANCISCO
+what kind of airline flight UA 281 from BOSTON to DENVER
 what flights go from BOSTON to ATLANTA
-list ground transportation options at PHOENIX
-what's the cheapest one way flight from OAKLAND to WASHINGTON
-what flights from KANSAS CITY to DENVER after 845 in the morning
+ground transportation options at PHOENIX
+cheapest one way flight from OAKLAND to WASHINGTON
+what flights from KANSAS CITY to DENVER after 845 in morning
 what NW flights leave DENVER before noon
 flights from NEWARK to CLEVELAND
-list the morning flights between ATLANTA and DALLAS
-show me the economy flights from BALTIMORE to DALLAS
-what flights are currently available between BOSTON and DFW
-what flights go from DALLAS to SAN FRANCISCO before 6 o'clock SUNDAY afternoon
+morning flights between ATLANTA and DALLAS
+economy flights from BALTIMORE to DALLAS
+what flights currently available between BOSTON and DFW
+what flights go from DALLAS to SAN FRANCISCO before 6 SUNDAY afternoon
 what flights from ST. PAUL to KANSAS CITY on FRIDAY with breakfast served
-now i need flight information leaving ATLANTA and arriving in BALTIMORE in the afternoon
+flight information leaving ATLANTA and arriving in BALTIMORE in afternoon
 FIRST AA flight from PHILADELPHIA to DALLAS on WEDNESDAY
 morning flights out of SAN FRANCISCO arriving BOSTON afternoon
-i need a flight from TORONTO to SAN DIEGO with a layover in WASHINGTON on AC
-please show me the return flight number from TORONTO to ST. PETERSBURG
-please list ground transportation in ATLANTA
-please give me flight schedules from PITTSBURGH to PHILADELPHIA
-what are the nonstop flights from KANSAS CITY to BURBANK arriving on SATURDAY may 22
-i would like to flight from BOSTON to BALTIMORE
-what are the flights from PITTSBURGH to DENVER
-i would like the first flight from TORONTO to MONTREAL next FRIDAY
-what is the ground transportation available in BOSTON
-i would like to see the flights from BALTIMORE to PHILADELPHIA please
-i'd like to see the flights from BALTIMORE to PHILADELPHIA
-i want to flight from BOSTON to DENVER and i don't want any layover and i'd like to flight only during the afternoon
-what is the first flight from BOSTON to SAN FRANCISCO on SATURDAY
-show me a list of all the airlines that offer BUSINESS
-where do the flights from BOSTON to OAKLAND stop
-what flights go from CHARLOTTE to BALTIMORE in the morning
-what time are the flights from BALTIMORE to SAN FRANCISCO
+flight from TORONTO to SAN DIEGO with layover in WASHINGTON on AC
+return flight number from TORONTO to ST. PETERSBURG
+ground transportation in ATLANTA
+flight schedules from PITTSBURGH to PHILADELPHIA
+what nonstop flights from KANSAS CITY to BURBANK arriving on SATURDAY may 22
+to flight from BOSTON to BALTIMORE
+what flights from PITTSBURGH to DENVER
+first flight from TORONTO to MONTREAL next FRIDAY
+what ground transportation available in BOSTON
+to flights from BALTIMORE to PHILADELPHIA
+to flights from BALTIMORE to PHILADELPHIA
+to flight from BOSTON to DENVER and don't any layover and to flight only during afternoon
+what first flight from BOSTON to SAN FRANCISCO on SATURDAY
+of airlines offer BUSINESS
+where do flights from BOSTON to OAKLAND stop
+what flights go from CHARLOTTE to BALTIMORE in morning
+what time flights from BALTIMORE to SAN FRANCISCO
 requesting flight information from BOSTON to DENVER on WEDNESDAY
-which UA flight flies across this continent and leaves from BOSTON goes to DALLAS and makes a layover in PHILADELPHIA
-is there a DL flight from BOSTON to SAN FRANCISCO that stops in DENVER
-which cities does UA service
-show me flights from ATLANTA to BALTIMORE
-what does EA mean
-now show me the flights from PITTSBURGH to BALTIMORE
-what ground transportation is available in DENVER
-i need a flight from CINCINNATI to SAN JOSE leaving after 6 in the evening
-what is your last trip on august 27 from WASHINGTON to BOSTON
+UA flight flies across continent and leaves from BOSTON goes to DALLAS and makes layover in PHILADELPHIA
+DL flight from BOSTON to SAN FRANCISCO stops in DENVER
+cities UA service
+flights from ATLANTA to BALTIMORE
+what EA mean
+flights from PITTSBURGH to BALTIMORE
+what ground transportation available in DENVER
+flight from CINCINNATI to SAN JOSE leaving after 6 in evening
+what your last trip on august 27 from WASHINGTON to BOSTON
 what flights from DETROIT to ST. PETERSBURG
-i would like to flight from DALLAS to DENVER on the morning of august 27 leaving at 650
-ground transportation please in the city of BOSTON between airport and downtown
-what flights are there from DALLAS to PITTSBURGH on MONDAY morning
-show me the flights from BOSTON to OAKLAND
-i would like to leave early in the morning
-i would like a flight from ATLANTA to DENVER
-what does it cost to flight from BOSTON to SAN FRANCISCO on UA flight 21
-i would like to flight from BOSTON to ATLANTA
-show me the airlines with FIRST flights
-what's the earliest flight from BOSTON to PHILADELPHIA
-what is the distance between PIT and downtown PITTSBURGH
-what are the flights from TACOMA to SAN JOSE on WEDNESDAY the 19
-show me the flights from MIAMI to SAN DIEGO with one stop in DENVER
-show me all UA flights from DENVER to SAN FRANCISCO for september first 1991
-show me all TW flights please
-list all flights from INDIANAPOLIS to SEATTLE
-what is the cost for these flights from BALTIMORE to PHILADELPHIA
+to flight from DALLAS to DENVER on morning of august 27 leaving at 650
+ground transportation in city of BOSTON between airport and downtown
+what flights from DALLAS to PITTSBURGH on MONDAY morning
+flights from BOSTON to OAKLAND
+to leave early in morning
+flight from ATLANTA to DENVER
+what it cost to flight from BOSTON to SAN FRANCISCO on UA flight 21
+to flight from BOSTON to ATLANTA
+airlines with FIRST flights
+earliest flight from BOSTON to PHILADELPHIA
+what distance between PIT and downtown PITTSBURGH
+what flights from TACOMA to SAN JOSE on WEDNESDAY 19
+flights from MIAMI to SAN DIEGO with one stop in DENVER
+UA flights from DENVER to SAN FRANCISCO for september first 1991
+TW flights
+flights from INDIANAPOLIS to SEATTLE
+what cost for these flights from BALTIMORE to PHILADELPHIA
 cheapest fare from NASHVILLE to SEATTLE
-show me the flights before 11am on august 2 from BOSTON to DENVER on DL
+flights before 11am on august 2 from BOSTON to DENVER on DL
 flights from OAKLAND to SAN FRANCISCO on january 21 1992
-what is the earliest flight that i can get from BWI to BOS
-show me all flights from BOSTON to DETROIT
-what nonstop flights between ATLANTA and WASHINGTON leave ATLANTA after 6 o'clock pm
-show me the earliest flight from DENVER to LAS VEGAS
-i would like to flight from PITTSBURGH to ATLANTA
-show me the schedule for airlines leaving PITTSBURGH going to SAN FRANCISCO for next MONDAY
+what earliest flight can from BWI to BOS
+flights from BOSTON to DETROIT
+what nonstop flights between ATLANTA and WASHINGTON leave ATLANTA after 6 pm
+earliest flight from DENVER to LAS VEGAS
+to flight from PITTSBURGH to ATLANTA
+schedule for airlines leaving PITTSBURGH going to SAN FRANCISCO for next MONDAY
 what airlines flight between ATLANTA and SAN FRANCISCO
-show me the flights from ATLANTA to BOSTON
+flights from ATLANTA to BOSTON
 round trip fares from BALTIMORE to PHILADELPHIA under 1000 dollars
-are there any AA flights flying into PITTSBURGH between 12 and 4 in the afternoon
-is there a flight from ATLANTA to SAN FRANCISCO that stops over in DENVER
-please show me the flights from DENVER to BALTIMORE between 10am and 2pm
-show me ground transportation in DENVER during weekdays
-show me round trip tickets from NEW YORK to MIAMI
-give me flights from PITTSBURGH to BALTIMORE
+any AA flights flying into PITTSBURGH between 12 and 4 in afternoon
+flight from ATLANTA to SAN FRANCISCO stops over in DENVER
+flights from DENVER to BALTIMORE between 10am and 2pm
+ground transportation in DENVER during weekdays
+round trip tickets from NEW YORK to MIAMI
+flights from PITTSBURGH to BALTIMORE
 ground transportation from airport in BOSTON to downtown BOSTON
-i'd also like to see a list of the flights from PITTSBURGH to ATLANTA
+to of flights from PITTSBURGH to ATLANTA
 flights from ATLANTA to WASHINGTON
-show flights between BOSTON and DENVER
-show me flights from PITTSBURGH to ATLANTA on MONDAY morning
-i'd like flight information from DFW to BOSTON on TUESDAY
+flights between BOSTON and DENVER
+flights from PITTSBURGH to ATLANTA on MONDAY morning
+flight information from DFW to BOSTON on TUESDAY
 cheapest flight from MIAMI to INDIANAPOLIS
-yes i'd like a flight from LONG BEACH to ST. LOUIS by way of DALLAS
+flight from LONG BEACH to ST. LOUIS by way of DALLAS
 what flights from NEW YORK to LOS ANGELES after 10am
-i'd like to see all the one way flights from DENVER to PITTSBURGH
-what are the COACH fares for flights from NEWARK to LOS ANGELES leaving after 3pm
-on TUESDAY i'd like to find a flight from DETROIT to ST. PETERSBURG that arrives before 10pm
-show me all the DL flights leaving PITTSBURGH between 12 and 4 in the afternoon
-give me flights from ATLANTA to BALTIMORE
-i need a flight from BOSTON to SAN FRANCISCO via DFW
-show me the latest flight from DENVER to BOSTON
+to one way flights from DENVER to PITTSBURGH
+what COACH fares for flights from NEWARK to LOS ANGELES leaving after 3pm
+on TUESDAY to flight from DETROIT to ST. PETERSBURG arrives before 10pm
+DL flights leaving PITTSBURGH between 12 and 4 in afternoon
+flights from ATLANTA to BALTIMORE
+flight from BOSTON to SAN FRANCISCO via DFW
+latest flight from DENVER to BOSTON
 what airplane types flight from PITTSBURGH to BALTIMORE
-i'd like to have flight from DENVER to PITTSBURGH
-looking for a flight from dc to DENVER colorado
+to flight from DENVER to PITTSBURGH
+looking for flight from dc to DENVER colorado
 from DENVER to WASHINGTON on MONDAY november 11 1991
-does the PHILADELPHIA airport have a name
-what is the earliest flight from MEMPHIS to LAS VEGAS
+PHILADELPHIA airport name
+what earliest flight from MEMPHIS to LAS VEGAS
 flights from CINCINNATI to SALT LAKE CITY
-show me ground transportation in BALTIMORE
-can you show me flights that are economy from BALTIMORE to DALLAS
-what are the flights from DENVER to BALTIMORE on august 10
-i'd like to book a flight from DENVER to PITTSBURGH and i'd like to go on EA
-is there a flight leaving at 1505 from PITTSBURGH to BALTIMORE on july 25 1991
-show me the itinerary of the connecting flight from BOSTON to DENVER that departs BOSTON at 10am
-what are the flights from CLEVELAND to INDIANAPOLIS on WEDNESDAY may 12 on either TW DL or CO
-show me the latest flight to DAL
+ground transportation in BALTIMORE
+can flights economy from BALTIMORE to DALLAS
+what flights from DENVER to BALTIMORE on august 10
+to book flight from DENVER to PITTSBURGH and to go on EA
+flight leaving at 1505 from PITTSBURGH to BALTIMORE on july 25 1991
+itinerary of connecting flight from BOSTON to DENVER departs BOSTON at 10am
+what flights from CLEVELAND to INDIANAPOLIS on WEDNESDAY may 12 on either TW DL or CO
+latest flight to DAL
 explain restriction AP/80
-show me the flights into DAL
+flights into DAL
 ground transportation in SAN JOSE
-what flights go from PHILADELPHIA to SAN FRANCISCO with a layover in DALLAS
-what does fare code QO mean
-show me the flights on DL or TW which go through ATLANTA
-please give me the flights from BOSTON to PITTSBURGH on THURSDAY of next week
-please show me all round trip flights from BURBANK to TACOMA
-show me the FIRST flights from DENVER to BALTIMORE
-show me all the flights from PHILADELPHIA to CINCINNATI
-could you give me a flight between PITTSBURGH and PHILADELPHIA
-tell me about flights on AA from DFW to PHILADELPHIA on june 29
-show me all flights from DALLAS to SAN FRANCISCO
-list all AA flight from MILWAUKEE to PHOENIX on SUNDAY
-are there any flights from BOSTON to SAN FRANCISCO with a layover in DALLAS
-what is the thrift economy flight fare from WASHINGTON to SAN FRANCISCO
-i need information on ground transportation between airport and downtown in the city of BOSTON
-what are all flights from DENVER to PHILADELPHIA on SATURDAY
-give me all the flights from NEW YORK to MIAMI round trip
-i want to flight from MILWAUKEE to ORLANDO on WEDNESDAY evening
-show me all flights from PITTSBURGH which leave tomorrow and arrive in BOSTON
-list all flights going from BOSTON to ATLANTA after 6 o'clock pm on WEDNESDAY
-i want WEDNESDAY flights from ATLANTA to WASHINGTON
-i want to leave OAKLAND and arrive in BOSTON at 5 o'clock in the afternoon
-show me the flights from BALTIMORE to OAKLAND
-i want to flight from BOSTON to DENVER with a stop in PHILADELPHIA
-i want to flight PHILADELPHIA to SAN FRANCISCO on july 8
-i'd like to find a flight from CHARLOTTE to LAS VEGAS and make a stop in ST. LOUIS
-what is the total schedule for delta's flights to all airports
-what are the cities served by DL
-what is the latest flight from PHILADELPHIA to BOSTON
-hello i'd like a DL flight from ATLANTA to BOSTON
-i'd like a flight from LAS VEGAS to DETROIT on MONDAY
-is there an airline that has a flight from PHILADELPHIA to SAN FRANCISCO with a stop in DALLAS
-i'm looking for a flight traveling from BOSTON to DENVER one way and the cheapest way possible
-list the flights from DENVER to BALTIMORE
-does YX have any flights from MONTREAL to NASHVILLE
-show me the flights from DENVER to ATLANTA
-list DAILY flights from BOSTON to OAKLAND using TW
-show me all flights direct and connecting from BOSTON to PITTSBURGH that arrive in PITTSBURGH before 10am
-show me morning flights from ATLANTA to PHILADELPHIA
-what's the latest flight i can get from DALLAS to BOSTON
-yes i would like to find what flights are available from ATLANTA to BOSTON on the morning of july 7
+what flights go from PHILADELPHIA to SAN FRANCISCO with layover in DALLAS
+what fare code QO mean
+flights on DL or TW go through ATLANTA
+flights from BOSTON to PITTSBURGH on THURSDAY of next week
+round trip flights from BURBANK to TACOMA
+FIRST flights from DENVER to BALTIMORE
+flights from PHILADELPHIA to CINCINNATI
+flight between PITTSBURGH and PHILADELPHIA
+tell about flights on AA from DFW to PHILADELPHIA on june 29
+flights from DALLAS to SAN FRANCISCO
+AA flight from MILWAUKEE to PHOENIX on SUNDAY
+any flights from BOSTON to SAN FRANCISCO with layover in DALLAS
+what thrift economy flight fare from WASHINGTON to SAN FRANCISCO
+information on ground transportation between airport and downtown in city of BOSTON
+what flights from DENVER to PHILADELPHIA on SATURDAY
+flights from NEW YORK to MIAMI round trip
+to flight from MILWAUKEE to ORLANDO on WEDNESDAY evening
+flights from PITTSBURGH leave tomorrow and arrive in BOSTON
+flights going from BOSTON to ATLANTA after 6 pm on WEDNESDAY
+WEDNESDAY flights from ATLANTA to WASHINGTON
+to leave OAKLAND and arrive in BOSTON at 5 in afternoon
+flights from BALTIMORE to OAKLAND
+to flight from BOSTON to DENVER with stop in PHILADELPHIA
+to flight PHILADELPHIA to SAN FRANCISCO on july 8
+to flight from CHARLOTTE to LAS VEGAS and make stop in ST. LOUIS
+what total schedule for delta's flights to airports
+what cities served by DL
+what latest flight from PHILADELPHIA to BOSTON
+hello DL flight from ATLANTA to BOSTON
+flight from LAS VEGAS to DETROIT on MONDAY
+an airline has flight from PHILADELPHIA to SAN FRANCISCO with stop in DALLAS
+looking for flight traveling from BOSTON to DENVER one way and cheapest way possible
+flights from DENVER to BALTIMORE
+YX any flights from MONTREAL to NASHVILLE
+flights from DENVER to ATLANTA
+DAILY flights from BOSTON to OAKLAND using TW
+flights direct and connecting from BOSTON to PITTSBURGH arrive in PITTSBURGH before 10am
+morning flights from ATLANTA to PHILADELPHIA
+latest flight can from DALLAS to BOSTON
+to what flights available from ATLANTA to BOSTON on morning of july 7
 flights from MIAMI to CLEVELAND
-what is the cost of flights from INDIANAPOLIS to MEMPHIS
-show me the flights between ATLANTA and WASHINGTON for WEDNESDAY
-i need a return flight from CHICAGO to KANSAS CITY leaving CHICAGO around 7 in the evening next THURSDAY
-show me ground transportation in DALLAS please
-i'd like a nonstop flight from INDIANAPOLIS to SAN DIEGO that serves dinner what's available
-i would like to make a one way flight from BOSTON to ATLANTA
-show me the flights out of DAL
+what cost of flights from INDIANAPOLIS to MEMPHIS
+flights between ATLANTA and WASHINGTON for WEDNESDAY
+return flight from CHICAGO to KANSAS CITY leaving CHICAGO around 7 in evening next THURSDAY
+ground transportation in DALLAS
+nonstop flight from INDIANAPOLIS to SAN DIEGO serves dinner available
+to make one way flight from BOSTON to ATLANTA
+flights out of DAL
 flight from WASHINGTON to SALT LAKE CITY
-do you have an afternoon flight leaving in the afternoon going from BOSTON to SAN FRANCISCO with a layover in DALLAS
-what are all the flights from BOSTON to DALLAS
-what flights are available from PITTSBURGH to BALTIMORE on THURSDAY morning
-show me all flights from BALTIMORE to DALLAS
-is there a flight on EA from BOSTON to DENVER
-show me flights from PHILADELPHIA to DENVER on a MONDAY
-i would like flights between BOSTON and ATLANTA on july 11 departing at one in the afternoon
-what flights are there from DALLAS to PITTSBURGH on MONDAY morning
+do an afternoon flight leaving in afternoon going from BOSTON to SAN FRANCISCO with layover in DALLAS
+what flights from BOSTON to DALLAS
+what flights available from PITTSBURGH to BALTIMORE on THURSDAY morning
+flights from BALTIMORE to DALLAS
+flight on EA from BOSTON to DENVER
+flights from PHILADELPHIA to DENVER on MONDAY
+flights between BOSTON and ATLANTA on july 11 departing at one in afternoon
+what flights from DALLAS to PITTSBURGH on MONDAY morning
 flights from ATLANTA to WASHINGTON on THURSDAY morning
-is there limousine service available at BWI
-what flights are there from PITTSBURGH to DALLAS on WEDNESDAY morning
-now show me the flights from DENVER to ATLANTA
-i need a flight from SAN DIEGO to INDIANAPOLIS leaving in the afternoon on TUESDAY
-i want a flight on TW from BOSTON to SAN FRANCISCO
-show flights and fare information from PITTSBURGH connecting through DENVER to OAKLAND
-show me the type of aircraft that CP uses
+limousine service available at BWI
+what flights from PITTSBURGH to DALLAS on WEDNESDAY morning
+flights from DENVER to ATLANTA
+flight from SAN DIEGO to INDIANAPOLIS leaving in afternoon on TUESDAY
+flight on TW from BOSTON to SAN FRANCISCO
+flights and fare information from PITTSBURGH connecting through DENVER to OAKLAND
+type of aircraft CP uses
 earliest flight from ATLANTA to PHILADELPHIA
-i need a flight from MONTREAL to SAN DIEGO leaving this SUNDAY
-show me all flights from PITTSBURGH to PHILADELPHIA which arrive before 8 o'clock am on WEDNESDAY
-i would like to flight to DENVER for under 500 dollars please show me the airfares between PITTSBURGH and DENVER
-i want to flight from PHILADELPHIA to DALLAS with a stop in ATLANTA on a breakfast flight
-please explain fare code F
-what is fare code H
-please find a flight on DL from PHILADELPHIA to SAN FRANCISCO and give me the flight numbers
-SAN FRANCISCO to BOSTON please with a layover in DENVER
+flight from MONTREAL to SAN DIEGO leaving SUNDAY
+flights from PITTSBURGH to PHILADELPHIA arrive before 8 am on WEDNESDAY
+to flight to DENVER for under 500 dollars airfares between PITTSBURGH and DENVER
+to flight from PHILADELPHIA to DALLAS with stop in ATLANTA on breakfast flight
+explain fare code F
+what fare code H
+flight on DL from PHILADELPHIA to SAN FRANCISCO and flight numbers
+SAN FRANCISCO to BOSTON with layover in DENVER
 what NW flights stop in DENVER
-i also need service from DALLAS to BOSTON arriving by noon
-what do you have tomorrow after 5 o'clock from ATLANTA to SAN FRANCISCO
-give me all flights from NEW YORK to LAS VEGAS that arrive on a SUNDAY
+service from DALLAS to BOSTON arriving by noon
+what do tomorrow after 5 from ATLANTA to SAN FRANCISCO
+flights from NEW YORK to LAS VEGAS arrive on SUNDAY
 flight information from DENVER to SAN FRANCISCO
-show me flights available from ATLANTA to BALTIMORE leaving on MONDAY morning
-also show me flights from SAN FRANCISCO to PITTSBURGH on TUESDAY
-which airlines flight into and out of DENVER
-display all flights from DALLAS to BOSTON on july 30
-what is the earliest flight i can get from BALTIMORE to BOSTON
-are there any flights from BOSTON to SAN FRANCISCO stopping in DENVER
-i need a flight from ST. PETERSBURG to CHARLOTTE which will get me into CHARLOTTE by 5pm or AS soon thereafter AS possible
-i'd like to flight early tomorrow from COLUMBUS to MINNEAPOLIS
+flights available from ATLANTA to BALTIMORE leaving on MONDAY morning
+flights from SAN FRANCISCO to PITTSBURGH on TUESDAY
+airlines flight into and out of DENVER
+display flights from DALLAS to BOSTON on july 30
+what earliest flight can from BALTIMORE to BOSTON
+any flights from BOSTON to SAN FRANCISCO stopping in DENVER
+flight from ST. PETERSBURG to CHARLOTTE will into CHARLOTTE by 5pm or AS soon thereafter AS possible
+to flight early tomorrow from COLUMBUS to MINNEAPOLIS
 flights from ONTARIO to ORLANDO
-how many flights does AA have with a class of service code F
-i'd like to see flights from BALTIMORE to ATLANTA
-show me flights leaving from SAN FRANCISCO to DENVER on september 30
-PHILADELPHIA to SAN FRANCISCO please
-what's the ground transportation from OAKLAND to SAN FRANCISCO
-show me the flights from BALTIMORE to PHILADELPHIA
-show all flights on UA from SAN FRANCISCO to DENVER to WASHINGTON
-i'd like to leave ATLANTA in the afternoon and arrive in PHILADELPHIA at 5pm
+how many flights AA with class of service code F
+to flights from BALTIMORE to ATLANTA
+flights leaving from SAN FRANCISCO to DENVER on september 30
+PHILADELPHIA to SAN FRANCISCO
+ground transportation from OAKLAND to SAN FRANCISCO
+flights from BALTIMORE to PHILADELPHIA
+flights on UA from SAN FRANCISCO to DENVER to WASHINGTON
+to leave ATLANTA in afternoon and arrive in PHILADELPHIA at 5pm
 ATLANTA to PITTSBURGH
 flight information from SAN FRANCISCO to PITTSBURGH
-show me all flights both direct and connecting to either SAN FRANCISCO or OAKLAND from BOSTON that arrive before 2pm
+flights both direct and connecting to either SAN FRANCISCO or OAKLAND from BOSTON arrive before 2pm
 on CO any class service from SAN FRANCISCO to PITTSBURGH
-can you please tell me the type of aircraft used flying from ATLANTA to DENVER on EA flight 825 leaving at 555
-i would like information on TW flights from WASHINGTON to PHILADELPHIA
-display all flights from BOSTON to BALTIMORE on july 31
-show me flights from MILWAUKEE to ORLANDO on WEDNESDAY after 6pm
-list DAILY flights from DENVER to BALTIMORE with FIRST
-what flights are there from ATLANTA to WASHINGTON early on THURSDAY mornings
-what's the first flight after 1pm leaving WASHINGTON to DENVER
-i'd like a flight from WASHINGTON that stops in DENVER and goes on to SAN FRANCISCO
-what is the fare for flights from DENVER to ATLANTA
-show me ground transportation in BOSTON
-list all flights going from BOSTON to ATLANTA before 7am on THURSDAY
-give me the flights and fares on december 27 from INDIANAPOLIS to ORLANDO
-show me all flights from NEW YORK to MILWAUKEE on NW departing at 720am
-show me flights from SAN FRANCISCO to MINNEAPOLIS
-find travel arrangements for a round trip flight from BOSTON to PITTSBURGH arriving after 8pm
-what airline uses the code HP
-what flights are available with Q fares from BOSTON to PITTSBURGH
-what are the flights from TACOMA to SAN JOSE also on TUESDAY the 18 of may
-i would like information on any flights from PITTSBURGH to SAN FRANCISCO leaving THURSDAY evening
-now show me the flights from MEMPHIS to CLEVELAND
-i want to go from BOSTON to ATLANTA on MONDAY
-what is EWR
-show me the flights from PHILADELPHIA to BOSTON
-show me the evening flights from ATLANTA to WASHINGTON on WEDNESDAY
-what cities are served by CP
-what does fare code Q mean
-what does EWR mean
-what ground transportation is available at the BOSTON airport
-show me CO flights leaving CHICAGO on SATURDAY morning
+can tell type of aircraft used flying from ATLANTA to DENVER on EA flight 825 leaving at 555
+information on TW flights from WASHINGTON to PHILADELPHIA
+display flights from BOSTON to BALTIMORE on july 31
+flights from MILWAUKEE to ORLANDO on WEDNESDAY after 6pm
+DAILY flights from DENVER to BALTIMORE with FIRST
+what flights from ATLANTA to WASHINGTON early on THURSDAY mornings
+first flight after 1pm leaving WASHINGTON to DENVER
+flight from WASHINGTON stops in DENVER and goes on to SAN FRANCISCO
+what fare for flights from DENVER to ATLANTA
+ground transportation in BOSTON
+flights going from BOSTON to ATLANTA before 7am on THURSDAY
+flights and fares on december 27 from INDIANAPOLIS to ORLANDO
+flights from NEW YORK to MILWAUKEE on NW departing at 720am
+flights from SAN FRANCISCO to MINNEAPOLIS
+travel arrangements for round trip flight from BOSTON to PITTSBURGH arriving after 8pm
+what airline uses code HP
+what flights available with Q fares from BOSTON to PITTSBURGH
+what flights from TACOMA to SAN JOSE on TUESDAY 18 of may
+information on any flights from PITTSBURGH to SAN FRANCISCO leaving THURSDAY evening
+flights from MEMPHIS to CLEVELAND
+to go from BOSTON to ATLANTA on MONDAY
+what EWR
+flights from PHILADELPHIA to BOSTON
+evening flights from ATLANTA to WASHINGTON on WEDNESDAY
+what cities served by CP
+what fare code Q mean
+what EWR mean
+what ground transportation available at BOSTON airport
+CO flights leaving CHICAGO on SATURDAY morning
 how many US flights leave from WASHINGTON
-what ground transportation is available at the BWI
-okay that sounds great let's go from ATLANTA on april 21 in the morning to DALLAS cheapest fare one way
-i would like to know some information on flights leaving PHILADELPHIA arriving in PITTSBURGH in the afternoon
-what's the ground transportation like at PITTSBURGH
-what flights are there between WASHINGTON and SAN FRANCISCO after 6pm on WEDNESDAY
-show me the flights from BOSTON to PITTSBURGH leaving WEDNESDAY and THURSDAY
-fine can you give me information on ground transportation in WASHINGTON to downtown
-please show me flights available from PITTSBURGH to ATLANTA on a weekday
-what flights leave from ATLANTA to BOSTON on june 29 in the afternoon
-show me the flights from BOSTON to SAN FRANCISCO leaving after 4pm on FRIDAY
-which airline has the most BUSINESS flights
-does AA flight from LONG BEACH to ST. LOUIS stopping in DALLAS serve lunch
+what ground transportation available at BWI
+sounds great let's go from ATLANTA on april 21 in morning to DALLAS cheapest fare one way
+to know some information on flights leaving PHILADELPHIA arriving in PITTSBURGH in afternoon
+ground transportation at PITTSBURGH
+what flights between WASHINGTON and SAN FRANCISCO after 6pm on WEDNESDAY
+flights from BOSTON to PITTSBURGH leaving WEDNESDAY and THURSDAY
+fine can information on ground transportation in WASHINGTON to downtown
+flights available from PITTSBURGH to ATLANTA on weekday
+what flights leave from ATLANTA to BOSTON on june 29 in afternoon
+flights from BOSTON to SAN FRANCISCO leaving after 4pm on FRIDAY
+airline has most BUSINESS flights
+AA flight from LONG BEACH to ST. LOUIS stopping in DALLAS serve lunch
 flights from CHICAGO to DENVER on CO on SATURDAY morning
-list flights from CINCINNATI to SAN JOSE FRIDAY evening
-i would like a flight from PHILADELPHIA to DALLAS that makes a stop in ATLANTA
-please list flights from ATLANTA to philly
-what kind of aircraft does DL flight before 8am on august 2 from BOSTON to DENVER
-what's the earliest flight from SAN JOSE to HOUSTON
-show me flights from PHILADELPHIA to OAKLAND on FRIDAY
-is there a TW flight from LAS VEGAS to NEW YORK
-in PITTSBURGH i'd like to rent a car
-i would like to flight from BOSTON to BALTIMORE please tell me what are the times of the flights
-do you have a flight from SALT LAKE CITY to ST. PETERSBURG on june 2
-show me a list of flights from BOSTON to ATLANTA leaving after noon and arriving before 7pm
-please list the RENTAL CAR information in PITTSBURGH
+flights from CINCINNATI to SAN JOSE FRIDAY evening
+flight from PHILADELPHIA to DALLAS makes stop in ATLANTA
+flights from ATLANTA to philly
+what kind of aircraft DL flight before 8am on august 2 from BOSTON to DENVER
+earliest flight from SAN JOSE to HOUSTON
+flights from PHILADELPHIA to OAKLAND on FRIDAY
+TW flight from LAS VEGAS to NEW YORK
+in PITTSBURGH to RENTAL CAR
+to flight from BOSTON to BALTIMORE tell what times of flights
+do flight from SALT LAKE CITY to ST. PETERSBURG on june 2
+of flights from BOSTON to ATLANTA leaving after noon and arriving before 7pm
+RENTAL CAR information in PITTSBURGH
 what flights leave SEATTLE on SUNDAY on CO
-show me economy from DALLAS to BALTIMORE
-how many FIRST flights does UA have leaving from all cities today
-list DAILY flights from OAKLAND to BOSTON using CO
-i want a flight departing from NEWARK to LOS ANGELES that leaves in the morning
-show me all the flights from CHARLOTTE to CLEVELAND
-please list the flights from PITTSBURGH to BALTIMORE arriving may 7
+economy from DALLAS to BALTIMORE
+how many FIRST flights UA leaving from cities today
+DAILY flights from OAKLAND to BOSTON using CO
+flight departing from NEWARK to LOS ANGELES leaves in morning
+flights from CHARLOTTE to CLEVELAND
+flights from PITTSBURGH to BALTIMORE arriving may 7
 what flights stop in ATLANTA before noon
-what are the flight numbers of the flights which go from SAN FRANCISCO to WASHINGTON via INDIANAPOLIS
-please show me all one way FIRST flights from INDIANAPOLIS to MEMPHIS
-i need to book a flight from NEWARK to TAMPA on april 4
-i'd like to see all the flights with their fares from DENVER to ATLANTA
-what ground transportation is available in NEWARK
-i want a round trip fare from NEW YORK to SAN JOSE
-what kind of aircraft is used on the FIRST AA flight from PHILADELPHIA to SAN FRANCISCO with a DALLAS layover
-i need a flight from INDIANAPOLIS to TORONTO reaching TORONTO on THURSDAY morning
-show me flights from SAN FRANCISCO to BOSTON on THURSDAY
+what flight numbers of flights go from SAN FRANCISCO to WASHINGTON via INDIANAPOLIS
+one way FIRST flights from INDIANAPOLIS to MEMPHIS
+to book flight from NEWARK to TAMPA on april 4
+to flights with their fares from DENVER to ATLANTA
+what ground transportation available in NEWARK
+round trip fare from NEW YORK to SAN JOSE
+what kind of aircraft used on FIRST AA flight from PHILADELPHIA to SAN FRANCISCO with DALLAS layover
+flight from INDIANAPOLIS to TORONTO reaching TORONTO on THURSDAY morning
+flights from SAN FRANCISCO to BOSTON on THURSDAY
 ground transport PHOENIX
-now list for me only the UA flights that flight from OAKLAND to BOSTON
-show me the flight classes for DL
-show me the airlines that flight from DENVER to SAN FRANCISCO
-is there ground transportation between airport and downtown in BOSTON
-show me flights from DENVER to WASHINGTON WEDNESDAY
-show me the flights arriving around noon in BALTIMORE from DENVER
-does CO flight from PITTSBURGH to ATLANTA
-how much is a FIRST from BALTIMORE to SAN FRANCISCO
-give me the round trip COACH fare from DALLAS to BALTIMORE
-what's the cheapest round trip fare between BOSTON and WASHINGTON
-what are the schedule of flights from BOSTON to SAN FRANCISCO for august first
-show me the evening flights from PHILADELPHIA to BALTIMORE
-how can i go from MINNEAPOLIS to LONG BEACH late tomorrow
-do you have any flights from BOSTON to DFW that stop over in PHILADELPHIA
-thank you i also need to travel next WEDNESDAY evening from DALLAS to SAN FRANCISCO
-what is the earliest departure time from BOSTON to DENVER
-do you have a flight from ATLANTA to BOSTON that will stop in WASHINGTON
-show me all flights and fares from DALLAS to SAN FRANCISCO
-on april 20 would like to flight from DENVER to PITTSBURGH at about 8 o'clock in the morning
-i would like to book a flight on CO from CHICAGO to SEATTLE on june first
-what is the cheapest fare between DENVER and BOSTON
-list flights from PITTSBURGH to BOSTON leaving after 3 in the afternoon
-list the number of flights leaving BOSTON for DFW before 9am in the morning
-is there ground transportation from the DALLAS airport to downtown DALLAS
-is there a round trip flight from ATLANTA to DALLAS via DENVER
-show me flights from DALLAS to SAN FRANCISCO on WEDNESDAY
+for only UA flights flight from OAKLAND to BOSTON
+flight classes for DL
+airlines flight from DENVER to SAN FRANCISCO
+ground transportation between airport and downtown in BOSTON
+flights from DENVER to WASHINGTON WEDNESDAY
+flights arriving around noon in BALTIMORE from DENVER
+CO flight from PITTSBURGH to ATLANTA
+how much FIRST from BALTIMORE to SAN FRANCISCO
+round trip COACH fare from DALLAS to BALTIMORE
+cheapest round trip fare between BOSTON and WASHINGTON
+what schedule of flights from BOSTON to SAN FRANCISCO for august first
+evening flights from PHILADELPHIA to BALTIMORE
+how can go from MINNEAPOLIS to LONG BEACH late tomorrow
+do any flights from BOSTON to DFW stop over in PHILADELPHIA
+to travel next WEDNESDAY evening from DALLAS to SAN FRANCISCO
+what earliest departure time from BOSTON to DENVER
+do flight from ATLANTA to BOSTON will stop in WASHINGTON
+flights and fares from DALLAS to SAN FRANCISCO
+on april 20 to flight from DENVER to PITTSBURGH at about 8 in morning
+to book flight on CO from CHICAGO to SEATTLE on june first
+what cheapest fare between DENVER and BOSTON
+flights from PITTSBURGH to BOSTON leaving after 3 in afternoon
+number of flights leaving BOSTON for DFW before 9am in morning
+ground transportation from DALLAS airport to downtown DALLAS
+round trip flight from ATLANTA to DALLAS via DENVER
+flights from DALLAS to SAN FRANCISCO on WEDNESDAY
 cost of flight from CLEVELAND to NASHVILLE
-how long is a trip from PHILADELPHIA airport to downtown PHILADELPHIA
-give me flights from DENVER to BALTIMORE
-what is the last flight out of PITTSBURGH to BOSTON in the evening on TUESDAY
-display flights from DALLAS to ATLANTA which depart between 2pm and 6pm
-show me all flights from ATLANTA to DALLAS round trip less than 1100 dollars
+how long trip from PHILADELPHIA airport to downtown PHILADELPHIA
+flights from DENVER to BALTIMORE
+what last flight out of PITTSBURGH to BOSTON in evening on TUESDAY
+display flights from DALLAS to ATLANTA depart between 2pm and 6pm
+flights from ATLANTA to DALLAS round trip less than 1100 dollars
 airline code AS
-what is the ground transport in DENVER
-show me flights from SAN FRANCISCO to DALLAS please
-what ground transportation is available in PITTSBURGH
-could i have listings of flights from NEW YORK to MONTREAL leaving on WEDNESDAY
-show me all flights from MILWAUKEE to ORLANDO
-find travel arrangements for a round trip flight from DALLAS to PITTSBURGH
-does YX serve MONTREAL
-show me all flights from PITTSBURGH to DALLAS
-show me the flights available from SAN FRANCISCO to PITTSBURGH for TUESDAY and also the cost
-could you tell me about ground transportation arrangements from the DALLAS airport to downtown DALLAS
+what ground transport in DENVER
+flights from SAN FRANCISCO to DALLAS
+what ground transportation available in PITTSBURGH
+listings of flights from NEW YORK to MONTREAL leaving on WEDNESDAY
+flights from MILWAUKEE to ORLANDO
+travel arrangements for round trip flight from DALLAS to PITTSBURGH
+YX serve MONTREAL
+flights from PITTSBURGH to DALLAS
+flights available from SAN FRANCISCO to PITTSBURGH for TUESDAY and cost
+tell about ground transportation arrangements from DALLAS airport to downtown DALLAS
 flights from NEWARK to BOSTON
-i'd like to flight from DALLAS to SAN FRANCISCO at approximately 615pm
-what flights are available MONDAY from SAN FRANCISCO to PITTSBURGH
-does the PHOENIX airport have ground transportation to and from downtown
-show me the flights from CINCINNATI to DENVER
+to flight from DALLAS to SAN FRANCISCO at approximately 615pm
+what flights available MONDAY from SAN FRANCISCO to PITTSBURGH
+PHOENIX airport ground transportation to and from downtown
+flights from CINCINNATI to DENVER
 what UA flights go through DENVER
-please give me the flights available from BOSTON to PITTSBURGH on WEDNESDAY of next week
-which NW flights stop in DENVER before noon
-what's the fare from WASHINGTON to BOSTON
-what does the fare code F and FN mean
-flights from ATLANTA please
-show me the flights from WESTCHESTER COUNTY to CINCINNATI
-please list the flights for me that leave DALLAS on TUESDAY morning and arrive in ATLANTA
-what flights are available from PITTSBURGH to BALTIMORE on july 25 1991
-what are the ground transportation services in PHILADELPHIA
-is there a flight from ATLANTA to SAN FRANCISCO which connects in DALLAS
-i need to go from BOSTON to DALLAS
-list all AA flights from PHOENIX to MILWAUKEE which arrive on WEDNESDAY after 4pm
-a FIRST flight to SAN FRANCISCO on AA TUESDAY next week
-which UA flights go through DENVER
-is there a flight on CO from BOSTON to DENVER
-what kind of ground transportation is available in DENVER
-please give me evening flights leaving PHILADELPHIA to SAN FRANCISCO FRIDAY
-show the flights from PITTSBURGH to SAN FRANCISCO again on MONDAY
-list lowest cost flight from DALLAS to BALTIMORE
-show me all DAILY flights from MILWAUKEE to ORLANDO
-show me the flights from SAN DIEGO to NEWARK by way of HOUSTON
-i want to flight from BOSTON to SAN FRANCISCO
-okay i would like to know the type of aircraft used on a flight from CLEVELAND to DALLAS please
-what are the flights from DENVER to SAN FRANCISCO
-what are the SUNDAY flights from OAKLAND to WASHINGTON
-show last flight from PHILADELPHIA to BOSTON
-what are the flights from PITTSBURGH to BALTIMORE
-what are the flights from BOSTON to SAN FRANCISCO
-can you give me the latest flight from ATLANTA to DENVER on july 7
-what are my choices of flights to get from CHARLOTTE to MINNEAPOLIS arriving about 7pm in MINNEAPOLIS
-list possible round trip DAILY flights between BOSTON and OAKLAND
-what is the ground transportation available in DFW
+flights available from BOSTON to PITTSBURGH on WEDNESDAY of next week
+NW flights stop in DENVER before noon
+fare from WASHINGTON to BOSTON
+what fare code F and FN mean
+flights from ATLANTA
+flights from WESTCHESTER COUNTY to CINCINNATI
+flights for leave DALLAS on TUESDAY morning and arrive in ATLANTA
+what flights available from PITTSBURGH to BALTIMORE on july 25 1991
+what ground transportation services in PHILADELPHIA
+flight from ATLANTA to SAN FRANCISCO connects in DALLAS
+to go from BOSTON to DALLAS
+AA flights from PHOENIX to MILWAUKEE arrive on WEDNESDAY after 4pm
+FIRST flight to SAN FRANCISCO on AA TUESDAY next week
+UA flights go through DENVER
+flight on CO from BOSTON to DENVER
+what kind of ground transportation available in DENVER
+evening flights leaving PHILADELPHIA to SAN FRANCISCO FRIDAY
+flights from PITTSBURGH to SAN FRANCISCO again on MONDAY
+lowest cost flight from DALLAS to BALTIMORE
+DAILY flights from MILWAUKEE to ORLANDO
+flights from SAN DIEGO to NEWARK by way of HOUSTON
+to flight from BOSTON to SAN FRANCISCO
+to know type of aircraft used on flight from CLEVELAND to DALLAS
+what flights from DENVER to SAN FRANCISCO
+what SUNDAY flights from OAKLAND to WASHINGTON
+last flight from PHILADELPHIA to BOSTON
+what flights from PITTSBURGH to BALTIMORE
+what flights from BOSTON to SAN FRANCISCO
+can latest flight from ATLANTA to DENVER on july 7
+what choices of flights to from CHARLOTTE to MINNEAPOLIS arriving about 7pm in MINNEAPOLIS
+possible round trip DAILY flights between BOSTON and OAKLAND
+what ground transportation available in DFW
 round trip fares from BALTIMORE to PHILADELPHIA under 1000 dollars
-what about a RENTAL CAR in DENVER
-show me flights from BOSTON to DENVER
-display all flights from BALTIMORE to DALLAS on july 29
-show me flights from PITTSBURGH to dc
-what flights are there from ATLANTA to OAKLAND on THURSDAY
-what night flight do you have from SAN FRANCISCO to DENVER on UA on the evening of august 27
-show me all the flights on NW from NEW YORK to MILWAUKEE to LOS ANGELES
-show me all flights from ATLANTA to SAN FRANCISCO which leave the day after tomorrow after 5 o'clock pm
+what about RENTAL CAR in DENVER
+flights from BOSTON to DENVER
+display flights from BALTIMORE to DALLAS on july 29
+flights from PITTSBURGH to dc
+what flights from ATLANTA to OAKLAND on THURSDAY
+what night flight do from SAN FRANCISCO to DENVER on UA on evening of august 27
+flights on NW from NEW YORK to MILWAUKEE to LOS ANGELES
+flights from ATLANTA to SAN FRANCISCO leave day after tomorrow after 5 pm
 airports in NEW YORK
-show me DL flights from DALLAS to DENVER
-show me the flights from WASHINGTON to BOSTON
-please give me flights available from BALTIMORE to PHILADELPHIA
-find travel arrangements for a round trip flight from BALTIMORE to PITTSBURGH after 8 o'clock pm before 10 o'clock pm
-what is MCO
-list the flights from INDIANAPOLIS to HOUSTON
-show me the flights from DENVER to WESTCHESTER COUNTY
-find travel arrangements for a round trip flight from DALLAS to PITTSBURGH after 8pm
-what airline is AC
-list all round trip flights from ORLANDO to KANSAS CITY
-find a transcontinental flight on AA from BOSTON to SAN FRANCISCO that makes a layover in DENVER
-does AA flight from BOSTON to SAN FRANCISCO
-what are the cheapest one way flights from ATLANTA to DENVER
-do you have a 9 o'clock flight from BOSTON to PHILADELPHIA
+DL flights from DALLAS to DENVER
+flights from WASHINGTON to BOSTON
+flights available from BALTIMORE to PHILADELPHIA
+travel arrangements for round trip flight from BALTIMORE to PITTSBURGH after 8 pm before 10 pm
+what MCO
+flights from INDIANAPOLIS to HOUSTON
+flights from DENVER to WESTCHESTER COUNTY
+travel arrangements for round trip flight from DALLAS to PITTSBURGH after 8pm
+what airline AC
+round trip flights from ORLANDO to KANSAS CITY
+transcontinental flight on AA from BOSTON to SAN FRANCISCO makes layover in DENVER
+AA flight from BOSTON to SAN FRANCISCO
+what cheapest one way flights from ATLANTA to DENVER
+do 9 flight from BOSTON to PHILADELPHIA
 what flights go from SAN FRANCISCO to DALLAS
-what does the meal code s/ stand for
+what meal code s/ stand for
 what flights from BOSTON to PITTSBURGH after 723pm
-what ground transportation is available in BOSTON
-show me all flights from PHILADELPHIA to DENVER on SUNDAY which leave PHILADELPHIA after noon
-i would like a flight on AA from BALTIMORE to SAN FRANCISCO with a stop in DENVER
-list the nonstop flights from MIAMI to NEW YORK on a SUNDAY along with the fares that are less than 466 dollars
+what ground transportation available in BOSTON
+flights from PHILADELPHIA to DENVER on SUNDAY leave PHILADELPHIA after noon
+flight on AA from BALTIMORE to SAN FRANCISCO with stop in DENVER
+nonstop flights from MIAMI to NEW YORK on SUNDAY along with fares less than 466 dollars
 nonstop or connecting flights from SEATTLE to BOSTON
-show me the ground transportation in the SALT LAKE CITY airport
-show all nonstop flights from ATLANTA to SAN FRANCISCO
-please list the flights from CHICAGO to KANSAS CITY
-what are the flights from BALTIMORE to DALLAS on SUNDAY night
-i would like an evening flight from PITTSBURGH to LOS ANGELES on june 3
-what's the lowest one way fare from PITTSBURGH to DENVER
-information of a flight from ATLANTA to PITTSBURGH
-what is the cheapest one way fare from DENVER to PITTSBURGH
-show me all flights from SAN DIEGO to LOS ANGELES
-what is the cheapest ticket from BALTIMORE to SAN FRANCISCO on FRIDAY august 30
-what are the cost of morning flights from ATLANTA to BALTIMORE
-what flights leave from BOSTON to PITTSBURGH in the morning
-what is the latest flight in the day to arrive in BOSTON from BALTIMORE
-what is the cheapest fare from DALLAS to DENVER round trip
-display all flights from TORONTO to SAN DIEGO on US stopping over in DENVER
-display all flights from PITTSBURGH to SAN FRANCISCO on august 2
-could you please give me the round trip fare from DENVER to ATLANTA
-i need a flight leaving PITTSBURGH next MONDAY arriving in DFW before 10am
-what does Y mean
-show all flights from PITTSBURGH to SAN FRANCISCO on july 28 1991
-list the flights arriving in ATLANTA from BALTIMORE before noon on august 4
-i need a flight after 6pm on WEDNESDAY from OAKLAND to SALT LAKE CITY
-what is the earliest flight on FRIDAY from WASHINGTON to SAN FRANCISCO
-i'd like to make a trip from WASHINGTON to SAN FRANCISCO
-what are all flights from PHILADELPHIA to DENVER on WEDNESDAY
-show flights from PITTSBURGH to OAKLAND
-how much does it cost to flight from BOSTON to BALTIMORE on a SATURDAY
-what are the cheapest flights from DENVER to ATLANTA
-show me the flights from DENVER to PHILADELPHIA
-show me all flights from BALTIMORE to PHILADELPHIA
+ground transportation in SALT LAKE CITY airport
+nonstop flights from ATLANTA to SAN FRANCISCO
+flights from CHICAGO to KANSAS CITY
+what flights from BALTIMORE to DALLAS on SUNDAY night
+an evening flight from PITTSBURGH to LOS ANGELES on june 3
+lowest one way fare from PITTSBURGH to DENVER
+information of flight from ATLANTA to PITTSBURGH
+what cheapest one way fare from DENVER to PITTSBURGH
+flights from SAN DIEGO to LOS ANGELES
+what cheapest ticket from BALTIMORE to SAN FRANCISCO on FRIDAY august 30
+what cost of morning flights from ATLANTA to BALTIMORE
+what flights leave from BOSTON to PITTSBURGH in morning
+what latest flight in day to arrive in BOSTON from BALTIMORE
+what cheapest fare from DALLAS to DENVER round trip
+display flights from TORONTO to SAN DIEGO on US stopping over in DENVER
+display flights from PITTSBURGH to SAN FRANCISCO on august 2
+round trip fare from DENVER to ATLANTA
+flight leaving PITTSBURGH next MONDAY arriving in DFW before 10am
+what Y mean
+flights from PITTSBURGH to SAN FRANCISCO on july 28 1991
+flights arriving in ATLANTA from BALTIMORE before noon on august 4
+flight after 6pm on WEDNESDAY from OAKLAND to SALT LAKE CITY
+what earliest flight on FRIDAY from WASHINGTON to SAN FRANCISCO
+to make trip from WASHINGTON to SAN FRANCISCO
+what flights from PHILADELPHIA to DENVER on WEDNESDAY
+flights from PITTSBURGH to OAKLAND
+how much it cost to flight from BOSTON to BALTIMORE on SATURDAY
+what cheapest flights from DENVER to ATLANTA
+flights from DENVER to PHILADELPHIA
+flights from BALTIMORE to PHILADELPHIA
 AA flights from CINCINNATI to SALT LAKE CITY
-does US flight from WASHINGTON to DENVER
-all flights from LONG BEACH to PHOENIX
-find a nonstop flight between BOSTON and WASHINGTON arriving in WASHINGTON around 5pm
-give me a list of airports in BALTIMORE
-what FIRST flights are available from DENVER to BALTIMORE on july 25 1991
-what flights are there from PITTSBURGH to LOS ANGELES
-show first flight from PITTSBURGH to ATLANTA on WEDNESDAY
-i would like information on flights from OAKLAND to DALLAS leaving on SUNDAY morning
-what flights are available from DENVER to PHILADELPHIA on MONDAY
+US flight from WASHINGTON to DENVER
+flights from LONG BEACH to PHOENIX
+nonstop flight between BOSTON and WASHINGTON arriving in WASHINGTON around 5pm
+of airports in BALTIMORE
+what FIRST flights available from DENVER to BALTIMORE on july 25 1991
+what flights from PITTSBURGH to LOS ANGELES
+first flight from PITTSBURGH to ATLANTA on WEDNESDAY
+information on flights from OAKLAND to DALLAS leaving on SUNDAY morning
+what flights available from DENVER to PHILADELPHIA on MONDAY
 explain fare code QX
-show me the nonstop flights from DALLAS to HOUSTON
+nonstop flights from DALLAS to HOUSTON
 630am flight on august 27 from ATLANTA to DALLAS
-i'd like a limo in DENVER on august 7
-please list flights between SAN FRANCISCO and DENVER
-show me the flights arriving at DAL
-what is the earliest flight in the morning from BOSTON to PITTSBURGH
-on TUESDAY the 23 flights from PHILADELPHIA to SAN FRANCISCO on AA
-in ATLANTA i would like information on ground transportation
-what does ground transportation look like in OAKLAND
+limo in DENVER on august 7
+flights between SAN FRANCISCO and DENVER
+flights arriving at DAL
+what earliest flight in morning from BOSTON to PITTSBURGH
+on TUESDAY 23 flights from PHILADELPHIA to SAN FRANCISCO on AA
+in ATLANTA information on ground transportation
+what ground transportation look in OAKLAND
 flights from DENVER to CHICAGO on SUNDAY on CO
-show me the cheapest one way fares from SAN DIEGO to MIAMI
-can you list all nonstop flights between ST. PETERSBURG and CHARLOTTE that leave in the afternoon and arrive soon after 5pm
-all flights from CHARLOTTE to anywhere on US
-show me the flights from CINCINNATI to DENVER
-find the flights leaving DALLAS and going to SAN FRANCISCO that leave after 5pm
-DAILY flights from NEWARK to CLEVELAND departing 5 o'clock pm
+cheapest one way fares from SAN DIEGO to MIAMI
+can nonstop flights between ST. PETERSBURG and CHARLOTTE leave in afternoon and arrive soon after 5pm
+flights from CHARLOTTE to anywhere on US
+flights from CINCINNATI to DENVER
+flights leaving DALLAS and going to SAN FRANCISCO leave after 5pm
+DAILY flights from NEWARK to CLEVELAND departing 5 pm
 PHOENIX to NEWARK on WEDNESDAY
 what flights from BALTIMORE to SAN FRANCISCO arrive before 8pm in SAN FRANCISCO
-all right give me the flight times in the morning on september 20 from PITTSBURGH to SAN FRANCISCO
+right flight times in morning on september 20 from PITTSBURGH to SAN FRANCISCO
 lowest fare from SAN FRANCISCO to SAN DIEGO
-please list the flights from TORONTO to WASHINGTON
-show me all flights from MILWAUKEE to ORLANDO one way
-a listing of all flights from BOSTON to BALTIMORE before 10am on THURSDAY
+flights from TORONTO to WASHINGTON
+flights from MILWAUKEE to ORLANDO one way
+listing of flights from BOSTON to BALTIMORE before 10am on THURSDAY
 sunday's flights between TAMPA and CHARLOTTE
-can you list flights departing from LAS VEGAS and arriving in SAN DIEGO
-what's the cheapest flight from DENVER to PITTSBURGH
-show me flights leaving from DALLAS to BALTIMORE
-find travel arrangements for a one way flight from BOSTON to PITTSBURGH
-list all DAILY flights between BOSTON and OAKLAND AS well AS BOSTON and OAKLAND using AA
-show me flights from BALTIMORE to PHILADELPHIA
-please list available flights for next SATURDAY from PHILADELPHIA to DALLAS
-show me the flights from DAL
-OAKLAND to SAN FRANCISCO please breakfast flight
-can i flight from BOSTON to BWI
-what flights do you have from MILWAUKEE to TAMPA
-show me all flights from PITTSBURGH to ATLANTA which leave after 5 o'clock pm tomorrow
-are there any flights from PHILADELPHIA to DALLAS which stop in ATLANTA
-i want to flight from BOSTON to DALLAS
-what are all the available meal
+can flights departing from LAS VEGAS and arriving in SAN DIEGO
+cheapest flight from DENVER to PITTSBURGH
+flights leaving from DALLAS to BALTIMORE
+travel arrangements for one way flight from BOSTON to PITTSBURGH
+DAILY flights between BOSTON and OAKLAND AS well AS BOSTON and OAKLAND using AA
+flights from BALTIMORE to PHILADELPHIA
+available flights for next SATURDAY from PHILADELPHIA to DALLAS
+flights from DAL
+OAKLAND to SAN FRANCISCO breakfast flight
+can flight from BOSTON to BWI
+what flights do from MILWAUKEE to TAMPA
+flights from PITTSBURGH to ATLANTA leave after 5 pm tomorrow
+any flights from PHILADELPHIA to DALLAS stop in ATLANTA
+to flight from BOSTON to DALLAS
+what available meal
 economy NEW YORK to MIAMI round trip
-show me flights from ATLANTA to PHILADELPHIA in the morning
-show me city served both by NX and CP
-show me all the one way fares from TACOMA to MONTREAL
-what is the latest US flight leaving PHILADELPHIA and returning to BOSTON
-show me DALLAS ground transport
-list all TW flights from INDIANAPOLIS to HOUSTON that arrive in HOUSTON between 1030am and 1130am
-what does fare code QO mean
-now show me the flights from DENVER to PHILADELPHIA on a SATURDAY
-what is the most expensive flight from BOSTON to DALLAS round trip
-i need to know information for flights leaving DALLAS on TUESDAY evening and returning to ATLANTA
-flights from BALTIMORE to PHILADELPHIA please
-please list all flights into DENVER before noon on UA and NW
-all flights from MIAMI to NEW YORK
-are there any flights on june 11 from ST. PETERSBURG to MILWAUKEE
-all flights from PITTSBURGH to PHILADELPHIA
-how many airlines have flights with service class YN
-give me flights that arrive in BALTIMORE from DENVER
-i would like an afternoon flight leaving TUESDAY SAN DIEGO to INDIANAPOLIS
-i need a flight from LONG BEACH to ST. LOUIS stopping in DALLAS the flight should also serve lunch
+flights from ATLANTA to PHILADELPHIA in morning
+city served both by NX and CP
+one way fares from TACOMA to MONTREAL
+what latest US flight leaving PHILADELPHIA and returning to BOSTON
+DALLAS ground transport
+TW flights from INDIANAPOLIS to HOUSTON arrive in HOUSTON between 1030am and 1130am
+what fare code QO mean
+flights from DENVER to PHILADELPHIA on SATURDAY
+what most expensive flight from BOSTON to DALLAS round trip
+to know information for flights leaving DALLAS on TUESDAY evening and returning to ATLANTA
+flights from BALTIMORE to PHILADELPHIA
+flights into DENVER before noon on UA and NW
+flights from MIAMI to NEW YORK
+any flights on june 11 from ST. PETERSBURG to MILWAUKEE
+flights from PITTSBURGH to PHILADELPHIA
+how many airlines flights with service class YN
+flights arrive in BALTIMORE from DENVER
+an afternoon flight leaving TUESDAY SAN DIEGO to INDIANAPOLIS
+flight from LONG BEACH to ST. LOUIS stopping in DALLAS flight should serve lunch
 requesting flight information for flight from BOSTON to BALTIMORE on TUESDAY
-show me the flights from BOSTON to PITTSBURGH on THURSDAY
-give me flights from DENVER to BALTIMORE
-US 269 leaving BOSTON at 428 what is the arrival time in BALTIMORE
-i'd like to know if you have any flights from DENVER to PHILADELPHIA
-list the flights from BALTIMORE to SEATTLE that stop in MINNEAPOLIS
-show me the names of airlines in ATLANTA
-give me the flights from NEW YORK to LAS VEGAS on SUNDAY and the flights from MEMPHIS to LAS VEGAS on SUNDAY
-show me the flights from BOSTON to DALLAS
-show me all nonstop flights between DENVER and OAKLAND leaving after noon and arriving after 5pm
-now i need a one way flight from PITTSBURGH to DENVER
-show me the flights from COLUMBUS to CHARLOTTE
+flights from BOSTON to PITTSBURGH on THURSDAY
+flights from DENVER to BALTIMORE
+US 269 leaving BOSTON at 428 what arrival time in BALTIMORE
+to know if any flights from DENVER to PHILADELPHIA
+flights from BALTIMORE to SEATTLE stop in MINNEAPOLIS
+names of airlines in ATLANTA
+flights from NEW YORK to LAS VEGAS on SUNDAY and flights from MEMPHIS to LAS VEGAS on SUNDAY
+flights from BOSTON to DALLAS
+nonstop flights between DENVER and OAKLAND leaving after noon and arriving after 5pm
+one way flight from PITTSBURGH to DENVER
+flights from COLUMBUS to CHARLOTTE
 we're going from DENVER to SAN FRANCISCO
 what airlines flight BOSTON to BALTIMORE
-please list the flights from CHARLOTTE to LONG BEACH arriving after lunch time
-what is the fare from PHILADELPHIA to PITTSBURGH BUSINESS one way
-which airlines flight from BOSTON to WASHINGTON via other cities
-what is MCO
+flights from CHARLOTTE to LONG BEACH arriving after lunch time
+what fare from PHILADELPHIA to PITTSBURGH BUSINESS one way
+airlines flight from BOSTON to WASHINGTON via other cities
+what MCO
 CHICAGO to MILWAUKEE
-i now need a flight from SAN JOSE to HOUSTON leaving on SUNDAY the 4
-how long does it take to get from DENVER to OAKLAND
-i'd like to see the flights from ATLANTA to WASHINGTON
-what is fare code H
-show me all flights from SAN DIEGO to MIAMI with a stop in DENVER
-show me the flights from SAN FRANCISCO to NEWARK that leave after 11pm
-show me all flights arriving to DENVER from BOSTON
-find travel arrangements for a round trip flight from DALLAS to PITTSBURGH arriving after 8pm
-all flights from DALLAS to SAN FRANCISCO
-all flights and fares from ATLANTA to DALLAS round trip after 12pm less than 1100 dollars
-what flights are available between PHILADELPHIA and DENVER on september 16
-give me flights from PITTSBURGH to BALTIMORE
-show me the flights on TW to ATLANTA in the morning
+flight from SAN JOSE to HOUSTON leaving on SUNDAY 4
+how long it take to from DENVER to OAKLAND
+to flights from ATLANTA to WASHINGTON
+what fare code H
+flights from SAN DIEGO to MIAMI with stop in DENVER
+flights from SAN FRANCISCO to NEWARK leave after 11pm
+flights arriving to DENVER from BOSTON
+travel arrangements for round trip flight from DALLAS to PITTSBURGH arriving after 8pm
+flights from DALLAS to SAN FRANCISCO
+flights and fares from ATLANTA to DALLAS round trip after 12pm less than 1100 dollars
+what flights available between PHILADELPHIA and DENVER on september 16
+flights from PITTSBURGH to BALTIMORE
+flights on TW to ATLANTA in morning
 what kind of airplane goes from BOSTON to SAN FRANCISCO before noon
-i would like to find the cheapest one way fare from BOSTON to OAKLAND
-on august 30 i would like a flight from DENVER to SAN FRANCISCO in the early am
+to cheapest one way fare from BOSTON to OAKLAND
+on august 30 flight from DENVER to SAN FRANCISCO in early am
 how many fare codes belong to economy
 what flights go from NEWARK to BOSTON after 5pm
-please show me flights from DALLAS to DENVER
-i need information for ground transportation DENVER colorado
-show me the itinerary for the connecting flight from DFW to SAN FRANCISCO that departs DFW at 1940
-i would like to know the types of ground transportation from the airport to LAS VEGAS
-what are the flights from MILWAUKEE to ORLANDO on THURSDAY
+flights from DALLAS to DENVER
+information for ground transportation DENVER colorado
+itinerary for connecting flight from DFW to SAN FRANCISCO departs DFW at 1940
+to know types of ground transportation from airport to LAS VEGAS
+what flights from MILWAUKEE to ORLANDO on THURSDAY
 flights from BALTIMORE to WASHINGTON
-all right now i need a flight from SEATTLE to SAN DIEGO
-i'd like to buy a COACH from DENVER to ATLANTA with a layover in PITTSBURGH
-hi i'd like to flight from COLUMBUS to PHOENIX and make a stop in CINCINNATI along the way
-where does CP flight to
-i would like a flight from KANSAS CITY to ST. PAUL departing at 4pm
-okay can you tell me the flight cost between DENVER and ATLANTA
-what flights are available from BOSTON to WASHINGTON late the 25 or early the 26
-what are my choices of flights from LAS VEGAS to NEW YORK
-AA flights from SAN FRANCISCO please
-tell me distance from ORLANDO airport to the city
-show me round trip FIRST from NEW YORK to MIAMI
+right flight from SEATTLE to SAN DIEGO
+to buy COACH from DENVER to ATLANTA with layover in PITTSBURGH
+to flight from COLUMBUS to PHOENIX and make stop in CINCINNATI along way
+where CP flight to
+flight from KANSAS CITY to ST. PAUL departing at 4pm
+can tell flight cost between DENVER and ATLANTA
+what flights available from BOSTON to WASHINGTON late 25 or early 26
+what choices of flights from LAS VEGAS to NEW YORK
+AA flights from SAN FRANCISCO
+tell distance from ORLANDO airport to city
+round trip FIRST from NEW YORK to MIAMI
 ground transportation DALLAS
 flights from CINCINNATI to DENVER on AA
-show me all flights from SAN FRANCISCO to PITTSBURGH on a MONDAY
-i want to travel from PHILADELPHIA to BOSTON on WEDNESDAY afternoon
-i would like to make a reservation for a flight to DENVER from PHILADELPHIA on this coming SUNDAY
-yes on the DL flight leaving SAN FRANCISCO at 225pm arriving PHILADELPHIA 1158pm what type of equipment is used on that flight
-what are the flights DALLAS to BOSTON on MONDAY morning
-list all flights on CO which leave SEATTLE and arrive in CHICAGO departing on SUNDAY after 430pm
-show me the UA flights from DENVER to BALTIMORE leaving on june 14
-what are the afternoon flights from ATLANTA to BALTIMORE
-i want WEDNESDAY flights from ATLANTA to WASHINGTON
-i'd like to see the flights from PITTSBURGH to PHILADELPHIA
-i need a nonstop flight from ATLANTA to BALTIMORE arriving between 5pm and 730pm
-show me what flights are available from BALTIMORE to DALLAS with economy
-what are the flights from DALLAS to BOSTON for tomorrow night or evening
-please list the flight times from NEWARK to BOSTON
-list all flights on CO leaving DENVER
-what types of ground transportation are available in DENVER
-i need information on a flight from SAN FRANCISCO to ATLANTA that would stop in DFW
-what are the round trip flights from PHILADELPHIA to SAN FRANCISCO
-does any airline have an afternoon flight from BOSTON to OAKLAND
-show me the flights from CINCINNATI
-where does flight UA 281 from BOSTON to OAKLAND stop
-what are the afternoon flights leaving from DALLAS to SAN FRANCISCO on AA
-what flights are there from NEW YORK to LAS VEGAS
-show me the cheapest flights from ATLANTA to DENVER
-what flights are available on DL from DALLAS to ATLANTA on MONDAY morning
-show me flights from PITTSBURGH to SAN FRANCISCO on MONDAY
-list all afternoon flights leaving BALTIMORE and arriving in ATLANTA on THURSDAY
-i need a flight from INDIANAPOLIS to HOUSTON on TW
-show me the flights from PHILADELPHIA to ATLANTA georgia
-all flights from BOSTON to WASHINGTON on november 11 before 10am
-i'd like to flight CO between BOSTON and PHILADELPHIA
-what flights are there from MINNEAPOLIS to CHICAGO
-i'd like to know the ground travel available in DFW
-show me all ground transportation in WASHINGTON
+flights from SAN FRANCISCO to PITTSBURGH on MONDAY
+to travel from PHILADELPHIA to BOSTON on WEDNESDAY afternoon
+to make reservation for flight to DENVER from PHILADELPHIA on coming SUNDAY
+on DL flight leaving SAN FRANCISCO at 225pm arriving PHILADELPHIA 1158pm what type of equipment used on flight
+what flights DALLAS to BOSTON on MONDAY morning
+flights on CO leave SEATTLE and arrive in CHICAGO departing on SUNDAY after 430pm
+UA flights from DENVER to BALTIMORE leaving on june 14
+what afternoon flights from ATLANTA to BALTIMORE
+WEDNESDAY flights from ATLANTA to WASHINGTON
+to flights from PITTSBURGH to PHILADELPHIA
+nonstop flight from ATLANTA to BALTIMORE arriving between 5pm and 730pm
+what flights available from BALTIMORE to DALLAS with economy
+what flights from DALLAS to BOSTON for tomorrow night or evening
+flight times from NEWARK to BOSTON
+flights on CO leaving DENVER
+what types of ground transportation available in DENVER
+information on flight from SAN FRANCISCO to ATLANTA stop in DFW
+what round trip flights from PHILADELPHIA to SAN FRANCISCO
+any airline an afternoon flight from BOSTON to OAKLAND
+flights from CINCINNATI
+where flight UA 281 from BOSTON to OAKLAND stop
+what afternoon flights leaving from DALLAS to SAN FRANCISCO on AA
+what flights from NEW YORK to LAS VEGAS
+cheapest flights from ATLANTA to DENVER
+what flights available on DL from DALLAS to ATLANTA on MONDAY morning
+flights from PITTSBURGH to SAN FRANCISCO on MONDAY
+afternoon flights leaving BALTIMORE and arriving in ATLANTA on THURSDAY
+flight from INDIANAPOLIS to HOUSTON on TW
+flights from PHILADELPHIA to ATLANTA georgia
+flights from BOSTON to WASHINGTON on november 11 before 10am
+to flight CO between BOSTON and PHILADELPHIA
+what flights from MINNEAPOLIS to CHICAGO
+to know ground travel available in DFW
+ground transportation in WASHINGTON
 morning flight from BOSTON to PHILADELPHIA
-what is the earliest breakfast flight from PHILADELPHIA to DFW
-afternoon flights from BOSTON to SAN FRANCISCO please that leave in the afternoon
-what's the airport at ORLANDO
-flights from NEWARK to CLEVELAND 5 o'clock pm DAILY
-i want to flight PHILADELPHIA to DALLAS on july 8
-can i rent a car in SAN JOSE too
-please list the flights from NEW YORK to MIAMI on a TUESDAY
-can you give me information on all the flights from SAN FRANCISCO no from PITTSBURGH to SAN FRANCISCO on MONDAY
-show me the flights from SAN FRANCISCO to BOSTON
-please list all airline flights between DENVER and BOSTON
-i want to travel from BALTIMORE to WASHINGTON on a MONDAY
-what is the earliest flight leaving BOSTON on july first to DALLAS on july first
-show ground transportation in DENVER
-is US US
-what ground transportation is available in BOSTON
-what flights do you have from NEWARK to ONTARIO CALIFORNIA that connect in PHOENIX
-i am interested in a flight from CINCINNATI to BURBANK the flight should be AA and leave in the afternoon i need to know the aircraft and flight number
+what earliest breakfast flight from PHILADELPHIA to DFW
+afternoon flights from BOSTON to SAN FRANCISCO leave in afternoon
+airport at ORLANDO
+flights from NEWARK to CLEVELAND 5 pm DAILY
+to flight PHILADELPHIA to DALLAS on july 8
+can RENTAL CAR in SAN JOSE too
+flights from NEW YORK to MIAMI on TUESDAY
+can information on flights from SAN FRANCISCO no from PITTSBURGH to SAN FRANCISCO on MONDAY
+flights from SAN FRANCISCO to BOSTON
+airline flights between DENVER and BOSTON
+to travel from BALTIMORE to WASHINGTON on MONDAY
+what earliest flight leaving BOSTON on july first to DALLAS on july first
+ground transportation in DENVER
+US US
+what ground transportation available in BOSTON
+what flights do from NEWARK to ONTARIO CALIFORNIA connect in PHOENIX
+am interested in flight from CINCINNATI to BURBANK flight should be AA and leave in afternoon to know aircraft and flight number
 what flights from CHICAGO to KANSAS CITY
-what is the FIRST from INDIANAPOLIS to ORLANDO
-give me flights without fares from ATLANTA to BALTIMORE
-i want the flights from DENVER to PITTSBURGH
-what is the earliest flight between BOSTON and WASHINGTON
-okay and on may four i would like to go from ATLANTA to DENVER leaving early in the morning around 8
-what flights does DL have from DALLAS to DENVER after 5 o'clock
-what is the latest flight from SAN FRANCISCO to WASHINGTON
-show me the latest flight from SALT LAKE CITY to PHOENIX
-now get me from PITTSBURGH to DENVER
-does DL stand for DL
-list all the flights that arrive at MKE
-list all flights going from BOSTON to ATLANTA before 7 o'clock am on THURSDAY
-i'd like to flight from BOSTON to DFW
-please show me CO flights from SAN FRANCISCO to PITTSBURGH on FRIDAY
-show afternoon flights from DALLAS to SAN FRANCISCO
+what FIRST from INDIANAPOLIS to ORLANDO
+flights without fares from ATLANTA to BALTIMORE
+flights from DENVER to PITTSBURGH
+what earliest flight between BOSTON and WASHINGTON
+and on may four to go from ATLANTA to DENVER leaving early in morning around 8
+what flights DL from DALLAS to DENVER after 5
+what latest flight from SAN FRANCISCO to WASHINGTON
+latest flight from SALT LAKE CITY to PHOENIX
+from PITTSBURGH to DENVER
+DL stand for DL
+flights arrive at MKE
+flights going from BOSTON to ATLANTA before 7 am on THURSDAY
+to flight from BOSTON to DFW
+CO flights from SAN FRANCISCO to PITTSBURGH on FRIDAY
+afternoon flights from DALLAS to SAN FRANCISCO
 what flights leave PITTSBURGH and arrive in LOS ANGELES after 5pm on THURSDAY
-which airlines flight from TORONTO to SAN DIEGO and have a layover in DENVER
-what flights are there between NASHVILLE and ST. LOUIS which are nonstop and arrive after noon and before 8pm
-how long does it take to flight from BOSTON to ATLANTA
-show me round trip fares from NEW YORK to MIAMI
-show me the flights from BALTIMORE to OAKLAND
-on november 23 what flights are available between BOSTON and DENVER
-i need a flight from ATLANTA to CHARLOTTE next MONDAY
-please list any flight available leaving OAKLAND TUESDAY arriving PHILADELPHIA WEDNESDAY
+airlines flight from TORONTO to SAN DIEGO and layover in DENVER
+what flights between NASHVILLE and ST. LOUIS nonstop and arrive after noon and before 8pm
+how long it take to flight from BOSTON to ATLANTA
+round trip fares from NEW YORK to MIAMI
+flights from BALTIMORE to OAKLAND
+on november 23 what flights available between BOSTON and DENVER
+flight from ATLANTA to CHARLOTTE next MONDAY
+any flight available leaving OAKLAND TUESDAY arriving PHILADELPHIA WEDNESDAY
 flights from CHARLOTTE to BALTIMORE
-what does AP/57 mean
-show me all the UA flights from BOSTON to DENVER
-i would like to flight from PHILADELPHIA to DALLAS
-what kinds of ground transportation is available in DFW
-list number of people that can be carried on each type of plane that flies between PITTSBURGH and BALTIMORE
-flights from BALTIMORE DENVER and PITTSBURGH to PHILADELPHIA where the round trip fare for each is less than 1000 dollars
+what AP/57 mean
+UA flights from BOSTON to DENVER
+to flight from PHILADELPHIA to DALLAS
+what kinds of ground transportation available in DFW
+number of people can be carried on each type of plane flies between PITTSBURGH and BALTIMORE
+flights from BALTIMORE DENVER and PITTSBURGH to PHILADELPHIA where round trip fare for each less than 1000 dollars
 what type of aircraft leaves from BOSTON to WASHINGTON before 9am
-show me the flights on AA from DFW to DENVER on the evening of july 11
-which flights are between BOSTON and BWI
-list the flights from PHILADELPHIA to DALLAS on AA
-i would like to find the cheapest flight from BOSTON to DENVER
-show all flights with FIRST from BALTIMORE to DALLAS
-i'd like to find the cheapest flight from BOSTON to SAN FRANCISCO
+flights on AA from DFW to DENVER on evening of july 11
+flights between BOSTON and BWI
+flights from PHILADELPHIA to DALLAS on AA
+to cheapest flight from BOSTON to DENVER
+flights with FIRST from BALTIMORE to DALLAS
+to cheapest flight from BOSTON to SAN FRANCISCO
 PITTSBURGH to DENVER
-are there any flights next MONDAY morning from PITTSBURGH to SAN FRANCISCO
+any flights next MONDAY morning from PITTSBURGH to SAN FRANCISCO
 flights from PITTSBURGH to BALTIMORE arriving between 4 and 5pm
-are there any flights from CHICAGO to MINNEAPOLIS on SATURDAY on CO
+any flights from CHICAGO to MINNEAPOLIS on SATURDAY on CO
 nonstop flights SEATTLE to BOSTON
 what flights from WASHINGTON to TORONTO
-i would like to know flights on june 15 from LONG BEACH to COLUMBUS after 12 noon please
-flight from DENVER to SAN FRANCISCO in the afternoon
-show me all flights arriving at DAL from other airports
-what is the first flight that travels from ATLANTA to BALTIMORE that serves lunch
-list the flights arriving in BALTIMORE from PITTSBURGH on august 3
-what ground transportation can i take into BOSTON
+to know flights on june 15 from LONG BEACH to COLUMBUS after 12 noon
+flight from DENVER to SAN FRANCISCO in afternoon
+flights arriving at DAL from other airports
+what first flight travels from ATLANTA to BALTIMORE serves lunch
+flights arriving in BALTIMORE from PITTSBURGH on august 3
+what ground transportation can take into BOSTON
 what flights leave LGA for SAN JOSE and arrive 10pm
 how about flights from DALLAS to ATLANTA on WEDNESDAY morning
 flights from PHOENIX to MILWAUKEE on WEDNESDAY evening
-show me flights DENVER to WASHINGTON on WEDNESDAY
-what flights can i find from PITTSBURGH to SAN FRANCISCO after 9am
-show me the flights from BOSTON to SAN FRANCISCO
+flights DENVER to WASHINGTON on WEDNESDAY
+what flights can from PITTSBURGH to SAN FRANCISCO after 9am
+flights from BOSTON to SAN FRANCISCO
 what airlines flight from BOSTON to ATLANTA
-show me flights from PITTSBURGH to ATLANTA on MONDAY afternoon
-tell me about flights leaving from ATLANTA and going to CHARLOTTE next MONDAY i need to know about flights that arrive in CHARLOTTE between 415 and 530pm
-show me the earliest flight from BOSTON to SAN FRANCISCO
-show nonstop flights from NEW YORK to MIAMI on a TUESDAY which cost less than 466 dollars one way
-what're the flights from NEW YORK to LAS VEGAS that arrive on a SUNDAY
-list the FIRST flights from BALTIMORE to DENVER
-what flights are there arriving in CHICAGO on CO after 11pm
-what is the latest flight leaving PITTSBURGH returning to DENVER
-show me flights from MINNEAPOLIS to SEATTLE on july 2
-can you show me the flights from DALLAS to BALTIMORE with economy
-does flight DL 1083 from PHILADELPHIA to DENVER flight on SATURDAY
-what does MCO mean
-what are the flights available in the morning between DENVER and SAN FRANCISCO
+flights from PITTSBURGH to ATLANTA on MONDAY afternoon
+tell about flights leaving from ATLANTA and going to CHARLOTTE next MONDAY to know about flights arrive in CHARLOTTE between 415 and 530pm
+earliest flight from BOSTON to SAN FRANCISCO
+nonstop flights from NEW YORK to MIAMI on TUESDAY cost less than 466 dollars one way
+what're flights from NEW YORK to LAS VEGAS arrive on SUNDAY
+FIRST flights from BALTIMORE to DENVER
+what flights arriving in CHICAGO on CO after 11pm
+what latest flight leaving PITTSBURGH returning to DENVER
+flights from MINNEAPOLIS to SEATTLE on july 2
+can flights from DALLAS to BALTIMORE with economy
+flight DL 1083 from PHILADELPHIA to DENVER flight on SATURDAY
+what MCO mean
+what flights available in morning between DENVER and SAN FRANCISCO
 what flights from ORLANDO to TACOMA on SATURDAY
-what is the cost of a flight from BOSTON to DENVER
-which flights on UA and NW go through DENVER
-what airline is AS
-give me a flight from TAMPA to CHARLOTTE on SUNDAY
-what flights leave BALTIMORE for BOSTON after 6 o'clock on FRIDAY
+what cost of flight from BOSTON to DENVER
+flights on UA and NW go through DENVER
+what airline AS
+flight from TAMPA to CHARLOTTE on SUNDAY
+what flights leave BALTIMORE for BOSTON after 6 on FRIDAY
 what airlines leave from WASHINGTON
-and i'll need ground transportation for TUESDAY july 6 to WEDNESDAY july 7 in SAN DIEGO
-show me the ground transportation in DENVER
-please give me all flights from LONG BEACH to MEMPHIS
-what does fare code QO mean
-what are the flights from BOSTON to DENVER on TUESDAY october 15
-i want to know the time of the latest flight i can take from WASHINGTON to SAN FRANCISCO where i can get a dinner meal
+and ground transportation for TUESDAY july 6 to WEDNESDAY july 7 in SAN DIEGO
+ground transportation in DENVER
+flights from LONG BEACH to MEMPHIS
+what fare code QO mean
+what flights from BOSTON to DENVER on TUESDAY october 15
+to know time of latest flight can take from WASHINGTON to SAN FRANCISCO where can dinner meal
 flights from ATLANTA august 2
-does any airline offer DC10 service between DENVER and BOSTON
-please give me flights from ATLANTA to BOSTON on WEDNESDAY and THURSDAY
-list DAILY flights from ATLANTA to DENVER
-find the flights that leave PHILADELPHIA and arrive in DALLAS by noon
-i would like information information on flights from SAN FRANCISCO to DENVER on THURSDAY morning
-what are the flights from NEW YORK to LAS VEGAS
-hi i'm calling from BOSTON i'd like to make a flight to either ORLANDO or LOS ANGELES
-is there a flight from DENVER to SAN FRANCISCO on CO leaving after 12 o'clock in the afternoon
-of all airlines which airline has the most arrivals in ATLANTA
-does US have a flight from TORONTO to SALT LAKE CITY MONDAY may 31
-give me the flights from DENVER to BALTIMORE on UA
+any airline offer DC10 service between DENVER and BOSTON
+flights from ATLANTA to BOSTON on WEDNESDAY and THURSDAY
+DAILY flights from ATLANTA to DENVER
+flights leave PHILADELPHIA and arrive in DALLAS by noon
+information information on flights from SAN FRANCISCO to DENVER on THURSDAY morning
+what flights from NEW YORK to LAS VEGAS
+calling from BOSTON to make flight to either ORLANDO or LOS ANGELES
+flight from DENVER to SAN FRANCISCO on CO leaving after 12 in afternoon
+of airlines airline has most arrivals in ATLANTA
+US flight from TORONTO to SALT LAKE CITY MONDAY may 31
+flights from DENVER to BALTIMORE on UA
 what flights from SALT LAKE CITY to NEW YORK arrive next SATURDAY before 6pm
-show me flights from DENVER to SAN FRANCISCO on WEDNESDAY
-show me the flights from BALTIMORE to ATLANTA
-what is the earliest flight from BOSTON to SAN FRANCISCO that serves a meal
-please show me airlines with round trip flights from BOSTON to DENVER stop PHILADELPHIA
+flights from DENVER to SAN FRANCISCO on WEDNESDAY
+flights from BALTIMORE to ATLANTA
+what earliest flight from BOSTON to SAN FRANCISCO serves meal
+airlines with round trip flights from BOSTON to DENVER stop PHILADELPHIA
 round trip fares from DENVER to PHILADELPHIA less than 1000 dollars
-is there a flight from BALTIMORE to SAN FRANCISCO with a stop in DENVER on TW
-may i see all the flights from CLEVELAND to DALLAS
-i need to take 10 people from DENVER to SAN DIEGO with a layover in PHOENIX please give me the flights
-i want to go from DENVER to ATLANTA round trip and make a stop at PITTSBURGH is this possible
-i would like a nonstop flight from NEW YORK to LAS VEGAS on march 2
-please list nonstop TW flights from LAS VEGAS to NEW YORK
-what's the latest flight from SAN JOSE to HOUSTON
-i'm flying from BOSTON to the bay area
-what kind of ground transportation is available in ATLANTA
-what about the EA flights arriving in PITTSBURGH between 12 and 4 in the afternoon
-tell me about ground transportation between MCO and ORLANDO
-i would like the flights available from BOSTON to DENVER arriving in DENVER on 9 o'clock WEDNESDAY morning on or by 9 o'clock WEDNESDAY morning
-what flight do you have from ATLANTA to DALLAS on august 27 in the morning
-list the nonstop flights early TUESDAY morning from DALLAS to ATLANTA
-show me all the flights arriving in CHARLOTTE around 5pm next MONDAY please
-what are the classes of service for CO
-list flights from ATLANTA to BOSTON leaving between 6pm and 10pm on august 8
-how many airports does OAKLAND have
-list flights from PHILADELPHIA to SAN FRANCISCO via DALLAS
+flight from BALTIMORE to SAN FRANCISCO with stop in DENVER on TW
+may flights from CLEVELAND to DALLAS
+to take 10 people from DENVER to SAN DIEGO with layover in PHOENIX flights
+to go from DENVER to ATLANTA round trip and make stop at PITTSBURGH possible
+nonstop flight from NEW YORK to LAS VEGAS on march 2
+nonstop TW flights from LAS VEGAS to NEW YORK
+latest flight from SAN JOSE to HOUSTON
+flying from BOSTON to bay area
+what kind of ground transportation available in ATLANTA
+what about EA flights arriving in PITTSBURGH between 12 and 4 in afternoon
+tell about ground transportation between MCO and ORLANDO
+flights available from BOSTON to DENVER arriving in DENVER on 9 WEDNESDAY morning on or by 9 WEDNESDAY morning
+what flight do from ATLANTA to DALLAS on august 27 in morning
+nonstop flights early TUESDAY morning from DALLAS to ATLANTA
+flights arriving in CHARLOTTE around 5pm next MONDAY
+what classes of service for CO
+flights from ATLANTA to BOSTON leaving between 6pm and 10pm on august 8
+how many airports OAKLAND
+flights from PHILADELPHIA to SAN FRANCISCO via DALLAS
 what flights from LAS VEGAS to MONTREAL on SATURDAY
 nonstop flights DENVER to BOSTON
-i'd like to leave from BOSTON on TUESDAY and i'd like to leave sometime in the morning
-what is the cost of a FIRST from DFW to SAN FRANCISCO
-show me the flights from BALTIMORE to BOSTON
-what does the abbreviation CO mean
-what does fare code M mean
-do you have a TW flight leaving early in the morning to SAN FRANCISCO from DENVER
+to leave from BOSTON on TUESDAY and to leave sometime in morning
+what cost of FIRST from DFW to SAN FRANCISCO
+flights from BALTIMORE to BOSTON
+what abbreviation CO mean
+what fare code M mean
+do TW flight leaving early in morning to SAN FRANCISCO from DENVER
 what flights depart SAN FRANCISCO after 4pm and flight to WASHINGTON via INDIANAPOLIS
 flights from KANSAS CITY to CLEVELAND and cost
-i'd need information please on a flight from WASHINGTON SAN FRANCISCO
-does UA flight from BOSTON to DFW
-what flights are there on SUNDAY from SEATTLE to MINNEAPOLIS
-what is the earliest flight you have that leaves PHILADELPHIA to DALLAS
-i'd like a flight from ST. PETERSBURG to MIAMI on that next THURSDAY
-all flights from SAN FRANCISCO to BOSTON leaving before noon
-please give me direct morning flights from PITTSBURGH to ATLANTA
-please find the cheapest fare from BOSTON to SAN FRANCISCO
-i would like the fare on the US 1039 from DENVER to PITTSBURGH on april 20
-i need late flight WEDNESDAY from OAKLAND to SALT LAKE CITY
+information on flight from WASHINGTON SAN FRANCISCO
+UA flight from BOSTON to DFW
+what flights on SUNDAY from SEATTLE to MINNEAPOLIS
+what earliest flight leaves PHILADELPHIA to DALLAS
+flight from ST. PETERSBURG to MIAMI on next THURSDAY
+flights from SAN FRANCISCO to BOSTON leaving before noon
+direct morning flights from PITTSBURGH to ATLANTA
+cheapest fare from BOSTON to SAN FRANCISCO
+fare on US 1039 from DENVER to PITTSBURGH on april 20
+late flight WEDNESDAY from OAKLAND to SALT LAKE CITY
 PHOENIX to NEWARK WEDNESDAY
-i want a flight from ONTARIO to CHICAGO
-i need a flight from PHILADELPHIA to DALLAS that stops in ATLANTA
+flight from ONTARIO to CHICAGO
+flight from PHILADELPHIA to DALLAS stops in ATLANTA
 flights from LGA to JFK
-list the flights from DALLAS to SAN FRANCISCO on AA
+flights from DALLAS to SAN FRANCISCO on AA
 what flights has CO from ATLANTA
-what are the flights from SAN FRANCISCO to DENVER
-okay i need to see economy flights on UA between DALLAS and BALTIMORE
-list flights from DENVER to BALTIMORE
-how much does it cost to flight directly from PHILADELPHIA to SAN FRANCISCO on AA
+what flights from SAN FRANCISCO to DENVER
+to economy flights on UA between DALLAS and BALTIMORE
+flights from DENVER to BALTIMORE
+how much it cost to flight directly from PHILADELPHIA to SAN FRANCISCO on AA
 what flights from PHILADELPHIA to ATLANTA
-i'd like a flight from SAN DIEGO to TORONTO on AS leaving around 1pm
-what kind of ground transportation is there in DALLAS
+flight from SAN DIEGO to TORONTO on AS leaving around 1pm
+what kind of ground transportation in DALLAS
 flights from BALTIMORE to DALLAS
-what is the cheapest one way fare from BOSTON to PITTSBURGH
-what flights are available FRIDAY afternoon from ATLANTA to DALLAS
-show me flights on september 26 please
-what are the lowest one way fares from ATLANTA to PITTSBURGH
-show me all flights on WN from SAN DIEGO to SAN FRANCISCO
-i need a flight from TAMPA to MONTREAL
+what cheapest one way fare from BOSTON to PITTSBURGH
+what flights available FRIDAY afternoon from ATLANTA to DALLAS
+flights on september 26
+what lowest one way fares from ATLANTA to PITTSBURGH
+flights on WN from SAN DIEGO to SAN FRANCISCO
+flight from TAMPA to MONTREAL
 flights between NEW YORK and SAN JOSE
 flights from BOSTON to PITTSBURGH
-i need to flight from DENVER to SAN FRANCISCO TUESDAY
-what is the last flight to ATLANTA from BALTIMORE
-please list the AA flights from PHILADELPHIA to DALLAS on TUESDAY october first
-on FRIDAY i need to see all flights that leave ATLANTA and arrive in DALLAS before 6pm
-show me OAKLAND to DALLAS flights
-i would like information on flights from SAN FRANCISCO to PITTSBURGH leaving after 8pm MONDAY night
-what flights are provided by DL
-show me the earliest flights from BOSTON to DENVER on WEDNESDAY
-give me the cheapest round trip flight from DALLAS to BALTIMORE
-does DL flight from BOSTON to WASHINGTON
-list the flights that arrive and depart from MKE
-show me all the flights from BURBANK
-what are the flights from ST. LOUIS to BURBANK SUNDAY evening
-display all flights from TORONTO to SAN DIEGO on US with a layover in PHOENIX
-i would like to find a flight from CHARLOTTE to LAS VEGAS i would like a layover in ST. LOUIS
+to flight from DENVER to SAN FRANCISCO TUESDAY
+what last flight to ATLANTA from BALTIMORE
+AA flights from PHILADELPHIA to DALLAS on TUESDAY october first
+on FRIDAY to flights leave ATLANTA and arrive in DALLAS before 6pm
+OAKLAND to DALLAS flights
+information on flights from SAN FRANCISCO to PITTSBURGH leaving after 8pm MONDAY night
+what flights provided by DL
+earliest flights from BOSTON to DENVER on WEDNESDAY
+cheapest round trip flight from DALLAS to BALTIMORE
+DL flight from BOSTON to WASHINGTON
+flights arrive and depart from MKE
+flights from BURBANK
+what flights from ST. LOUIS to BURBANK SUNDAY evening
+display flights from TORONTO to SAN DIEGO on US with layover in PHOENIX
+to flight from CHARLOTTE to LAS VEGAS layover in ST. LOUIS
 flight information on january 23 1992 from DENVER to SAN FRANCISCO
-on flight US 2153 from SAN FRANCISCO to BALTIMORE what time and what city does the plane stop in between
-list flights from PITTSBURGH to LOS ANGELES which leave on THURSDAY after 5pm
+on flight US 2153 from SAN FRANCISCO to BALTIMORE what time and what city plane stop in between
+flights from PITTSBURGH to LOS ANGELES leave on THURSDAY after 5pm
 from SEATTLE to SALT LAKE CITY
-show me the flights
-list all flights leaving SAN FRANCISCO MONDAY afternoon arriving in PITTSBURGH
-show me flights from BOSTON to DENVER on TUESDAY
-i would like to see information for flights from SAN FRANCISCO leaving after 12pm to PITTSBURGH on MONDAY
-please list fares for all the flights from ATLANTA to PHILADELPHIA on august the first
-show me all flights from BOSTON to PITTSBURGH on WEDNESDAY of next week which leave BOSTON after 2 o'clock pm
-which DL flights flight from BOSTON to PHILADELPHIA
-what flights are between BOSTON and ATLANTA on july 31
-what is fare code H
-what flights are there from LOS ANGELES to PITTSBURGH
-please show me all the flights from INDIANAPOLIS to SAN DIEGO tomorrow
-show me all flights from SAN FRANCISCO to NEW YORK nonstop
+flights
+flights leaving SAN FRANCISCO MONDAY afternoon arriving in PITTSBURGH
+flights from BOSTON to DENVER on TUESDAY
+to information for flights from SAN FRANCISCO leaving after 12pm to PITTSBURGH on MONDAY
+fares for flights from ATLANTA to PHILADELPHIA on august first
+flights from BOSTON to PITTSBURGH on WEDNESDAY of next week leave BOSTON after 2 pm
+DL flights flight from BOSTON to PHILADELPHIA
+what flights between BOSTON and ATLANTA on july 31
+what fare code H
+what flights from LOS ANGELES to PITTSBURGH
+flights from INDIANAPOLIS to SAN DIEGO tomorrow
+flights from SAN FRANCISCO to NEW YORK nonstop
 flights from CINCINNATI to o'hare departing after 718am AA
-tell me about flights from ST. PETERSBURG arriving in TORONTO before noon
-display all fare codes
-find me a flight from ATLANTA to BALTIMORE
-what is the flight number of the earliest flight between BOSTON and WASHINGTON
-what is the latest flight leaving BOSTON to DENVER
-how many passengers fit on a D9S
-what is the schedule of ground transportation from the airport in PHILADELPHIA into downtown
-please show me all fares for flights from DENVER to OAKLAND
-show me the cheapest round trip fare from BALTIMORE to DALLAS
+tell about flights from ST. PETERSBURG arriving in TORONTO before noon
+display fare codes
+flight from ATLANTA to BALTIMORE
+what flight number of earliest flight between BOSTON and WASHINGTON
+what latest flight leaving BOSTON to DENVER
+how many passengers fit on D9S
+what schedule of ground transportation from airport in PHILADELPHIA into downtown
+fares for flights from DENVER to OAKLAND
+cheapest round trip fare from BALTIMORE to DALLAS
 what flights from SAN JOSE to DALLAS on FRIDAY afternoon
-i want to go between BOSTON and WASHINGTON early in the morning
-are there any turboprop flights from PITTSBURGH to BALTIMORE on december 17
-what are the latest flights that i can take from BALTIMORE to BOSTON
+to go between BOSTON and WASHINGTON early in morning
+any turboprop flights from PITTSBURGH to BALTIMORE on december 17
+what latest flights can take from BALTIMORE to BOSTON
 from KANSAS CITY to SALT LAKE CITY on DL arrive around 8pm tomorrow
-list ground transportation in DETROIT
-which airlines have FIRST flights today
-please list all flights that leave DENVER before noon on NW
-i want a flight from MILWAUKEE to ORLANDO one way leaving after 5pm on WEDNESDAY
-i need a flight from ONTARIO to LOS ANGELES on a THURSDAY
-i would like a flight leaving from WASHINGTON to BOSTON at 110pm on august 20
+ground transportation in DETROIT
+airlines FIRST flights today
+flights leave DENVER before noon on NW
+flight from MILWAUKEE to ORLANDO one way leaving after 5pm on WEDNESDAY
+flight from ONTARIO to LOS ANGELES on THURSDAY
+flight leaving from WASHINGTON to BOSTON at 110pm on august 20
 from LAS VEGAS to PHOENIX
 flight from DALLAS to BALTIMORE
-could you please find me the cheapest one way fare from BOSTON to PHILADELPHIA
-oh let's see does EA have a flight from ATLANTA to WASHINGTON
-i want to flight from PHILADELPHIA to DALLAS to SAN FRANCISCO on MONDAY july 8
-what is the latest flight from SALT LAKE CITY to PHOENIX
-which flights depart LOS ANGELES destination CHARLOTTE that leave on a MONDAY morning
-are there any flights next MONDAY morning from PITTSBURGH to SAN FRANCISCO
-what flights are available from BOSTON to ATLANTA on july 7 8am
-can you rent a car at stapleton international airport in DENVER
-i would like to book a flight from BALTIMORE to NEWARK early in the morning on april 9
-show me round trip fares from DENVER to PHILADELPHIA
+cheapest one way fare from BOSTON to PHILADELPHIA
+oh let's EA flight from ATLANTA to WASHINGTON
+to flight from PHILADELPHIA to DALLAS to SAN FRANCISCO on MONDAY july 8
+what latest flight from SALT LAKE CITY to PHOENIX
+flights depart LOS ANGELES destination CHARLOTTE leave on MONDAY morning
+any flights next MONDAY morning from PITTSBURGH to SAN FRANCISCO
+what flights available from BOSTON to ATLANTA on july 7 8am
+can RENTAL CAR at stapleton international airport in DENVER
+to book flight from BALTIMORE to NEWARK early in morning on april 9
+round trip fares from DENVER to PHILADELPHIA
 what flights from ST. LOUIS to ST. PAUL on THURSDAY leaving after 10am
-is there a flight between OAKLAND and BOSTON with a layover in DFW on TW
+flight between OAKLAND and BOSTON with layover in DFW on TW
 what flights leave after 7pm from PHILADELPHIA to BOSTON
-i need a return flight from PHILADELPHIA to BOSTON
-show me all flights from NEW YORK to MIAMI on a TUESDAY with round trip fares under 932 dollars
-i want a flight that leaves THURSDAY around 7pm from CHICAGO to KANSAS CITY
-a one way flight from BOSTON to SAN FRANCISCO please
-what is the cost of a FIRST from ATLANTA to SAN FRANCISCO
-what is the economy thrift fare from BOSTON to WASHINGTON
+return flight from PHILADELPHIA to BOSTON
+flights from NEW YORK to MIAMI on TUESDAY with round trip fares under 932 dollars
+flight leaves THURSDAY around 7pm from CHICAGO to KANSAS CITY
+one way flight from BOSTON to SAN FRANCISCO
+what cost of FIRST from ATLANTA to SAN FRANCISCO
+what economy thrift fare from BOSTON to WASHINGTON
 what flights leave PITTSBURGH july 5 after 7pm and arrive in SAN FRANCISCO
-i want to see the cheapest flights from DENVER to ATLANTA
-show me flights from PITTSBURGH to ATLANTA on MONDAY afternoon
-all flights from MIAMI to NEW YORK
-i live in DENVER and i'd like to make a trip to PITTSBURGH
-show me all the TW flights from INDIANAPOLIS to HOUSTON that arrive around 11am
-what does UA stand for
-show me next wednesday's flights between PHOENIX and MILWAUKEE
-i need to go to PITTSBURGH and DENVER
-could you give me the schedule of flights for AA and DL to DFW on august 15
-what kind of ground transportation is there once i get to DALLAS
-can you list all flights from CHICAGO to ST. LOUIS that depart after 12 noon
-i need to find a plane from BOSTON to SAN FRANCISCO on FRIDAY
-what is the number of FIRST flights on AA
-what does restriction AP/57 mean
-i want a flight on CO from BOSTON to SAN FRANCISCO
+to cheapest flights from DENVER to ATLANTA
+flights from PITTSBURGH to ATLANTA on MONDAY afternoon
+flights from MIAMI to NEW YORK
+live in DENVER and to make trip to PITTSBURGH
+TW flights from INDIANAPOLIS to HOUSTON arrive around 11am
+what UA stand for
+next wednesday's flights between PHOENIX and MILWAUKEE
+to go to PITTSBURGH and DENVER
+schedule of flights for AA and DL to DFW on august 15
+what kind of ground transportation once to DALLAS
+can flights from CHICAGO to ST. LOUIS depart after 12 noon
+to plane from BOSTON to SAN FRANCISCO on FRIDAY
+what number of FIRST flights on AA
+what restriction AP/57 mean
+flight on CO from BOSTON to SAN FRANCISCO
 BOSTON to PITTSBURGH WEDNESDAY
-interested in a flight from WASHINGTON to DFW
+interested in flight from WASHINGTON to DFW
 explain meal codes SD/D
-i'd like to know what type of plane flies from BOSTON to DFW after 530
-how many FIRST flights does DL have today
-i'd like to flight from ATLANTA to DENVER on august 29
-list all nonstop flights on WEDNESDAY from BALTIMORE to NEWARK before noon
-does UA flight from DENVER to BALTIMORE
-can you list the earliest flights from OAKLAND to SALT LAKE CITY on THURSDAY
-show me the flights from PITTSBURGH to BALTIMORE
-show me all flights from CHARLOTTE to PHILADELPHIA
-list flights leaving DENVER and arriving in ORLANDO on SATURDAY departing after 12pm
-show me all prices of economy from BALTIMORE to DALLAS
-what are the flights from SAN FRANCISCO to WASHINGTON
-okay all right do you have a flight on UA from ATLANTA to WASHINGTON
+to know what type of plane flies from BOSTON to DFW after 530
+how many FIRST flights DL today
+to flight from ATLANTA to DENVER on august 29
+nonstop flights on WEDNESDAY from BALTIMORE to NEWARK before noon
+UA flight from DENVER to BALTIMORE
+can earliest flights from OAKLAND to SALT LAKE CITY on THURSDAY
+flights from PITTSBURGH to BALTIMORE
+flights from CHARLOTTE to PHILADELPHIA
+flights leaving DENVER and arriving in ORLANDO on SATURDAY departing after 12pm
+prices of economy from BALTIMORE to DALLAS
+what flights from SAN FRANCISCO to WASHINGTON
+right do flight on UA from ATLANTA to WASHINGTON
 flight from CLEVELAND to NASHVILLE
-show me flights from MILWAUKEE to ORLANDO on WEDNESDAY night or THURSDAY morning
+flights from MILWAUKEE to ORLANDO on WEDNESDAY night or THURSDAY morning
 nonstop flights DENVER to KANSAS CITY
-list nonstop flights on SUNDAY from NEW YORK to LAS VEGAS and list nonstop flights on SUNDAY from MEMPHIS to LAS VEGAS
+nonstop flights on SUNDAY from NEW YORK to LAS VEGAS and nonstop flights on SUNDAY from MEMPHIS to LAS VEGAS
 flight from DALLAS to BOSTON tomorrow
-how much does flight UA 281 from BOSTON to DENVER cost
-how much does it cost to flight on AA from DALLAS to BALTIMORE
-i would like a to know the type of aircraft leaving from ATLANTA bound to BOSTON on FRIDAY this week
-how long is the flight from ATLANTA to SAN FRANCISCO at noon on november 7
-okay i'm sorry could you tell me what flights leave ATLANTA and arrive in PHILADELPHIA around 5 o'clock
+how much flight UA 281 from BOSTON to DENVER cost
+how much it cost to flight on AA from DALLAS to BALTIMORE
+to know type of aircraft leaving from ATLANTA bound to BOSTON on FRIDAY week
+how long flight from ATLANTA to SAN FRANCISCO at noon on november 7
+sorry tell what flights leave ATLANTA and arrive in PHILADELPHIA around 5
 what about flights from BOSTON to SAN DIEGO
-show me the flights from BALTIMORE to BOSTON
-show me the flights from PITTSBURGH to DALLAS
-i'd like an early flight tomorrow from COLUMBUS to NASHVILLE
+flights from BALTIMORE to BOSTON
+flights from PITTSBURGH to DALLAS
+an early flight tomorrow from COLUMBUS to NASHVILLE
 ground transport DENVER
-i'm looking for a flight from PITTSBURGH to SAN FRANCISCO
-list flights from ATLANTA to BOSTON on WEDNESDAY afternoon
-show me all flights from BOSTON to DENVER which arrive before noon on WEDNESDAY
-what flights are there from SAN FRANCISCO to PHILADELPHIA DAILY with economy
-is there an ATLANTA flight to DENVER connecting
-i'd like to arrange a flight from PITTSBURGH to ATLANTA
-what is the cheapest one way fare between PHILADELPHIA and BOSTON
-do you have a flight leaving BOSTON at 645am going to WASHINGTON
-what flights go from PITTSBURGH to BALTIMORE after 8 o'clock next WEDNESDAY
-i need information on flights leaving PHILADELPHIA on FRIDAY arriving in OAKLAND
-what stops does DL 838 make from SAN FRANCISCO to ATLANTA
-are there any flights from DENVER to ATLANTA which connect in PITTSBURGH
-i would like to find flights from COLUMBUS to MINNEAPOLIS on MONDAY june 14 early in the morning or in the evening SUNDAY june 13 thank you
-are there any flights from BOSTON to SAN FRANCISCO which stop in WASHINGTON
-show me the WN flights from SAN DIEGO to SAN FRANCISCO
-i'd like a ticket from DENVER to ATLANTA with a layover in PITTSBURGH is this possible
-i want to find a flight from BOSTON to ATLANTA
-what is fare code H
+looking for flight from PITTSBURGH to SAN FRANCISCO
+flights from ATLANTA to BOSTON on WEDNESDAY afternoon
+flights from BOSTON to DENVER arrive before noon on WEDNESDAY
+what flights from SAN FRANCISCO to PHILADELPHIA DAILY with economy
+an ATLANTA flight to DENVER connecting
+to arrange flight from PITTSBURGH to ATLANTA
+what cheapest one way fare between PHILADELPHIA and BOSTON
+do flight leaving BOSTON at 645am going to WASHINGTON
+what flights go from PITTSBURGH to BALTIMORE after 8 next WEDNESDAY
+information on flights leaving PHILADELPHIA on FRIDAY arriving in OAKLAND
+what stops DL 838 make from SAN FRANCISCO to ATLANTA
+any flights from DENVER to ATLANTA connect in PITTSBURGH
+to flights from COLUMBUS to MINNEAPOLIS on MONDAY june 14 early in morning or in evening SUNDAY june 13
+any flights from BOSTON to SAN FRANCISCO stop in WASHINGTON
+WN flights from SAN DIEGO to SAN FRANCISCO
+ticket from DENVER to ATLANTA with layover in PITTSBURGH possible
+to flight from BOSTON to ATLANTA
+what fare code H
 OAKLAND to DENVER
-tell me about ground transportation at SALT LAKE CITY
-do you have a flight from SALT LAKE CITY to ST. PETERSBURG
-what's the cheapest one way flight from DENVER to PITTSBURGH
-i would like to make a round trip between WASHINGTON and SAN FRANCISCO
-show me all flights from MONTREAL to NASHVILLE
-find the cheapest one way fare from BOSTON to SAN FRANCISCO
-show me fares from MIAMI to NEW YORK
-list the earliest flight from ST. PAUL to SAN JOSE
-show me FIRST flights from PITTSBURGH to SAN FRANCISCO on FRIDAY
-what airline is DL 98
-i'm interested in a flight from DALLAS to WASHINGTON and i'm also interested in going to BALTIMORE
-what is your last flight leaving SAN FRANCISCO and arriving in DENVER
-how much does a FIRST round trip ticket from CLEVELAND to MIAMI on US cost
-i would like information on ground transportation city of BOSTON between airport and downtown
+tell about ground transportation at SALT LAKE CITY
+do flight from SALT LAKE CITY to ST. PETERSBURG
+cheapest one way flight from DENVER to PITTSBURGH
+to make round trip between WASHINGTON and SAN FRANCISCO
+flights from MONTREAL to NASHVILLE
+cheapest one way fare from BOSTON to SAN FRANCISCO
+fares from MIAMI to NEW YORK
+earliest flight from ST. PAUL to SAN JOSE
+FIRST flights from PITTSBURGH to SAN FRANCISCO on FRIDAY
+what airline DL 98
+interested in flight from DALLAS to WASHINGTON and interested in going to BALTIMORE
+what your last flight leaving SAN FRANCISCO and arriving in DENVER
+how much FIRST round trip ticket from CLEVELAND to MIAMI on US cost
+information on ground transportation city of BOSTON between airport and downtown
 information on flights from ATLANTA to WASHINGTON departing on THURSDAY before 9am
-what's the latest flight out of DENVER that arrives in PITTSBURGH next MONDAY
-show me the CO flights with meal which depart SEATTLE on SUNDAY for CHICAGO
-list all day time flights from PITTSBURGH to BOSTON
+latest flight out of DENVER arrives in PITTSBURGH next MONDAY
+CO flights with meal depart SEATTLE on SUNDAY for CHICAGO
+day time flights from PITTSBURGH to BOSTON
 what flights go from ATLANTA to WASHINGTON on THURSDAY
-where is lester pearson airport
-show me all flights from DENVER to PITTSBURGH which serve dinner
-i want to flight BOSTON to DALLAS
-which flight is a one way fare at 329 dollars from DENVER to PITTSBURGH
-i'd like to go from BOSTON to DENVER at 9 o'clock SATURDAY night
+where lester pearson airport
+flights from DENVER to PITTSBURGH serve dinner
+to flight BOSTON to DALLAS
+flight one way fare at 329 dollars from DENVER to PITTSBURGH
+to go from BOSTON to DENVER at 9 SATURDAY night
 information on flights from BOSTON to WASHINGTON
-what is the cheapest one way fare from any city to another
-list all UA flights from PHILADELPHIA to SAN FRANCISCO
-show me all flights from PHOENIX to MILWAUKEE next WEDNESDAY
-what do you know about RENTAL CAR in DENVER
-show me all flights from ONTARIO to TACOMA one way
-on MONDAY i'd like to travel from LAS VEGAS to DETROIT
-i need to flight between PHILADELPHIA and ATLANTA
-what sort of ground transportation is there in WASHINGTON
-how much is a FIRST from WASHINGTON to SAN FRANCISCO leaving on FRIDAY
-i need a flight on THURSDAY before 8am from OAKLAND to SALT LAKE CITY
-what are the lowest one way fares from ATLANTA to DENVER
-show me ground transportation in DENVER
-what is the cheapest flight from ATLANTA to PITTSBURGH one way
-now i'd like to see flights from DETROIT to ST. PETERSBURG on the next TUESDAY
-show me the flights from NEWARK to ONTARIO international next SATURDAY
-show me flights from DENVER to ATLANTA on june 16
-i'd like to flight from MINNEAPOLIS to LONG BEACH two days from today in the early morning
-i'm planning a trip to PITTSBURGH and i live in DENVER can you help me
-i need a flight from SAN FRANCISCO to BOSTON that leaves after 7am
+what cheapest one way fare from any city to another
+UA flights from PHILADELPHIA to SAN FRANCISCO
+flights from PHOENIX to MILWAUKEE next WEDNESDAY
+what do know about RENTAL CAR in DENVER
+flights from ONTARIO to TACOMA one way
+on MONDAY to travel from LAS VEGAS to DETROIT
+to flight between PHILADELPHIA and ATLANTA
+what sort of ground transportation in WASHINGTON
+how much FIRST from WASHINGTON to SAN FRANCISCO leaving on FRIDAY
+flight on THURSDAY before 8am from OAKLAND to SALT LAKE CITY
+what lowest one way fares from ATLANTA to DENVER
+ground transportation in DENVER
+what cheapest flight from ATLANTA to PITTSBURGH one way
+to flights from DETROIT to ST. PETERSBURG on next TUESDAY
+flights from NEWARK to ONTARIO international next SATURDAY
+flights from DENVER to ATLANTA on june 16
+to flight from MINNEAPOLIS to LONG BEACH two days from today in early morning
+planning trip to PITTSBURGH and live in DENVER can help
+flight from SAN FRANCISCO to BOSTON leaves after 7am
 what airline besides CO flies between BOSTON and DENVER
-what is the lowest fare from DENVER to PITTSBURGH
-what is restriction AP/57
-show me the flights from MONTREAL to philly
-do you have any flights UA from DALLAS to SAN FRANCISCO
-i'd like to go from BOSTON to SAN FRANCISCO stopping in PITTSBURGH
-okay give me the flights that leave DENVER after 7pm next MONDAY arriving in BOSTON
-i would like a flight from PITTSBURGH to SAN FRANCISCO on august 20
-list all flights leaving DENVER on CO on SUNDAY after 934pm
-please list the cost of all flights from PHILADELPHIA to DEN next SUNDAY
-please list the morning flights from KANSAS CITY to ATLANTA
-list flights from PHILADELPHIA to DALLAS that stop in ATLANTA
+what lowest fare from DENVER to PITTSBURGH
+what restriction AP/57
+flights from MONTREAL to philly
+do any flights UA from DALLAS to SAN FRANCISCO
+to go from BOSTON to SAN FRANCISCO stopping in PITTSBURGH
+flights leave DENVER after 7pm next MONDAY arriving in BOSTON
+flight from PITTSBURGH to SAN FRANCISCO on august 20
+flights leaving DENVER on CO on SUNDAY after 934pm
+cost of flights from PHILADELPHIA to DEN next SUNDAY
+morning flights from KANSAS CITY to ATLANTA
+flights from PHILADELPHIA to DALLAS stop in ATLANTA
 from ATLANTA to WASHINGTON
-i would like to flight from ATLANTA to PHILADELPHIA
-can you list the cheapest round trip fare from ORLANDO to KANSAS CITY
-what economy flights are available from DALLAS to BALTIMORE on july 25 1991
-please give me the UA flights from DENVER to BALTIMORE that are the FIRST flights please
-when does CO flight from PHILADELPHIA to DENVER on SUNDAY
-show me US fares for next SUNDAY from MIAMI to CLEVELAND
-show me the flights leaving from DAL
-show me flights from ATLANTA to WASHINGTON leaving on THURSDAY
-i am interested in booking an early flight from DALLAS into HOUSTON and returning in the late evening
-show me one way flights from MILWAUKEE to ORLANDO leaving on WEDNESDAY morning
-i need a flight from DENVER to PHILADELPHIA on SATURDAY
-can i go from BOSTON to SAN FRANCISCO with a layover in DENVER
+to flight from ATLANTA to PHILADELPHIA
+can cheapest round trip fare from ORLANDO to KANSAS CITY
+what economy flights available from DALLAS to BALTIMORE on july 25 1991
+UA flights from DENVER to BALTIMORE FIRST flights
+when CO flight from PHILADELPHIA to DENVER on SUNDAY
+US fares for next SUNDAY from MIAMI to CLEVELAND
+flights leaving from DAL
+flights from ATLANTA to WASHINGTON leaving on THURSDAY
+am interested in booking an early flight from DALLAS into HOUSTON and returning in late evening
+one way flights from MILWAUKEE to ORLANDO leaving on WEDNESDAY morning
+flight from DENVER to PHILADELPHIA on SATURDAY
+can go from BOSTON to SAN FRANCISCO with layover in DENVER
 flights from NEWARK to MINNEAPOLIS
-show me all flights from PHILADELPHIA to BALTIMORE
+flights from PHILADELPHIA to BALTIMORE
 what flights from MONTREAL to LAS VEGAS on SATURDAY
-show me ground transportation for BOSTON
-i want a evening flight from DALLAS to MILWAUKEE
+ground transportation for BOSTON
+evening flight from DALLAS to MILWAUKEE
 on july 23 an early flight on AA from PHILADELPHIA to SAN FRANCISCO
-show me the flights out of DAL
-what is the cheapest round trip fare between BOSTON and SAN FRANCISCO
-i would like a flight from PHILADELPHIA to SAN FRANCISCO but i would like to stop in DALLAS
-how much does a FIRST cost from BOSTON to SAN FRANCISCO round trip
+flights out of DAL
+what cheapest round trip fare between BOSTON and SAN FRANCISCO
+flight from PHILADELPHIA to SAN FRANCISCO but to stop in DALLAS
+how much FIRST cost from BOSTON to SAN FRANCISCO round trip
 flights on FRIDAY from NEWARK to TAMPA
-what are the COACH fares for flights from PITTSBURGH to DENVER
-what does ORD mean
+what COACH fares for flights from PITTSBURGH to DENVER
+what ORD mean
 PITTSBURGH to ATLANTA WEDNESDAY
-show me all the flights from BOSTON to DENVER that serve lunch
-is there a flight from PITTSBURGH to BALTIMORE that arrives between 6 and 7pm
-show me the flights from SALT LAKE CITY to ST. PETERSBURG late night on TUESDAY
-i'd like to flight from BOSTON to SAN FRANCISCO could you find me the cheapest fare
-what are the two AA flights that leave from DALLAS to SAN FRANCISCO in the evening
-what are the flights from ATLANTA to DALLAS
-show me the flights from all airports to DAL
-i want to go from SAN FRANCISCO to DENVER
-please show me fares from DENVER to SAN FRANCISCO
+flights from BOSTON to DENVER serve lunch
+flight from PITTSBURGH to BALTIMORE arrives between 6 and 7pm
+flights from SALT LAKE CITY to ST. PETERSBURG late night on TUESDAY
+to flight from BOSTON to SAN FRANCISCO cheapest fare
+what two AA flights leave from DALLAS to SAN FRANCISCO in evening
+what flights from ATLANTA to DALLAS
+flights from airports to DAL
+to go from SAN FRANCISCO to DENVER
+fares from DENVER to SAN FRANCISCO
 early morning flights between CINCINNATI and TAMPA
-do you have a flight from PHILADELPHIA to SAN FRANCISCO with a layover in DALLAS
-which airlines are represented in the database
-i want to leave CHICAGO next TUESDAY and arrive in DETROIT around 6pm
-i want the cheapest flight from PITTSBURGH to ATLANTA
-may i have a listing of flight numbers from COLUMBUS to MINNEAPOLIS minnesota on MONDAY
-please list all flights from PHILADELPHIA to BOSTON
-what's the cheapest flight from SAN FRANCISCO to BOSTON
-can you tell me what flights you have from BALTIMORE to DALLAS
-i need a UA flight from DENVER to BALTIMORE on SATURDAY
-what flights do you have between PITTSBURGH and ATLANTA
-show me all flights to PHILADELPHIA in the evening
-are there any flights from DENVER to ATLANTA with stops in PITTSBURGH
-what does CO mean
-which flights leaving BALTIMORE to DALLAS on MONDAY afternoon have economic class
+do flight from PHILADELPHIA to SAN FRANCISCO with layover in DALLAS
+airlines represented in database
+to leave CHICAGO next TUESDAY and arrive in DETROIT around 6pm
+cheapest flight from PITTSBURGH to ATLANTA
+may listing of flight numbers from COLUMBUS to MINNEAPOLIS minnesota on MONDAY
+flights from PHILADELPHIA to BOSTON
+cheapest flight from SAN FRANCISCO to BOSTON
+can tell what flights from BALTIMORE to DALLAS
+UA flight from DENVER to BALTIMORE on SATURDAY
+what flights do between PITTSBURGH and ATLANTA
+flights to PHILADELPHIA in evening
+any flights from DENVER to ATLANTA with stops in PITTSBURGH
+what CO mean
+flights leaving BALTIMORE to DALLAS on MONDAY afternoon economic class
 flights from COLUMBUS to MILWAUKEE
 what airlines flight from TORONTO to SAN DIEGO
-what is the available ground transportation between the airport in DENVER and downtown
-i'm interested in flying from BOSTON to ATLANTA
-do you have a flight from CHARLOTTE to ATLANTA on june first
-i'd like to know what flights UA has from DALLAS to SAN FRANCISCO
-i need a flight on AC from TORONTO to SAN DIEGO with a layover in dc
-list flights between DENVER and PITTSBURGH
-what kind of aircraft will i be flying on if i take a FIRST AA flight from PHILADELPHIA to DALLAS
-what's the last flight from ATLANTA to BOSTON
-i need a flight from CHARLOTTE to NEWARK leaving today evening
-i would like one flight from KANSAS CITY to ST. PAUL arriving around dinnertime 6pm
-i need a flight from NEWARK to LOS ANGELES leaving tomorrow evening
-i'd like to make a trip between ATLANTA and BOSTON i wish to know the cheapest fare
-what airlines have BUSINESS
-what types of meal are available
-where is MKE located
-show me round trip fares from NEW YORK to MIAMI
-what is the lowest fare from DENVER to ATLANTA
-how can i get from INDIANAPOLIS to MONTREAL in the evening
-what is UA
-now i need flights leaving DENVER in the afternoon on WEDNESDAY and arriving in SAN FRANCISCO
-show me the flights from BALTIMORE to PITTSBURGH
-i need a flight from TORONTO to MONTREAL reaching MONTREAL early on FRIDAY
-i need a listing of flights from KANSAS CITY missouri to SALT LAKE CITY
-please show me flights from DALLAS to DENVER
-give me flights from DENVER to BALTIMORE
-i live in DENVER and i'd like to make a trip to ATLANTA
-what flights are there from CLEVELAND to MIAMI on US that arrive in MIAMI before 4pm
-show me the flights arriving at DAL from all other airports
-may i have a listing of flights on MONDAY from MINNEAPOLIS to LONG BEACH CALIFORNIA please
-what is the cheapest flight from LONG BEACH to MEMPHIS
-which airlines go from SAN FRANCISCO to WASHINGTON by way of INDIANAPOLIS
+what available ground transportation between airport in DENVER and downtown
+interested in flying from BOSTON to ATLANTA
+do flight from CHARLOTTE to ATLANTA on june first
+to know what flights UA has from DALLAS to SAN FRANCISCO
+flight on AC from TORONTO to SAN DIEGO with layover in dc
+flights between DENVER and PITTSBURGH
+what kind of aircraft will be flying on if take FIRST AA flight from PHILADELPHIA to DALLAS
+last flight from ATLANTA to BOSTON
+flight from CHARLOTTE to NEWARK leaving today evening
+one flight from KANSAS CITY to ST. PAUL arriving around dinnertime 6pm
+flight from NEWARK to LOS ANGELES leaving tomorrow evening
+to make trip between ATLANTA and BOSTON wish to know cheapest fare
+what airlines BUSINESS
+what types of meal available
+where MKE located
+round trip fares from NEW YORK to MIAMI
+what lowest fare from DENVER to ATLANTA
+how can from INDIANAPOLIS to MONTREAL in evening
+what UA
+flights leaving DENVER in afternoon on WEDNESDAY and arriving in SAN FRANCISCO
+flights from BALTIMORE to PITTSBURGH
+flight from TORONTO to MONTREAL reaching MONTREAL early on FRIDAY
+listing of flights from KANSAS CITY missouri to SALT LAKE CITY
+flights from DALLAS to DENVER
+flights from DENVER to BALTIMORE
+live in DENVER and to make trip to ATLANTA
+what flights from CLEVELAND to MIAMI on US arrive in MIAMI before 4pm
+flights arriving at DAL from other airports
+may listing of flights on MONDAY from MINNEAPOLIS to LONG BEACH CALIFORNIA
+what cheapest flight from LONG BEACH to MEMPHIS
+airlines go from SAN FRANCISCO to WASHINGTON by way of INDIANAPOLIS
 flights from LAS VEGAS to MONTREAL
 flights from LONG BEACH to NASHVILLE
-show me US flights from PITTSBURGH to SAN FRANCISCO FIRST on MONDAY
-show me all flights from BOSTON to ATLANTA which leave ATLANTA after noon tomorrow
-what is the first flight from ATLANTA to BALTIMORE that serves lunch
-how far is it from SALT LAKE CITY airport to SALT LAKE CITY
-are there DL flights leaving ATLANTA
-show me all prices of FIRST from BALTIMORE to DALLAS
-i'd like a flight from KANSAS CITY to LOS ANGELES that arrives in LOS ANGELES in the late afternoon
-show me the flights from BALTIMORE to OAKLAND
-what flights are there on CO from SEATTLE to CHICAGO
-can you tell me the afternoon nonstop flights departing from ATLANTA to BOSTON
+US flights from PITTSBURGH to SAN FRANCISCO FIRST on MONDAY
+flights from BOSTON to ATLANTA leave ATLANTA after noon tomorrow
+what first flight from ATLANTA to BALTIMORE serves lunch
+how far it from SALT LAKE CITY airport to SALT LAKE CITY
+DL flights leaving ATLANTA
+prices of FIRST from BALTIMORE to DALLAS
+flight from KANSAS CITY to LOS ANGELES arrives in LOS ANGELES in late afternoon
+flights from BALTIMORE to OAKLAND
+what flights on CO from SEATTLE to CHICAGO
+can tell afternoon nonstop flights departing from ATLANTA to BOSTON
 flights from NEWARK to BOSTON
-show me all flights from MINNEAPOLIS to SAN DIEGO that arrive before 7pm
-list DAILY flights from BOSTON to ATLANTA
-what is restriction AP/57
-i need a flight from PITTSBURGH to BOSTON on WEDNESDAY the 14
-show me the flights from BOSTON to PITTSBURGH on WEDNESDAY and THURSDAY
-hi i need to go from NEWARK to NASHVILLE on AA leaving around 630pm
-do you have a flight from ATLANTA to BALTIMORE nonstop on a boeing 757 arriving BALTIMORE around 7pm
-i need a flight from DENVER to WASHINGTON on WEDNESDAY
-what's the latest flight from SAN FRANCISCO to ATLANTA
+flights from MINNEAPOLIS to SAN DIEGO arrive before 7pm
+DAILY flights from BOSTON to ATLANTA
+what restriction AP/57
+flight from PITTSBURGH to BOSTON on WEDNESDAY 14
+flights from BOSTON to PITTSBURGH on WEDNESDAY and THURSDAY
+to go from NEWARK to NASHVILLE on AA leaving around 630pm
+do flight from ATLANTA to BALTIMORE nonstop on boeing 757 arriving BALTIMORE around 7pm
+flight from DENVER to WASHINGTON on WEDNESDAY
+latest flight from SAN FRANCISCO to ATLANTA
 NEWARK to MINNEAPOLIS on SUNDAY
-what is the cost of a one way fare from BOSTON to DENVER on CO
-please list all available flights from OAKLAND to PHILADELPHIA on WEDNESDAY
-what is booking class c
-what is the first flight after 8am from BOSTON to SAN FRANCISCO
-what ground transportation is there in ATLANTA
+what cost of one way fare from BOSTON to DENVER on CO
+available flights from OAKLAND to PHILADELPHIA on WEDNESDAY
+what booking class c
+what first flight after 8am from BOSTON to SAN FRANCISCO
+what ground transportation in ATLANTA
 what airlines flight from BURBANK to DENVER
-what is the seating capacity of a boeing 767
-could you tell me what flights you have that run DAILY from BOSTON to SAN FRANCISCO please
-please list the flights from NEW YORK to LOS ANGELES
-i need a flight from PITTSBURGH to NEW YORK leaving at 5pm
-what time is the last flight from WASHINGTON to SAN FRANCISCO
-what is the cheapest flight from LONG BEACH to MEMPHIS
-show flights from DENVER to OAKLAND
-where is MKE located
-show me the costs and times for flights from SAN FRANCISCO to ATLANTA
+what seating capacity of boeing 767
+tell what flights run DAILY from BOSTON to SAN FRANCISCO
+flights from NEW YORK to LOS ANGELES
+flight from PITTSBURGH to NEW YORK leaving at 5pm
+what time last flight from WASHINGTON to SAN FRANCISCO
+what cheapest flight from LONG BEACH to MEMPHIS
+flights from DENVER to OAKLAND
+where MKE located
+costs and times for flights from SAN FRANCISCO to ATLANTA
 flights from WESTCHESTER COUNTY to SAN FRANCISCO DAILY
-list all flights from DENVER to PHILADELPHIA
-what flights are available from SAN FRANCISCO to PITTSBURGH on THURSDAY evening
-i need a FIRST on UA from DENVER to BALTIMORE scheduled for december 17
-show me the one way flights from DETROIT to WESTCHESTER COUNTY
-show me the flights from ST. PETERSBURG to SALT LAKE CITY that arrive before noon
-can you show me flights from DALLAS to ATLANTA on TUESDAY night
-okay i'd like to flight from DENVER to PITTSBURGH
-flights from DALLAS to HOUSTON in the morning
-what is the last flight from BOSTON to ATLANTA
-what's the next smallest plane after a turboprop
-what flights from ST. PAUL to KANSAS CITY on FRIDAY with a meal
-show me the RENTAL CAR in BALTIMORE
+flights from DENVER to PHILADELPHIA
+what flights available from SAN FRANCISCO to PITTSBURGH on THURSDAY evening
+FIRST on UA from DENVER to BALTIMORE scheduled for december 17
+one way flights from DETROIT to WESTCHESTER COUNTY
+flights from ST. PETERSBURG to SALT LAKE CITY arrive before noon
+can flights from DALLAS to ATLANTA on TUESDAY night
+to flight from DENVER to PITTSBURGH
+flights from DALLAS to HOUSTON in morning
+what last flight from BOSTON to ATLANTA
+next smallest plane after turboprop
+what flights from ST. PAUL to KANSAS CITY on FRIDAY with meal
+RENTAL CAR in BALTIMORE
 morning flight from ATLANTA to PHILADELPHIA
-show me the fares on all flights round trip from PITTSBURGH to OAKLAND
-what is the cost of limousine service in PHILADELPHIA
-show me flights from DENVER to WASHINGTON on a WEDNESDAY
-what is the COACH fare between BOSTON and ATLANTA on DL
-are there any flights from BOSTON to OAKLAND that stop
+fares on flights round trip from PITTSBURGH to OAKLAND
+what cost of limousine service in PHILADELPHIA
+flights from DENVER to WASHINGTON on WEDNESDAY
+what COACH fare between BOSTON and ATLANTA on DL
+any flights from BOSTON to OAKLAND stop
 OAKLAND to PHILADELPHIA SATURDAY
-how long does the ground transportation take from the SALT LAKE CITY airport
+how long ground transportation take from SALT LAKE CITY airport
 what flights from KANSAS CITY to CHICAGO next WEDNESDAY arrive at CHICAGO at about 7pm
-what's the cheapest of the DALLAS to ATLANTA flights which are after 2 in the afternoon
-could i have a listing of flights leaving BOSTON going to BALTIMORE leaving WEDNESDAY after 2100
-show me prices of flights from BALTIMORE to DALLAS
-okay could you get me a round trip ticket from INDIANAPOLIS to KANSAS CITY
+cheapest of DALLAS to ATLANTA flights after 2 in afternoon
+listing of flights leaving BOSTON going to BALTIMORE leaving WEDNESDAY after 2100
+prices of flights from BALTIMORE to DALLAS
+round trip ticket from INDIANAPOLIS to KANSAS CITY
 flights from DENVER to PHILADELPHIA include fares
-what are the flights from DALLAS to SAN FRANCISCO on TUESDAY october first
-i want to travel from KANSAS CITY to ST. PAUL and be there by dinnertime
-show me the airlines that flight from TORONTO to SAN FRANCISCO
-please show me flights from DFW to ATLANTA on MONDAY
-i would like to see all flights from DENVER to PHILADELPHIA
+what flights from DALLAS to SAN FRANCISCO on TUESDAY october first
+to travel from KANSAS CITY to ST. PAUL and be by dinnertime
+airlines flight from TORONTO to SAN FRANCISCO
+flights from DFW to ATLANTA on MONDAY
+to flights from DENVER to PHILADELPHIA
 from PHOENIX to LAS VEGAS on SATURDAY
-does DL aircraft flight DC10
+DL aircraft flight DC10
 from PITTSBURGH to BALTIMORE
-i would like to book a flight on US FIRST from CLEVELAND to MIAMI on february 24
-please give me flights from ATLANTA to BOSTON on WEDNESDAY afternoon and THURSDAY morning
+to book flight on US FIRST from CLEVELAND to MIAMI on february 24
+flights from ATLANTA to BOSTON on WEDNESDAY afternoon and THURSDAY morning
 PHILADELPHIA to BOSTON MONDAY
-what are the flights available after 6pm between SAN FRANCISCO and BOSTON
+what flights available after 6pm between SAN FRANCISCO and BOSTON
 flights from PHOENIX to LAS VEGAS
 ground transportation in DENVER
-on april 6 i would like to book an early morning flight from TAMPA to CHARLOTTE
+on april 6 to book an early morning flight from TAMPA to CHARLOTTE
 one way
-what is FF
-show me all flight from SAN FRANCISCO to OAKLAND
-looking for a flight from dc to minnesota
-what are the flights available in the morning between BOSTON and DENVER
-show me round trip fares from LAS VEGAS to HOUSTON nonstop
-how many flights does TW have with BUSINESS
-all NW flights with layover in DENVER
-show me fares from BALTIMORE to PHILADELPHIA
-i would like your rates between ATLANTA and BOSTON on september 3
-are there any flights from DFW to BOSTON leaving before 10am
-show me the flights from DAL
-may i have a listing of flights from MINNEAPOLIS to LONG BEACH CALIFORNIA on TUESDAY
-please show me early morning flights from ATLANTA to PHILADELPHIA on WEDNESDAY
-is there a flight from BOSTON to ATLANTA which leaves BOSTON in the afternoon and arrives close to 5pm
-okay i've got somebody else who wants to take a round trip ticket from CHARLOTTE to MONTREAL
-what is DL
-what ground transportation is there in DENVER
+what FF
+flight from SAN FRANCISCO to OAKLAND
+looking for flight from dc to minnesota
+what flights available in morning between BOSTON and DENVER
+round trip fares from LAS VEGAS to HOUSTON nonstop
+how many flights TW with BUSINESS
+NW flights with layover in DENVER
+fares from BALTIMORE to PHILADELPHIA
+your rates between ATLANTA and BOSTON on september 3
+any flights from DFW to BOSTON leaving before 10am
+flights from DAL
+may listing of flights from MINNEAPOLIS to LONG BEACH CALIFORNIA on TUESDAY
+early morning flights from ATLANTA to PHILADELPHIA on WEDNESDAY
+flight from BOSTON to ATLANTA leaves BOSTON in afternoon and arrives close to 5pm
+i've got somebody else who wants to take round trip ticket from CHARLOTTE to MONTREAL
+what DL
+what ground transportation in DENVER
 flights from CINCINNATI to DALLAS departing after 718am
-show me flights from DENVER to WASHINGTON on WEDNESDAY
-what flights are available FRIDAY afternoon from PITTSBURGH to SAN FRANCISCO
-what is the cheapest flight from PITTSBURGH to ATLANTA one way
-please give me round trip fares from BALTIMORE to PHILADELPHIA
-i need a flight from ATLANTA to BALTIMORE and this flight should arrive at 7pm please
+flights from DENVER to WASHINGTON on WEDNESDAY
+what flights available FRIDAY afternoon from PITTSBURGH to SAN FRANCISCO
+what cheapest flight from PITTSBURGH to ATLANTA one way
+round trip fares from BALTIMORE to PHILADELPHIA
+flight from ATLANTA to BALTIMORE and flight should arrive at 7pm
 what flights go from NEWARK to BOSTON after 5pm
-find me the earliest flight from BOSTON to DENVER that serves breakfast
-show me flights which leave from BOSTON on july 22 arriving in PITTSBURGH
-all right what i'd like to do is find the cheapest one way fare from BOSTON to DENVER
-please list all flights between INDIANAPOLIS and ORLANDO on the 27 of december
+earliest flight from BOSTON to DENVER serves breakfast
+flights leave from BOSTON on july 22 arriving in PITTSBURGH
+right what to do cheapest one way fare from BOSTON to DENVER
+flights between INDIANAPOLIS and ORLANDO on 27 of december
 flight leaving from OAKLAND to SALT LAKE CITY
-please inform me the type of aircraft used on a flight from ATLANTA to DENVER before 12 o'clock noon
+inform type of aircraft used on flight from ATLANTA to DENVER before 12 noon
 flight from dc to SALT LAKE CITY
-what planes does UA use
+what planes UA use
 friday's flights between NEWARK and TAMPA
-show me ground transportation information for DFW
-what is the first flight from BOSTON to ATLANTA
-what are the flights from BOSTON to ATLANTA
-what is HP
-what is the cheapest one way fare from ATLANTA to BOSTON
-show me all flights from OAKLAND to PHILADELPHIA on SATURDAY which serve a meal and arrive in PHILADELPHIA before noon
-i'd like a flight from COLUMBUS to PHOENIX stopping in CINCINNATI and serving dinner what's available
-what is the most expensive flight from BOSTON to DALLAS
-list the cheapest round trip flights from ORLANDO to KANSAS CITY
-what flights leave SAN FRANCISCO on MONDAY night and arrive at ATLANTA later in the evening
-list the number of flights arriving in DFW from BOSTON before noon
-show me the flights from SAN FRANCISCO to BOSTON on august 31
-okay i need to get a flight from HOUSTON to SEATTLE
-show flights from NEW YORK to LAS VEGAS
-what are fare codes QW and QX
-show BUSINESS on US from BOSTON to TORONTO
-list all flights on CO from DENVER to CHICAGO on SUNDAY which depart after 934pm
-list all the takeoffs and landings at MKE
+ground transportation information for DFW
+what first flight from BOSTON to ATLANTA
+what flights from BOSTON to ATLANTA
+what HP
+what cheapest one way fare from ATLANTA to BOSTON
+flights from OAKLAND to PHILADELPHIA on SATURDAY serve meal and arrive in PHILADELPHIA before noon
+flight from COLUMBUS to PHOENIX stopping in CINCINNATI and serving dinner available
+what most expensive flight from BOSTON to DALLAS
+cheapest round trip flights from ORLANDO to KANSAS CITY
+what flights leave SAN FRANCISCO on MONDAY night and arrive at ATLANTA later in evening
+number of flights arriving in DFW from BOSTON before noon
+flights from SAN FRANCISCO to BOSTON on august 31
+to flight from HOUSTON to SEATTLE
+flights from NEW YORK to LAS VEGAS
+what fare codes QW and QX
+BUSINESS on US from BOSTON to TORONTO
+flights on CO from DENVER to CHICAGO on SUNDAY depart after 934pm
+takeoffs and landings at MKE
 what flights leave CHARLOTTE and arrive in PHOENIX on MONDAY before 4pm
-what flights go from BOSTON to PITTSBURGH after 6 o'clock next TUESDAY
+what flights go from BOSTON to PITTSBURGH after 6 next TUESDAY
 what flights go from DENVER to SAN FRANCISCO
-show me the flights from DALLAS to ATLANTA
-what are the flights on january first 1992 from BOSTON to SAN FRANCISCO
-list list flights between OAKLAND and DENVER
-can you show me economy one way fares for flights from OAKLAND to DALLAS on december 16
-show me some information on making a reservation from PHILADELPHIA to DENVER on SUNDAY
-show me flights from WASHINGTON to BOSTON on FRIDAY
-please show me flights from PITTSBURGH to ATLANTA on WEDNESDAY morning serving breakfast
-what ground transportation is available in BALTIMORE for the day after tomorrow
-i'd like to find a flight from LAS VEGAS to DETROIT that leaves in the afternoon on MONDAY
-show me the earliest flight on WEDNESDAY from BALTIMORE to NEWARK
-please list the flights from WASHINGTON to ATLANTA
-show me flights from MILWAUKEE to ORLANDO on THURSDAY morning
-on a breakfast flight from PHILADELPHIA to DALLAS via ATLANTA
-please tell me the times of the flights between BOSTON and BALTIMORE
-please show me all airlines with SUNDAY flights from PHILADELPHIA to DENVER
-i need a flight from LOS ANGELES to PITTSBURGH on MONDAY afternoon
+flights from DALLAS to ATLANTA
+what flights on january first 1992 from BOSTON to SAN FRANCISCO
+flights between OAKLAND and DENVER
+can economy one way fares for flights from OAKLAND to DALLAS on december 16
+some information on making reservation from PHILADELPHIA to DENVER on SUNDAY
+flights from WASHINGTON to BOSTON on FRIDAY
+flights from PITTSBURGH to ATLANTA on WEDNESDAY morning serving breakfast
+what ground transportation available in BALTIMORE for day after tomorrow
+to flight from LAS VEGAS to DETROIT leaves in afternoon on MONDAY
+earliest flight on WEDNESDAY from BALTIMORE to NEWARK
+flights from WASHINGTON to ATLANTA
+flights from MILWAUKEE to ORLANDO on THURSDAY morning
+on breakfast flight from PHILADELPHIA to DALLAS via ATLANTA
+tell times of flights between BOSTON and BALTIMORE
+airlines with SUNDAY flights from PHILADELPHIA to DENVER
+flight from LOS ANGELES to PITTSBURGH on MONDAY afternoon
 what flights go from DALLAS to BALTIMORE
 what type of aircraft flies from PITTSBURGH to BALTIMORE
-what flights are there between WASHINGTON and SAN FRANCISCO leaving WASHINGTON after 6pm on WEDNESDAY
-show flights from PITTSBURGH to OAKLAND
-what are the cheapest round trip flights from DENVER to PITTSBURGH
-show me flights from DALLAS to ATLANTA on TUESDAY
-give me the flights for AA from DALLAS to SAN FRANCISCO
-please show me flights from ATLANTA to OAKLAND on THURSDAY after 1600 hours
-what does restriction AP/57 mean
-list the flights arriving in BOSTON from ATLANTA on august 5
+what flights between WASHINGTON and SAN FRANCISCO leaving WASHINGTON after 6pm on WEDNESDAY
+flights from PITTSBURGH to OAKLAND
+what cheapest round trip flights from DENVER to PITTSBURGH
+flights from DALLAS to ATLANTA on TUESDAY
+flights for AA from DALLAS to SAN FRANCISCO
+flights from ATLANTA to OAKLAND on THURSDAY after 1600 hours
+what restriction AP/57 mean
+flights arriving in BOSTON from ATLANTA on august 5
 flights from NASHVILLE to ORLANDO DAILY
-which flights are there on TUESDAY from SAN FRANCISCO to PITTSBURGH
+flights on TUESDAY from SAN FRANCISCO to PITTSBURGH
 flights from PITTSBURGH to NEWARK
-could i have the flights from NEWARK to ORLANDO please
+flights from NEWARK to ORLANDO
 what flights leave SEATTLE on SUNDAY on CO after 9pm
 information on flights from PITTSBURGH to PHILADELPHIA
-what are the seating capacities of planes between PITTSBURGH and BALTIMORE
-what are your flights from PITTSBURGH to BALTIMORE
-list all the arriving flights at MKE
-what flights are available from ATLANTA to WASHINGTON on WEDNESDAY
-how many FIRST flights are provided by AA
-show me the flights from LOS ANGELES to PITTSBURGH which arrive at PITTSBURGH on MONDAY
-i need to flight from WASHINGTON to SAN FRANCISCO but i'd like to stop over at DALLAS can you tell me a schedule of flights that will do that
-list all flights from LONG BEACH to COLUMBUS on SUNDAY
-show me all flights from DENVER to BALTIMORE
-all flights PHOENIX to SFO
-i would like to find a flight that goes from TAMPA to MONTREAL making a stop in NEW YORK and a flight that serves lunch
-explain the fare code Q
-what classes of service does TW provide
+what seating capacities of planes between PITTSBURGH and BALTIMORE
+what your flights from PITTSBURGH to BALTIMORE
+arriving flights at MKE
+what flights available from ATLANTA to WASHINGTON on WEDNESDAY
+how many FIRST flights provided by AA
+flights from LOS ANGELES to PITTSBURGH arrive at PITTSBURGH on MONDAY
+to flight from WASHINGTON to SAN FRANCISCO but to stop over at DALLAS can tell schedule of flights will do
+flights from LONG BEACH to COLUMBUS on SUNDAY
+flights from DENVER to BALTIMORE
+flights PHOENIX to SFO
+to flight goes from TAMPA to MONTREAL making stop in NEW YORK and flight serves lunch
+explain fare code Q
+what classes of service TW provide
 flights from BOSTON flights from PHILADELPHIA to BOSTON on MONDAY
-i'd like a flight tomorrow from COLUMBUS to HOUSTON with a layover in NASHVILLE
-i'd like a UA flight on WEDNESDAY from SAN FRANCISCO to BOSTON
-are there any flights between PHILADELPHIA and DENVER
-i want to flight from KANSAS CITY to CHICAGO next WEDNESDAY arriving in the evening and returning the next day
-what is the cheapest flight from PITTSBURGH to ATLANTA
-repeating leaving DENVER to SAN FRANCISCO before 10am what type of aircraft is used
-what flights from KANSAS CITY to DENVER after 845 in the morning
-i want to flight from CLEVELAND to SAN DIEGO tomorrow and stop in INDIANAPOLIS
-does CO flight from DENVER to PITTSBURGH
-please show me flights from DENVER to SAN FRANCISCO on WEDNESDAY after 1300 hours
-show me all the US flights to PITTSBURGH between 12 and 4 in the afternoon
-i need the flights that leave DENVER after 7pm next MONDAY and flight to PITTSBURGH
-list all nonstop flights on TUESDAY before noon from CHARLOTTE to BALTIMORE
-all flights from BOSTON to WASHINGTON on november 11
-please show flights arriving in PHILADELPHIA from DENVER
-i'd like to go to BOSTON from DENVER and i'd like to get there
-show me all flights from PITTSBURGH to BALTIMORE tomorrow which serve a meal
+flight tomorrow from COLUMBUS to HOUSTON with layover in NASHVILLE
+UA flight on WEDNESDAY from SAN FRANCISCO to BOSTON
+any flights between PHILADELPHIA and DENVER
+to flight from KANSAS CITY to CHICAGO next WEDNESDAY arriving in evening and returning next day
+what cheapest flight from PITTSBURGH to ATLANTA
+repeating leaving DENVER to SAN FRANCISCO before 10am what type of aircraft used
+what flights from KANSAS CITY to DENVER after 845 in morning
+to flight from CLEVELAND to SAN DIEGO tomorrow and stop in INDIANAPOLIS
+CO flight from DENVER to PITTSBURGH
+flights from DENVER to SAN FRANCISCO on WEDNESDAY after 1300 hours
+US flights to PITTSBURGH between 12 and 4 in afternoon
+flights leave DENVER after 7pm next MONDAY and flight to PITTSBURGH
+nonstop flights on TUESDAY before noon from CHARLOTTE to BALTIMORE
+flights from BOSTON to WASHINGTON on november 11
+flights arriving in PHILADELPHIA from DENVER
+to go to BOSTON from DENVER and to
+flights from PITTSBURGH to BALTIMORE tomorrow serve meal
 ground transportation for ST. PAUL
 fares and flights from BALTIMORE to PHILADELPHIA
-i would like the time of all flights from SAN FRANCISCO to PITTSBURGH on SUNDAY
+time of flights from SAN FRANCISCO to PITTSBURGH on SUNDAY
 cheapest airfare from TACOMA to ORLANDO
-show me flights from PHILADELPHIA to BALTIMORE
-does UA have a flight from MIAMI to WASHINGTON on WEDNESDAY
-list all the flights from ATLANTA to PHILADELPHIA on august the first
-could you tell me if DL flight 296 serves breakfast
-i would like a schedule of flights from SAN FRANCISCO to BOSTON on WEDNESDAY
-can you give me a list of the flights from ATLANTA to BOSTON
-what's the lowest round trip fare from DENVER to PITTSBURGH
+flights from PHILADELPHIA to BALTIMORE
+UA flight from MIAMI to WASHINGTON on WEDNESDAY
+flights from ATLANTA to PHILADELPHIA on august first
+tell if DL flight 296 serves breakfast
+schedule of flights from SAN FRANCISCO to BOSTON on WEDNESDAY
+can of flights from ATLANTA to BOSTON
+lowest round trip fare from DENVER to PITTSBURGH
 round trip fares from DENVER to PHILADELPHIA under 1000 dollars
-how can i go from the SAN FRANCISCO airport to downtown SAN FRANCISCO
-what are the afternoon flights between WASHINGTON and BOSTON
-show me the cheapest flights from SAN FRANCISCO to BOSTON
-please show me airlines with flights from PHILADELPHIA to DALLAS
-give me a list of airlines in PITTSBURGH
-what is the cheapest fare that i can get between PHILADELPHIA and SAN FRANCISCO
-what is the distance from SAN FRANCISCO international airport to SAN FRANCISCO
-what does EA mean
-show me the flights from BOSTON to SAN FRANCISCO that arrive in the afternoon
-what flights do you have between OAKLAND and BOSTON with a layover in DFW
+how can go from SAN FRANCISCO airport to downtown SAN FRANCISCO
+what afternoon flights between WASHINGTON and BOSTON
+cheapest flights from SAN FRANCISCO to BOSTON
+airlines with flights from PHILADELPHIA to DALLAS
+of airlines in PITTSBURGH
+what cheapest fare can between PHILADELPHIA and SAN FRANCISCO
+what distance from SAN FRANCISCO international airport to SAN FRANCISCO
+what EA mean
+flights from BOSTON to SAN FRANCISCO arrive in afternoon
+what flights do between OAKLAND and BOSTON with layover in DFW
 what NW flights leave DENVER before noon
-what does the airline code DL stand for
-show me the flights from BOSTON to BALTIMORE
-what is your last trip from WASHINGTON to BOSTON on august 27
+what airline code DL stand for
+flights from BOSTON to BALTIMORE
+what your last trip from WASHINGTON to BOSTON on august 27
 what flights go to SAN FRANCISCO from BOSTON
-show me the flights from BOSTON to OAKLAND
-what is the total seating capacity of all aircraft of AA
-i need to flight leaving PHILADELPHIA to ATLANTA
+flights from BOSTON to OAKLAND
+what total seating capacity of aircraft of AA
+to flight leaving PHILADELPHIA to ATLANTA
 what flights go from PHILADELPHIA to DALLAS via ATLANTA
-what is FF
-give me a flight from NEWARK to TAMPA on FRIDAY
-PHILADELPHIA to DALLAS arriving before 1 in the afternoon
-give me the flights from BOSTON to SAN FRANCISCO leaving early today
-what is the cost of a BUSINESS going from BOSTON to DALLAS leaving july first
-list nonstop flights from HOUSTON to DALLAS which arrive after 8pm
+what FF
+flight from NEWARK to TAMPA on FRIDAY
+PHILADELPHIA to DALLAS arriving before 1 in afternoon
+flights from BOSTON to SAN FRANCISCO leaving early today
+what cost of BUSINESS going from BOSTON to DALLAS leaving july first
+nonstop flights from HOUSTON to DALLAS arrive after 8pm
 how many AA flights leave DENVER june 10
-i would like the time your earliest flight from WASHINGTON to PHILADELPHIA
+time your earliest flight from WASHINGTON to PHILADELPHIA
 what DL flights from CINCINNATI to NEW YORK arrive at NEW YORK before 6pm on SATURDAY
-please give me the prices for all flights from PHILADELPHIA to DEN next SUNDAY
-give me flights from ATLANTA to BALTIMORE
-what are the COACH fares for flights from CHARLOTTE to NEWARK TUESDAY afternoon
-show me any show me what the FIRST are of the flights from PITTSBURGH to SAN FRANCISCO on MONDAY
-where does CO flight to from CHICAGO
-show me the flights from BALTIMORE to PHILADELPHIA
+prices for flights from PHILADELPHIA to DEN next SUNDAY
+flights from ATLANTA to BALTIMORE
+what COACH fares for flights from CHARLOTTE to NEWARK TUESDAY afternoon
+any what FIRST of flights from PITTSBURGH to SAN FRANCISCO on MONDAY
+where CO flight to from CHICAGO
+flights from BALTIMORE to PHILADELPHIA
 looking for flights in TORONTO to SAN DIEGO
-what kind of aircraft is used on the FIRST AA flight from PHILADELPHIA to SAN FRANCISCO stopping in DALLAS
-i need a flight from NEW YORK to MONTREAL THURSDAY may 6 arriving before noon
+what kind of aircraft used on FIRST AA flight from PHILADELPHIA to SAN FRANCISCO stopping in DALLAS
+flight from NEW YORK to MONTREAL THURSDAY may 6 arriving before noon
 what flights from any city land at MKE
-i need a flight from NEW YORK to TORONTO THURSDAY may 6 arriving by noon
-i want to travel from PHILADELPHIA to SAN FRANCISCO with a layover in DALLAS
+flight from NEW YORK to TORONTO THURSDAY may 6 arriving by noon
+to travel from PHILADELPHIA to SAN FRANCISCO with layover in DALLAS
 round trip air fares from PITTSBURGH to PHILADELPHIA less than 1000 dollars
-list all AA flights which leave PHOENIX on WEDNESDAY and stop at MILWAUKEE
-show me all flights from INDIANAPOLIS
-what are the flights from PHILADELPHIA to DALLAS on october first 1991
-i'd like to flight from DENVER to PITTSBURGH with a stop in ATLANTA
-show me flights from DENVER to PHILADELPHIA
-show me the airlines that flight from SAN FRANCISCO to BOSTON
-i would like to plan a flight on AA from BOSTON to DENVER
-what are my choices of flights leaving early afternoon from MINNEAPOLIS to INDIANAPOLIS
+AA flights leave PHOENIX on WEDNESDAY and stop at MILWAUKEE
+flights from INDIANAPOLIS
+what flights from PHILADELPHIA to DALLAS on october first 1991
+to flight from DENVER to PITTSBURGH with stop in ATLANTA
+flights from DENVER to PHILADELPHIA
+airlines flight from SAN FRANCISCO to BOSTON
+to plan flight on AA from BOSTON to DENVER
+what choices of flights leaving early afternoon from MINNEAPOLIS to INDIANAPOLIS
 from PHILADELPHIA to TORONTO
-show me the flights from ST. PETERSBURG to TORONTO that arrive early in the morning
-please list all flights from SAN FRANCISCO to PITTSBURGH on SUNDAY
-what are the prices of these flights
-i want to flight from MILWAUKEE to ORLANDO
-what is the earliest morning flight leaving BOSTON for WASHINGTON
-i'd like to find the cheapest one way fare from BALTIMORE to DENVER
-list the total number of flights between all airports by DL
-now i need flights leaving from ATLANTA and arriving in PHILADELPHIA on WEDNESDAY morning
-please list flights between DENVER and BOSTON
+flights from ST. PETERSBURG to TORONTO arrive early in morning
+flights from SAN FRANCISCO to PITTSBURGH on SUNDAY
+what prices of these flights
+to flight from MILWAUKEE to ORLANDO
+what earliest morning flight leaving BOSTON for WASHINGTON
+to cheapest one way fare from BALTIMORE to DENVER
+total number of flights between airports by DL
+flights leaving from ATLANTA and arriving in PHILADELPHIA on WEDNESDAY morning
+flights between DENVER and BOSTON
 ground transportation PHILADELPHIA
-is there ground transportation from the ATL to downtown ATLANTA
-show me the flights from ATLANTA to DENVER on FRIDAY
+ground transportation from ATL to downtown ATLANTA
+flights from ATLANTA to DENVER on FRIDAY
 UA flights stopping in DENVER before noon
-all flights from PITTSBURGH to PHILADELPHIA that arrive at 6 o'clock next TUESDAY
-show me the flights from BOSTON to PHILADELPHIA
+flights from PITTSBURGH to PHILADELPHIA arrive at 6 next TUESDAY
+flights from BOSTON to PHILADELPHIA
 what flights from MINNEAPOLIS to PITTSBURGH
-which airline can flight me from ATLANTA to DENVER to SAN FRANCISCO
-list the flights from DENVER to SAN FRANCISCO after 2pm on a MONDAY
-what are all MONDAY flights from DENVER to SAN FRANCISCO on UA
-what's the lowest round trip fare from DENVER to ATLANTA
-i need a flight from SAN FRANCISCO to BOSTON that leaves after 10pm
-what ground transportation is available into WASHINGTON
-show all nonstop flights from BOSTON to ATLANTA
-what is the cheapest ticket from BALTIMORE to SAN FRANCISCO on FRIDAY august 30
-show all WEDNESDAY morning flights from DENVER to BOSTON
+airline can flight from ATLANTA to DENVER to SAN FRANCISCO
+flights from DENVER to SAN FRANCISCO after 2pm on MONDAY
+what MONDAY flights from DENVER to SAN FRANCISCO on UA
+lowest round trip fare from DENVER to ATLANTA
+flight from SAN FRANCISCO to BOSTON leaves after 10pm
+what ground transportation available into WASHINGTON
+nonstop flights from BOSTON to ATLANTA
+what cheapest ticket from BALTIMORE to SAN FRANCISCO on FRIDAY august 30
+WEDNESDAY morning flights from DENVER to BOSTON
 shortest flights from NASHVILLE to ST. PETERSBURG
-what airlines flight from TORONTO to SAN DIEGO with a layover in DENVER
-all flights to BALTIMORE after 6pm
-show me the flights that go from SAN DIEGO to NEWARK by way of HOUSTON
-is there a nonstop flight from DENVER to SAN FRANCISCO
+what airlines flight from TORONTO to SAN DIEGO with layover in DENVER
+flights to BALTIMORE after 6pm
+flights go from SAN DIEGO to NEWARK by way of HOUSTON
+nonstop flight from DENVER to SAN FRANCISCO
 what flights takeoff and land at MKE
-okay does TW have a flight from DALLAS to SAN FRANCISCO
-show me ground transportation information for SAN FRANCISCO
-show flights from DALLAS to SAN FRANCISCO
-please list the prices for a RENTAL CAR in PITTSBURGH
+TW flight from DALLAS to SAN FRANCISCO
+ground transportation information for SAN FRANCISCO
+flights from DALLAS to SAN FRANCISCO
+prices for RENTAL CAR in PITTSBURGH
 flights between MILWAUKEE and ORLANDO one way
-show me times for COACH flights between BOSTON and BALTIMORE on WEDNESDAY
-how much does the AA flight 71 from DALLAS to SAN FRANCISCO cost
-show me the flights before 8am on august 2 from BOSTON to DENVER on DL
-what is the earliest flight from BOSTON to DENVER
+times for COACH flights between BOSTON and BALTIMORE on WEDNESDAY
+how much AA flight 71 from DALLAS to SAN FRANCISCO cost
+flights before 8am on august 2 from BOSTON to DENVER on DL
+what earliest flight from BOSTON to DENVER
 BOSTON to DENVER MONDAY
-all flights from BOSTON to WASHINGTON
-what flights leave from NEWARK to LOS ANGELES in the afternoon
-what are flights between BOSTON and PITTSBURGH on august 10
-what economy flights are available from DALLAS to BALTIMORE on december 17
-please find me a flight between BOSTON and PHILADELPHIA that arrives in PHILADELPHIA close to 5pm
-i need a flight from SAN DIEGO to INDIANAPOLIS leaving in the afternoon on TUESDAY
-what flights are available from PITTSBURGH to BALTIMORE on july 25 1991
-show me the cheapest one way fare from BALTIMORE to DALLAS
-could you tell me what the abbreviation US stands for
-list all flights from ATLANTA to BALTIMORE THURSDAY morning
+flights from BOSTON to WASHINGTON
+what flights leave from NEWARK to LOS ANGELES in afternoon
+what flights between BOSTON and PITTSBURGH on august 10
+what economy flights available from DALLAS to BALTIMORE on december 17
+flight between BOSTON and PHILADELPHIA arrives in PHILADELPHIA close to 5pm
+flight from SAN DIEGO to INDIANAPOLIS leaving in afternoon on TUESDAY
+what flights available from PITTSBURGH to BALTIMORE on july 25 1991
+cheapest one way fare from BALTIMORE to DALLAS
+tell what abbreviation US stands for
+flights from ATLANTA to BALTIMORE THURSDAY morning
 morning flight from DALLAS to ATLANTA
-show me flights from all airports to DAL
-list the NW flights that leave DENVER before noon
-can you please show me the flights from PITTSBURGH to BOSTON on WEDNESDAY of next week that arrive before noon
+flights from airports to DAL
+NW flights leave DENVER before noon
+can flights from PITTSBURGH to BOSTON on WEDNESDAY of next week arrive before noon
 what flights depart from PITTSBURGH and arrive in OAKLAND
-i need information on flights leaving DALLAS arriving in BOSTON leaving DALLAS early in the morning
-what is the cheapest one way flight from ATLANTA to BOSTON
-i need a flight from DALLAS to SAN FRANCISCO
-list flights between BOSTON and SAN FRANCISCO that serve breakfast
-what does ls stand for
-show me flights from ATLANTA to WASHINGTON
+information on flights leaving DALLAS arriving in BOSTON leaving DALLAS early in morning
+what cheapest one way flight from ATLANTA to BOSTON
+flight from DALLAS to SAN FRANCISCO
+flights between BOSTON and SAN FRANCISCO serve breakfast
+what ls stand for
+flights from ATLANTA to WASHINGTON
 HOUSTON airports
-can you list all flights leaving from ST. LOUIS and arriving in MILWAUKEE
+can flights leaving from ST. LOUIS and arriving in MILWAUKEE
 what limousine service in TORONTO
-all flights from BOSTON to WASHINGTON on the 10 of november
-show me flights from BOSTON to WASHINGTON leaving july 15
-list the flights from SAN FRANCISCO to PHILADELPHIA on AA
-where is MCO
-please show me airlines with flights from BOSTON to DENVER
-which flights go from PITTSBURGH to ATLANTA in the evening
-list all the flights from ATLANTA to CHARLOTTE that leave next MONDAY
-i need a listing of flights from ST. PETERSBURG florida to TACOMA leaving tomorrow and i would like to have a layover in MILWAUKEE please
-show me the lowest fare for a round trip flight from BALTIMORE to DALLAS
-please list all the arriving and departing flights from MKE
-what type of plane is an M80
-do you have an early morning direct flight from PHILADELPHIA to PITTSBURGH
-list the AA flights from DALLAS to SAN FRANCISCO
-list flights from HOUSTON to MEMPHIS june 29
-what flights are there from CHARLOTTE to BALTIMORE
-i want to flight from DETROIT to ST. PETERSBURG on NW and leave around 9am tell me what aircraft are used by this flight and tell me the flight number
+flights from BOSTON to WASHINGTON on 10 of november
+flights from BOSTON to WASHINGTON leaving july 15
+flights from SAN FRANCISCO to PHILADELPHIA on AA
+where MCO
+airlines with flights from BOSTON to DENVER
+flights go from PITTSBURGH to ATLANTA in evening
+flights from ATLANTA to CHARLOTTE leave next MONDAY
+listing of flights from ST. PETERSBURG florida to TACOMA leaving tomorrow and to layover in MILWAUKEE
+lowest fare for round trip flight from BALTIMORE to DALLAS
+arriving and departing flights from MKE
+what type of plane an M80
+do an early morning direct flight from PHILADELPHIA to PITTSBURGH
+AA flights from DALLAS to SAN FRANCISCO
+flights from HOUSTON to MEMPHIS june 29
+what flights from CHARLOTTE to BALTIMORE
+to flight from DETROIT to ST. PETERSBURG on NW and leave around 9am tell what aircraft used by flight and tell flight number
 flights and fares from DENVER to OAKLAND
-display all flights leaving from TORONTO to SAN DIEGO on US laying over in WASHINGTON
-what is the latest flight in the day from BALTIMORE to ATLANTA
-what is the cost of a FIRST from BALTIMORE to DALLAS
-show me fares from BALTIMORE to PHILADELPHIA
+display flights leaving from TORONTO to SAN DIEGO on US laying over in WASHINGTON
+what latest flight in day from BALTIMORE to ATLANTA
+what cost of FIRST from BALTIMORE to DALLAS
+fares from BALTIMORE to PHILADELPHIA
 flight from PHILADELPHIA to DALLAS arriving before 4pm on SATURDAY
-what flights are from MEMPHIS to LAS VEGAS
-what ground transportation is available in DENVER
-i need a flight from PHILADELPHIA to DENVER
-i need a flight from PHILADELPHIA to SAN FRANCISCO next WEDNESDAY
-i'd like to travel from BOSTON to BALTIMORE on US 269 please tell me the times
-what is the earliest flight from OAKLAND to WASHINGTON on SUNDAY
+what flights from MEMPHIS to LAS VEGAS
+what ground transportation available in DENVER
+flight from PHILADELPHIA to DENVER
+flight from PHILADELPHIA to SAN FRANCISCO next WEDNESDAY
+to travel from BOSTON to BALTIMORE on US 269 tell times
+what earliest flight from OAKLAND to WASHINGTON on SUNDAY
 what flights from ATLANTA to WASHINGTON
-show me the flights from DALLAS to BALTIMORE at economy level
-airline that stands for DL
-on november 23 of this year 1991 i'd like to flight from ATLANTA to DENVER and i'd like to flight on DL
+flights from DALLAS to BALTIMORE at economy level
+airline stands for DL
+on november 23 of year 1991 to flight from ATLANTA to DENVER and to flight on DL
 how many flights has CO into and out of ATLANTA
-please list the flight times from PITTSBURGH to NEWARK
-list all flights from CHICAGO to SEATTLE on CO which depart on SATURDAY before noon and include a meal
-please show me any UA flights including connections between BOSTON and SAN FRANCISCO at 5 in the evening
-how much does it cost to go from downtown to BOS airport
-can you list all flights between MILWAUKEE and CHICAGO
-show me all flights from SAN DIEGO to NEW YORK using DC10
+flight times from PITTSBURGH to NEWARK
+flights from CHICAGO to SEATTLE on CO depart on SATURDAY before noon and include meal
+any UA flights including connections between BOSTON and SAN FRANCISCO at 5 in evening
+how much it cost to go from downtown to BOS airport
+can flights between MILWAUKEE and CHICAGO
+flights from SAN DIEGO to NEW YORK using DC10
 nonstop flights from SEATTLE to DENVER
-are there any other cities that i can flight from BOSTON to DALLAS through that i can get a flight earlier than 1017 in the morning
-can you list all flights departing from TORONTO and landing in SAN DIEGO with a layover in DENVER
-i would like to see the flights from BALTIMORE to PHILADELPHIA
+any other cities can flight from BOSTON to DALLAS through can flight earlier than 1017 in morning
+can flights departing from TORONTO and landing in SAN DIEGO with layover in DENVER
+to flights from BALTIMORE to PHILADELPHIA
 shortest morning flights from CINCINNATI to TAMPA
-all right what do you have from OAKLAND to PHILADELPHIA on WEDNESDAY
-can you tell me the cheapest one way fare from BOSTON to SAN FRANCISCO
-i would like to flight from DENVER to PITTSBURGH on UA
-show me all flights for tomorrow from SAN FRANCISCO to PITTSBURGH
+right what do from OAKLAND to PHILADELPHIA on WEDNESDAY
+can tell cheapest one way fare from BOSTON to SAN FRANCISCO
+to flight from DENVER to PITTSBURGH on UA
+flights for tomorrow from SAN FRANCISCO to PITTSBURGH
 information on flights from DENVER to PHILADELPHIA
-i'd like a flight tomorrow from SAN DIEGO to TORONTO
-show all flights from PITTSBURGH to OAKLAND
-list all flights on SUNDAY from SAN FRANCISCO to PITTSBURGH nonstop
-also show me the first flight from ATLANTA to DENVER on a THURSDAY
+flight tomorrow from SAN DIEGO to TORONTO
+flights from PITTSBURGH to OAKLAND
+flights on SUNDAY from SAN FRANCISCO to PITTSBURGH nonstop
+first flight from ATLANTA to DENVER on THURSDAY
 flights from PHOENIX to NEWARK
-find me a flight leaving BOSTON at 12 o'clock
-show me a list of flights on AA from BOSTON to dc on july 22
+flight leaving BOSTON at 12
+of flights on AA from BOSTON to dc on july 22
 what flights leave PHOENIX on AA
-what are the evening flights from ATLANTA to BALTIMORE
-what are the flights for UA on september 20 in the morning
+what evening flights from ATLANTA to BALTIMORE
+what flights for UA on september 20 in morning
 flights from PHOENIX to LAS VEGAS
 flight information between WASHINGTON and DENVER on september 3
-i'd like to find the cheapest one way fare from BOSTON to PHILADELPHIA
-what does flight code US mean
-what are the flights from DENVER to PITTSBURGH
+to cheapest one way fare from BOSTON to PHILADELPHIA
+what flight code US mean
+what flights from DENVER to PITTSBURGH
 RENTAL CAR in BALTIMORE
-what is the latest flight from PHILADELPHIA to BOSTON
-i want a flight on CO leaving SAN FRANCISCO arriving PITTSBURGH
+what latest flight from PHILADELPHIA to BOSTON
+flight on CO leaving SAN FRANCISCO arriving PITTSBURGH
 shortest flight from ONTARIO CALIFORNIA to ORLANDO
-name the earliest flight from BOSTON to SAN FRANCISCO
-is there a meal on DL flight 852 from SAN FRANCISCO to DFW
-do you have a flight from ATLANTA to BOSTON
-i would like a flight from DENVER to PITTSBURGH
+name earliest flight from BOSTON to SAN FRANCISCO
+meal on DL flight 852 from SAN FRANCISCO to DFW
+do flight from ATLANTA to BOSTON
+flight from DENVER to PITTSBURGH
 flight from MILWAUKEE to DENVER
-what is the aircraft type with the greatest seating capacity
-show flights between DENVER and SAN FRANCISCO for september 17
+what aircraft type with greatest seating capacity
+flights between DENVER and SAN FRANCISCO for september 17
 what flights between DFW and OAKLAND arrive in OAKLAND between 1133am and 43pm
-show me the flights from ATLANTA to WASHINGTON on THURSDAY evening
-i'm trying to find the flight number from a flight from ORLANDO to CLEVELAND on US and it arrives around 10pm
-show me a list of flights from DENVER to BALTIMORE on UA for august 3
+flights from ATLANTA to WASHINGTON on THURSDAY evening
+trying to flight number from flight from ORLANDO to CLEVELAND on US and it arrives around 10pm
+of flights from DENVER to BALTIMORE on UA for august 3
 when do planes leave BOSTON for SAN FRANCISCO
 RENTAL CAR in BOSTON
-show me the flights that go from SAN DIEGO to NEWARK by way of HOUSTON
-all UA flights with layover in DENVER
-what is the lowest fare UA charges between BOSTON and SAN FRANCISCO
-are there any flights from NEW YORK to MONTREAL leaving on THURSDAY
-show me flights from DALLAS to HOUSTON and from HOUSTON to DALLAS
-all right would you let me know type of aircraft UA is using on the flights from DENVER to SAN FRANCISCO i would like to know the type of aircraft that they use on these flights before 10 in the morning
+flights go from SAN DIEGO to NEWARK by way of HOUSTON
+UA flights with layover in DENVER
+what lowest fare UA charges between BOSTON and SAN FRANCISCO
+any flights from NEW YORK to MONTREAL leaving on THURSDAY
+flights from DALLAS to HOUSTON and from HOUSTON to DALLAS
+right let know type of aircraft UA using on flights from DENVER to SAN FRANCISCO to know type of aircraft they use on these flights before 10 in morning
 what flights leave from NASHVILLE to MILWAUKEE
-what are the RENTAL CAR rates in DALLAS
-i need information on a flight from BOSTON to DENVER
-show me the flights from DENVER to PHILADELPHIA and the flights from PITTSBURGH to PHILADELPHIA
-find a flight between DENVER and OAKLAND the flight should leave in the afternoon and arrive near 5pm the flight should also be nonstop
-i'd like UA flights from DENVER to BALTIMORE
-show flights from DENVER to OAKLAND that arrive after 12 o'clock
-what's the last flight from HOUSTON to DALLAS
-show me flights to SAN FRANCISCO arriving before 1
-show me all the flights from MONTREAL to DETROIT
-show me the round trip flights between PHOENIX and SALT LAKE CITY
-i would like a nonstop flight between PITTSBURGH and PHILADELPHIA leaving in the afternoon and arriving in the vicinity of 5pm
-show me the nonstop flights from ATLANTA to OAKLAND that leave in the afternoon and arrive between 430pm and 630pm
-what is the earliest morning flight from SAN FRANCISCO to BOSTON
-what flights are available on SUNDAY to PITTSBURGH from SAN FRANCISCO
-what time does flight AA 459 depart
-show me the ground transportation at DENVER
+what RENTAL CAR rates in DALLAS
+information on flight from BOSTON to DENVER
+flights from DENVER to PHILADELPHIA and flights from PITTSBURGH to PHILADELPHIA
+flight between DENVER and OAKLAND flight should leave in afternoon and arrive near 5pm flight should be nonstop
+UA flights from DENVER to BALTIMORE
+flights from DENVER to OAKLAND arrive after 12
+last flight from HOUSTON to DALLAS
+flights to SAN FRANCISCO arriving before 1
+flights from MONTREAL to DETROIT
+round trip flights between PHOENIX and SALT LAKE CITY
+nonstop flight between PITTSBURGH and PHILADELPHIA leaving in afternoon and arriving in vicinity of 5pm
+nonstop flights from ATLANTA to OAKLAND leave in afternoon and arrive between 430pm and 630pm
+what earliest morning flight from SAN FRANCISCO to BOSTON
+what flights available on SUNDAY to PITTSBURGH from SAN FRANCISCO
+what time flight AA 459 depart
+ground transportation at DENVER
 ground transport in DENVER
 what flights from ATLANTA to ST. LOUIS on TUESDAY arriving around 230pm
 AA flights to HOUSTON from CINCINNATI
-what is fare code FN
+what fare code FN
 what flights go from BOSTON to ORLANDO
-list all the takeoffs and landings at MKE
-on july 23 all flights on AA from PHILADELPHIA to SAN FRANCISCO
-what're the flights from MEMPHIS to LAS VEGAS that arrive on a SUNDAY
-show me the flights from BOSTON to PITTSBURGH
+takeoffs and landings at MKE
+on july 23 flights on AA from PHILADELPHIA to SAN FRANCISCO
+what're flights from MEMPHIS to LAS VEGAS arrive on SUNDAY
+flights from BOSTON to PITTSBURGH
 what flights go from BOSTON to DALLAS
-which airlines flight between BOSTON and PITTSBURGH
-show me the one way fares from SAN DIEGO to MIAMI nonstop
+airlines flight between BOSTON and PITTSBURGH
+one way fares from SAN DIEGO to MIAMI nonstop
 what flights from PITTSBURGH to ATLANTA on WEDNESDAY morning serves breakfast
-do you have a UA flight from BOSTON to WASHINGTON
-what is the cheapest flight from DALLAS to BALTIMORE
-list all flights from MEMPHIS to SEATTLE
-is there a flight around 3pm from CHARLOTTE to MINNEAPOLIS
-list flights from PITTSBURGH to ATLANTA on the evening of august 6
-what is fare code H
-could you find me a flight from BOSTON to SAN FRANCISCO that stops in DENVER
-find a flight on DL from PHILADELPHIA to SAN FRANCISCO
-i would like to flight from BALTIMORE to SAN FRANCISCO on EA
-tell me about ground transportation in ST. PETERSBURG airport
-what airlines are AC and AS
+do UA flight from BOSTON to WASHINGTON
+what cheapest flight from DALLAS to BALTIMORE
+flights from MEMPHIS to SEATTLE
+flight around 3pm from CHARLOTTE to MINNEAPOLIS
+flights from PITTSBURGH to ATLANTA on evening of august 6
+what fare code H
+flight from BOSTON to SAN FRANCISCO stops in DENVER
+flight on DL from PHILADELPHIA to SAN FRANCISCO
+to flight from BALTIMORE to SAN FRANCISCO on EA
+tell about ground transportation in ST. PETERSBURG airport
+what airlines AC and AS
 flights from MONTREAL
-what flights go from PHILADELPHIA to DALLAS with a layover in ATLANTA
+what flights go from PHILADELPHIA to DALLAS with layover in ATLANTA
 round trip fares from BALTIMORE to PHILADELPHIA under 1000 dollars
 define airline HP
-i'd like to go from BOSTON to ATLANTA sometime after 5pm can you tell me the flights that could do that for me
-show me the flights from ATLANTA to PHILADELPHIA
-give me a flight between BOSTON and DENVER
-what type of aircraft are used on flights from CLEVELAND to DALLAS that leave before noon
-okay just on november 23 i want to flight from ATLANTA to DENVER and i need to know what flights are available
-list all flights from ATLANTA to DALLAS on FRIDAY
-please show me the flights available from SAN FRANCISCO to PITTSBURGH on TUESDAY
-what ground transportation is available from the DEN to downtown DENVER
-give me the cheapest flight from CHARLOTTE to LONG BEACH
-i need flight information on THURSDAY leaving PITTSBURGH and arriving in BALTIMORE in the morning
-i'm trying to flight from DENVER to BOSTON and i want a flight that serves a meal
-i would like to flight from BOSTON to BALTIMORE what time are the flights in the afternoon
-what kind of airplane is flight UA 281 from BOSTON to DENVER
-what airline is EA
+to go from BOSTON to ATLANTA sometime after 5pm can tell flights do for
+flights from ATLANTA to PHILADELPHIA
+flight between BOSTON and DENVER
+what type of aircraft used on flights from CLEVELAND to DALLAS leave before noon
+just on november 23 to flight from ATLANTA to DENVER and to know what flights available
+flights from ATLANTA to DALLAS on FRIDAY
+flights available from SAN FRANCISCO to PITTSBURGH on TUESDAY
+what ground transportation available from DEN to downtown DENVER
+cheapest flight from CHARLOTTE to LONG BEACH
+flight information on THURSDAY leaving PITTSBURGH and arriving in BALTIMORE in morning
+trying to flight from DENVER to BOSTON and flight serves meal
+to flight from BOSTON to BALTIMORE what time flights in afternoon
+what kind of airplane flight UA 281 from BOSTON to DENVER
+what airline EA
 what NW flights stop in DENVER
-what flights are there WEDNESDAY morning from ATLANTA to PHILADELPHIA
-what flights are available from PITTSBURGH to BOSTON on WEDNESDAY of next week
-i'm trying to make a connection between DENVER and SAN FRANCISCO does DL flight between those two
-show me ground transportation for DALLAS
-i'd like a flight from BALTIMORE to BOSTON AS early in the morning AS i can
-i need a flight from PHILADELPHIA to BOSTON
-okay on TUESDAY june first i'd like to go from PHOENIX to DETROIT in the late afternoon
-may i see all nonstop flights from ST. PETERSBURG to CHARLOTTE
-i'd like to flight from COLUMBUS to NASHVILLE tomorrow morning
-list the flights and departure times for flights leaving DFW for BOSTON after 6pm
-what flights do you have leaving BOSTON going to SAN FRANCISCO
-show me the nonstop flights from DALLAS to HOUSTON
-what's restriction AP/68
-find me a flight from BOSTON to SAN FRANCISCO with a layover in DENVER
-i need a flight from DENVER to PHILADELPHIA
-before 10 o'clock on TUESDAY is there a 747 that flies from BALTIMORE to SAN FRANCISCO
-all flights from WASHINGTON to SAN FRANCISCO leaving after 2
-what is the latest flight leaving WASHINGTON for DENVER
-show me one more time the FIRST from BALTIMORE to DALLAS
-which airlines flight between BALTIMORE and SAN FRANCISCO
-are there any CO flights between DALLAS and BOSTON
+what flights WEDNESDAY morning from ATLANTA to PHILADELPHIA
+what flights available from PITTSBURGH to BOSTON on WEDNESDAY of next week
+trying to make connection between DENVER and SAN FRANCISCO DL flight between those two
+ground transportation for DALLAS
+flight from BALTIMORE to BOSTON AS early in morning AS can
+flight from PHILADELPHIA to BOSTON
+on TUESDAY june first to go from PHOENIX to DETROIT in late afternoon
+may nonstop flights from ST. PETERSBURG to CHARLOTTE
+to flight from COLUMBUS to NASHVILLE tomorrow morning
+flights and departure times for flights leaving DFW for BOSTON after 6pm
+what flights do leaving BOSTON going to SAN FRANCISCO
+nonstop flights from DALLAS to HOUSTON
+restriction AP/68
+flight from BOSTON to SAN FRANCISCO with layover in DENVER
+flight from DENVER to PHILADELPHIA
+before 10 on TUESDAY 747 flies from BALTIMORE to SAN FRANCISCO
+flights from WASHINGTON to SAN FRANCISCO leaving after 2
+what latest flight leaving WASHINGTON for DENVER
+one more time FIRST from BALTIMORE to DALLAS
+airlines flight between BALTIMORE and SAN FRANCISCO
+any CO flights between DALLAS and BOSTON
 information on ground transportation from airport to downtown BOSTON
-what is the lowest fare from DENVER to PITTSBURGH
-first i'd like to flight from PHILADELPHIA to DALLAS and flight from DALLAS to SAN FRANCISCO
-show me flights from NEW YORK to MIAMI on a TUESDAY with a round trip fare less than 466 dollars
-show me all flights arriving at DALLAS
-what does NW stand for
-on THURSDAY i'd like a flight from ST. PETERSBURG to MIAMI
+what lowest fare from DENVER to PITTSBURGH
+first to flight from PHILADELPHIA to DALLAS and flight from DALLAS to SAN FRANCISCO
+flights from NEW YORK to MIAMI on TUESDAY with round trip fare less than 466 dollars
+flights arriving at DALLAS
+what NW stand for
+on THURSDAY flight from ST. PETERSBURG to MIAMI
 what flights from MIAMI to INDIANAPOLIS on SUNDAY
-show me the flights from SALT LAKE CITY to ST. PETERSBURG on WEDNESDAY
-i'd like to flight between BOSTON and SAN FRANCISCO
-when can i flight from PHILADELPHIA to DALLAS on a SATURDAY morning
-what time zone is DENVER in
-does UA have any flights from DALLAS to SAN FRANCISCO
+flights from SALT LAKE CITY to ST. PETERSBURG on WEDNESDAY
+to flight between BOSTON and SAN FRANCISCO
+when can flight from PHILADELPHIA to DALLAS on SATURDAY morning
+what time zone DENVER in
+UA any flights from DALLAS to SAN FRANCISCO
 flights from ONTARIO to ORLANDO
-display all flights from DENVER to SAN FRANCISCO on august 7
-please list any flights from OAKLAND to PHILADELPHIA on TUESDAY
-list all flights from DENVER to SAN FRANCISCO on WEDNESDAY afternoon
-what kinds of planes are used by midway airlines
-flights from NEWARK to CLEVELAND DAILY 5 o'clock pm
+display flights from DENVER to SAN FRANCISCO on august 7
+any flights from OAKLAND to PHILADELPHIA on TUESDAY
+flights from DENVER to SAN FRANCISCO on WEDNESDAY afternoon
+what kinds of planes used by midway airlines
+flights from NEWARK to CLEVELAND DAILY 5 pm
 round trip FIRST NEW YORK to MIAMI
-on august 30 please schedule me on a flight from DENVER to SAN FRANCISCO early in the morning
-show me the evening flights from PHILADELPHIA to ATLANTA
-what is the cheapest fare one way between PITTSBURGH and DENVER
-PITTSBURGH to BALTIMORE please on january one
-how much would RENTAL CAR cost in ATLANTA
-do you have one to DENVER from PHILADELPHIA
-i would like to book a flight from CHICAGO to SEATTLE on june 4
-show me all all flights from PITTSBURGH to ATLANTA on WEDNESDAY which leave before noon and serve breakfast
-i wish to book a flight from PITTSBURGH to ATLANTA COACH discount fare
-show me all flights out of BOSTON on june 20 that have BUSINESS
-do any of the SAN FRANCISCO to BOSTON flights leave on FRIDAY
+on august 30 schedule on flight from DENVER to SAN FRANCISCO early in morning
+evening flights from PHILADELPHIA to ATLANTA
+what cheapest fare one way between PITTSBURGH and DENVER
+PITTSBURGH to BALTIMORE on january one
+how much RENTAL CAR cost in ATLANTA
+do one to DENVER from PHILADELPHIA
+to book flight from CHICAGO to SEATTLE on june 4
+flights from PITTSBURGH to ATLANTA on WEDNESDAY leave before noon and serve breakfast
+wish to book flight from PITTSBURGH to ATLANTA COACH discount fare
+flights out of BOSTON on june 20 BUSINESS
+do any of SAN FRANCISCO to BOSTON flights leave on FRIDAY
 flight from BOSTON to BALTIMORE
-what are the flights from WASHINGTON to DENVER
-show me all US flights from ATLANTA to DENVER for the day after tomorrow
-what flights are available from DENVER to SAN FRANCISCO
-tell me about TW flight 539
-what flights are there arriving in CHICAGO after 9pm on CO
-is there an AA flight in the evening from DALLAS to SAN FRANCISCO
-show me the cheapest round trips from DALLAS to BALTIMORE
-show me all flights from DENVER to PITTSBURGH which serve a meal for the day after tomorrow
-how much is a FIRST round trip from ATLANTA to SAN FRANCISCO
-give me the flights from NEW YORK to LAS VEGAS and MEMPHIS to LAS VEGAS on SUNDAY
+what flights from WASHINGTON to DENVER
+US flights from ATLANTA to DENVER for day after tomorrow
+what flights available from DENVER to SAN FRANCISCO
+tell about TW flight 539
+what flights arriving in CHICAGO after 9pm on CO
+an AA flight in evening from DALLAS to SAN FRANCISCO
+cheapest round trips from DALLAS to BALTIMORE
+flights from DENVER to PITTSBURGH serve meal for day after tomorrow
+how much FIRST round trip from ATLANTA to SAN FRANCISCO
+flights from NEW YORK to LAS VEGAS and MEMPHIS to LAS VEGAS on SUNDAY
 ground SAN FRANCISCO
-please list the flights from PHILADELPHIA to TORONTO
-find me the earliest flight from BOSTON to ATLANTA
-show me the flights from BALTIMORE to BOSTON
-what is restriction AP/80
-please list the TUESDAY flights from ATLANTA to ST. LOUIS
-show me the flights from BALTIMORE to SEATTLE
-i need a flight from ST. PETERSBURG to MIAMI for THURSDAY
+flights from PHILADELPHIA to TORONTO
+earliest flight from BOSTON to ATLANTA
+flights from BALTIMORE to BOSTON
+what restriction AP/80
+TUESDAY flights from ATLANTA to ST. LOUIS
+flights from BALTIMORE to SEATTLE
+flight from ST. PETERSBURG to MIAMI for THURSDAY
 shortest evening flight from TAMPA to CINCINNATI
-show me flights from DALLAS to PITTSBURGH
-show me the dinner flights from BALTIMORE to OAKLAND
+flights from DALLAS to PITTSBURGH
+dinner flights from BALTIMORE to OAKLAND
 how many stops on CO 1765 from BOSTON to SAN FRANCISCO
-please list the flight times from PITTSBURGH to NEWARK
-what are the flights from MONTREAL to CHICAGO
-i'd like to find the cheapest flight from WASHINGTON to ATLANTA
-what time are flights from DENVER to SAN FRANCISCO on CO
-what type of aircraft does EA flight from ATLANTA to DENVER before 6pm
-show me airlines going from PITTSBURGH going to DENVER and then continuing to SAN FRANCISCO on MONDAY
-what is the distance from BOSTON airport to BOSTON
-show me ground transportation in SAN FRANCISCO
-show me the flights from INDIANAPOLIS to MONTREAL
-which flights are serviced by AA
-what flights are there from MILWAUKEE to PHOENIX on SATURDAY
-show me the flights from SAN DIEGO to NEWARK
-i would like an early morning flight on june first from CHICAGO into SEATTLE on CO
-is there ground transportation from the PIT to downtown PITTSBURGH
-i would like to flight from DENVER to PITTSBURGH
+flight times from PITTSBURGH to NEWARK
+what flights from MONTREAL to CHICAGO
+to cheapest flight from WASHINGTON to ATLANTA
+what time flights from DENVER to SAN FRANCISCO on CO
+what type of aircraft EA flight from ATLANTA to DENVER before 6pm
+airlines going from PITTSBURGH going to DENVER and then continuing to SAN FRANCISCO on MONDAY
+what distance from BOSTON airport to BOSTON
+ground transportation in SAN FRANCISCO
+flights from INDIANAPOLIS to MONTREAL
+flights serviced by AA
+what flights from MILWAUKEE to PHOENIX on SATURDAY
+flights from SAN DIEGO to NEWARK
+an early morning flight on june first from CHICAGO into SEATTLE on CO
+ground transportation from PIT to downtown PITTSBURGH
+to flight from DENVER to PITTSBURGH
 what flights go from BOSTON to ATLANTA next TUESDAY
-what airlines have flights from BOSTON to PHILADELPHIA that leave before 630am
+what airlines flights from BOSTON to PHILADELPHIA leave before 630am
 flights from DENVER to BALTIMORE between 10am and 2pm
-can you tell me about ground transportation between the DALLAS airport and downtown DALLAS
-what flights are available from DENVER to DFW in the afternoons
-what is HP
+can tell about ground transportation between DALLAS airport and downtown DALLAS
+what flights available from DENVER to DFW in afternoons
+what HP
 flights from BOSTON to PITTSBURGH
-may i have a listing of flights from LONG BEACH to COLUMBUS on TUESDAY
-i would like a flight from BALTIMORE to SAN FRANCISCO on TW with a stop in DENVER
-list flights from BOSTON to SAN FRANCISCO that serve only breakfast
-list nonstop flights from SAN FRANCISCO to OAKLAND that depart in the afternoon
-show me all flights from PHILADELPHIA to ATLANTA that leave after 5pm on WEDNESDAY
-show me the airlines between BOSTON and DENVER
+may listing of flights from LONG BEACH to COLUMBUS on TUESDAY
+flight from BALTIMORE to SAN FRANCISCO on TW with stop in DENVER
+flights from BOSTON to SAN FRANCISCO serve only breakfast
+nonstop flights from SAN FRANCISCO to OAKLAND depart in afternoon
+flights from PHILADELPHIA to ATLANTA leave after 5pm on WEDNESDAY
+airlines between BOSTON and DENVER
 PHOENIX to DENVER
-please list the flights from KANSAS CITY to DENVER
-show me the earliest flight from NEWARK to SEATTLE
-how many booking classes are there
-what are the flights from KANSAS CITY to BURBANK on SATURDAY may 22 on WN
+flights from KANSAS CITY to DENVER
+earliest flight from NEWARK to SEATTLE
+how many booking classes
+what flights from KANSAS CITY to BURBANK on SATURDAY may 22 on WN
 flights from NEWARK to CLEVELAND
-what's the lowest round trip fare from ATLANTA to PITTSBURGH
-what airlines have BUSINESS between BOSTON and SAN FRANCISCO
+lowest round trip fare from ATLANTA to PITTSBURGH
+what airlines BUSINESS between BOSTON and SAN FRANCISCO
 fares from DALLAS to BALTIMORE
-what's the first flight from BOSTON to SAN FRANCISCO
-please list the flight times for BOSTON to PITTSBURGH
-what is your cheapest fare between ATLANTA and BOSTON
-how many of delta's night flights are FIRST
-show me the flights available from DALLAS to BALTIMORE august 3
-could you please give me a one way fare from PITTSBURGH to ATLANTA
-show me the flights from BOSTON to SAN FRANCISCO
+first flight from BOSTON to SAN FRANCISCO
+flight times for BOSTON to PITTSBURGH
+what your cheapest fare between ATLANTA and BOSTON
+how many of delta's night flights FIRST
+flights available from DALLAS to BALTIMORE august 3
+one way fare from PITTSBURGH to ATLANTA
+flights from BOSTON to SAN FRANCISCO
 what flights go from DALLAS to DENVER after 3pm
-list the flights between SAN JOSE and HOUSTON
+flights between SAN JOSE and HOUSTON
 nonstop flights SEATTLE to KANSAS CITY
-i'd like to know the earliest flight from BOSTON to SAN FRANCISCO
-show me early FRIDAY morning flights from SAN FRANCISCO to BOSTON
-show me the airlines
-i need a round trip flight from CINCINNATI to SAN JOSE CALIFORNIA
-could you tell me about flights from PHILADELPHIA to DALLAS the flights should leave PHILADELPHIA in the morning
-i would like a TW flight from ATLANTA to SAN FRANCISCO with a layover in DENVER
-does US have any flights out of ATLANTA to DENVER
-what do you have on MONDAY from DFW to OAKLAND
-give me a list of the morning flights from ATLANTA to BOSTON
-i want a nonstop flight from INDIANAPOLIS to TORONTO that leaves THURSDAY morning
-which flights depart BURBANK after noon and arrive in DENVER by 6pm
-i need a flight from BOSTON to PITTSBURGH that leaves early in the morning
-tell me about flights on AA from DALLAS to SAN FRANCISCO on june 29
-show me the FIRST from BALTIMORE to DALLAS
-which airlines flight from BOSTON to WASHINGTON
-how many flights does each airline have with BUSINESS
-show me the cost of flight EA 212 from ATLANTA to WASHINGTON
-show me the latest flight from LAS VEGAS to DENVER
+to know earliest flight from BOSTON to SAN FRANCISCO
+early FRIDAY morning flights from SAN FRANCISCO to BOSTON
+airlines
+round trip flight from CINCINNATI to SAN JOSE CALIFORNIA
+tell about flights from PHILADELPHIA to DALLAS flights should leave PHILADELPHIA in morning
+TW flight from ATLANTA to SAN FRANCISCO with layover in DENVER
+US any flights out of ATLANTA to DENVER
+what do on MONDAY from DFW to OAKLAND
+of morning flights from ATLANTA to BOSTON
+nonstop flight from INDIANAPOLIS to TORONTO leaves THURSDAY morning
+flights depart BURBANK after noon and arrive in DENVER by 6pm
+flight from BOSTON to PITTSBURGH leaves early in morning
+tell about flights on AA from DALLAS to SAN FRANCISCO on june 29
+FIRST from BALTIMORE to DALLAS
+airlines flight from BOSTON to WASHINGTON
+how many flights each airline with BUSINESS
+cost of flight EA 212 from ATLANTA to WASHINGTON
+latest flight from LAS VEGAS to DENVER
 what flights from WASHINGTON to TORONTO
-all flights leaving WASHINGTON to SAN FRANCISCO that are FIRST
-list all flights leaving DENVER arriving in SEATTLE on SATURDAY that depart after 1230pm
-what is the earliest flight that i can take from BOSTON to BALTIMORE
-what time are the flights leaving from DENVER to PITTSBURGH on july 7
-what does it cost to flight from BOSTON to OAKLAND on UA
-i need information on flights from KANSAS CITY missouri to SALT LAKE CITY i am interested in only those flights on DL
-what is restriction AP/57
-show flights FIRST on AA from DFW to SAN FRANCISCO international
-which airlines flight between BOSTON and PHILADELPHIA
-what are the different classes of service and the prices for US
+flights leaving WASHINGTON to SAN FRANCISCO FIRST
+flights leaving DENVER arriving in SEATTLE on SATURDAY depart after 1230pm
+what earliest flight can take from BOSTON to BALTIMORE
+what time flights leaving from DENVER to PITTSBURGH on july 7
+what it cost to flight from BOSTON to OAKLAND on UA
+information on flights from KANSAS CITY missouri to SALT LAKE CITY am interested in only those flights on DL
+what restriction AP/57
+flights FIRST on AA from DFW to SAN FRANCISCO international
+airlines flight between BOSTON and PHILADELPHIA
+what different classes of service and prices for US
 flights from NEWARK to CLEVELAND DAILY
-what is the last flight from ATLANTA to BOSTON
-what kind of airplane is flight UA 270 from DENVER to PHILADELPHIA
-please list the flight times from BOSTON to PITTSBURGH
-does CO flight from BOSTON to SAN FRANCISCO with a stop in DENVER
+what last flight from ATLANTA to BOSTON
+what kind of airplane flight UA 270 from DENVER to PHILADELPHIA
+flight times from BOSTON to PITTSBURGH
+CO flight from BOSTON to SAN FRANCISCO with stop in DENVER
 flights from INDIANAPOLIS to SEATTLE
-what's the cheapest flight from DENVER to PITTSBURGH for both one way and round trip flights
-i need flight information between ATLANTA and BOSTON
-is there an airline that services BOSTON dc and DALLAS
+cheapest flight from DENVER to PITTSBURGH for both one way and round trip flights
+flight information between ATLANTA and BOSTON
+an airline services BOSTON dc and DALLAS
 AA leaving PHOENIX
-what are my meal options from BOSTON to DENVER
-what is airline FF
-what flights are there on SUNDAY from SEATTLE to CHICAGO
-show me all flights from PITTSBURGH to ATLANTA
+what meal options from BOSTON to DENVER
+what airline FF
+what flights on SUNDAY from SEATTLE to CHICAGO
+flights from PITTSBURGH to ATLANTA
 TUESDAY morning flights between CHARLOTTE and BALTIMORE
-now i want to see return flights from MIAMI to NEW YORK
-give me flights from PITTSBURGH to BALTIMORE
-list all flights on CO leaving DENVER and arriving at CHICAGO on MONDAY before noon
-can you tell me what airline flies between DENVER and SAN FRANCISCO
-explain the fare codes
-show me the latest flight on WEDNESDAY from ATLANTA to WASHINGTON
+to return flights from MIAMI to NEW YORK
+flights from PITTSBURGH to BALTIMORE
+flights on CO leaving DENVER and arriving at CHICAGO on MONDAY before noon
+can tell what airline flies between DENVER and SAN FRANCISCO
+explain fare codes
+latest flight on WEDNESDAY from ATLANTA to WASHINGTON
 what airlines go from ATLANTA to BALTIMORE
-i want a flight from PHILADELPHIA to DALLAS that at least has one stop
-show me the direct flights from SAN FRANCISCO to BOSTON
-show me round trip fares from PITTSBURGH to PHILADELPHIA
-show me all flights from ATLANTA to SAN FRANCISCO which leave ATLANTA after 5 o'clock pm tomorrow
-how far is OAKLAND airport from downtown
-show me all the flights on UA leaving from BOSTON
-please give me round trip fares from PITTSBURGH to PHILADELPHIA
-show me the list of US flights between BOSTON and dc
-i'd like to see all the flights from BOSTON to PHILADELPHIA
-show me all the NW flights from NEW YORK to MILWAUKEE that leave at 720am
-i want to flight from ATLANTA to PHILADELPHIA nonstop
-what is the airfare for flights from DENVER to PITTSBURGH on DL
-find travel arrangements for a round trip flight from DALLAS to PITTSBURGH arriving after 8pm before 10pm
-list the flights from PHILADELPHIA to SAN FRANCISCO which have a layover in DALLAS
-what are the flights from DALLAS to BALTIMORE
-i need to know if there are any direct flights from ST. PETERSBURG florida to TACOMA leaving preferably tomorrow morning
-what is fare code H
-what kind of airplanes are used by DL flying between WASHINGTON and DENVER
-show me the flights from ATLANTA to BWI
+flight from PHILADELPHIA to DALLAS at least has one stop
+direct flights from SAN FRANCISCO to BOSTON
+round trip fares from PITTSBURGH to PHILADELPHIA
+flights from ATLANTA to SAN FRANCISCO leave ATLANTA after 5 pm tomorrow
+how far OAKLAND airport from downtown
+flights on UA leaving from BOSTON
+round trip fares from PITTSBURGH to PHILADELPHIA
+of US flights between BOSTON and dc
+to flights from BOSTON to PHILADELPHIA
+NW flights from NEW YORK to MILWAUKEE leave at 720am
+to flight from ATLANTA to PHILADELPHIA nonstop
+what airfare for flights from DENVER to PITTSBURGH on DL
+travel arrangements for round trip flight from DALLAS to PITTSBURGH arriving after 8pm before 10pm
+flights from PHILADELPHIA to SAN FRANCISCO layover in DALLAS
+what flights from DALLAS to BALTIMORE
+to know if any direct flights from ST. PETERSBURG florida to TACOMA leaving preferably tomorrow morning
+what fare code H
+what kind of airplanes used by DL flying between WASHINGTON and DENVER
+flights from ATLANTA to BWI
 airports in NEW YORK
-give me nonstop flights from NEW YORK to LAS VEGAS
-what does fare code QO mean
-show me WEDNESDAY afternoon flights from DENVER to SAN FRANCISCO
+nonstop flights from NEW YORK to LAS VEGAS
+what fare code QO mean
+WEDNESDAY afternoon flights from DENVER to SAN FRANCISCO
 flights from BOSTON to PITTSBURGH
-what flights do you have from ONTARIO
+what flights do from ONTARIO
 from DENVER to BALTIMORE
-very well i'm working on scenario three i'm interested in a flight on a 727 from WASHINGTON to ATLANTA georgia
-what airport in NEW YORK is closest to downtown
-what airlines have nonstop early afternoon flights from BOSTON to DENVER
-show me the flights from OAKLAND to WASHINGTON
-give me the AA flights from PHOENIX to MILWAUKEE on WEDNESDAY
-i would like a morning flight from MILWAUKEE to DENVER colorado please
-i need a flight from SAN FRANCISCO to PHILADELPHIA
+very well working on scenario three interested in flight on 727 from WASHINGTON to ATLANTA georgia
+what airport in NEW YORK closest to downtown
+what airlines nonstop early afternoon flights from BOSTON to DENVER
+flights from OAKLAND to WASHINGTON
+AA flights from PHOENIX to MILWAUKEE on WEDNESDAY
+morning flight from MILWAUKEE to DENVER colorado
+flight from SAN FRANCISCO to PHILADELPHIA
 code FF
-i would like information on flights from BALTIMORE to ATLANTA on THURSDAY arriving in ATLANTA before 6pm
-list the fares of the DL flights from BOSTON to PHILADELPHIA
+information on flights from BALTIMORE to ATLANTA on THURSDAY arriving in ATLANTA before 6pm
+fares of DL flights from BOSTON to PHILADELPHIA
 flight on MONDAY from PHILADELPHIA to OAKLAND early morning
-i would like a nonstop flight from MEMPHIS to LAS VEGAS on march 2
-show me the cheapest flights from SAN FRANCISCO to PHILADELPHIA
-i'd like a return flight from BALTIMORE to BOSTON
+nonstop flight from MEMPHIS to LAS VEGAS on march 2
+cheapest flights from SAN FRANCISCO to PHILADELPHIA
+return flight from BALTIMORE to BOSTON
 flights from DENVER to PITTSBURGH on THURSDAY
-what are the flights from WASHINGTON to DENVER
-are there any flights from ATLANTA to BALTIMORE
-show me the last flight from DAL
+what flights from WASHINGTON to DENVER
+any flights from ATLANTA to BALTIMORE
+last flight from DAL
 what flights land at MKE
-how many UA flights are there from SAN FRANCISCO please
-show me all flights on THURSDAY from ATLANTA to OAKLAND which arrive in OAKLAND before 5 o'clock pm and serve a meal
-give me all flights from BOSTON to PHILADELPHIA next week arriving after lunch
-what's the cheapest fare from SAN FRANCISCO to BALTIMORE
-show all MONDAY flights from SAN FRANCISCO to PITTSBURGH
-i want a list of flights from PITTSBURGH to BALTIMORE on THURSDAY that arrive in BALTIMORE before 10am
-what flights are available from DALLAS to ATLANTA with one way economy
-show me all the flights on DL and TW that go to ATLANTA in the morning
-show me flights from DENVER to PHILADELPHIA on a MONDAY
+how many UA flights from SAN FRANCISCO
+flights on THURSDAY from ATLANTA to OAKLAND arrive in OAKLAND before 5 pm and serve meal
+flights from BOSTON to PHILADELPHIA next week arriving after lunch
+cheapest fare from SAN FRANCISCO to BALTIMORE
+MONDAY flights from SAN FRANCISCO to PITTSBURGH
+of flights from PITTSBURGH to BALTIMORE on THURSDAY arrive in BALTIMORE before 10am
+what flights available from DALLAS to ATLANTA with one way economy
+flights on DL and TW go to ATLANTA in morning
+flights from DENVER to PHILADELPHIA on MONDAY
 what flights on UA leave LGA for SAN JOSE and arrive around 10pm
-what are the flights from BOSTON to BALTIMORE
-show me a list of ground transportation at BOSTON airport
-what pm flights are available from PHILADELPHIA to PITTSBURGH
+what flights from BOSTON to BALTIMORE
+of ground transportation at BOSTON airport
+what pm flights available from PHILADELPHIA to PITTSBURGH
 do any US flights leave from SAN FRANCISCO
-what's the earliest flight from PHOENIX to SALT LAKE CITY
-please give me a flight leaving BOSTON going to WASHINGTON arriving in WASHINGTON at 5 o'clock in the afternoon
-show me flights from BOSTON to PITTSBURGH after 1700 hours on WEDNESDAY
-show me the flights that leave on THURSDAY mornings from ATLANTA to WASHINGTON and include whether meal are offered and what the prices are
-the flight will originate from BOSTON
-what are the flights from BOSTON to PHILADELPHIA
-i would like to flight from PITTSBURGH to ATLANTA
-what types of aircraft can i get a FIRST from PHILADELPHIA to DALLAS
-all flights from DENVER colorado to PITTSBURGH
-i would like information on flights from DALLAS to ATLANTA arriving in ATLANTA on TUESDAY morning
+earliest flight from PHOENIX to SALT LAKE CITY
+flight leaving BOSTON going to WASHINGTON arriving in WASHINGTON at 5 in afternoon
+flights from BOSTON to PITTSBURGH after 1700 hours on WEDNESDAY
+flights leave on THURSDAY mornings from ATLANTA to WASHINGTON and include whether meal offered and what prices
+flight will originate from BOSTON
+what flights from BOSTON to PHILADELPHIA
+to flight from PITTSBURGH to ATLANTA
+what types of aircraft can FIRST from PHILADELPHIA to DALLAS
+flights from DENVER colorado to PITTSBURGH
+information on flights from DALLAS to ATLANTA arriving in ATLANTA on TUESDAY morning
 flights from ATLANTA to SAN FRANCISCO august 2
-what flights are available WEDNESDAY afternoon from DENVER to SAN FRANCISCO
-i want a flight on SATURDAY from MINNEAPOLIS to LONG BEACH
-does TW have a flight from INDIANAPOLIS to HOUSTON arriving at 11am
+what flights available WEDNESDAY afternoon from DENVER to SAN FRANCISCO
+flight on SATURDAY from MINNEAPOLIS to LONG BEACH
+TW flight from INDIANAPOLIS to HOUSTON arriving at 11am
 on TUESDAY what flights leave PHOENIX to ST. PAUL minnesota and leave after noon
 what AA flights from PHOENIX to MILWAUKEE depart PHOENIX after 6pm on WEDNESDAY
-find me the earliest flight from BOSTON to ATLANTA on any day of the week
+earliest flight from BOSTON to ATLANTA on any day of week
 NW flights with stops in DENVER
-show me fares less than 400 dollars for flights from DALLAS to BALTIMORE
-i need to go from BOSTON to ATLANTA and back in the same day find me the earliest flight from BOSTON
-i want a flight that leaves from CHARLOTTE to NEWARK that leaves in the afternoon or evening
-i want to flight nonstop from DENVER to DALLAS
-what does code Y mean
-show me all flights from SAN FRANCISCO to WASHINGTON
-i need a flight from ATLANTA to PHILADELPHIA and i'm looking for the cheapest fare
-i would like information on ground transportation in the city of ATLANTA from airport to downtown
-show me flights from ATLANTA to BALTIMORE
-please list all DL flights from KANSAS CITY to SALT LAKE CITY
-what is the abbreviation for CP
+fares less than 400 dollars for flights from DALLAS to BALTIMORE
+to go from BOSTON to ATLANTA and back in same day earliest flight from BOSTON
+flight leaves from CHARLOTTE to NEWARK leaves in afternoon or evening
+to flight nonstop from DENVER to DALLAS
+what code Y mean
+flights from SAN FRANCISCO to WASHINGTON
+flight from ATLANTA to PHILADELPHIA and looking for cheapest fare
+information on ground transportation in city of ATLANTA from airport to downtown
+flights from ATLANTA to BALTIMORE
+DL flights from KANSAS CITY to SALT LAKE CITY
+what abbreviation for CP
 PITTSBURGH to DENVER
-show me flights from MILWAUKEE to ORLANDO on WEDNESDAY night
-can i get a RENTAL CAR in DALLAS
-what are the flights from SAN JOSE to NASHVILLE on THURSDAY the 20
-what is fare code QW
-what are the flights from PITTSBURGH to OAKLAND
-what are the prices of the flights from DALLAS to BALTIMORE
-what is the cheapest airfare between BOSTON and BALTIMORE
-does UA have flights between BOSTON and DENVER
-please list all flights TUESDAY DALLAS ATLANTA
-a breakfast flight from DENVER to SAN FRANCISCO please
+flights from MILWAUKEE to ORLANDO on WEDNESDAY night
+can RENTAL CAR in DALLAS
+what flights from SAN JOSE to NASHVILLE on THURSDAY 20
+what fare code QW
+what flights from PITTSBURGH to OAKLAND
+what prices of flights from DALLAS to BALTIMORE
+what cheapest airfare between BOSTON and BALTIMORE
+UA flights between BOSTON and DENVER
+flights TUESDAY DALLAS ATLANTA
+breakfast flight from DENVER to SAN FRANCISCO
 what airlines service PIT
-show me all flights from SAN DIEGO to PHOENIX on a boeing 737
-what is fare code c
-please give me the flights from DENVER to PITTSBURGH which leave in the morning on july 2
-what are the fares between NEW YORK and LOS ANGELES on MONDAY morning
+flights from SAN DIEGO to PHOENIX on boeing 737
+what fare code c
+flights from DENVER to PITTSBURGH leave in morning on july 2
+what fares between NEW YORK and LOS ANGELES on MONDAY morning
 what flights leave BOSTON and arrive in PHILADELPHIA before 7am
 flight from DENVER to BOSTON
-what is fare code Y mean
-are there any flights from DENVER to PITTSBURGH with stops in ATLANTA
-i need your help with information on ground transportation from the airport in PHILADELPHIA to downtown
-show me the flights from PITTSBURGH to LOS ANGELES on THURSDAY
-list flights from SAN FRANCISCO to DENVER on FRIDAY
-i'd like to see the fare code again QX
+what fare code Y mean
+any flights from DENVER to PITTSBURGH with stops in ATLANTA
+your help with information on ground transportation from airport in PHILADELPHIA to downtown
+flights from PITTSBURGH to LOS ANGELES on THURSDAY
+flights from SAN FRANCISCO to DENVER on FRIDAY
+to fare code again QX
 what airlines flight between BOSTON and ATLANTA
-what is the earliest flight from WASHINGTON to SAN FRANCISCO
-what's the first flight from DALLAS to HOUSTON
+what earliest flight from WASHINGTON to SAN FRANCISCO
+first flight from DALLAS to HOUSTON
 what DL leaves BOSTON for ATLANTA
-are there any nonstop flights leaving from DALLAS to BALTIMORE july 7 with who UA
-i want to see the cheapest flight from ATLANTA to BALTIMORE
-what is fare code H
-show me the flights leaving CHARLOTTE to ATLANTA around 7pm next TUESDAY
-all flights from PITTSBURGH to PHILADELPHIA that arrive at 6 o'clock next TUESDAY
-show me the DAILY flight schedule between BOSTON and PITTSBURGH
-list all AA flights from PHOENIX to MILWAUKEE on WEDNESDAY
-which airlines have flights from DENVER to PITTSBURGH
-show flights from PITTSBURGH to OAKLAND connecting through DENVER
-i'm sorry i want to book a flight from ATLANTA to DENVER colorado
-please give me a flight from BOSTON to ATLANTA before 10am in the morning
-i'd like to flight from BOSTON to OAKLAND through DENVER
-i would like a flight from ATLANTA to DALLAS on FRIDAY that arrives in DALLAS by 6pm
+any nonstop flights leaving from DALLAS to BALTIMORE july 7 with who UA
+to cheapest flight from ATLANTA to BALTIMORE
+what fare code H
+flights leaving CHARLOTTE to ATLANTA around 7pm next TUESDAY
+flights from PITTSBURGH to PHILADELPHIA arrive at 6 next TUESDAY
+DAILY flight schedule between BOSTON and PITTSBURGH
+AA flights from PHOENIX to MILWAUKEE on WEDNESDAY
+airlines flights from DENVER to PITTSBURGH
+flights from PITTSBURGH to OAKLAND connecting through DENVER
+sorry to book flight from ATLANTA to DENVER colorado
+flight from BOSTON to ATLANTA before 10am in morning
+to flight from BOSTON to OAKLAND through DENVER
+flight from ATLANTA to DALLAS on FRIDAY arrives in DALLAS by 6pm
 what flights leave after 7pm from BOSTON to PITTSBURGH
-i want to leave BOSTON at 838
-what is the first flight from BOSTON to DALLAS
-show me the flights from NEWARK to LOS ANGELES
-what are the cheapest flights from PITTSBURGH to ATLANTA
-list flights from SAN JOSE to HOUSTON next SUNDAY
-show me the last flight on WEDNESDAY from ATLANTA to DENVER
+to leave BOSTON at 838
+what first flight from BOSTON to DALLAS
+flights from NEWARK to LOS ANGELES
+what cheapest flights from PITTSBURGH to ATLANTA
+flights from SAN JOSE to HOUSTON next SUNDAY
+last flight on WEDNESDAY from ATLANTA to DENVER
 flights from NEW YORK to MIAMI
-what flights are available from PITTSBURGH to BOSTON on SATURDAY
+what flights available from PITTSBURGH to BOSTON on SATURDAY
 flight from SALT LAKE CITY to OAKLAND
-please list the flights from BALTIMORE to SAN FRANCISCO on FRIDAY
-please show me airlines with flights from DENVER to BOSTON with a layover in PHILADELPHIA
-i'd like to buy a COACH for a flight from DENVER to ATLANTA
+flights from BALTIMORE to SAN FRANCISCO on FRIDAY
+airlines with flights from DENVER to BOSTON with layover in PHILADELPHIA
+to buy COACH for flight from DENVER to ATLANTA
 ground transportation BALTIMORE
-what is the arrival time in SAN FRANCISCO for the 755am flight leaving WASHINGTON
-is there ground transportation from the MILWAUKEE airport to the downtown area
+what arrival time in SAN FRANCISCO for 755am flight leaving WASHINGTON
+ground transportation from MILWAUKEE airport to downtown area
 ground transportation in WESTCHESTER COUNTY
-how many fares are there one way from TACOMA to MONTREAL
-list all flights going from BOSTON to ATLANTA before 5 o'clock am on THURSDAY
-what CO flights go from CHICAGO to SEATTLE before 10am in the morning that have a meal
-show me flights from SAN FRANCISCO to SEATTLE
-what flights go from SAN FRANCISCO to BOSTON and leave after 1 o'clock
-show me all flights from BOSTON to PITTSBURGH on WEDNESDAY after 6 o'clock pm
+how many fares one way from TACOMA to MONTREAL
+flights going from BOSTON to ATLANTA before 5 am on THURSDAY
+what CO flights go from CHICAGO to SEATTLE before 10am in morning meal
+flights from SAN FRANCISCO to SEATTLE
+what flights go from SAN FRANCISCO to BOSTON and leave after 1
+flights from BOSTON to PITTSBURGH on WEDNESDAY after 6 pm
 flights from MILWAUKEE to ORLANDO one way
-please list all flights between BOSTON and PHILADELPHIA operating on SUNDAY
-what do you have from PHILADELPHIA to DALLAS on SATURDAY morning
-does YX have any flights from MONTREAL to DETROIT
-show me the flights from BOSTON to PITTSBURGH on WEDNESDAY
-show me the UA flights which go from BOSTON to WASHINGTON
-i need information flight information for TUESDAY on a flight leaving BALTIMORE bound for DALLAS
+flights between BOSTON and PHILADELPHIA operating on SUNDAY
+what do from PHILADELPHIA to DALLAS on SATURDAY morning
+YX any flights from MONTREAL to DETROIT
+flights from BOSTON to PITTSBURGH on WEDNESDAY
+UA flights go from BOSTON to WASHINGTON
+information flight information for TUESDAY on flight leaving BALTIMORE bound for DALLAS
 what flights from NEW YORK to LOS ANGELES
-give me the CO flights from CHICAGO to SEATTLE on FRIDAY
-what kinds of planes are used by AA
-what is the earliest flight from BOSTON to WASHINGTON
-what are the cheapest round trip flights from DENVER to ATLANTA
-please list the WEDNESDAY AA flights from MILWAUKEE to SAN JOSE
+CO flights from CHICAGO to SEATTLE on FRIDAY
+what kinds of planes used by AA
+what earliest flight from BOSTON to WASHINGTON
+what cheapest round trip flights from DENVER to ATLANTA
+WEDNESDAY AA flights from MILWAUKEE to SAN JOSE
 COACH flights on TW from COLUMBUS to ST. PAUL
-what is the cheapest way to travel round trip from MILWAUKEE to SAN FRANCISCO
-show me the flights going from PITTSBURGH to SAN FRANCISCO on MONDAY
-what is the earliest flight from BOSTON to ATLANTA
-show me all the DL flights leaving or arriving at PITTSBURGH between 12 and 4 in the afternoon
+what cheapest way to travel round trip from MILWAUKEE to SAN FRANCISCO
+flights going from PITTSBURGH to SAN FRANCISCO on MONDAY
+what earliest flight from BOSTON to ATLANTA
+DL flights leaving or arriving at PITTSBURGH between 12 and 4 in afternoon
 from PHILADELPHIA to TORONTO
-i'd like flights going from BOSTON to ATLANTA leaving on august 6 in the afternoon
-i want a flight from TORONTO to MONTREAL that leaves early FRIDAY morning
-please show me flights which cost less than or equal to 466 dollars from NEW YORK to MIAMI leaving on a TUESDAY
-what are the fares for flights between ATLANTA and DFW
-what flights are between WASHINGTON and SAN FRANCISCO
-i need to know what flights leave ATLANTA on SUNDAY evening and arrive in BALTIMORE
-what are the RENTAL CAR rates in SAN FRANCISCO
-what aircraft is used on DL flight 1222 from KANSAS CITY to SALT LAKE CITY
-what is the FIRST from BOSTON to DALLAS
-please list pm flights from BOSTON PITTSBURGH
+flights going from BOSTON to ATLANTA leaving on august 6 in afternoon
+flight from TORONTO to MONTREAL leaves early FRIDAY morning
+flights cost less than or equal to 466 dollars from NEW YORK to MIAMI leaving on TUESDAY
+what fares for flights between ATLANTA and DFW
+what flights between WASHINGTON and SAN FRANCISCO
+to know what flights leave ATLANTA on SUNDAY evening and arrive in BALTIMORE
+what RENTAL CAR rates in SAN FRANCISCO
+what aircraft used on DL flight 1222 from KANSAS CITY to SALT LAKE CITY
+what FIRST from BOSTON to DALLAS
+pm flights from BOSTON PITTSBURGH
 NEWARK to CLEVELAND
-all flights from DENVER to PITTSBURGH leaving after 6pm and before 7pm
-what flights are there from NEW YORK to LAS VEGAS
-i'd like to find a US flight from ORLANDO to CLEVELAND that arrives around 10 o'clock in the evening
-kindly give me the type of aircraft used to flight from ATLANTA to DENVER
-what are all flights from PITTSBURGH to BOSTON on WEDNESDAY
-i need a flight from BOSTON to PITTSBURGH
-show me the flights from DENVER to PITTSBURGH and ATLANTA
-what is the seating capacity of the varioUSplanes that UA uses
-give me morning flights from CHARLOTTE to BALTIMORE
+flights from DENVER to PITTSBURGH leaving after 6pm and before 7pm
+what flights from NEW YORK to LAS VEGAS
+to US flight from ORLANDO to CLEVELAND arrives around 10 in evening
+kindly type of aircraft used to flight from ATLANTA to DENVER
+what flights from PITTSBURGH to BOSTON on WEDNESDAY
+flight from BOSTON to PITTSBURGH
+flights from DENVER to PITTSBURGH and ATLANTA
+what seating capacity of varioUSplanes UA uses
+morning flights from CHARLOTTE to BALTIMORE
 what flights leave from PHOENIX to NASHVILLE on AA
-what is the earliest flight flying from PITTSBURGH to ATLANTA on july 5
-i would like to book a flight from LOS ANGELES to PITTSBURGH on june first
+what earliest flight flying from PITTSBURGH to ATLANTA on july 5
+to book flight from LOS ANGELES to PITTSBURGH on june first
 morning flight from OAKLAND to DALLAS
 what flights from ATLANTA to TORONTO
 flights from dc to DENVER
-list flights from PHILADELPHIA to DALLAS
-hello i would like to plan a flight on AA from BOSTON to DENVER
-show me BOSTON to OAKLAND flights
-what are the cheapest one way flights from DENVER to ATLANTA
-what is the last flight of the day to leave BALTIMORE for BOSTON
-what times does CO depart from BOSTON to SAN FRANCISCO
+flights from PHILADELPHIA to DALLAS
+hello to plan flight on AA from BOSTON to DENVER
+BOSTON to OAKLAND flights
+what cheapest one way flights from DENVER to ATLANTA
+what last flight of day to leave BALTIMORE for BOSTON
+what times CO depart from BOSTON to SAN FRANCISCO
 describe ground transportation in DALLAS
 NEWARK to CLEVELAND
-i'd like to flight from PHILADELPHIA to DALLAS to SAN FRANCISCO
-please show me airfare of flight US 345 from BOSTON to PITTSBURGH
-show me all flights from PITTSBURGH to OAKLAND that arrive after 10am
-show me the dinner flights from BALTIMORE to OAKLAND
-what ground transport is available in CHARLOTTE
-can i see ground transportation from LONG BEACH airport to downtown
-i need information on a flight from WASHINGTON to DFW
-show me all flights from ATLANTA to WASHINGTON with prices
-show me the flights from DAL
-what are the round trip fares for flights from DENVER to PHILADELPHIA arriving after 1700 on CO
-give me a list of flights between DENVER and OAKLAND
+to flight from PHILADELPHIA to DALLAS to SAN FRANCISCO
+airfare of flight US 345 from BOSTON to PITTSBURGH
+flights from PITTSBURGH to OAKLAND arrive after 10am
+dinner flights from BALTIMORE to OAKLAND
+what ground transport available in CHARLOTTE
+can ground transportation from LONG BEACH airport to downtown
+information on flight from WASHINGTON to DFW
+flights from ATLANTA to WASHINGTON with prices
+flights from DAL
+what round trip fares for flights from DENVER to PHILADELPHIA arriving after 1700 on CO
+of flights between DENVER and OAKLAND
 round trip fares NEW YORK to SAN JOSE
 AA flights from CINCINNATI to HOUSTON
-do you have a flight from ATLANTA to CHARLOTTE next MONDAY
-what flights are available from ATLANTA to OAKLAND with one way economy
-show me evening flights to BALTIMORE
-show me the flights from DALLAS to BALTIMORE with a fare of 415 dollars
-is there a 4 o'clock flight from WASHINGTON to DENVER
-i'd like information on a flight from ATLANTA to DENVER a morning flight
-what flights go from NEWARK to BOSTON after 1024 in the morning
-show all flights and fares from PITTSBURGH to SAN FRANCISCO
-show me flights from BALTIMORE to DALLAS
-which airlines flight between BOSTON and PITTSBURGH
-list the flights from HOUSTON to ST. PAUL
-show me the latest nonstop flight from DENVER to WASHINGTON
-please list the FRIDAY flights from HOUSTON to MILWAUKEE on AA in the evening
-list the total number of flights to all airports by DL
-i need a flight from CHICAGO to DALLAS on CO on june 5
-all flights and fares from DENVER to PITTSBURGH on US number 1039 on a THURSDAY
-show me flights from NEW YORK to MIAMI
-SATURDAY flights from LAS VEGAS to MONTREAL
-i'm interested in the cheapest fare from WASHINGTON to DFW
-i am also interested in a flight that runs from ST. LOUIS to LAS VEGAS
-what is the cheapest fare from DENVER to PITTSBURGH
-are there any airlines that have flights from BOSTON to PHILADELPHIA that leave before 630am
-what times does the late afternoon flight leave from WASHINGTON for DENVER
-i'd like a flight leaving ATLANTA august 7 and arriving in DENVER colorado august 7 leaving in the afternoon
-okay show me all the flights to BALTIMORE
-i would like to find out what flights there are on FRIDAY june 11 from ST. PETERSBURG to MILWAUKEE and then from MILWAUKEE to TACOMA thank you
-what airlines flight from BOSTON to WASHINGTON
-give me the CO flights from CHICAGO to SEATTLE on SATURDAY morning
-what's the cheapest flight from BALTIMORE to DALLAS on AA
-show me all flights from CHARLOTTE to COLUMBUS
-tell me about flights from INDIANAPOLIS to HOUSTON
-list the flights on SUNDAY afternoon from OAKLAND to DALLAS
-i need to flight from BALTIMORE to DALLAS on TUESDAY evening
-what is american's schedule of morning flights to ATLANTA
-what does hou mean
-does DL have an early afternoon flight from BOSTON to SAN FRANCISCO
-what is the fare on november 7 going one way from PITTSBURGH to PHILADELPHIA
-list the flights from NEW YORK to MIAMI on a TUESDAY which are nonstop and cost less than 466 dollars
-i'd like to find a flight from TAMPA to MONTREAL that makes a stop in NEW YORK
-what is the cheapest flight from DENVER to PITTSBURGH
-what flights from ATLANTA to TORONTO
-i'd like to know the shortest trip between BOSTON and SAN FRANCISCO
-okay i would like to flight from ATLANTA to PHILADELPHIA
-i need a flight from PITTSBURGH to NEW YORK departing after 5pm
-which airlines flight from BOSTON to SAN FRANCISCO
-round trip flights between NEW YORK and MIAMI
-what is the round trip cost of a FIRST from BOSTON to SAN FRANCISCO
-what flights are there on SATURDAY from PHILADELPHIA to DENVER
-all round trip flights between NEW YORK and MIAMI BUSINESS
-show me a list of flights from BOSTON to dc arriving before 9am on july 22
-okay and then from PITTSBURGH i'd like to travel to ATLANTA on september 4
-show me flights from LOS ANGELES to PITTSBURGH for TUESDAY
-all flights to BALTIMORE after 6pm
-i need to flight from NASHVILLE to TACOMA first thing in the morning what is there
-what flights are available SATURDAY to SAN FRANCISCO from DALLAS
-list the flights from TORONTO to SALT LAKE CITY
-okay i'd like a nonstop flight from HOUSTON to MEMPHIS that arrives in MEMPHIS in the early afternoon on TUESDAY june first
-show flights from PHILADELPHIA to SAN FRANCISCO
-do you have ground transportation between airport and downtown in BOSTON
-list all flights going from BOSTON to ATLANTA after 6 o'clock on WEDNESDAY and before 7 o'clock am on THURSDAY
-which airlines have flights from SAN FRANCISCO to WASHINGTON by way of INDIANAPOLIS
-flight from NASHVILLE back to MILWAUKEE
-okay we're going from WASHINGTON to DENVER FIRST i'd like to know the cost of a FIRST
-can you list all nonstop flights departing from ST. PETERSBURG and arriving in CHARLOTTE
-my destination is SAN FRANCISCO i live in DENVER i would like a flight on august 30 in the morning on any airline that will get me there
-what flights are there from NEWARK to CHICAGO on CO
-i would like an early flight from LOS ANGELES to CHARLOTTE MONDAY morning
-what kind of aircraft do you have flying from BOSTON to SAN FRANCISCO on august 27
-what time does TW depart from BOSTON to go to SAN FRANCISCO
-show me the COACH fares from BALTIMORE to DALLAS
-flight numbers from COLUMBUS to MINNEAPOLIS tomorrow
-show me flights from DENVER to PHILADELPHIA
-list flights from DETROIT to SAN DIEGO on THURSDAY
-what is the cheapest round trip fare on CO 1291 round trip DENVER SAN FRANCISCO
-show me flights from BOSTON to DENVER on WEDNESDAY
-what flights are there from NEW YORK to LAS VEGAS
-flights from CLEVELAND to KANSAS CITY on MONDAY
-i would like to know the FIRST on a flight from BALTIMORE to DENVER
-show me flights from MILWAUKEE to ORLANDO on a THURSDAY before noon
-show me the flights from PHILADELPHIA to ATLANTA
-show me all flights from NEW YORK to MIAMI leaving on a TUESDAY and show me all flights from MIAMI to NEW YORK leaving on SUNDAY
-how long does it take to get from ATL into the city of ATLANTA
-what are your flights from DALLAS to BALTIMORE
-what airlines flight between SAN FRANCISCO and DENVER
-show me the flights from TORONTO to SALT LAKE CITY which leave TORONTO after 6pm
-does any airline have an afternoon flight from ATLANTA to BOSTON
-is there ground transportation from the airport in DENVER to downtown
-PHILADELPHIA to SAN FRANCISCO MONDAY
-what is the abbreviation D10
-show me the most expensive fare
-show me flights from DENVER to BOSTON on THURSDAY
-what does restriction AP/57
-what is the schedule for flights between PITTSBURGH and BOSTON on the evening of july 9
-show me all the direct flights from BALTIMORE to ATLANTA
-what flights from LAS VEGAS to PHOENIX on SATURDAY
-flight from ONTARIO to ORLANDO that departs 9 hours before arriving
-what is the cost for a one way trip from PITTSBURGH to ATLANTA
-how much is the ground transportation between ATLANTA and downtown
-can you tell me how to get from the airport in PHILADELPHIA to downtown
-give me the flights for AA from PHILADELPHIA to DALLAS
-flights from JFK or LGA to CLEVELAND
-are there any nonstop flights from INDIANAPOLIS to SAN DIEGO on WEDNESDAY may 12
-do you have a 747 that flies from SAN FRANCISCO to BALTIMORE
-show me all NX flights from TORONTO
-DL flights to SAN FRANCISCO please
-what kind of plane is used on the earliest flight from BOSTON to SAN FRANCISCO afternoon
+do flight from ATLANTA to CHARLOTTE next MONDAY
+what flights available from ATLANTA to OAKLAND with one way economy
+evening flights to BALTIMORE
+flights from DALLAS to BALTIMORE with fare of 415 dollars
+4 flight from WASHINGTON to DENVER
+information on flight from ATLANTA to DENVER morning flight
+what flights go from NEWARK to BOSTON after 1024 in morning
+flights and fares from PITTSBURGH to SAN FRANCISCO
+flights from BALTIMORE to DALLAS
+airlines flight between BOSTON and PITTSBURGH
+flights from HOUSTON to ST. PAUL
+latest nonstop flight from DENVER to WASHINGTON
+FRIDAY flights from HOUSTON to MILWAUKEE on AA in evening
+total number of flights to airports by DL
+flight from CHICAGO to DALLAS on CO on june 5
+flights and fares from DENVER to PITTSBURGH on US number 1039 on THURSDAY
 flights from NEW YORK to MIAMI
-what are the flights from BOSTON to BALTIMORE leaving tomorrow
-i'd like a flight on july 9 from ORLANDO to KANSAS CITY in the afternoon
+SATURDAY flights from LAS VEGAS to MONTREAL
+interested in cheapest fare from WASHINGTON to DFW
+am interested in flight runs from ST. LOUIS to LAS VEGAS
+what cheapest fare from DENVER to PITTSBURGH
+any airlines flights from BOSTON to PHILADELPHIA leave before 630am
+what times late afternoon flight leave from WASHINGTON for DENVER
+flight leaving ATLANTA august 7 and arriving in DENVER colorado august 7 leaving in afternoon
+flights to BALTIMORE
+to out what flights on FRIDAY june 11 from ST. PETERSBURG to MILWAUKEE and then from MILWAUKEE to TACOMA
+what airlines flight from BOSTON to WASHINGTON
+CO flights from CHICAGO to SEATTLE on SATURDAY morning
+cheapest flight from BALTIMORE to DALLAS on AA
+flights from CHARLOTTE to COLUMBUS
+tell about flights from INDIANAPOLIS to HOUSTON
+flights on SUNDAY afternoon from OAKLAND to DALLAS
+to flight from BALTIMORE to DALLAS on TUESDAY evening
+what american's schedule of morning flights to ATLANTA
+what hou mean
+DL an early afternoon flight from BOSTON to SAN FRANCISCO
+what fare on november 7 going one way from PITTSBURGH to PHILADELPHIA
+flights from NEW YORK to MIAMI on TUESDAY nonstop and cost less than 466 dollars
+to flight from TAMPA to MONTREAL makes stop in NEW YORK
+what cheapest flight from DENVER to PITTSBURGH
+what flights from ATLANTA to TORONTO
+to know shortest trip between BOSTON and SAN FRANCISCO
+to flight from ATLANTA to PHILADELPHIA
+flight from PITTSBURGH to NEW YORK departing after 5pm
+airlines flight from BOSTON to SAN FRANCISCO
+round trip flights between NEW YORK and MIAMI
+what round trip cost of FIRST from BOSTON to SAN FRANCISCO
+what flights on SATURDAY from PHILADELPHIA to DENVER
+round trip flights between NEW YORK and MIAMI BUSINESS
+of flights from BOSTON to dc arriving before 9am on july 22
+and then from PITTSBURGH to travel to ATLANTA on september 4
+flights from LOS ANGELES to PITTSBURGH for TUESDAY
+flights to BALTIMORE after 6pm
+to flight from NASHVILLE to TACOMA first thing in morning what
+what flights available SATURDAY to SAN FRANCISCO from DALLAS
+flights from TORONTO to SALT LAKE CITY
+nonstop flight from HOUSTON to MEMPHIS arrives in MEMPHIS in early afternoon on TUESDAY june first
+flights from PHILADELPHIA to SAN FRANCISCO
+do ground transportation between airport and downtown in BOSTON
+flights going from BOSTON to ATLANTA after 6 on WEDNESDAY and before 7 am on THURSDAY
+airlines flights from SAN FRANCISCO to WASHINGTON by way of INDIANAPOLIS
+flight from NASHVILLE back to MILWAUKEE
+we're going from WASHINGTON to DENVER FIRST to know cost of FIRST
+can nonstop flights departing from ST. PETERSBURG and arriving in CHARLOTTE
+destination SAN FRANCISCO live in DENVER flight on august 30 in morning on any airline will
+what flights from NEWARK to CHICAGO on CO
+an early flight from LOS ANGELES to CHARLOTTE MONDAY morning
+what kind of aircraft do flying from BOSTON to SAN FRANCISCO on august 27
+what time TW depart from BOSTON to go to SAN FRANCISCO
+COACH fares from BALTIMORE to DALLAS
+flight numbers from COLUMBUS to MINNEAPOLIS tomorrow
+flights from DENVER to PHILADELPHIA
+flights from DETROIT to SAN DIEGO on THURSDAY
+what cheapest round trip fare on CO 1291 round trip DENVER SAN FRANCISCO
+flights from BOSTON to DENVER on WEDNESDAY
+what flights from NEW YORK to LAS VEGAS
+flights from CLEVELAND to KANSAS CITY on MONDAY
+to know FIRST on flight from BALTIMORE to DENVER
+flights from MILWAUKEE to ORLANDO on THURSDAY before noon
+flights from PHILADELPHIA to ATLANTA
+flights from NEW YORK to MIAMI leaving on TUESDAY and flights from MIAMI to NEW YORK leaving on SUNDAY
+how long it take to from ATL into city of ATLANTA
+what your flights from DALLAS to BALTIMORE
+what airlines flight between SAN FRANCISCO and DENVER
+flights from TORONTO to SALT LAKE CITY leave TORONTO after 6pm
+any airline an afternoon flight from ATLANTA to BOSTON
+ground transportation from airport in DENVER to downtown
+PHILADELPHIA to SAN FRANCISCO MONDAY
+what abbreviation D10
+most expensive fare
+flights from DENVER to BOSTON on THURSDAY
+what restriction AP/57
+what schedule for flights between PITTSBURGH and BOSTON on evening of july 9
+direct flights from BALTIMORE to ATLANTA
+what flights from LAS VEGAS to PHOENIX on SATURDAY
+flight from ONTARIO to ORLANDO departs 9 hours before arriving
+what cost for one way trip from PITTSBURGH to ATLANTA
+how much ground transportation between ATLANTA and downtown
+can tell how to from airport in PHILADELPHIA to downtown
+flights for AA from PHILADELPHIA to DALLAS
+flights from JFK or LGA to CLEVELAND
+any nonstop flights from INDIANAPOLIS to SAN DIEGO on WEDNESDAY may 12
+do 747 flies from SAN FRANCISCO to BALTIMORE
+NX flights from TORONTO
+DL flights to SAN FRANCISCO
+what kind of plane used on earliest flight from BOSTON to SAN FRANCISCO afternoon
+flights from NEW YORK to MIAMI
+what flights from BOSTON to BALTIMORE leaving tomorrow
+flight on july 9 from ORLANDO to KANSAS CITY in afternoon
 round trip fares from BALTIMORE to PHILADELPHIA under 1000 dollars
-show me round trip fares between SAN FRANCISCO and WASHINGTON
-how many FIRST flights does UA have leaving from all airports today
-give me flights that arrive in BALTIMORE from DENVER
-list possible round trip DAILY flights between BOSTON and OAKLAND
-what's the cheapest round trip fare between DALLAS and BALTIMORE
-show me all flights from SAN FRANCISCO to WASHINGTON area
-show me the prices of all flights from ATLANTA to WASHINGTON
-give me a flight from TAMPA to CHARLOTTE on SUNDAY
+round trip fares between SAN FRANCISCO and WASHINGTON
+how many FIRST flights UA leaving from airports today
+flights arrive in BALTIMORE from DENVER
+possible round trip DAILY flights between BOSTON and OAKLAND
+cheapest round trip fare between DALLAS and BALTIMORE
+flights from SAN FRANCISCO to WASHINGTON area
+prices of flights from ATLANTA to WASHINGTON
+flight from TAMPA to CHARLOTTE on SUNDAY
 flights from NASHVILLE to SEATTLE
-list flights from ATLANTA to BOSTON on WEDNESDAY afternoon and THURSDAY morning
-i would like information on flights leaving ATLANTA in the afternoon arriving in DALLAS
-i need a reservation from BALTIMORE to SAN FRANCISCO
-list the three earliest flights from ATLANTA to PHILADELPHIA on WEDNESDAY
-show me the flights available from ATLANTA to BALTIMORE leaving ATLANTA in the morning
-show me the nonstop flights from HOUSTON to DALLAS
-find the earliest breakfast flight from BOSTON to OAKLAND
-are there any nonstop flights from SAN FRANCISCO to BOSTON on THURSDAY
-show me flights from BALTIMORE to DALLAS
-show me all the flights from DENVER to LAS VEGAS
-i would like to book a flight from CHICAGO to SEATTLE on june first
-what is restriction AP/80
-what flight do you have from PITTSBURGH to SAN FRANCISCO on the morning of august 27
-could you list for me the flights that leave OAKLAND on SUNDAY and arrive in DALLAS
-which airlines have nonstop flights from KANSAS CITY to CHICAGO
-give me flights from ATLANTA to BALTIMORE
-which airlines have FIRST flights today
+flights from ATLANTA to BOSTON on WEDNESDAY afternoon and THURSDAY morning
+information on flights leaving ATLANTA in afternoon arriving in DALLAS
+reservation from BALTIMORE to SAN FRANCISCO
+three earliest flights from ATLANTA to PHILADELPHIA on WEDNESDAY
+flights available from ATLANTA to BALTIMORE leaving ATLANTA in morning
+nonstop flights from HOUSTON to DALLAS
+earliest breakfast flight from BOSTON to OAKLAND
+any nonstop flights from SAN FRANCISCO to BOSTON on THURSDAY
+flights from BALTIMORE to DALLAS
+flights from DENVER to LAS VEGAS
+to book flight from CHICAGO to SEATTLE on june first
+what restriction AP/80
+what flight do from PITTSBURGH to SAN FRANCISCO on morning of august 27
+for flights leave OAKLAND on SUNDAY and arrive in DALLAS
+airlines nonstop flights from KANSAS CITY to CHICAGO
+flights from ATLANTA to BALTIMORE
+airlines FIRST flights today
 ground transportation in DENVER
 am flights from DALLAS to SAN FRANCISCO
-list all flights on CO from DENVER to CHICAGO which depart after 934pm
+flights on CO from DENVER to CHICAGO depart after 934pm
 flights on AA from PHOENIX to CHICAGO on WEDNESDAY
-find travel arrangements for a round trip flight from BALTIMORE to PITTSBURGH
-what is the earliest flight departing SAN FRANCISCO and arriving in BOSTON on november 9
+travel arrangements for round trip flight from BALTIMORE to PITTSBURGH
+what earliest flight departing SAN FRANCISCO and arriving in BOSTON on november 9
 cheapest airfare from ORLANDO to TACOMA
-are there any flights from NEW YORK to LOS ANGELES which stop over in MILWAUKEE
-now i need a flight leaving DFW and arriving in DENVER no later than 2pm next MONDAY
-show me flights from SAN FRANCISCO to ATLANTA
-does AA have a flight from PITTSBURGH to ATLANTA
-show me the list of flights between PHILADELPHIA and DENVER that leave in the afternoon
-show flights from DENVER into SAN FRANCISCO
+any flights from NEW YORK to LOS ANGELES stop over in MILWAUKEE
+flight leaving DFW and arriving in DENVER no later than 2pm next MONDAY
+flights from SAN FRANCISCO to ATLANTA
+AA flight from PITTSBURGH to ATLANTA
+of flights between PHILADELPHIA and DENVER leave in afternoon
+flights from DENVER into SAN FRANCISCO
 evening flights from PHILADELPHIA to OAKLAND
-what ground transportation is available in SAN FRANCISCO
-give me all nonstops from NEW YORK to LAS VEGAS that arrive on a SUNDAY
-list flights from ATLANTA to BOSTON on WEDNESDAY afternoon
+what ground transportation available in SAN FRANCISCO
+nonstops from NEW YORK to LAS VEGAS arrive on SUNDAY
+flights from ATLANTA to BOSTON on WEDNESDAY afternoon
 names of airports
-what kind of aircraft is used on a flight from CLEVELAND to DALLAS
-show me the flights from BOSTON to ATLANTA
-how many people fit on a 73S
-what ground transportation is available at BALTIMORE
-i would like a flight that leaves on FRIDAY from PHILADELPHIA to DALLAS that makes a stop in ATLANTA
+what kind of aircraft used on flight from CLEVELAND to DALLAS
+flights from BOSTON to ATLANTA
+how many people fit on 73S
+what ground transportation available at BALTIMORE
+flight leaves on FRIDAY from PHILADELPHIA to DALLAS makes stop in ATLANTA
 what airlines flight from BOSTON to PITTSBURGH
-show me all flights from DENVER to SAN FRANCISCO next WEDNESDAY which leave after noon
+flights from DENVER to SAN FRANCISCO next WEDNESDAY leave after noon
 PHILADELPHIA to DALLAS SATURDAY
-list the airlines that have nonstop afternoon flights from BOSTON to OAKLAND
-are there any flights from MILWAUKEE to TACOMA on FRIDAY june 11
-list the flights from SALT LAKE CITY to ST. PETERSBURG
-find a flight between DENVER and OAKLAND the flight should be in the afternoon and arrive close to 5pm the flight should be nonstop
-give me the flights and fares on december 27 from INDIANAPOLIS to ORLANDO
-list all DAILY flights between BOSTON and OAKLAND and between OAKLAND and BOSTON using DL
-i would like some information on flights leaving BOSTON to ATLANTA
-please show me airlines with flights from DENVER to BOSTON with stop in PHILADELPHIA
-does flight UA 281 from BOSTON to DENVER leave on TUESDAY
+airlines nonstop afternoon flights from BOSTON to OAKLAND
+any flights from MILWAUKEE to TACOMA on FRIDAY june 11
+flights from SALT LAKE CITY to ST. PETERSBURG
+flight between DENVER and OAKLAND flight should be in afternoon and arrive close to 5pm flight should be nonstop
+flights and fares on december 27 from INDIANAPOLIS to ORLANDO
+DAILY flights between BOSTON and OAKLAND and between OAKLAND and BOSTON using DL
+some information on flights leaving BOSTON to ATLANTA
+airlines with flights from DENVER to BOSTON with stop in PHILADELPHIA
+flight UA 281 from BOSTON to DENVER leave on TUESDAY
 what flights from CINCINNATI to TAMPA
-show me all flights from PITTSBURGH to BALTIMORE on THURSDAY
-what are the flights from BALTIMORE to DALLAS on SUNDAY afternoon
-what flights are provided by AA
-i need fare information from DENVER to PITTSBURGH
-what flights are available from DFW to ATLANTA
-show me flights from BOSTON to DENVER early am on TUESDAY
-can i get from DALLAS to SAN FRANCISCO leaving in the morning and arriving in the morning
-can you list all flights from TORONTO to SAN DIEGO
-what does code YN mean
+flights from PITTSBURGH to BALTIMORE on THURSDAY
+what flights from BALTIMORE to DALLAS on SUNDAY afternoon
+what flights provided by AA
+fare information from DENVER to PITTSBURGH
+what flights available from DFW to ATLANTA
+flights from BOSTON to DENVER early am on TUESDAY
+can from DALLAS to SAN FRANCISCO leaving in morning and arriving in morning
+can flights from TORONTO to SAN DIEGO
+what code YN mean
 what fare codes cover flights from PHILADELPHIA to SAN FRANCISCO
-find travel arrangements for a round trip flight from BOSTON to PITTSBURGH
-what is the latest flight i can take from WASHINGTON to SAN FRANCISCO
-are there any flights from BOSTON to SAN FRANCISCO which stop in DENVER
-what are the flights from LAS VEGAS to BURBANK also on SATURDAY may 22
+travel arrangements for round trip flight from BOSTON to PITTSBURGH
+what latest flight can take from WASHINGTON to SAN FRANCISCO
+any flights from BOSTON to SAN FRANCISCO stop in DENVER
+what flights from LAS VEGAS to BURBANK on SATURDAY may 22
 airports
-i need a flight from KANSAS CITY to NEWARK on the first of july
-what are the times that you have planes leaving from SAN FRANCISCO going to PITTSBURGH on july 7
-what cost is a limousine service to NEW YORK's LGA
-show me the flights from BOSTON to PITTSBURGH next WEDNESDAY night after 6 o'clock
-what is the cheapest fare for a one way flight from BOSTON to ATLANTA
-how many flights does TW have in BUSINESS
-what is the latest flight from BOSTON to DENVER that serves a meal
-list all flights from CHICAGO to SEATTLE on CO which depart on SATURDAY and serve meal
-looking for a flight from TORONTO to SAN DIEGO
-is ground transportation available in PHILADELPHIA
-what are the flights from DENVER to BALTIMORE on UA
-please list the SUNDAY flights from DALLAS to HOUSTON on AA
-show me the ground transportation to WESTCHESTER COUNTY
-how many people flight on a turboprop
-all flights from WASHINGTON to SAN FRANCISCO on november 12
-i would like to find a flight from PITTSBURGH to BOSTON on WEDNESDAY and i have to be in BOSTON by one so i'd like a flight out of here no later than 11am
-show me the flights from BOSTON to DFW on the morning of july 10 1991
-what's the lowest round trip fare from DALLAS to ATLANTA
-thank you very much now can you help me with information on flights from BOSTON to ATLANTA
-show me all flights from SAN FRANCISCO to LGA nonstop
-sure i'd like to determine what aircraft are use on july 7 leaving from BOSTON and arriving in ATLANTA on july 7
-find a flight from BOSTON to WASHINGTON on MONDAY
-list flights from PHOENIX to DETROIT on THURSDAY june 24
-what does US stand for
-show me all the flights between DFW and either SAN FRANCISCO or OAKLAND that depart between 5 and 7pm
-i'm looking for flights from OAKLAND to ATLANTA leaving before 1045am
+flight from KANSAS CITY to NEWARK on first of july
+what times planes leaving from SAN FRANCISCO going to PITTSBURGH on july 7
+what cost limousine service to NEW YORK's LGA
+flights from BOSTON to PITTSBURGH next WEDNESDAY night after 6
+what cheapest fare for one way flight from BOSTON to ATLANTA
+how many flights TW in BUSINESS
+what latest flight from BOSTON to DENVER serves meal
+flights from CHICAGO to SEATTLE on CO depart on SATURDAY and serve meal
+looking for flight from TORONTO to SAN DIEGO
+ground transportation available in PHILADELPHIA
+what flights from DENVER to BALTIMORE on UA
+SUNDAY flights from DALLAS to HOUSTON on AA
+ground transportation to WESTCHESTER COUNTY
+how many people flight on turboprop
+flights from WASHINGTON to SAN FRANCISCO on november 12
+to flight from PITTSBURGH to BOSTON on WEDNESDAY and to be in BOSTON by one so flight out of here no later than 11am
+flights from BOSTON to DFW on morning of july 10 1991
+lowest round trip fare from DALLAS to ATLANTA
+very much can help with information on flights from BOSTON to ATLANTA
+flights from SAN FRANCISCO to LGA nonstop
+sure to determine what aircraft use on july 7 leaving from BOSTON and arriving in ATLANTA on july 7
+flight from BOSTON to WASHINGTON on MONDAY
+flights from PHOENIX to DETROIT on THURSDAY june 24
+what US stand for
+flights between DFW and either SAN FRANCISCO or OAKLAND depart between 5 and 7pm
+looking for flights from OAKLAND to ATLANTA leaving before 1045am
 flights from ONTARIO to florida
 flights from MEMPHIS to SEATTLE
-please give me fares from DENVER to PHILADELPHIA
-show me all the SATURDAY flights from PITTSBURGH to BALTIMORE
-what does restriction AP/57 mean
-show me all flights from PHILADELPHIA to DALLAS which arrive in DALLAS before 3 o'clock pm on SATURDAY
-i would like a nonstop flight from ST. PETERSBURG to CHARLOTTE leaving in the afternoon
-i need a flight from NEW YORK to MONTREAL tomorrow
-give me flights from ATLANTA to BALTIMORE
-i'd like a round trip ticket from LOS ANGELES to TACOMA
-show me the flights from DALLAS to BALTIMORE in FIRST
-show me the flights from SAN FRANCISCO to BOSTON
-what ground transportation is there from DENVER
+fares from DENVER to PHILADELPHIA
+SATURDAY flights from PITTSBURGH to BALTIMORE
+what restriction AP/57 mean
+flights from PHILADELPHIA to DALLAS arrive in DALLAS before 3 pm on SATURDAY
+nonstop flight from ST. PETERSBURG to CHARLOTTE leaving in afternoon
+flight from NEW YORK to MONTREAL tomorrow
+flights from ATLANTA to BALTIMORE
+round trip ticket from LOS ANGELES to TACOMA
+flights from DALLAS to BALTIMORE in FIRST
+flights from SAN FRANCISCO to BOSTON
+what ground transportation from DENVER
 flights from NEWARK to CLEVELAND
-show any flights leaving SAN FRANCISCO on SUNDAY and arriving in PITTSBURGH
-okay on MONDAY may 31 i'd like to go from SAN DIEGO to PHOENIX early in the morning
-show me a list of flights on july 22 leaving dc to DALLAS leaving dc after 6pm
-show me the DL flights from SAN FRANCISCO to BOSTON
-what does the fare code F mean
-show me a list of flights from PITTSBURGH to BALTIMORE on august 3
-can you show me the list of flights that flight from WASHINGTON to SAN FRANCISCO via DALLAS
-what flights go from BOSTON to SAN FRANCISCO with a stop in DALLAS
-what are the flights from ATLANTA to BOSTON in the afternoon
-flights from BALTIMORE to PHILADELPHIA where the round trip fare is less than 1000 dollars
-find travel arrangements for a round trip flight from BOSTON to PITTSBURGH
-show me the flights from SAN FRANCISCO to BOSTON
-show me flights from BOSTON to WASHINGTON on MONDAY
-what time does the TUESDAY morning 755 flight leaving WASHINGTON arrive in SAN FRANCISCO
-what DL flights are available to flight from PHILADELPHIA to BOSTON
-list all takeoffs and landings at MKE
+any flights leaving SAN FRANCISCO on SUNDAY and arriving in PITTSBURGH
+on MONDAY may 31 to go from SAN DIEGO to PHOENIX early in morning
+of flights on july 22 leaving dc to DALLAS leaving dc after 6pm
+DL flights from SAN FRANCISCO to BOSTON
+what fare code F mean
+of flights from PITTSBURGH to BALTIMORE on august 3
+can of flights flight from WASHINGTON to SAN FRANCISCO via DALLAS
+what flights go from BOSTON to SAN FRANCISCO with stop in DALLAS
+what flights from ATLANTA to BOSTON in afternoon
+flights from BALTIMORE to PHILADELPHIA where round trip fare less than 1000 dollars
+travel arrangements for round trip flight from BOSTON to PITTSBURGH
+flights from SAN FRANCISCO to BOSTON
+flights from BOSTON to WASHINGTON on MONDAY
+what time TUESDAY morning 755 flight leaving WASHINGTON arrive in SAN FRANCISCO
+what DL flights available to flight from PHILADELPHIA to BOSTON
+takeoffs and landings at MKE
 what flights from INDIANAPOLIS to MEMPHIS
-what does the fare code F mean
+what fare code F mean
 ground transportation between airport and downtown in BOSTON
-please show me flights from DALLAS to ATLANTA on MONDAY
-what flights from CHICAGO to DENVER in the morning
-what is the fare on november 7 going one way from DALLAS to SAN FRANCISCO
-i'd like to get a flight from WASHINGTON to OAKLAND with a layover in DFW for september 15
-i'd like the first flight in the morning from BOSTON to WASHINGTON
-i want to flight from BOSTON to BALTIMORE
-what flights do you have today from SAN FRANCISCO to PITTSBURGH
-show me the morning flights from BOSTON to PHILADELPHIA
-i need a flight from BOSTON to DENVER
-show me AA flights from DALLAS to SAN FRANCISCO
-show me the flights from BALTIMORE to PHILADELPHIA
-show me flights from BOSTON to SAN FRANCISCO arriving before 1pm
-show me all the flights from DENVER and all the flights from MIAMI that arrive at BALTIMORE around noon
-is there a flight on TW from BALTIMORE to SAN FRANCISCO with a stop in DENVER
-what is the round trip fare on CO 1291 from DENVER to SAN FRANCISCO and return
-list DAILY flights from DENVER to BALTIMORE
-what flights go from PITTSBURGH to NEWARK after 823 in the morning
+flights from DALLAS to ATLANTA on MONDAY
+what flights from CHICAGO to DENVER in morning
+what fare on november 7 going one way from DALLAS to SAN FRANCISCO
+to flight from WASHINGTON to OAKLAND with layover in DFW for september 15
+first flight in morning from BOSTON to WASHINGTON
+to flight from BOSTON to BALTIMORE
+what flights do today from SAN FRANCISCO to PITTSBURGH
+morning flights from BOSTON to PHILADELPHIA
+flight from BOSTON to DENVER
+AA flights from DALLAS to SAN FRANCISCO
+flights from BALTIMORE to PHILADELPHIA
+flights from BOSTON to SAN FRANCISCO arriving before 1pm
+flights from DENVER and flights from MIAMI arrive at BALTIMORE around noon
+flight on TW from BALTIMORE to SAN FRANCISCO with stop in DENVER
+what round trip fare on CO 1291 from DENVER to SAN FRANCISCO and return
+DAILY flights from DENVER to BALTIMORE
+what flights go from PITTSBURGH to NEWARK after 823 in morning
 what flights go from TAMPA to CHARLOTTE on SUNDAY
-what are the classes of service on TW
-i want all flights from ATLANTA to WASHINGTON on THURSDAY
-i would like to see all flights from BALTIMORE to PHILADELPHIA
-i want a flight from CINCINNATI to BURBANK on AA and leave in the afternoon
-list all flights from BOSTON to SAN FRANCISCO on US
+what classes of service on TW
+flights from ATLANTA to WASHINGTON on THURSDAY
+to flights from BALTIMORE to PHILADELPHIA
+flight from CINCINNATI to BURBANK on AA and leave in afternoon
+flights from BOSTON to SAN FRANCISCO on US
 FIRST cost SAN FRANCISCO PITTSBURGH round trip
 ground transportation DENVER
 lowest fare from SAN FRANCISCO to ORLANDO
-are they all nonstop flights from KANSAS CITY to ST. PAUL
-all round trip flights between NEW YORK and MIAMI that are FIRST
-what airlines are there
-what is YYZ
-please show me airlines with flights from DENVER to BOSTON stop PHILADELPHIA
-what is the meaning of restriction AP/80
-what's fare code YN
-explain the restriction AP/57
+they nonstop flights from KANSAS CITY to ST. PAUL
+round trip flights between NEW YORK and MIAMI FIRST
+what airlines
+what YYZ
+airlines with flights from DENVER to BOSTON stop PHILADELPHIA
+what meaning of restriction AP/80
+fare code YN
+explain restriction AP/57
 what limousine service in LOS ANGELES
 AA from DENVER to MILWAUKEE
-i'm going to leave PHILADELPHIA and i want to go to SAN FRANCISCO and i want to flight FIRST AA and i want a stop in DALLAS can you please tell me what type of aircraft you will be flying
-what flights go from PITTSBURGH to NEWARK after 305 in the afternoon
-can you show me the economy flights from BALTIMORE to DALLAS
-find the earliest flight from BOSTON to SAN FRANCISCO that serves a meal
-in the month of december are there any flights from ATLANTA to DENVER that stop in BOSTON
-show all UA flights between BOSTON and PHILADELPHIA
+going to leave PHILADELPHIA and to go to SAN FRANCISCO and to flight FIRST AA and stop in DALLAS can tell what type of aircraft will be flying
+what flights go from PITTSBURGH to NEWARK after 305 in afternoon
+can economy flights from BALTIMORE to DALLAS
+earliest flight from BOSTON to SAN FRANCISCO serves meal
+in month of december any flights from ATLANTA to DENVER stop in BOSTON
+UA flights between BOSTON and PHILADELPHIA
 information on flights from PITTSBURGH to SAN FRANCISCO
-is there a DL flight from DENVER to SAN FRANCISCO
-i'd like a flight on AA from NEWARK to NASHVILLE
-the latest flight from BALTIMORE to OAKLAND please and i'd like a meal with that
-show me a list of flights from SAN FRANCISCO to BOSTON for august 30
-i'll need a RENTAL CAR at the ATL can you show me what's available
+DL flight from DENVER to SAN FRANCISCO
+flight on AA from NEWARK to NASHVILLE
+latest flight from BALTIMORE to OAKLAND and meal with
+of flights from SAN FRANCISCO to BOSTON for august 30
+RENTAL CAR at ATL can available
 BALTIMORE to PHILADELPHIA
-i'd like a list of all the flights from SAN FRANCISCO to PITTSBURGH on SUNDAY please
-i want a flight from MONTREAL to SAN DIEGO that leaves SUNDAY
-list all flights from ORLANDO to KANSAS CITY then to MINNEAPOLIS
-all the flights from BALTIMORE to SAN FRANCISCO
+of flights from SAN FRANCISCO to PITTSBURGH on SUNDAY
+flight from MONTREAL to SAN DIEGO leaves SUNDAY
+flights from ORLANDO to KANSAS CITY then to MINNEAPOLIS
+flights from BALTIMORE to SAN FRANCISCO
 flights to BALTIMORE
-what is the smallest aircraft available to flight on from PITTSBURGH to BALTIMORE
-i need a connecting flight on CO on june 5 from CHICAGO to SEATTLE
+what smallest aircraft available to flight on from PITTSBURGH to BALTIMORE
+connecting flight on CO on june 5 from CHICAGO to SEATTLE
 on november 23 what flights go from ATLANTA to DENVER on DL
 what airlines flight from DALLAS to BALTIMORE
 what airlines flight between BOSTON and SAN FRANCISCO and stop in DENVER
-i'd like flights on AA from PHILADELPHIA to DALLAS arriving before 1145am
-what flights are available from DENVER to PHILADELPHIA on WEDNESDAY
-i would like to flight from DENVER to BOSTON
-what is the lowest cost fare that DL has between BOSTON and SAN FRANCISCO
-what does fare code Y mean
+flights on AA from PHILADELPHIA to DALLAS arriving before 1145am
+what flights available from DENVER to PHILADELPHIA on WEDNESDAY
+to flight from DENVER to BOSTON
+what lowest cost fare DL has between BOSTON and SAN FRANCISCO
+what fare code Y mean
 flights on SUNDAY from TAMPA to CHARLOTTE
-give me the list of flights for CO between DENVER and BOSTON
+of flights for CO between DENVER and BOSTON
 SUNDAY flights from NEW YORK to LAS VEGAS
-i'd like information on CO flights from WASHINGTON to PHILADELPHIA
-what airline is the flight originating in ATLANTA on november 7 at noon and arriving in SAN FRANCISCO at 210pm
-show departures from ATLANTA for AA
-all flights from BALTIMORE to PHILADELPHIA less than 1000 dollars
-show me all flights from CHARLOTTE
-please give me all flights from LONG BEACH to MEMPHIS
+information on CO flights from WASHINGTON to PHILADELPHIA
+what airline flight originating in ATLANTA on november 7 at noon and arriving in SAN FRANCISCO at 210pm
+departures from ATLANTA for AA
+flights from BALTIMORE to PHILADELPHIA less than 1000 dollars
+flights from CHARLOTTE
+flights from LONG BEACH to MEMPHIS
 SFO to DENVER on MONDAY november 11 1991
-is there a direct flight from ATLANTA to PHILADELPHIA that arrives in PHILADELPHIA around 12 noon
-what flight leaves DALLAS for ATLANTA on august 27 in the evening
-show me all flights from NEW YORK to MIAMI on a TUESDAY with round trip fare less than 932 dollars
-all round trip flights between NEW YORK and MIAMI COACH fare
+direct flight from ATLANTA to PHILADELPHIA arrives in PHILADELPHIA around 12 noon
+what flight leaves DALLAS for ATLANTA on august 27 in evening
+flights from NEW YORK to MIAMI on TUESDAY with round trip fare less than 932 dollars
+round trip flights between NEW YORK and MIAMI COACH fare
 and flight from OAKLAND to BOSTON leaving after midnight
-show me flights from DENVER to ATLANTA on june 16
-list all flights from BALTIMORE to PHILADELPHIA
-how many flights does DL have with a class of service code F
-does CO flight from DENVER to SAN FRANCISCO
-which UA flights go through DENVER
+flights from DENVER to ATLANTA on june 16
+flights from BALTIMORE to PHILADELPHIA
+how many flights DL with class of service code F
+CO flight from DENVER to SAN FRANCISCO
+UA flights go through DENVER
 flight will start from BOSTON
-please show me flights from PITTSBURGH to ATLANTA on WEDNESDAY morning serving breakfast
-show me the flights from PHILADELPHIA to DALLAS
-list flights from PITTSBURGH to SAN FRANCISCO
-show me all flights to DALLAS that are less than 1500 dollars round trip
-what's the difference between fare code Q and fare code B
-what is fare code F
-show me the flights from DENVER to BALTIMORE or WASHINGTON that arrive before or around noon
+flights from PITTSBURGH to ATLANTA on WEDNESDAY morning serving breakfast
+flights from PHILADELPHIA to DALLAS
+flights from PITTSBURGH to SAN FRANCISCO
+flights to DALLAS less than 1500 dollars round trip
+difference between fare code Q and fare code B
+what fare code F
+flights from DENVER to BALTIMORE or WASHINGTON arrive before or around noon
 flights from NEWARK to CLEVELAND
 SAN FRANCISCO to DENVER TUESDAY
-which airlines have DAILY flights from BOSTON to DALLAS
-show me all DAILY flights out of BOSTON that have COACH
-does DL flight from ATLANTA to SAN FRANCISCO
-i would like to flight from ATLANTA to BOSTON arriving in BOSTON at 5pm
-are there WEDNESDAY morning flights between PITTSBURGH and BOSTON
-are there any flights before 12 noon on june 15 from LONG BEACH to COLUMBUS
-show me the earliest nonstop flight from DALLAS to HOUSTON
-what is the airfare between DENVER and PITTSBURGH
-show me the flights from IAD to SAN FRANCISCO leaving after 6pm
-how do i get from BWI to WASHINGTON
-how do i get from PIT to downtown PITTSBURGH
-show me all the flights from DENVER to BALTIMORE arriving may 10
-show me the flights from ST. PETERSBURG to TORONTO that arrive before noon
-show me flights from DENVER to PHILADELPHIA
-what are the flights from INDIANAPOLIS to SAN DIEGO on WEDNESDAY the 12
-i would like to flight from BOSTON to PHILADELPHIA next THURSDAY
-show me the evening flights from ATLANTA to BOSTON
-what is the cheapest fare between ATLANTA and SAN FRANCISCO
-how many flights does EA have from BOSTON to ATLANTA
+airlines DAILY flights from BOSTON to DALLAS
+DAILY flights out of BOSTON COACH
+DL flight from ATLANTA to SAN FRANCISCO
+to flight from ATLANTA to BOSTON arriving in BOSTON at 5pm
+WEDNESDAY morning flights between PITTSBURGH and BOSTON
+any flights before 12 noon on june 15 from LONG BEACH to COLUMBUS
+earliest nonstop flight from DALLAS to HOUSTON
+what airfare between DENVER and PITTSBURGH
+flights from IAD to SAN FRANCISCO leaving after 6pm
+how do from BWI to WASHINGTON
+how do from PIT to downtown PITTSBURGH
+flights from DENVER to BALTIMORE arriving may 10
+flights from ST. PETERSBURG to TORONTO arrive before noon
+flights from DENVER to PHILADELPHIA
+what flights from INDIANAPOLIS to SAN DIEGO on WEDNESDAY 12
+to flight from BOSTON to PHILADELPHIA next THURSDAY
+evening flights from ATLANTA to BOSTON
+what cheapest fare between ATLANTA and SAN FRANCISCO
+how many flights EA from BOSTON to ATLANTA
 flights from ST. PAUL to HOUSTON
-what is MIA
-thank you for that information now i would like information on a flight on april 16 from ATLANTA to PHILADELPHIA early in the morning
-show me the flights from DENVER to PHILADELPHIA on a SATURDAY
+what MIA
+for information information on flight on april 16 from ATLANTA to PHILADELPHIA early in morning
+flights from DENVER to PHILADELPHIA on SATURDAY
 an AA flight FIRST from PHILADELPHIA to DALLAS
 what flights from HOUSTON to MILWAUKEE on FRIDAY on AA
-what is the cost of a round trip ticket FIRST between OAK and ATL
-show me the airlines that use DAL
-please show me all airports in DENVER
-show me all CP flights from TORONTO
-show me the flights from BALTIMORE to DALLAS
-does AA flight from PHILADELPHIA to SAN FRANCISCO
-show me the airlines between BOSTON and TORONTO
-what flights are available FRIDAY from PHILADELPHIA to OAKLAND
-what ground transportation is available in DALLAS
-what is fare code F
-how much does flight DL 402 from DENVER to PHILADELPHIA cost
-what is the earliest flight leaving from BOSTON going to ATLANTA
-i need information on ground transportation from the airport in ATLANTA
-show me all flights from OAKLAND to PHILADELPHIA on SATURDAY which serve a meal
-is there a round trip flight from BALTIMORE to DALLAS connecting in DENVER
-what does US mean
-all flights from BALTIMORE to ATLANTA between 1 o'clock and 3 o'clock in the afternoon
-then list the flights from ATLANTA to PHILADELPHIA early WEDNESDAY morning nonstop
-i would like to know the flights from DENVER to PITTSBURGH leaving on MONDAY
-i'm looking for a flight from BOSTON to DENVER that has no layover and is only in the afternoon
-show me the flights from SAN DIEGO to NEWARK
-show me the flights from PITTSBURGH to SAN FRANCISCO on FRIDAY
-what is the latest flight from SALT LAKE CITY to ST. PETERSBURG
+what cost of round trip ticket FIRST between OAK and ATL
+airlines use DAL
+airports in DENVER
+CP flights from TORONTO
+flights from BALTIMORE to DALLAS
+AA flight from PHILADELPHIA to SAN FRANCISCO
+airlines between BOSTON and TORONTO
+what flights available FRIDAY from PHILADELPHIA to OAKLAND
+what ground transportation available in DALLAS
+what fare code F
+how much flight DL 402 from DENVER to PHILADELPHIA cost
+what earliest flight leaving from BOSTON going to ATLANTA
+information on ground transportation from airport in ATLANTA
+flights from OAKLAND to PHILADELPHIA on SATURDAY serve meal
+round trip flight from BALTIMORE to DALLAS connecting in DENVER
+what US mean
+flights from BALTIMORE to ATLANTA between 1 and 3 in afternoon
+then flights from ATLANTA to PHILADELPHIA early WEDNESDAY morning nonstop
+to know flights from DENVER to PITTSBURGH leaving on MONDAY
+looking for flight from BOSTON to DENVER has no layover and only in afternoon
+flights from SAN DIEGO to NEWARK
+flights from PITTSBURGH to SAN FRANCISCO on FRIDAY
+what latest flight from SALT LAKE CITY to ST. PETERSBURG
 shortest flight from BOSTON to PHILADELPHIA
-i want to see the cheapest flight from DENVER to PITTSBURGH
-display all flights from BALTIMORE to BOSTON on july 29
-i'm looking for a flight from OAKLAND to DENVER with a layover in DFW
-what is the cheapest flight on AA from CLEVELAND to MIAMI
-show me CO flights from CHICAGO to SEATTLE on SATURDAY morning
-do you have any direct flights from PITTSBURGH to ATLANTA
-find the latest flight from SAN FRANCISCO to ATLANTA that serves a meal
+to cheapest flight from DENVER to PITTSBURGH
+display flights from BALTIMORE to BOSTON on july 29
+looking for flight from OAKLAND to DENVER with layover in DFW
+what cheapest flight on AA from CLEVELAND to MIAMI
+CO flights from CHICAGO to SEATTLE on SATURDAY morning
+do any direct flights from PITTSBURGH to ATLANTA
+latest flight from SAN FRANCISCO to ATLANTA serves meal
 HOUSTON airports
-i'd like a flight from BURBANK to TACOMA
+flight from BURBANK to TACOMA
 flights from KANSAS CITY to CLEVELAND on WEDNESDAY before 5pm
-what are the COACH fares for flights from CHARLOTTE to NEWARK TUESDAY evening
-on november 23 what flights are available between BOSTON and DENVER on AA
-show me all overnight flights from WASHINGTON to SAN FRANCISCO and list their fares
-what are the nonstop flights on HP or WN air from KANSAS CITY to BURBANK on SATURDAY may 22
+what COACH fares for flights from CHARLOTTE to NEWARK TUESDAY evening
+on november 23 what flights available between BOSTON and DENVER on AA
+overnight flights from WASHINGTON to SAN FRANCISCO and their fares
+what nonstop flights on HP or WN air from KANSAS CITY to BURBANK on SATURDAY may 22
 from NEW YORK to TORONTO on THURSDAY morning
-please show me all one way FIRST flights from INDIANAPOLIS to MEMPHIS
-what are the morning flights from PHILADELPHIA to DALLAS going on AA
+one way FIRST flights from INDIANAPOLIS to MEMPHIS
+what morning flights from PHILADELPHIA to DALLAS going on AA
 from MONTREAL to LAS VEGAS
-i'd like a return flight from DENVER to ATLANTA evening flights
-show me all the flights from TORONTO on NX
-EA flight 825 from ATLANTA to DENVER leaving at 555 what type of aircraft is used on that flight
-what flights are there on WEDNESDAY evening or THURSDAY morning from DENVER to SFO
-show flights from DENVER to SAN FRANCISCO
-i would like to flight from BOSTON to SAN FRANCISCO
-is there a plane from BOSTON to WASHINGTON
-i would like information on flights from DFW to ATLANTA on WEDNESDAY morning
-please show all flights from PHILADELPHIA to DEN next SUNDAY
-i would like information on any flights from SAN FRANCISCO to PITTSBURGH arriving in PITTSBURGH before 8am TUESDAY morning
-please list the flights from PHOENIX to SAN DIEGO
-i need a flight DL KANSAS CITY to SALT LAKE CITY
-find a flight from SAN FRANCISCO to BOSTON on WEDNESDAY
-what are the flights from BOSTON to SAN FRANCISCO
-list DAILY flights from OAKLAND to BOSTON using UA
-could you please list all of the classes of flights there are
-show flights from BALTIMORE to SAN FRANCISCO between 6pm and 8pm on FRIDAY
-show me the flights from BOSTON to SAN FRANCISCO
+return flight from DENVER to ATLANTA evening flights
+flights from TORONTO on NX
+EA flight 825 from ATLANTA to DENVER leaving at 555 what type of aircraft used on flight
+what flights on WEDNESDAY evening or THURSDAY morning from DENVER to SFO
+flights from DENVER to SAN FRANCISCO
+to flight from BOSTON to SAN FRANCISCO
+plane from BOSTON to WASHINGTON
+information on flights from DFW to ATLANTA on WEDNESDAY morning
+flights from PHILADELPHIA to DEN next SUNDAY
+information on any flights from SAN FRANCISCO to PITTSBURGH arriving in PITTSBURGH before 8am TUESDAY morning
+flights from PHOENIX to SAN DIEGO
+flight DL KANSAS CITY to SALT LAKE CITY
+flight from SAN FRANCISCO to BOSTON on WEDNESDAY
+what flights from BOSTON to SAN FRANCISCO
+DAILY flights from OAKLAND to BOSTON using UA
+of classes of flights
+flights from BALTIMORE to SAN FRANCISCO between 6pm and 8pm on FRIDAY
+flights from BOSTON to SAN FRANCISCO
 information on AA flights from WASHINGTON to PHILADELPHIA early morning times of flight
-is there ground transportation in OAKLAND
-what is the earliest flight from BOSTON to SAN FRANCISCO on AA
-find the cheapest one way fare from BOSTON to OAKLAND
-what are the fares for flights from LOS ANGELES to NEWARK leaving MONDAY morning
-give me all the flights from MIAMI to CHICAGO on AA
-tell me about flights from TORONTO to SALT LAKE CITY leaving after 530pm
-from LOS ANGELES to PHOENIX on a FRIDAY
-show me the flights from DALLAS to BALTIMORE
-show me the ground transportation schedule in SAN FRANCISCO on THURSDAY evening
-please list all of the flights leaving ATLANTA heading to BALTIMORE after 8pm WEDNESDAY and before 9am THURSDAY
-what ground transportation is available in CHARLOTTE
-show me all flights from SAN FRANCISCO to PITTSBURGH which arrive in PITTSBURGH before 9 o'clock am tomorrow
-show me all the flights that arrive in BALTIMORE from anywhere between 1850 and midnight
-what are the air restrictions on flights from PITTSBURGH to ATLANTA for the airfare of 416 dollars
-what time does the earliest flight which goes from ATLANTA to DENVER leave
-please list only UA flights between DENVER and BOSTON
-i need a flight from BALTIMORE to DALLAS tomorrow morning
-what is the fare going from BALTIMORE to ATLANTA one way on november 7
-i would like to find out the ground travel available in ATLANTA
-show me flights from NEW YORK to MIAMI
-what is the latest flight leaving LAS VEGAS for ONTARIO
-i am interested in booking an early morning flight from DALLAS into HOUSTON on february 22 and returning late in the evening of february 22
-list types of aircraft that flight between BOSTON and SAN FRANCISCO
-please give me ground transportation information between DFW airport and downtown DALLAS
-how many flights does CO have with a class of service code F
-what is the name of the airport at DENVER
-what is the fare from BOSTON to SAN FRANCISCO on UA flight 21
-i'd like to have some information on a ticket from DENVER to PITTSBURGH and ATLANTA
+ground transportation in OAKLAND
+what earliest flight from BOSTON to SAN FRANCISCO on AA
+cheapest one way fare from BOSTON to OAKLAND
+what fares for flights from LOS ANGELES to NEWARK leaving MONDAY morning
+flights from MIAMI to CHICAGO on AA
+tell about flights from TORONTO to SALT LAKE CITY leaving after 530pm
+from LOS ANGELES to PHOENIX on FRIDAY
+flights from DALLAS to BALTIMORE
+ground transportation schedule in SAN FRANCISCO on THURSDAY evening
+of flights leaving ATLANTA heading to BALTIMORE after 8pm WEDNESDAY and before 9am THURSDAY
+what ground transportation available in CHARLOTTE
+flights from SAN FRANCISCO to PITTSBURGH arrive in PITTSBURGH before 9 am tomorrow
+flights arrive in BALTIMORE from anywhere between 1850 and midnight
+what air restrictions on flights from PITTSBURGH to ATLANTA for airfare of 416 dollars
+what time earliest flight goes from ATLANTA to DENVER leave
+only UA flights between DENVER and BOSTON
+flight from BALTIMORE to DALLAS tomorrow morning
+what fare going from BALTIMORE to ATLANTA one way on november 7
+to out ground travel available in ATLANTA
+flights from NEW YORK to MIAMI
+what latest flight leaving LAS VEGAS for ONTARIO
+am interested in booking an early morning flight from DALLAS into HOUSTON on february 22 and returning late in evening of february 22
+types of aircraft flight between BOSTON and SAN FRANCISCO
+ground transportation information between DFW airport and downtown DALLAS
+how many flights CO with class of service code F
+what name of airport at DENVER
+what fare from BOSTON to SAN FRANCISCO on UA flight 21
+to some information on ticket from DENVER to PITTSBURGH and ATLANTA
 what type of aircraft leaves from BOSTON to WASHINGTON at 9am
 ground transportation in PHOENIX
-what is the earliest flight leaving WASHINGTON to SAN FRANCISCO
-please find the earliest possible flight from BOSTON to DENVER
-show me the flight that leaves PHILADELPHIA in the afternoon and arrives in the evening in DENVER
-DALLAS to SAN FRANCISCO leaving after 4 in the afternoon please
-please show me all the flights from BOSTON
-show me the lowest priced fare from DALLAS to BALTIMORE
-how much does it cost to flight from BOSTON to ATLANTA
-i would like a flight from TORONTO to SAN DIEGO that stops in KANSAS CITY
+what earliest flight leaving WASHINGTON to SAN FRANCISCO
+earliest possible flight from BOSTON to DENVER
+flight leaves PHILADELPHIA in afternoon and arrives in evening in DENVER
+DALLAS to SAN FRANCISCO leaving after 4 in afternoon
+flights from BOSTON
+lowest priced fare from DALLAS to BALTIMORE
+how much it cost to flight from BOSTON to ATLANTA
+flight from TORONTO to SAN DIEGO stops in KANSAS CITY
 flights from PITTSBURGH to BALTIMORE between 10am and 2pm
 what flights stop in ATLANTA before noon
-how much does DL 746 cost
-which airline provides BUSINESS flights
-what does the abbreviation DL mean
-please list all flights leaving on THURSDAY morning from NEW YORK to TORONTO
+how much DL 746 cost
+airline provides BUSINESS flights
+what abbreviation DL mean
+flights leaving on THURSDAY morning from NEW YORK to TORONTO
 WEDNESDAY morning flights between BALTIMORE and NEWARK
-i would like a flight from SAN FRANCISCO to PITTSBURGH on FRIDAY morning after 10 o'clock
-please give me flights from ATLANTA to BOSTON on WEDNESDAY morning and THURSDAY afternoon
-what flights are available FRIDAY from SAN FRANCISCO to BOSTON
-list all flights from DENVER to PHILADELPHIA
-i need a flight from DENVER to PITTSBURGH on july 7 that leaves in the afternoon
-i would like a ticket leaving from DENVER colorado to ATLANTA georgia with a stop in PITTSBURGH
-i want to travel from PITTSBURGH to OAKLAND around midnight could you give me the flights
-what afternoon flights are available between DENVER and DFW
-what is restriction AP/55
+flight from SAN FRANCISCO to PITTSBURGH on FRIDAY morning after 10
+flights from ATLANTA to BOSTON on WEDNESDAY morning and THURSDAY afternoon
+what flights available FRIDAY from SAN FRANCISCO to BOSTON
+flights from DENVER to PHILADELPHIA
+flight from DENVER to PITTSBURGH on july 7 leaves in afternoon
+ticket leaving from DENVER colorado to ATLANTA georgia with stop in PITTSBURGH
+to travel from PITTSBURGH to OAKLAND around midnight flights
+what afternoon flights available between DENVER and DFW
+what restriction AP/55
 AA flight 4400 from CINCINNATI to HOUSTON
-list all DAILY flights between OAKLAND and BOSTON using AA
-information on a flight from SAN FRANCISCO to PHILADELPHIA
-i want a direct flight from OAKLAND to BOSTON that leaves on a WEDNESDAY
-show me all flights arriving to DENVER from OAKLAND
-what is the earliest flight leaving BOSTON and going to WASHINGTON on september 3
-show me the flights from BOSTON to PITTSBURGH
-find a nonstop flight between DENVER and OAKLAND leaving in the afternoon and arriving near 5pm
-what flights are available SUNDAY afternoon from OAKLAND to DALLAS
+DAILY flights between OAKLAND and BOSTON using AA
+information on flight from SAN FRANCISCO to PHILADELPHIA
+direct flight from OAKLAND to BOSTON leaves on WEDNESDAY
+flights arriving to DENVER from OAKLAND
+what earliest flight leaving BOSTON and going to WASHINGTON on september 3
+flights from BOSTON to PITTSBURGH
+nonstop flight between DENVER and OAKLAND leaving in afternoon and arriving near 5pm
+what flights available SUNDAY afternoon from OAKLAND to DALLAS
 leave flight from BOSTON to ATLANTA leave BOSTON approximately 1pm
-is there a flight on DL from BOSTON to DENVER
-show me all the flights to BALTIMORE after 6 o'clock pm
-how many FIRST flights does DL have
-i need a plane that arrives in SAN FRANCISCO by 9 o'clock pm on FRIDAY and leaves from BALTIMORE
-show me the cheapest round trip fares from SAN FRANCISCO to SALT LAKE CITY
-sure i want to go from PHILADELPHIA to DALLAS
-show flights from PHILADELPHIA to DALLAS on SATURDAY
-list flights from DALLAS to SAN FRANCISCO
-what kind of ground transportation can you offer me in SEATTLE
-what is HP
-please show me airlines with flights from DENVER to PHILADELPHIA
-i want a cheap flight from DENVER to ATLANTA
-what is the ground transportation from PHILADELPHIA airport to the city proper
-can i have a RENTAL CAR in HOUSTON
+flight on DL from BOSTON to DENVER
+flights to BALTIMORE after 6 pm
+how many FIRST flights DL
+plane arrives in SAN FRANCISCO by 9 pm on FRIDAY and leaves from BALTIMORE
+cheapest round trip fares from SAN FRANCISCO to SALT LAKE CITY
+sure to go from PHILADELPHIA to DALLAS
+flights from PHILADELPHIA to DALLAS on SATURDAY
+flights from DALLAS to SAN FRANCISCO
+what kind of ground transportation can offer in SEATTLE
+what HP
+airlines with flights from DENVER to PHILADELPHIA
+cheap flight from DENVER to ATLANTA
+what ground transportation from PHILADELPHIA airport to city proper
+can RENTAL CAR in HOUSTON
 how about flights leaving SAN FRANCISCO and arriving in BOSTON for any day
-now i'd like a schedule for the flights on TUESDAY morning from OAKLAND no from DFW to ATLANTA
-EA flies from ATLANTA to DENVER what type of aircraft do you use before 6pm
-i would like to flight to SAN FRANCISCO early in the day
-actually what are the nonstop flights from LAS VEGAS to BURBANK on SATURDAY may 22
-does AA flight from ATLANTA to PHILADELPHIA
-i need a flight from BOSTON to SAN FRANCISCO leaving in the afternoon and arriving in the evening thank you
+schedule for flights on TUESDAY morning from OAKLAND no from DFW to ATLANTA
+EA flies from ATLANTA to DENVER what type of aircraft do use before 6pm
+to flight to SAN FRANCISCO early in day
+actually what nonstop flights from LAS VEGAS to BURBANK on SATURDAY may 22
+AA flight from ATLANTA to PHILADELPHIA
+flight from BOSTON to SAN FRANCISCO leaving in afternoon and arriving in evening
 how about april 27 DENVER to WASHINGTON
-what does MCO stand for
-find travel arrangements for a round trip flight from DALLAS to PITTSBURGH arriving after 8pm
+what MCO stand for
+travel arrangements for round trip flight from DALLAS to PITTSBURGH arriving after 8pm
 flights from MEMPHIS to LAS VEGAS on SUNDAY
-list all flights from BOSTON to SAN FRANCISCO with at least 3 stops
-show me the cheapest one way tickets from ATLANTA to DALLAS
-okay what flights are there US from ORLANDO to CLEVELAND leaving in the afternoon
+flights from BOSTON to SAN FRANCISCO with at least 3 stops
+cheapest one way tickets from ATLANTA to DALLAS
+what flights US from ORLANDO to CLEVELAND leaving in afternoon
 what flights go from SAN FRANCISCO to DENVER on MONDAY
-what are flights from BOSTON to ST. PETERSBURG
-what flights are there available from PHILADELPHIA to DENVER on WEDNESDAY with economy
-list all flights from BOSTON to OAKLAND
-i would like a COACH seat on a flight leaving DENVER arriving ATLANTA
-i would like to flight from BOSTON to DENVER early in the morning
-show me the cheapest flights from DALLAS to BALTIMORE
-show flights from PITTSBURGH into SAN FRANCISCO
-i would like information on flights from DENVER to SAN FRANCISCO after noon on WEDNESDAY
-what is fare code M
-show me all the flights arriving around noon in WASHINGTON from DENVER
-give me the list of flights for CO between BOSTON and DENVER
-i'm interested in round trip flights from BOSTON to WASHINGTON
+what flights from BOSTON to ST. PETERSBURG
+what flights available from PHILADELPHIA to DENVER on WEDNESDAY with economy
+flights from BOSTON to OAKLAND
+COACH seat on flight leaving DENVER arriving ATLANTA
+to flight from BOSTON to DENVER early in morning
+cheapest flights from DALLAS to BALTIMORE
+flights from PITTSBURGH into SAN FRANCISCO
+information on flights from DENVER to SAN FRANCISCO after noon on WEDNESDAY
+what fare code M
+flights arriving around noon in WASHINGTON from DENVER
+of flights for CO between BOSTON and DENVER
+interested in round trip flights from BOSTON to WASHINGTON
 what flights leave SAN FRANCISCO after 8pm and go to DFW
-what flights do you have leaving DENVER and arriving in SAN FRANCISCO
-show me the flights from INDIANAPOLIS to ORLANDO with round trip fares less than 1288
-i would like to see the economy for DENVER to PHILADELPHIA
-show me the flights from PHILADELPHIA to DALLAS with a stop in ATLANTA
-show me fares from PHILADELPHIA to SAN FRANCISCO on THURSDAY morning
-i need a flight from SAN FRANCISCO to BOSTON that leaves after 8pm
-what's the lowest round trip fare from DALLAS to BALTIMORE
-which airlines have flights between PHILADELPHIA and PITTSBURGH
-what are the flights which depart from SAN FRANCISCO flight to WASHINGTON via INDIANAPOLIS and arrive by 9pm
-i need the earliest flight from DENVER to BOSTON that serves dinner
-what flights do you have from BOSTON to PITTSBURGH on WEDNESDAY of next week after 6pm
-is there a flight between WASHINGTON and SAN FRANCISCO on US at 8am
-what is fare class H
-i want to flight DENVER to PITTSBURGH
-what is the earliest flight from BOSTON to PHILADELPHIA
-how many DAILY US flights are there between PHILADELPHIA and PITTSBURGH
-what does EWR mean
-is there a late afternoon flight leaving WASHINGTON for DENVER
-show me flights leaving from DENVER colorado to PITTSBURGH on WEDNESDAY after 5pm
-i want a flight from BOSTON to DENVER that stops in PITTSBURGH
-show me the flights from BALTIMORE to OAKLAND
+what flights do leaving DENVER and arriving in SAN FRANCISCO
+flights from INDIANAPOLIS to ORLANDO with round trip fares less than 1288
+to economy for DENVER to PHILADELPHIA
+flights from PHILADELPHIA to DALLAS with stop in ATLANTA
+fares from PHILADELPHIA to SAN FRANCISCO on THURSDAY morning
+flight from SAN FRANCISCO to BOSTON leaves after 8pm
+lowest round trip fare from DALLAS to BALTIMORE
+airlines flights between PHILADELPHIA and PITTSBURGH
+what flights depart from SAN FRANCISCO flight to WASHINGTON via INDIANAPOLIS and arrive by 9pm
+earliest flight from DENVER to BOSTON serves dinner
+what flights do from BOSTON to PITTSBURGH on WEDNESDAY of next week after 6pm
+flight between WASHINGTON and SAN FRANCISCO on US at 8am
+what fare class H
+to flight DENVER to PITTSBURGH
+what earliest flight from BOSTON to PHILADELPHIA
+how many DAILY US flights between PHILADELPHIA and PITTSBURGH
+what EWR mean
+late afternoon flight leaving WASHINGTON for DENVER
+flights leaving from DENVER colorado to PITTSBURGH on WEDNESDAY after 5pm
+flight from BOSTON to DENVER stops in PITTSBURGH
+flights from BALTIMORE to OAKLAND
 flight from DENVER to PHILADELPHIA SATURDAY afternoon
-what are the flights that leave DETROIT and arrive in CHICAGO around 7pm next WEDNESDAY
+what flights leave DETROIT and arrive in CHICAGO around 7pm next WEDNESDAY
 information on round trip flights from PITTSBURGH to SAN FRANCISCO FIRST
-do you have a flight from BOSTON to DFW
-show me the flights from DALLAS to BALTIMORE
-i'd like flight information between BOSTON and WASHINGTON september 3
-show me ground transportation in PHILADELPHIA on MONDAY morning
-show me the flights on SUNDAY from TAMPA to CHARLOTTE
-i'd like to know the earliest flights from BOSTON to ATLANTA georgia
-i would like to see the flights from DENVER to PHILADELPHIA please
-what kind of ground transportation is there in DENVER
-all flights from BOSTON to WASHINGTON
-what kind of aircraft does DL use before 8am on august 2 from BOSTON to DENVER
-i'd like to go from BOSTON to PITTSBURGH to find the cheapest flight
-what is the latest departure from BOSTON to PITTSBURGH on the 7 of july
-are there any flights after 9pm from SAN FRANCISCO to WASHINGTON
-i want to find the first flight from BALTIMORE to BOSTON that serves a meal
-does DL flight from DENVER to PITTSBURGH
-what type of aircraft leaves from BOSTON to WASHINGTON at 9am during a weekday
-list all flights on UA from SAN FRANCISCO to BOSTON with fare code QX
-on EA flight 825 from ATLANTA to DENVER can you tell me what type of aircraft used before 12 noon
+do flight from BOSTON to DFW
+flights from DALLAS to BALTIMORE
+flight information between BOSTON and WASHINGTON september 3
+ground transportation in PHILADELPHIA on MONDAY morning
+flights on SUNDAY from TAMPA to CHARLOTTE
+to know earliest flights from BOSTON to ATLANTA georgia
+to flights from DENVER to PHILADELPHIA
+what kind of ground transportation in DENVER
+flights from BOSTON to WASHINGTON
+what kind of aircraft DL use before 8am on august 2 from BOSTON to DENVER
+to go from BOSTON to PITTSBURGH to cheapest flight
+what latest departure from BOSTON to PITTSBURGH on 7 of july
+any flights after 9pm from SAN FRANCISCO to WASHINGTON
+to first flight from BALTIMORE to BOSTON serves meal
+DL flight from DENVER to PITTSBURGH
+what type of aircraft leaves from BOSTON to WASHINGTON at 9am during weekday
+flights on UA from SAN FRANCISCO to BOSTON with fare code QX
+on EA flight 825 from ATLANTA to DENVER can tell what type of aircraft used before 12 noon
 what flights from ATLANTA to ST. LOUIS on TUESDAY arriving around 230pm
-a flight on CO leaving BOSTON and going to DENVER
-all one way flights between BOSTON and PHILADELPHIA
-i would like a flight on CO leaving from BOSTON making a stop in DENVER and arriving in SAN FRANCISCO
-show me all flights from KANSAS CITY to CHICAGO on june 16 arriving around 7 o'clock in the evening
-what is the cheapest round trip flight from DENVER to ATLANTA
-is there one stop with the US BOSTON leaving at 705 to ATLANTA
-how many seats in a 100
-what flights are there from NEW YORK to LAS VEGAS
-i would like to find a flight from KANSAS CITY to SALT LAKE CITY on DL and arriving at about 8 o'clock in the evening could you please tell me the aircraft and the flight number thank you
-now i need another flight from LAS VEGAS to LOS ANGELES arriving also in the late afternoon what's available for that
-please show me the flights from ATLANTA to DENVER
-show me the latest flight from SAN FRANCISCO to DENVER
-do you have any flights from DENVER to BALTIMORE via DALLAS
-i'd like a flight from DETROIT to ST. PETERSBURG for TUESDAY
-i would like to see the flights from DENVER to PHILADELPHIA
-i would like a nonstop flight from PHILADELPHIA to PITTSBURGH
-i live in DENVER and i'd like to make a trip to PITTSBURGH
-show the flights from SAN FRANCISCO to PITTSBURGH
-what ground transportation is available at BOSTON
-list the WEDNESDAY flights from DENVER to BALTIMORE arriving in BALTIMORE between 1115am and 1245pm
-i'd like to book the cheapest one way flight from DENVER to PITTSBURGH
-find a flight from CHARLOTTE to LAS VEGAS that stop in ST. LOUIS that serve dinner and i want to find the airline for this flight
-i would like a nonstop flight from JFK to LAS VEGAS on march 2
-is the AA flight 813 from BOSTON to OAKLAND a nonstop flight
-please tell me the flights between BOSTON and PHILADELPHIA next THURSDAY
-all right what US flights leave from INDIANAPOLIS to SAN DIEGO after 130 in the afternoon
-find me a flight on UA from BOSTON to SAN FRANCISCO with a layover in DENVER
-i'd like to arrange a flight from PITTSBURGH to ATLANTA
-please list all flights on UA and NW that go into DENVER and all flights on NW and UA that flight out of DENVER
-how expensive is the SAN FRANCISCO limousine service
-could you please tell me the cheapest flight from BOSTON to SAN FRANCISCO
-tell me about the ground transportation in CHICAGO
-what is the cheapest fare from DALLAS to DENVER on DL
+flight on CO leaving BOSTON and going to DENVER
+one way flights between BOSTON and PHILADELPHIA
+flight on CO leaving from BOSTON making stop in DENVER and arriving in SAN FRANCISCO
+flights from KANSAS CITY to CHICAGO on june 16 arriving around 7 in evening
+what cheapest round trip flight from DENVER to ATLANTA
+one stop with US BOSTON leaving at 705 to ATLANTA
+how many seats in 100
+what flights from NEW YORK to LAS VEGAS
+to flight from KANSAS CITY to SALT LAKE CITY on DL and arriving at about 8 in evening tell aircraft and flight number
+another flight from LAS VEGAS to LOS ANGELES arriving in late afternoon available for
+flights from ATLANTA to DENVER
+latest flight from SAN FRANCISCO to DENVER
+do any flights from DENVER to BALTIMORE via DALLAS
+flight from DETROIT to ST. PETERSBURG for TUESDAY
+to flights from DENVER to PHILADELPHIA
+nonstop flight from PHILADELPHIA to PITTSBURGH
+live in DENVER and to make trip to PITTSBURGH
+flights from SAN FRANCISCO to PITTSBURGH
+what ground transportation available at BOSTON
+WEDNESDAY flights from DENVER to BALTIMORE arriving in BALTIMORE between 1115am and 1245pm
+to book cheapest one way flight from DENVER to PITTSBURGH
+flight from CHARLOTTE to LAS VEGAS stop in ST. LOUIS serve dinner and to airline for flight
+nonstop flight from JFK to LAS VEGAS on march 2
+AA flight 813 from BOSTON to OAKLAND nonstop flight
+tell flights between BOSTON and PHILADELPHIA next THURSDAY
+right what US flights leave from INDIANAPOLIS to SAN DIEGO after 130 in afternoon
+flight on UA from BOSTON to SAN FRANCISCO with layover in DENVER
+to arrange flight from PITTSBURGH to ATLANTA
+flights on UA and NW go into DENVER and flights on NW and UA flight out of DENVER
+how expensive SAN FRANCISCO limousine service
+tell cheapest flight from BOSTON to SAN FRANCISCO
+tell about ground transportation in CHICAGO
+what cheapest fare from DALLAS to DENVER on DL
 fares between ATLANTA and BOSTON
-show me flights from SAN FRANCISCO to PITTSBURGH on a SUNDAY
-i want the list of DAILY flights from MILWAUKEE to ST. LOUIS
-i need ground transportation in SEATTLE
-i'd like to know the information from BOSTON to PHILADELPHIA nonstop
-show all flights on LH out of BOSTON
-i need ground transportation in DALLAS please show me what's available
-what type of ground transportation is available at BOS airport
+flights from SAN FRANCISCO to PITTSBURGH on SUNDAY
+of DAILY flights from MILWAUKEE to ST. LOUIS
+ground transportation in SEATTLE
+to know information from BOSTON to PHILADELPHIA nonstop
+flights on LH out of BOSTON
+ground transportation in DALLAS available
+what type of ground transportation available at BOS airport
 what flights from PITTSBURGH to NEWARK on MONDAY
-show me all flights from DENVER to PHILADELPHIA which leave next SATURDAY afternoon
-list the flights and time of arrival for flights arriving in DFW from BOSTON before noon
-how far is the airport from downtown PITTSBURGH
-what are the flights from CHICAGO to INDIANAPOLIS
-give me a flight from NEWARK to TAMPA on FRIDAY
-what is the earliest flight going from SAN FRANCISCO to DALLAS on MONDAY august 19
-show me all NX flights from TORONTO
-what flights from CHICAGO to KANSAS CITY in the morning
-show me the flights from BOSTON to BALTIMORE
-list all flights on CO leaving DENVER on SUNDAY after 2134
-i'd like to find a flight from MIAMI to LAS VEGAS NEVADA that would arrive before 4pm on SUNDAY
-what does the fare code YN mean
-show me flights from DALLAS to BALTIMORE
-tell me about flights from SALT LAKE CITY to ST. PETERSBURG
-show me all flights from PITTSBURGH to DALLAS
-what's the earliest flight from BOSTON to BWI that serves dinner
-i'd like to go from BOSTON to SAN FRANCISCO with a stop in DALLAS
-i would like to book a flight from CHICAGO into SEATTLE on june first on CO
-show me all flights from MONTREAL
-i need flights that arrive in BALTIMORE from PITTSBURGH
+flights from DENVER to PHILADELPHIA leave next SATURDAY afternoon
+flights and time of arrival for flights arriving in DFW from BOSTON before noon
+how far airport from downtown PITTSBURGH
+what flights from CHICAGO to INDIANAPOLIS
+flight from NEWARK to TAMPA on FRIDAY
+what earliest flight going from SAN FRANCISCO to DALLAS on MONDAY august 19
+NX flights from TORONTO
+what flights from CHICAGO to KANSAS CITY in morning
+flights from BOSTON to BALTIMORE
+flights on CO leaving DENVER on SUNDAY after 2134
+to flight from MIAMI to LAS VEGAS NEVADA arrive before 4pm on SUNDAY
+what fare code YN mean
+flights from DALLAS to BALTIMORE
+tell about flights from SALT LAKE CITY to ST. PETERSBURG
+flights from PITTSBURGH to DALLAS
+earliest flight from BOSTON to BWI serves dinner
+to go from BOSTON to SAN FRANCISCO with stop in DALLAS
+to book flight from CHICAGO into SEATTLE on june first on CO
+flights from MONTREAL
+flights arrive in BALTIMORE from PITTSBURGH
 what flights leave after 7pm from PITTSBURGH to PHILADELPHIA
-show me ground transportation in SAN FRANCISCO
-all right do you have a flight from ATLANTA to BOSTON
-on the flight from BALTIMORE to SAN FRANCISCO on US leaving at 420 what type of aircraft is used
-what are my options for a MINNEAPOLIS back to INDIANAPOLIS flight around noontime
-show me the most expensive fare
-show me the flights from ATLANTA to DENVER on MONDAY
-i'd like to flight from BOSTON to SAN FRANCISCO
+ground transportation in SAN FRANCISCO
+right do flight from ATLANTA to BOSTON
+on flight from BALTIMORE to SAN FRANCISCO on US leaving at 420 what type of aircraft used
+what options for MINNEAPOLIS back to INDIANAPOLIS flight around noontime
+most expensive fare
+flights from ATLANTA to DENVER on MONDAY
+to flight from BOSTON to SAN FRANCISCO
 how about arrivals for AA in ATLANTA
-please list the flights from ONTARIO CALIFORNIA to ORLANDO
-which nonstop flight from ATLANTA to OAKLAND leaves in the afternoon and arrives at 5pm
-okay and can you tell me for flights departing from DALLAS to PHILADELPHIA the latest flight you would have departing from DALLAS to PHILADELPHIA
-show me the flights from BOSTON to PITTSBURGH on WEDNESDAY and THURSDAY
-please list the MONDAY morning flights from KANSAS CITY to ATLANTA
-show me BOSTON ground transportation
-show me all the flights from NEW YORK to MILWAUKEE
+flights from ONTARIO CALIFORNIA to ORLANDO
+nonstop flight from ATLANTA to OAKLAND leaves in afternoon and arrives at 5pm
+and can tell for flights departing from DALLAS to PHILADELPHIA latest flight departing from DALLAS to PHILADELPHIA
+flights from BOSTON to PITTSBURGH on WEDNESDAY and THURSDAY
+MONDAY morning flights from KANSAS CITY to ATLANTA
+BOSTON ground transportation
+flights from NEW YORK to MILWAUKEE
 what flights from ST. PAUL to KANSAS CITY on FRIDAY with lunch served
-show me the flights to DAL
-show me all flights from BOSTON to DENVER which arrive in DENVER WEDNESDAY before noon
-i'd like a FIRST flight from DENVER to BALTIMORE on january first
-can you show me the cheapest round trip flights between DENVER and PITTSBURGH
-what is airline DL
-show me the flights from BOSTON to DENVER on august 2
+flights to DAL
+flights from BOSTON to DENVER arrive in DENVER WEDNESDAY before noon
+FIRST flight from DENVER to BALTIMORE on january first
+can cheapest round trip flights between DENVER and PITTSBURGH
+what airline DL
+flights from BOSTON to DENVER on august 2
 PHILADELPHIA to BOSTON MONDAY
-list the earliest flights from ST. PAUL to HOUSTON
-what is the flight number for the CO flight which leaves DENVER at 1220pm and goes to SAN FRANCISCO
+earliest flights from ST. PAUL to HOUSTON
+what flight number for CO flight leaves DENVER at 1220pm and goes to SAN FRANCISCO
 ground transportation in DALLAS and BOSTON
-could you please show me all flights from CHARLOTTE to MILWAUKEE
-can you tell me which flights go from MEMPHIS to TACOMA and make a stop in LOS ANGELES
-on UA give me the flight times from BOSTON to DALLAS
-find me the earliest flight from BOSTON to ATLANTA on any day of the week
-is there a limousine service available from the PIT
-how many FIRST flights does UA have departing from BOSTON today
-find me the flights that are nonstop between BOSTON and DALLAS that leave between 12 and 2 in the afternoon
-please show me the round trip flights from ST. PETERSBURG to TORONTO
-list all round trip fares from PITTSBURGH to WASHINGTON
-i'd like to see all the economy from BALTIMORE to PHILADELPHIA
-tell me about ground transportation between the DFW airport and downtown DALLAS
+flights from CHARLOTTE to MILWAUKEE
+can tell flights go from MEMPHIS to TACOMA and make stop in LOS ANGELES
+on UA flight times from BOSTON to DALLAS
+earliest flight from BOSTON to ATLANTA on any day of week
+limousine service available from PIT
+how many FIRST flights UA departing from BOSTON today
+flights nonstop between BOSTON and DALLAS leave between 12 and 2 in afternoon
+round trip flights from ST. PETERSBURG to TORONTO
+round trip fares from PITTSBURGH to WASHINGTON
+to economy from BALTIMORE to PHILADELPHIA
+tell about ground transportation between DFW airport and downtown DALLAS
 flights from CINCINNATI to LOS ANGELES departing after 718am
-please give me a list of flights leaving BOSTON going to PITTSBURGH
-find the cheapest one way fare from BOSTON to SAN FRANCISCO
-list the earliest flights from ATLANTA to DENVER on a MONDAY
-what flights are between DFW and OAKLAND
-please show me all round trip flights from NEW YORK to MIAMI
-please list UA flights between BOSTON and DENVER departing at 9am
-looking for a flight from DENVER to SALT LAKE CITY
-what is the name of the airport in PHILADELPHIA
-what is the cheapest way to flight from PHILADELPHIA to SAN FRANCISCO
-what are the FIRST from BOSTON to PITTSBURGH on THURSDAY
-what are the flights from DENVER to OAKLAND
+of flights leaving BOSTON going to PITTSBURGH
+cheapest one way fare from BOSTON to SAN FRANCISCO
+earliest flights from ATLANTA to DENVER on MONDAY
+what flights between DFW and OAKLAND
+round trip flights from NEW YORK to MIAMI
+UA flights between BOSTON and DENVER departing at 9am
+looking for flight from DENVER to SALT LAKE CITY
+what name of airport in PHILADELPHIA
+what cheapest way to flight from PHILADELPHIA to SAN FRANCISCO
+what FIRST from BOSTON to PITTSBURGH on THURSDAY
+what flights from DENVER to OAKLAND
 how many DL flights leave from WASHINGTON
-what planes are used by TW
-are there any 4 o'clock flights from WASHINGTON to DENVER
-i would like to travel from INDIANAPOLIS to HOUSTON
-list all flights going from BOSTON to ATLANTA after 6 o'clock pm on WEDNESDAY
-is BWI WASHINGTON
-can you tell me the cheapest flight between BOSTON and SAN FRANCISCO
-show me all flights from PHILADELPHIA to SAN FRANCISCO with one stop in DALLAS
-find a flight on AA from BOSTON to SAN FRANCISCO that makes a layover in DENVER
-what's the latest flight from SAN JOSE to HOUSTON
-what are all the flights between SAN FRANCISCO and BOSTON
+what planes used by TW
+any 4 flights from WASHINGTON to DENVER
+to travel from INDIANAPOLIS to HOUSTON
+flights going from BOSTON to ATLANTA after 6 pm on WEDNESDAY
+BWI WASHINGTON
+can tell cheapest flight between BOSTON and SAN FRANCISCO
+flights from PHILADELPHIA to SAN FRANCISCO with one stop in DALLAS
+flight on AA from BOSTON to SAN FRANCISCO makes layover in DENVER
+latest flight from SAN JOSE to HOUSTON
+what flights between SAN FRANCISCO and BOSTON
 am flights from ATLANTA to PHILADELPHIA
-what is the cost of limousine service at BOS airport
-how much is a flight from WASHINGTON to BOSTON
+what cost of limousine service at BOS airport
+how much flight from WASHINGTON to BOSTON
 fares and flights from DENVER to PHILADELPHIA
-what is the cheapest flight from BOSTON to BWI
-i would like to book a flight from CHARLOTTE to BALTIMORE on april 8
-please list the flights from ST. PAUL to KANSAS CITY on FRIDAY night that serve meal
-i would like to see the flights from DENVER to PHILADELPHIA
+what cheapest flight from BOSTON to BWI
+to book flight from CHARLOTTE to BALTIMORE on april 8
+flights from ST. PAUL to KANSAS CITY on FRIDAY night serve meal
+to flights from DENVER to PHILADELPHIA
 round trip fares from DENVER to PHILADELPHIA less than 1000 dollars
-what ground transportation is available in DALLAS
-what flights are there from DENVER to ATLANTA
-list round trip flights between BOSTON and OAKLAND using TW
-give me the flights with the fares from INDIANAPOLIS to ORLANDO on december 27
+what ground transportation available in DALLAS
+what flights from DENVER to ATLANTA
+round trip flights between BOSTON and OAKLAND using TW
+flights with fares from INDIANAPOLIS to ORLANDO on december 27
 earliest flight on AA from WASHINGTON to SAN FRANCISCO
-please list the flights from DENVER to PHOENIX
-show me the flights from DAL to all other airports
-show me flights from PITTSBURGH to PHILADELPHIA
-i would like a flight from BOSTON to ATLANTA
-show me the flights leaving from DAL
-show me flights from DENVER to PHILADELPHIA arriving after 2100
-show me all flights from TORONTO
-i'd like a flight from MONTREAL to SAN DIEGO for SUNDAY
-show me the flights from DAL
+flights from DENVER to PHOENIX
+flights from DAL to other airports
+flights from PITTSBURGH to PHILADELPHIA
+flight from BOSTON to ATLANTA
+flights leaving from DAL
+flights from DENVER to PHILADELPHIA arriving after 2100
+flights from TORONTO
+flight from MONTREAL to SAN DIEGO for SUNDAY
+flights from DAL
 round trip air fares from BALTIMORE to PHILADELPHIA less than 1000 dollars
-is there a flight on AA going from BOSTON to SAN FRANCISCO on june 28
-what's the cost of a FIRST from PHILADELPHIA to SAN FRANCISCO
-show me the ground transportation in DENVER
+flight on AA going from BOSTON to SAN FRANCISCO on june 28
+cost of FIRST from PHILADELPHIA to SAN FRANCISCO
+ground transportation in DENVER
 what flights available between PITTSBURGH and BALTIMORE on august 11
-i need to flight from ATLANTA to CHARLOTTE next MONDAY
-display all the flights from BALTIMORE to DALLAS which leave after 4pm
-may i see all the flights from WASHINGTON to SAN FRANCISCO please
-what are the flights from ORLANDO to CLEVELAND on US that arrive around 10pm
-please show me airlines with service from BOSTON to DENVER
-show me the flights from DENVER to SAN DIEGO leaving after 5pm
+to flight from ATLANTA to CHARLOTTE next MONDAY
+display flights from BALTIMORE to DALLAS leave after 4pm
+may flights from WASHINGTON to SAN FRANCISCO
+what flights from ORLANDO to CLEVELAND on US arrive around 10pm
+airlines with service from BOSTON to DENVER
+flights from DENVER to SAN DIEGO leaving after 5pm
 flights from LAS VEGAS to PHOENIX
-what's the cheapest one way ticket from BALTIMORE to ATLANTA
-show me all the flights from BURBANK to DENVER
-show me the flights from ATLANTA to WASHINGTON on WEDNESDAY night and THURSDAY morning
-what is the earliest flight from BOSTON to BWI that serves a snack
-is there a flight departing from SAN FRANCISCO and arriving in OAKLAND on november 7 in the evening
+cheapest one way ticket from BALTIMORE to ATLANTA
+flights from BURBANK to DENVER
+flights from ATLANTA to WASHINGTON on WEDNESDAY night and THURSDAY morning
+what earliest flight from BOSTON to BWI serves snack
+flight departing from SAN FRANCISCO and arriving in OAKLAND on november 7 in evening
 flights from CLEVELAND to MIAMI
-do you have any flights from PITTSBURGH to BOSTON on WEDNESDAY of next week in the morning
-what kind of airline is flight UA 281 from BOSTON to DENVER
-does AA flight from PITTSBURGH to ATLANTA
-what is the cheapest round trip fare from PITTSBURGH to ATLANTA
-okay i'd like a flight from BOSTON to SAN FRANCISCO that leaves before 8am
-please list the morning flights from ST. LOUIS to ST. PAUL
-does any airline have a jet flight between PITTSBURGH and BALTIMORE
-i would like to go from ATLANTA to DENVER on TUESDAY
-show me all flights with fares from PITTSBURGH to SAN FRANCISCO
+do any flights from PITTSBURGH to BOSTON on WEDNESDAY of next week in morning
+what kind of airline flight UA 281 from BOSTON to DENVER
+AA flight from PITTSBURGH to ATLANTA
+what cheapest round trip fare from PITTSBURGH to ATLANTA
+flight from BOSTON to SAN FRANCISCO leaves before 8am
+morning flights from ST. LOUIS to ST. PAUL
+any airline jet flight between PITTSBURGH and BALTIMORE
+to go from ATLANTA to DENVER on TUESDAY
+flights with fares from PITTSBURGH to SAN FRANCISCO
 ground transportation MINNEAPOLIS
-what does YN stand for
-flights between BOSTON and PHILADELPHIA that arrive after 2 o'clock and before 5 o'clock on TUESDAY
-what does LAX stand for
-is there a flight leaving from BOSTON to ATLANTA
+what YN stand for
+flights between BOSTON and PHILADELPHIA arrive after 2 and before 5 on TUESDAY
+what LAX stand for
+flight leaving from BOSTON to ATLANTA
 SAN FRANCISCO to DENVER
-i want to travel from ATLANTA to BALTIMORE early in the morning first flight
-what's the earliest flight leaving DENVER for PITTSBURGH
+to travel from ATLANTA to BALTIMORE early in morning first flight
+earliest flight leaving DENVER for PITTSBURGH
 what flights leave from PHOENIX to anywhere
-i need a THURSDAY flight from PITTSBURGH to BALTIMORE arriving in BALTIMORE before 9 o'clock
-when is the earliest flight from BOSTON to DENVER
-i would like a flight from BOSTON to SAN FRANCISCO on august 17
-show me the flights on TUESDAY morning from CHARLOTTE to BALTIMORE
-do you have any flights from CHICAGO to INDIANAPOLIS
-list all flights on SATURDAY from DALLAS to SAN FRANCISCO nonstop
-show flights from PITTSBURGH into SAN FRANCISCO
-which airlines serve ATLANTA
+THURSDAY flight from PITTSBURGH to BALTIMORE arriving in BALTIMORE before 9
+when earliest flight from BOSTON to DENVER
+flight from BOSTON to SAN FRANCISCO on august 17
+flights on TUESDAY morning from CHARLOTTE to BALTIMORE
+do any flights from CHICAGO to INDIANAPOLIS
+flights on SATURDAY from DALLAS to SAN FRANCISCO nonstop
+flights from PITTSBURGH into SAN FRANCISCO
+airlines serve ATLANTA
 from SAN FRANCISCO to DENVER
-give me the flights from MEMPHIS to CHARLOTTE
-show me flights going from BOSTON to DENVER arriving on WEDNESDAY morning
-what flights are there from MEMPHIS to LAS VEGAS
-what is the distance from LOS ANGELES international airport to LOS ANGELES
+flights from MEMPHIS to CHARLOTTE
+flights going from BOSTON to DENVER arriving on WEDNESDAY morning
+what flights from MEMPHIS to LAS VEGAS
+what distance from LOS ANGELES international airport to LOS ANGELES
 what flights go from PITTSBURGH to DENVER after 2pm
-i want information on flights from ATLANTA to WASHINGTON i want to leave WEDNESDAY after 4pm or THURSDAY before 9am
-show me the fare for US flight 3357 from PHILADELPHIA to BALTIMORE
-what is the cost of a FIRST from MILWAUKEE to SAN FRANCISCO round trip
-please list am flights leaving SAN FRANCISCO BOSTON
-what's the last flight leaving from PITTSBURGH to OAKLAND
+information on flights from ATLANTA to WASHINGTON to leave WEDNESDAY after 4pm or THURSDAY before 9am
+fare for US flight 3357 from PHILADELPHIA to BALTIMORE
+what cost of FIRST from MILWAUKEE to SAN FRANCISCO round trip
+am flights leaving SAN FRANCISCO BOSTON
+last flight leaving from PITTSBURGH to OAKLAND
 what flights go from DALLAS to DENVER leaving after 3pm
-show me all flights between SAN FRANCISCO and PHILADELPHIA on september 15 with departure time after 12pm
+flights between SAN FRANCISCO and PHILADELPHIA on september 15 with departure time after 12pm
 DENVER to PHILADELPHIA MONDAY
 what flights from NEWARK to LOS ANGELES on WEDNESDAY
-does EA flight between BOSTON and WASHINGTON
-tell me about flights from ATLANTA to CHARLOTTE next MONDAY
-list the nonstop flights from MIAMI to WASHINGTON
-list all flights from BALTIMORE to ATLANTA after noon THURSDAY nonstop
-show me the QX fare flights between ATLANTA and OAKLAND on DL
-i need information from DENVER to PITTSBURGH
-i would like the cheapest one way fare from DALLAS to DENVER
-what is SA
-what airlines have flights from BALTIMORE to SEATTLE
-what am flights are available from PITTSBURGH to BOSTON
-which airline has more BUSINESS flights than any other airline
+EA flight between BOSTON and WASHINGTON
+tell about flights from ATLANTA to CHARLOTTE next MONDAY
+nonstop flights from MIAMI to WASHINGTON
+flights from BALTIMORE to ATLANTA after noon THURSDAY nonstop
+QX fare flights between ATLANTA and OAKLAND on DL
+information from DENVER to PITTSBURGH
+cheapest one way fare from DALLAS to DENVER
+what SA
+what airlines flights from BALTIMORE to SEATTLE
+what am flights available from PITTSBURGH to BOSTON
+airline has more BUSINESS flights than any other airline
 what flights depart BALTIMORE on FRIDAY and arrive in SAN FRANCISCO by 8pm
 round trip fare from BALTIMORE to PHILADELPHIA less than 1000 dollars
-what airline is HP
-what is the cheapest fare from WASHINGTON to SAN FRANCISCO
-can you give me the evening flight on WEDNESDAY from WASHINGTON to ATLANTA again
+what airline HP
+what cheapest fare from WASHINGTON to SAN FRANCISCO
+can evening flight on WEDNESDAY from WASHINGTON to ATLANTA again
 NEWARK to CLEVELAND
-i need a flight on SUNDAY from LONG BEACH to COLUMBUS
-is there any ground transportation to the city in DALLAS
-what's the capacity of a 733
-show me the flights from DENVER to WESTCHESTER COUNTY
-tell me about flights from TORONTO to SALT LAKE CITY
-i need to know a list of flights from ATLANTA
-show flights from DENVER into SAN FRANCISCO
+flight on SUNDAY from LONG BEACH to COLUMBUS
+any ground transportation to city in DALLAS
+capacity of 733
+flights from DENVER to WESTCHESTER COUNTY
+tell about flights from TORONTO to SALT LAKE CITY
+to know of flights from ATLANTA
+flights from DENVER into SAN FRANCISCO
 what NW flights leave DENVER before noon
-what times on WEDNESDAY could i take a plane from DENVER to OAKLAND
-i need to flight from DALLAS to SAN FRANCISCO and be in SAN FRANCISCO by 4pm
-how many different flight classes are there
-please show me the return flights from MIAMI to NEW YORK
-give me the flights on TUESDAY from LOS ANGELES to PITTSBURGH
-is there a flight in the afternoon from PHILADELPHIA that arrives in the evening in DENVER
-show me the flights from DENVER to SAN FRANCISCO
-list all nonstop flights from NEWARK to TAMPA leaving on FRIDAY
-please list the flight times from NEWARK to BOSTON
-what's the cheapest way to flight between ATLANTA and DENVER
-show me one way flights from MILWAUKEE to ORLANDO
-please show me the flights from WASHINGTON to SAN FRANCISCO
-list flights from BOSTON to PITTSBURGH leaving early in the morning on august 6
-show me the flights next TUESDAY between PHILADELPHIA and SAN FRANCISCO
-please show me the PHILADELPHIA to DENVER SATURDAY flights again
-show me the flights from MIAMI to DENVER
-show flights from DENVER to OAKLAND arriving between 12 and 1 o'clock
-i would like an afternoon flight from WASHINGTON to BOSTON on august 20
-okay for now i would like information on a flight on april 27 from PITTSBURGH to ATLANTA leaving early in the morning about 8 o'clock
-i need a flight from ATLANTA to BALTIMORE nonstop arriving at 7pm please
-show me all the flights from DENVER to LAS VEGAS
-show morning flights from PHILADELPHIA to DALLAS
-list the flights arriving in BALTIMORE from BOSTON before 10am on august 3
-what's the latest flight from HOUSTON to DALLAS
-give me the flights from PITTSBURGH to LOS ANGELES THURSDAY evening
-list all flights from DENVER to PHILADELPHIA
-show me all the flights between OAKLAND and DENVER
-please list all the flights from BOSTON to DENVER which serve meal
-i want to flight from BOSTON to SAN FRANCISCO
-can you show me the flights from BALTIMORE to DALLAS
+what times on WEDNESDAY take plane from DENVER to OAKLAND
+to flight from DALLAS to SAN FRANCISCO and be in SAN FRANCISCO by 4pm
+how many different flight classes
+return flights from MIAMI to NEW YORK
+flights on TUESDAY from LOS ANGELES to PITTSBURGH
+flight in afternoon from PHILADELPHIA arrives in evening in DENVER
+flights from DENVER to SAN FRANCISCO
+nonstop flights from NEWARK to TAMPA leaving on FRIDAY
+flight times from NEWARK to BOSTON
+cheapest way to flight between ATLANTA and DENVER
+one way flights from MILWAUKEE to ORLANDO
+flights from WASHINGTON to SAN FRANCISCO
+flights from BOSTON to PITTSBURGH leaving early in morning on august 6
+flights next TUESDAY between PHILADELPHIA and SAN FRANCISCO
+PHILADELPHIA to DENVER SATURDAY flights again
+flights from MIAMI to DENVER
+flights from DENVER to OAKLAND arriving between 12 and 1
+an afternoon flight from WASHINGTON to BOSTON on august 20
+for information on flight on april 27 from PITTSBURGH to ATLANTA leaving early in morning about 8
+flight from ATLANTA to BALTIMORE nonstop arriving at 7pm
+flights from DENVER to LAS VEGAS
+morning flights from PHILADELPHIA to DALLAS
+flights arriving in BALTIMORE from BOSTON before 10am on august 3
+latest flight from HOUSTON to DALLAS
+flights from PITTSBURGH to LOS ANGELES THURSDAY evening
+flights from DENVER to PHILADELPHIA
+flights between OAKLAND and DENVER
+flights from BOSTON to DENVER serve meal
+to flight from BOSTON to SAN FRANCISCO
+can flights from BALTIMORE to DALLAS
 what flights from BOSTON arrive in DFW before 5pm
-show me all meal on flights from ATLANTA to WASHINGTON
-list all the landings at MKE
-what is airline NW
+meal on flights from ATLANTA to WASHINGTON
+landings at MKE
+what airline NW
 pm flights leaving SAN FRANCISCO arriving BOSTON
 ground transportation SAN FRANCISCO
-show me all flights direct only from BOSTON to SAN FRANCISCO or OAKLAND that arrive before 10am local time
-what are all flights to DENVER from PHILADELPHIA on SUNDAY
-which are the flights from DENVER to BALTIMORE or WASHINGTON
-i'm interested in a flight from PITTSBURGH to ATLANTA
-i'd like to have some information on a ticket from DENVER to ATLANTA with a stop in PITTSBURGH
-find the flights from BOSTON to SAN FRANCISCO leaving after 6pm
-what is the earliest flight from ONTARIO to MEMPHIS
-what flights from HOUSTON to MILWAUKEE on FRIDAY in the evening on AA
-what is the last flight leaving SAN FRANCISCO going to WASHINGTON on FRIDAY
-show me the fares from DALLAS to SAN FRANCISCO
-show me the flights leaving from ATLANTA for WASHINGTON on THURSDAY morning
+flights direct only from BOSTON to SAN FRANCISCO or OAKLAND arrive before 10am local time
+what flights to DENVER from PHILADELPHIA on SUNDAY
+flights from DENVER to BALTIMORE or WASHINGTON
+interested in flight from PITTSBURGH to ATLANTA
+to some information on ticket from DENVER to ATLANTA with stop in PITTSBURGH
+flights from BOSTON to SAN FRANCISCO leaving after 6pm
+what earliest flight from ONTARIO to MEMPHIS
+what flights from HOUSTON to MILWAUKEE on FRIDAY in evening on AA
+what last flight leaving SAN FRANCISCO going to WASHINGTON on FRIDAY
+fares from DALLAS to SAN FRANCISCO
+flights leaving from ATLANTA for WASHINGTON on THURSDAY morning
 cheapest round trip airfare from TACOMA to ORLANDO
-i need a flight from BALTIMORE to SEATTLE that stops in MINNEAPOLIS
-what are the flights from MEMPHIS to TACOMA
-what are the classes of service on DL
-please give me a list of all the flights between DALLAS and BALTIMORE and their cost
-i'm looking for a flight that goes from ONTARIO to westchester and stops in CHICAGO
-show me the earliest flight on WEDNESDAY from BALTIMORE to NEWARK
-i'm interested in a flight on AA from DALLAS to WASHINGTON
-what flights are there from MEMPHIS to LAS VEGAS
-list all flights leaving DENVER on CO on SUNDAY after 2134
-on april 15 i would like an early morning flight from BOSTON to ATLANTA
-display all flights from ST. PETERSBURG and CHARLOTTE flights should leave after noon arrive after 5pm nonstop flight
+flight from BALTIMORE to SEATTLE stops in MINNEAPOLIS
+what flights from MEMPHIS to TACOMA
+what classes of service on DL
+of flights between DALLAS and BALTIMORE and their cost
+looking for flight goes from ONTARIO to westchester and stops in CHICAGO
+earliest flight on WEDNESDAY from BALTIMORE to NEWARK
+interested in flight on AA from DALLAS to WASHINGTON
+what flights from MEMPHIS to LAS VEGAS
+flights leaving DENVER on CO on SUNDAY after 2134
+on april 15 an early morning flight from BOSTON to ATLANTA
+display flights from ST. PETERSBURG and CHARLOTTE flights should leave after noon arrive after 5pm nonstop flight
 US 201
-what flights go from BOSTON to PITTSBURGH after 1205 in the afternoon
-i want to flight from BOSTON to ATLANTA i would like the cheapest fare please
-are there any limousines or taxi services available at the BOSTON airport
-how much is a flight from WASHINGTON to MONTREAL
-i need a late flight from SAN FRANCISCO to BOSTON on WEDNESDAY
-please give me flights available from DENVER to PHILADELPHIA
-is breakfast served on flight UA 343 from BOSTON to DENVER COACH
-what flights are there from DALLAS to HOUSTON
-list the nonstop flights on WEDNESDAY june 2 from MIAMI to WASHINGTON arriving in WASHINGTON between 1115am and 1245pm
-may i flight from SAN FRANCISCO to BALTIMORE
-show me all the direct flights from ATLANTA to BALTIMORE
-what are the prices of the flights from ATLANTA to DALLAS in the morning
-can you tell me which flight from DALLAS to BALTIMORE has the cheapest fare
-all flights before 10am BOSTON DENVER
+what flights go from BOSTON to PITTSBURGH after 1205 in afternoon
+to flight from BOSTON to ATLANTA cheapest fare
+any limousines or taxi services available at BOSTON airport
+how much flight from WASHINGTON to MONTREAL
+late flight from SAN FRANCISCO to BOSTON on WEDNESDAY
+flights available from DENVER to PHILADELPHIA
+breakfast served on flight UA 343 from BOSTON to DENVER COACH
+what flights from DALLAS to HOUSTON
+nonstop flights on WEDNESDAY june 2 from MIAMI to WASHINGTON arriving in WASHINGTON between 1115am and 1245pm
+may flight from SAN FRANCISCO to BALTIMORE
+direct flights from ATLANTA to BALTIMORE
+what prices of flights from ATLANTA to DALLAS in morning
+can tell flight from DALLAS to BALTIMORE has cheapest fare
+flights before 10am BOSTON DENVER
 what flights leave WASHINGTON and arrive in SAN FRANCISCO on WEDNESDAY
-please list the FRIDAY afternoon flights from SAN JOSE to DALLAS on AA
-please list the FRIDAY night flights from ST. PAUL to KANSAS CITY
-i would like a list of flights from PITTSBURGH to DALLAS
-i'd like to know the earliest flight from BOSTON to ATLANTA
-what is the cost of the air taxi operation at PHILADELPHIA international airport
-i want to flight from DFW to PHILADELPHIA
-i'd like to get a flight leaving SAN FRANCISCO and arriving at PHILADELPHIA
-i want a flight from LONG BEACH to ST. LOUIS that stops in DALLAS
-i would like to book a flight for may 26 going from TAMPA to MILWAUKEE a direct flight if possible
+FRIDAY afternoon flights from SAN JOSE to DALLAS on AA
+FRIDAY night flights from ST. PAUL to KANSAS CITY
+of flights from PITTSBURGH to DALLAS
+to know earliest flight from BOSTON to ATLANTA
+what cost of air taxi operation at PHILADELPHIA international airport
+to flight from DFW to PHILADELPHIA
+to flight leaving SAN FRANCISCO and arriving at PHILADELPHIA
+flight from LONG BEACH to ST. LOUIS stops in DALLAS
+to book flight for may 26 going from TAMPA to MILWAUKEE direct flight if possible
 flights from PITTSBURGH to BALTIMORE between 10am and 2pm
-i want to flight from DENVER to SAN FRANCISCO with at least one stop
-okay i just want to know the cheapest fare from ATLANTA to BOSTON
-list DAILY flights from OAKLAND to BOSTON using DL
-i would like to flight from PITTSBURGH to ATLANTA on US
-list all DAILY flights between BOSTON and OAKLAND using DL
-i need a return flight from CHICAGO to KANSAS CITY leaving CHICAGO around 7 in the evening on the day following next WEDNESDAY
+to flight from DENVER to SAN FRANCISCO with at least one stop
+just to know cheapest fare from ATLANTA to BOSTON
+DAILY flights from OAKLAND to BOSTON using DL
+to flight from PITTSBURGH to ATLANTA on US
+DAILY flights between BOSTON and OAKLAND using DL
+return flight from CHICAGO to KANSAS CITY leaving CHICAGO around 7 in evening on day following next WEDNESDAY
 BOSTON ground transportation
-find me the latest flight leaving ATLANTA august 7 and arriving in DENVER
-i would like a flight from PHILADELPHIA to DALLAS arrive DALLAS about 12 noon
-what flights are there from NEWARK to SEATTLE on SATURDAY
-give me the flights from MIAMI to NEW YORK using FF
-show me all nonstop flights from SALT LAKE CITY to CINCINNATI
-what does fare code QO mean
-i'd like to go from DETROIT to SAN DIEGO on WEDNESDAY evening june 2
+latest flight leaving ATLANTA august 7 and arriving in DENVER
+flight from PHILADELPHIA to DALLAS arrive DALLAS about 12 noon
+what flights from NEWARK to SEATTLE on SATURDAY
+flights from MIAMI to NEW YORK using FF
+nonstop flights from SALT LAKE CITY to CINCINNATI
+what fare code QO mean
+to go from DETROIT to SAN DIEGO on WEDNESDAY evening june 2
 what kind of plane flies from BOSTON to PITTSBURGH after noon
-PHILADELPHIA to SAN FRANCISCO next week TUESDAY show the flights
-what are the fares for flights between ATLANTA and DFW provided by AA
+PHILADELPHIA to SAN FRANCISCO next week TUESDAY flights
+what fares for flights between ATLANTA and DFW provided by AA
 what airlines flight from PHILADELPHIA to SAN FRANCISCO
 flights from NEWARK to TAMPA on FRIDAY on US
-show me flights from PITTSBURGH to PHILADELPHIA
-between BOSTON and DENVER i'd like a flight that takes the least amount of stops to get to BOSTON
-show me the prices of FIRST on US round trip from CLEVELAND to MIAMI
-is there a flight between OAKLAND and BOSTON with a layover in DFW on TW
-i need to flight from PITTSBURGH to OAKLAND and depart in the afternoon
-show all flights and fares from DENVER to SAN FRANCISCO
+flights from PITTSBURGH to PHILADELPHIA
+between BOSTON and DENVER flight takes least amount of stops to to BOSTON
+prices of FIRST on US round trip from CLEVELAND to MIAMI
+flight between OAKLAND and BOSTON with layover in DFW on TW
+to flight from PITTSBURGH to OAKLAND and depart in afternoon
+flights and fares from DENVER to SAN FRANCISCO
 and flights leaving from ATLANTA to OAKLAND leaving after 5pm
-what are the dinner flights from INDIANAPOLIS to SAN DIEGO on WEDNESDAY may 12
-i would like a flight from WASHINGTON to BOSTON on august 20 at 324pm
-show me all the night fares between PHILADELPHIA and SAN FRANCISCO
-what is the latest flight from WASHINGTON to DENVER
-i like to see the information for flights from PITTSBURGH to SAN FRANCISCO leaving PITTSBURGH after 12pm
-what are the cheapest one way flights from DENVER to ATLANTA
-show me the flights from BOSTON to OAKLAND
-what flights are available from DENVER to PHILADELPHIA with layover in PITTSBURGH
-show me the flights from SAN FRANCISCO to PITTSBURGH on TUESDAY
-what is the meaning of meal code s
+what dinner flights from INDIANAPOLIS to SAN DIEGO on WEDNESDAY may 12
+flight from WASHINGTON to BOSTON on august 20 at 324pm
+night fares between PHILADELPHIA and SAN FRANCISCO
+what latest flight from WASHINGTON to DENVER
+to information for flights from PITTSBURGH to SAN FRANCISCO leaving PITTSBURGH after 12pm
+what cheapest one way flights from DENVER to ATLANTA
+flights from BOSTON to OAKLAND
+what flights available from DENVER to PHILADELPHIA with layover in PITTSBURGH
+flights from SAN FRANCISCO to PITTSBURGH on TUESDAY
+what meaning of meal code s
 what flights go from SEATTLE to BOSTON via MINNEAPOLIS
-show me airports near WASHINGTON
-i would like to see the flights from BALTIMORE to PHILADELPHIA again
-show me the cheapest fares from SAN DIEGO to MIAMI one way
-show me flights from PITTSBURGH to SAN FRANCISCO
-i would like to schedule a flight on AA from PHILADELPHIA to SAN FRANCISCO that makes a stop in DENVER
-i'm interested in a flight from PITTSBURGH to ATLANTA
-what are the flights from DENVER to OAKLAND
-what is the earliest flight on THURSDAY from ATLANTA to WASHINGTON
+airports near WASHINGTON
+to flights from BALTIMORE to PHILADELPHIA again
+cheapest fares from SAN DIEGO to MIAMI one way
+flights from PITTSBURGH to SAN FRANCISCO
+to schedule flight on AA from PHILADELPHIA to SAN FRANCISCO makes stop in DENVER
+interested in flight from PITTSBURGH to ATLANTA
+what flights from DENVER to OAKLAND
+what earliest flight on THURSDAY from ATLANTA to WASHINGTON
 what airline stands for HP
-what is the cost of a flight from BOSTON to SAN FRANCISCO
-show me the flights from BOSTON to SAN FRANCISCO that stop in ATLANTA
-i want to flight UA from BOSTON to DENVER
-is there a flight from CHARLOTTE to NEWARK on TUESDAY evening
-i'm trying to find a flight from KANSAS CITY to BURBANK on SATURDAY the 22
-show me all flights that go from NEW YORK to MIAMI on TUESDAY and go from MIAMI to NEW YORK on SUNDAY
-need an inexpensive flight from BALTIMORE to SAN FRANCISCO
-what is the ground transportation available in the city of DFW
+what cost of flight from BOSTON to SAN FRANCISCO
+flights from BOSTON to SAN FRANCISCO stop in ATLANTA
+to flight UA from BOSTON to DENVER
+flight from CHARLOTTE to NEWARK on TUESDAY evening
+trying to flight from KANSAS CITY to BURBANK on SATURDAY 22
+flights go from NEW YORK to MIAMI on TUESDAY and go from MIAMI to NEW YORK on SUNDAY
+an inexpensive flight from BALTIMORE to SAN FRANCISCO
+what ground transportation available in city of DFW
 how many flights come from DENVER to BALTIMORE on july 19
-what is the earliest nonstop flight from WASHINGTON to SAN FRANCISCO
+what earliest nonstop flight from WASHINGTON to SAN FRANCISCO
 information on AA from WASHINGTON to DFW
-i'd like to take a flight that begins in BOSTON and lands at DFW but i'd like to stop over in PHILADELPHIA
-can you tell me what aircraft is used for DL flight 1222 from KANSAS CITY to SALT LAKE CITY
-show all airlines with flights between DENVER and DALLAS
-also show me all flights from OAKLAND to DENVER
-list the round trip flights from ST. PAUL to SAN JOSE
-show me your flights from ATLANTA to DENVER on june 4
-which airlines flight from BWI to DFW
-i need a flight from PHILADELPHIA to DENVER
-is there a flight from NASHVILLE to HOUSTON in the evening tomorrow
-i need a flight from KANSAS CITY to CHICAGO that leaves WEDNESDAY and arrives in CHICAGO around 7pm
-show me flights from DENVER to BOSTON on TUESDAY
-what flights are available from BOSTON to WASHINGTON late MONDAY evening or early TUESDAY morning
-i'd like an afternoon flight from ATLANTA to SAN FRANCISCO with a layover in DENVER arriving i'd say about mealtime
-i want to flight BOSTON to SAN FRANCISCO
-which flights are between BOSTON and BWI
-how many FIRST flights does UA have today
+to take flight begins in BOSTON and lands at DFW but to stop over in PHILADELPHIA
+can tell what aircraft used for DL flight 1222 from KANSAS CITY to SALT LAKE CITY
+airlines with flights between DENVER and DALLAS
+flights from OAKLAND to DENVER
+round trip flights from ST. PAUL to SAN JOSE
+your flights from ATLANTA to DENVER on june 4
+airlines flight from BWI to DFW
+flight from PHILADELPHIA to DENVER
+flight from NASHVILLE to HOUSTON in evening tomorrow
+flight from KANSAS CITY to CHICAGO leaves WEDNESDAY and arrives in CHICAGO around 7pm
+flights from DENVER to BOSTON on TUESDAY
+what flights available from BOSTON to WASHINGTON late MONDAY evening or early TUESDAY morning
+an afternoon flight from ATLANTA to SAN FRANCISCO with layover in DENVER arriving say about mealtime
+to flight BOSTON to SAN FRANCISCO
+flights between BOSTON and BWI
+how many FIRST flights UA today
 flights from SAN FRANCISCO august one
-show me the flights from BOSTON to SAN FRANCISCO on UA
-which airlines flight between BOSTON and BALTIMORE
-what does US mean
-does YX serve INDIANAPOLIS
-i am interested in a flight on an aircraft number 727 i would like to go from WASHINGTON to ATLANTA
-does YX serve PHILADELPHIA
-which airlines serve DENVER
+flights from BOSTON to SAN FRANCISCO on UA
+airlines flight between BOSTON and BALTIMORE
+what US mean
+YX serve INDIANAPOLIS
+am interested in flight on an aircraft number 727 to go from WASHINGTON to ATLANTA
+YX serve PHILADELPHIA
+airlines serve DENVER
 airline and flight number from COLUMBUS to MINNEAPOLIS
-please list for me the flights on UA between BOSTON and DENVER
-list airlines serving between DENVER and SAN FRANCISCO
-please show me round trip tickets from DENVER to OAKLAND
-show me the type of aircraft that CP uses
-show me all flights from DALLAS to PITTSBURGH which leave on MONDAY after 8 o'clock am
-are there any flights from DENVER to PITTSBURGH connecting in ATLANTA
-show me flights from PITTSBURGH to PHILADELPHIA
-please list the shortest one stop flight from ONTARIO CALIFORNIA to ORLANDO
-give me flights from SAN FRANCISCO to BOSTON on THURSDAY afternoon
-list all flights going from BOSTON to ATLANTA on WEDNESDAY after 6 o'clock pm on WEDNESDAY
-are there any later flights than 810pm leaving from MILWAUKEE for TACOMA tomorrow evening
-i'd like a flight tomorrow from KANSAS CITY to NEWARK in the morning
-i'd like to see all flights from DENVER to PHILADELPHIA
-i need information for flights leaving BALTIMORE and arriving in ATLANTA
-what would be cost of a round trip from PITTSBURGH to SAN FRANCISCO
-show me the flight schedule from PITTSBURGH to SAN FRANCISCO
-list all flights from PITTSBURGH to PHILADELPHIA
+for flights on UA between BOSTON and DENVER
+airlines serving between DENVER and SAN FRANCISCO
+round trip tickets from DENVER to OAKLAND
+type of aircraft CP uses
+flights from DALLAS to PITTSBURGH leave on MONDAY after 8 am
+any flights from DENVER to PITTSBURGH connecting in ATLANTA
+flights from PITTSBURGH to PHILADELPHIA
+shortest one stop flight from ONTARIO CALIFORNIA to ORLANDO
+flights from SAN FRANCISCO to BOSTON on THURSDAY afternoon
+flights going from BOSTON to ATLANTA on WEDNESDAY after 6 pm on WEDNESDAY
+any later flights than 810pm leaving from MILWAUKEE for TACOMA tomorrow evening
+flight tomorrow from KANSAS CITY to NEWARK in morning
+to flights from DENVER to PHILADELPHIA
+information for flights leaving BALTIMORE and arriving in ATLANTA
+what be cost of round trip from PITTSBURGH to SAN FRANCISCO
+flight schedule from PITTSBURGH to SAN FRANCISCO
+flights from PITTSBURGH to PHILADELPHIA
 round trip HOUSTON to LAS VEGAS nonstop
-i'd like the lowest fare from DENVER to PITTSBURGH
-can you show me the available flights from BALTIMORE to DALLAS with economy
-show all connecting flights from PITTSBURGH to OAKLAND
-show me flights from NEW YORK to MIAMI
+lowest fare from DENVER to PITTSBURGH
+can available flights from BALTIMORE to DALLAS with economy
+connecting flights from PITTSBURGH to OAKLAND
+flights from NEW YORK to MIAMI
 what type of aircraft leaving PHILADELPHIA to DALLAS
 ground transportation ATLANTA
-what is the cost of flights from DENVER to SAN FRANCISCO
-does CO flight from DENVER to SAN FRANCISCO
+what cost of flights from DENVER to SAN FRANCISCO
+CO flight from DENVER to SAN FRANCISCO
 let's look at BALTIMORE to PHILADELPHIA again
-all flights and fares from PITTSBURGH to DALLAS round trip after 12pm less than 1100 dollars
-looking for a flight from CLEVELAND to DALLAS
-show me the flights from CHICAGO to INDIANAPOLIS
-list flights leaving DALLAS on SATURDAY and arriving in SAN FRANCISCO before 4pm
-what is the airfare from PITTSBURGH to ATLANTA
-i would like to flight from DENVER to PITTSBURGH on the cheapest flight possible
+flights and fares from PITTSBURGH to DALLAS round trip after 12pm less than 1100 dollars
+looking for flight from CLEVELAND to DALLAS
+flights from CHICAGO to INDIANAPOLIS
+flights leaving DALLAS on SATURDAY and arriving in SAN FRANCISCO before 4pm
+what airfare from PITTSBURGH to ATLANTA
+to flight from DENVER to PITTSBURGH on cheapest flight possible
 flights from KANSAS CITY to CLEVELAND
-yes i need a flight from DENVER to PITTSBURGH on july 7
-find me the latest return flight from ATLANTA to BOSTON on the same day
+flight from DENVER to PITTSBURGH on july 7
+latest return flight from ATLANTA to BOSTON on same day
 FIRST round trip airfare from INDIANAPOLIS to MEMPHIS
-show me fares for flights from MINNEAPOLIS to SEATTLE on july first 1991
-show me the flights from BOSTON to ATLANTA
-what's the cheapest one way flight from OAKLAND to BOSTON
-please show me again the FIRST from BALTIMORE to DALLAS
-all flights from SAN FRANCISCO to LOS ANGELES
-can i have a list of all the THURSDAY flights from BALTIMORE to ATLANTA that leave after 1pm
+fares for flights from MINNEAPOLIS to SEATTLE on july first 1991
+flights from BOSTON to ATLANTA
+cheapest one way flight from OAKLAND to BOSTON
+again FIRST from BALTIMORE to DALLAS
+flights from SAN FRANCISCO to LOS ANGELES
+can of THURSDAY flights from BALTIMORE to ATLANTA leave after 1pm
 what flights depart NEWARK for TAMPA on FRIDAY
-what are the flights on TUESDAY october first from ATLANTA to BALTIMORE
-list all flights from NASHVILLE to SEATTLE
-PHILADELPHIA to SAN FRANCISCO with one stop in DALLAS please
-what kind of ground transportation is available in DENVER
-on july 8 i'd like a flight from NEWARK to ORLANDO in the morning
-now i'd like information on flights from DENVER to SAN FRANCISCO
-which airlines flight from BOSTON to WASHINGTON
-what is EWR
-all flights from WASHINGTON to SAN FRANCISCO after 5pm on november 12 economy
-which airlines flight from BOSTON to WASHINGTON but layover in some other city
-show me all flights from PITTSBURGH to SAN FRANCISCO
-what is fare code H
-list all nonstop flights on SUNDAY from TAMPA to CHARLOTTE
-show me round trip fares from BALTIMORE to PHILADELPHIA
-i'd like a flight from BOSTON to SAN FRANCISCO leaving in the afternoon any time please
+what flights on TUESDAY october first from ATLANTA to BALTIMORE
+flights from NASHVILLE to SEATTLE
+PHILADELPHIA to SAN FRANCISCO with one stop in DALLAS
+what kind of ground transportation available in DENVER
+on july 8 flight from NEWARK to ORLANDO in morning
+information on flights from DENVER to SAN FRANCISCO
+airlines flight from BOSTON to WASHINGTON
+what EWR
+flights from WASHINGTON to SAN FRANCISCO after 5pm on november 12 economy
+airlines flight from BOSTON to WASHINGTON but layover in some other city
+flights from PITTSBURGH to SAN FRANCISCO
+what fare code H
+nonstop flights on SUNDAY from TAMPA to CHARLOTTE
+round trip fares from BALTIMORE to PHILADELPHIA
+flight from BOSTON to SAN FRANCISCO leaving in afternoon any time
 what flights arrive in SEATTLE from on CO
-show me all flights from MIAMI to NEW YORK
-what is fare code Q
-show me the flights from BALTIMORE to BOSTON
-find travel arrangements for a one way flight from SAN FRANCISCO to DALLAS
-how many flights does each airline have with FIRST
-what is the cheapest flight from DENVER to ATLANTA
-from PHOENIX to DENVER on a MONDAY
-i would like a flight from WASHINGTON to BOSTON flight 324 on august 20
-what ground transportation is available in SAN FRANCISCO
-show me flights arriving in BALTIMORE from PITTSBURGH between 4 and 5pm
-list all flights from DENVER to PHILADELPHIA
-list all the airlines flying between WASHINGTON and DENVER
-what aircraft has the largest seating capacity
-show me flights from BOSTON to PHILADELPHIA on a MONDAY
-i'd like to flight late tomorrow from MINNEAPOLIS to LONG BEACH
-list the fares of midway airlines flights from BOSTON to PHILADELPHIA
-i am interested in booking an early morning flight from DALLAS into HOUSTON and returning in the late evening
-i need 2 FIRST from DFW to SAN FRANCISCO
-may i have a listing of flights from MINNEAPOLIS to LONG BEACH CALIFORNIA on WEDNESDAY
-show me the cheapest flights from SAN FRANCISCO to PHILADELPHIA
-show me all flights from SAN FRANCISCO to PITTSBURGH on FRIDAY
-what is the available ground transportation between SAN FRANCISCO and downtown
-what flight do you have from DALLAS to DENVER on august 27 in the morning
-what is the earliest flight departing SAN FRANCISCO and arriving in OAKLAND on november 8
-list for me only the UA flights between DENVER and OAKLAND
-what ground transportation is there in ATLANTA
-i'd like information on a flight from DENVER to SAN FRANCISCO on UA air
-is there a flight from PHILADELPHIA to OAKLAND with a stop in DALLAS
-i would like a flight on CO on august 20 from WASHINGTON to PITTSBURGH
-please list the AA flights from HOUSTON to MILWAUKEE
+flights from MIAMI to NEW YORK
+what fare code Q
+flights from BALTIMORE to BOSTON
+travel arrangements for one way flight from SAN FRANCISCO to DALLAS
+how many flights each airline with FIRST
+what cheapest flight from DENVER to ATLANTA
+from PHOENIX to DENVER on MONDAY
+flight from WASHINGTON to BOSTON flight 324 on august 20
+what ground transportation available in SAN FRANCISCO
+flights arriving in BALTIMORE from PITTSBURGH between 4 and 5pm
+flights from DENVER to PHILADELPHIA
+airlines flying between WASHINGTON and DENVER
+what aircraft has largest seating capacity
+flights from BOSTON to PHILADELPHIA on MONDAY
+to flight late tomorrow from MINNEAPOLIS to LONG BEACH
+fares of midway airlines flights from BOSTON to PHILADELPHIA
+am interested in booking an early morning flight from DALLAS into HOUSTON and returning in late evening
+2 FIRST from DFW to SAN FRANCISCO
+may listing of flights from MINNEAPOLIS to LONG BEACH CALIFORNIA on WEDNESDAY
+cheapest flights from SAN FRANCISCO to PHILADELPHIA
+flights from SAN FRANCISCO to PITTSBURGH on FRIDAY
+what available ground transportation between SAN FRANCISCO and downtown
+what flight do from DALLAS to DENVER on august 27 in morning
+what earliest flight departing SAN FRANCISCO and arriving in OAKLAND on november 8
+for only UA flights between DENVER and OAKLAND
+what ground transportation in ATLANTA
+information on flight from DENVER to SAN FRANCISCO on UA air
+flight from PHILADELPHIA to OAKLAND with stop in DALLAS
+flight on CO on august 20 from WASHINGTON to PITTSBURGH
+AA flights from HOUSTON to MILWAUKEE
 flights from NEW YORK to MONTREAL
-what are the flights from CLEVELAND to INDIANAPOLIS for WEDNESDAY the 12
-list nonstop flights from BWI to OAKLAND that arrive between 445 and 515pm
-hi i want a round trip ticket to DALLAS
-what is the COACH economy night service from BOSTON to SAN FRANCISCO
-show me the NW flights from DETROIT to ST. PETERSBURG
-i would like to travel from DENVER to PITTSBURGH
-could you please give me information concerning AA a flight from WASHINGTON to PHILADELPHIA the earliest one in the morning AS possible
-i'm interested in flights from DENVER to PITTSBURGH
-what type of aircraft is used on AA flight 315
+what flights from CLEVELAND to INDIANAPOLIS for WEDNESDAY 12
+nonstop flights from BWI to OAKLAND arrive between 445 and 515pm
+round trip ticket to DALLAS
+what COACH economy night service from BOSTON to SAN FRANCISCO
+NW flights from DETROIT to ST. PETERSBURG
+to travel from DENVER to PITTSBURGH
+information concerning AA flight from WASHINGTON to PHILADELPHIA earliest one in morning AS possible
+interested in flights from DENVER to PITTSBURGH
+what type of aircraft used on AA flight 315
 what flights from DALLAS to HOUSTON on SUNDAY
-what is the cheapest flight from BOSTON to SAN FRANCISCO
-what is delta's schedule of morning flights to ATLANTA
-show me the cheapest fare in the database
-what is the cheapest flight from ATLANTA to BOSTON
-does DL stand for DL
-what is your earliest flight from BOSTON to WASHINGTON on august 27
-list all flights from BALTIMORE to PHILADELPHIA
-are there any UA flights between BOSTON and DALLAS
-what does the fare code Y mean
+what cheapest flight from BOSTON to SAN FRANCISCO
+what delta's schedule of morning flights to ATLANTA
+cheapest fare in database
+what cheapest flight from ATLANTA to BOSTON
+DL stand for DL
+what your earliest flight from BOSTON to WASHINGTON on august 27
+flights from BALTIMORE to PHILADELPHIA
+any UA flights between BOSTON and DALLAS
+what fare code Y mean
 AA flights from CHICAGO to LOS ANGELES morning
-i need a return flight from DENVER to ATLANTA
+return flight from DENVER to ATLANTA
 what flights from SALT LAKE CITY to LAS VEGAS
-what are the evening flights flying out of DALLAS and going to SAN FRANCISCO on AA
-list all flights on CO leaving DENVER on MONDAY
-what types of ground transportation are available in PHILADELPHIA
-show me the earliest flight from BOSTON to DENVER
+what evening flights flying out of DALLAS and going to SAN FRANCISCO on AA
+flights on CO leaving DENVER on MONDAY
+what types of ground transportation available in PHILADELPHIA
+earliest flight from BOSTON to DENVER
 what flights from LOS ANGELES to MINNEAPOLIS
 round trip fares from PITTSBURGH to PHILADELPHIA under 1000 dollars
-show me the FIRST from BOSTON to DENVER
-i would like to arrange a flight from DENVER to PITTSBURGH
-what city is MCO
-show me a list of the flights from SAN FRANCISCO to BOSTON
-show me the airlines that flight between TORONTO and DENVER
-and how can i get to the BOSTON airport from downtown BOSTON
-give me the flights from KANSAS CITY to CHICAGO leaving next WEDNESDAY arriving at CHICAGO at about 7pm
-i'd like information on all the flights from SAN FRANCISCO to PITTSBURGH on TUESDAY
-what are the flights between PITTSBURGH and BALTIMORE on august 10
-list all afternoon flights on UA from SAN FRANCISCO to DENVER
-what flight is available at noontime from BOSTON to WASHINGTON what flight is available around noontime from BOSTON to WASHINGTON
-show me all flights from BOSTON to DENVER which arrive in DENVER WEDNESDAY before noon
-please list flights from PHILADELPHIA to DALLAS stopping in ATLANTA
-what is the last flight from DALLAS to BOSTON in the evening
-show me information on ground transportation for DALLAS
+FIRST from BOSTON to DENVER
+to arrange flight from DENVER to PITTSBURGH
+what city MCO
+of flights from SAN FRANCISCO to BOSTON
+airlines flight between TORONTO and DENVER
+and how can to BOSTON airport from downtown BOSTON
+flights from KANSAS CITY to CHICAGO leaving next WEDNESDAY arriving at CHICAGO at about 7pm
+information on flights from SAN FRANCISCO to PITTSBURGH on TUESDAY
+what flights between PITTSBURGH and BALTIMORE on august 10
+afternoon flights on UA from SAN FRANCISCO to DENVER
+what flight available at noontime from BOSTON to WASHINGTON what flight available around noontime from BOSTON to WASHINGTON
+flights from BOSTON to DENVER arrive in DENVER WEDNESDAY before noon
+flights from PHILADELPHIA to DALLAS stopping in ATLANTA
+what last flight from DALLAS to BOSTON in evening
+information on ground transportation for DALLAS
 flights from CLEVELAND to MIAMI
-i'm requesting flight information on a flight from DENVER to SAN FRANCISCO on WEDNESDAY
-please list all UA flights between PITTSBURGH and BALTIMORE
-is there a red eye flight from SAN JOSE to NASHVILLE on WEDNESDAY the 19 of may
-how much is a round trip fare from MEMPHIS to SEATTLE
-what are the flights from BOSTON to ORLANDO
-what kind of ground transportation is available in LAS VEGAS
-show me the cheapest fare from DALLAS to BALTIMORE
-i want to flight from BALTIMORE to PHILADELPHIA
-list flights from PITTSBURGH to BALTIMORE
-show me all DAILY flights between MILWAUKEE and ORLANDO
-show me the flights arriving at DAL from other airports
-what is the earliest flight in the morning leaving BOSTON for BALTIMORE
-i'd like the cheapest cost fare to DFW from BOSTON
-show me the airlines from DAL
-when is the first flight in the morning from BOSTON to DENVER
-i would like to book an early morning flight from TAMPA to CHARLOTTE on april 6
-show me the flights that go from SAN DIEGO to NEWARK
-show me flights from SAN FRANCISCO to DENVER
+requesting flight information on flight from DENVER to SAN FRANCISCO on WEDNESDAY
+UA flights between PITTSBURGH and BALTIMORE
+red eye flight from SAN JOSE to NASHVILLE on WEDNESDAY 19 of may
+how much round trip fare from MEMPHIS to SEATTLE
+what flights from BOSTON to ORLANDO
+what kind of ground transportation available in LAS VEGAS
+cheapest fare from DALLAS to BALTIMORE
+to flight from BALTIMORE to PHILADELPHIA
+flights from PITTSBURGH to BALTIMORE
+DAILY flights between MILWAUKEE and ORLANDO
+flights arriving at DAL from other airports
+what earliest flight in morning leaving BOSTON for BALTIMORE
+cheapest cost fare to DFW from BOSTON
+airlines from DAL
+when first flight in morning from BOSTON to DENVER
+to book an early morning flight from TAMPA to CHARLOTTE on april 6
+flights go from SAN DIEGO to NEWARK
+flights from SAN FRANCISCO to DENVER
 flight between ST. PETERSBURG and CHARLOTTE
-show me the airfare from PITTSBURGH to SAN FRANCISCO
-give me information on flights from ATLANTA to WASHINGTON on WEDNESDAY after 4pm and THURSDAY before 9am
-show me the flights from SAN FRANCISCO to BOSTON
-what are all the flights on DL in and out of DFW
-could you find me the cheapest fare from BOSTON to SAN FRANCISCO
-do you have a flight from SAN FRANCISCO to ATLANTA around 8am
-can you tell me the time a flight would leave from ATLANTA to BOSTON in the afternoon
+airfare from PITTSBURGH to SAN FRANCISCO
+information on flights from ATLANTA to WASHINGTON on WEDNESDAY after 4pm and THURSDAY before 9am
+flights from SAN FRANCISCO to BOSTON
+what flights on DL in and out of DFW
+cheapest fare from BOSTON to SAN FRANCISCO
+do flight from SAN FRANCISCO to ATLANTA around 8am
+can tell time flight leave from ATLANTA to BOSTON in afternoon
 flights from INDIANAPOLIS to SEATTLE WASHINGTON
-what ground transportation is there in OAKLAND
-i need to flight from KANSAS CITY to CHICAGO leaving next WEDNESDAY and returning the following day
-i need a flight tomorrow from COLUMBUS to MINNEAPOLIS
-what is the last flight from DALLAS to BOSTON
-show me FIRST from DALLAS to BALTIMORE
-show flights from PITTSBURGH to OAKLAND on US with fare information
-what is the latest flight between WASHINGTON and BOSTON
-how many fares are there one way from TACOMA to MONTREAL
-please list the flights leaving from ST. LOUIS to ST. PAUL after 10am
-what ground transportation is available in ATLANTA
+what ground transportation in OAKLAND
+to flight from KANSAS CITY to CHICAGO leaving next WEDNESDAY and returning following day
+flight tomorrow from COLUMBUS to MINNEAPOLIS
+what last flight from DALLAS to BOSTON
+FIRST from DALLAS to BALTIMORE
+flights from PITTSBURGH to OAKLAND on US with fare information
+what latest flight between WASHINGTON and BOSTON
+how many fares one way from TACOMA to MONTREAL
+flights leaving from ST. LOUIS to ST. PAUL after 10am
+what ground transportation available in ATLANTA
 what flights from KANSAS CITY to ATLANTA arriving before 10am on MONDAY
-can you show me the cost of a flight to WASHINGTON from ATLANTA on THURSDAY morning
-show flights FIRST on AA between DALLAS and PHILADELPHIA
-please show me all round trip flights from NEW YORK to MIAMI
-i would like to travel from BOSTON to DENVER early in the morning
-show me fares from DALLAS to BALTIMORE that cost less than 300 dollars
-show me flights between NEW YORK and LAS VEGAS
-thanks and what's the last flight back from WASHINGTON to BOSTON
-which flights arrive in ST. LOUIS from ST. PAUL on THURSDAY morning
-list all flights from WASHINGTON to TAMPA
-hi i need to go from CINCINNATI to SAN JOSE CALIFORNIA after 6pm on SATURDAY
-give me the one way flights from PITTSBURGH to BOSTON
-i'd like to arrange a trip to BALTIMORE on january first
-list the nonstop flights on WEDNESDAY june 2 from MIAMI to BALTIMORE arriving in BALTIMORE between 1115am and 1245pm
-do you have any airlines that would stop at DENVER on the way from BALTIMORE to SAN FRANCISCO
-list the flights that leave from PHILADELPHIA to ATLANTA early THURSDAY morning before 8am
-i would like information on a flight between WASHINGTON and SAN FRANCISCO with a layover in DALLAS
-on MONDAY i would like to travel from CHARLOTTE to PHOENIX i would like to arrive in PHOENIX before 4pm
-i need a flight from NEW YORK to MONTREAL THURSDAY may 6
+can cost of flight to WASHINGTON from ATLANTA on THURSDAY morning
+flights FIRST on AA between DALLAS and PHILADELPHIA
+round trip flights from NEW YORK to MIAMI
+to travel from BOSTON to DENVER early in morning
+fares from DALLAS to BALTIMORE cost less than 300 dollars
+flights between NEW YORK and LAS VEGAS
+thanks and last flight back from WASHINGTON to BOSTON
+flights arrive in ST. LOUIS from ST. PAUL on THURSDAY morning
+flights from WASHINGTON to TAMPA
+to go from CINCINNATI to SAN JOSE CALIFORNIA after 6pm on SATURDAY
+one way flights from PITTSBURGH to BOSTON
+to arrange trip to BALTIMORE on january first
+nonstop flights on WEDNESDAY june 2 from MIAMI to BALTIMORE arriving in BALTIMORE between 1115am and 1245pm
+do any airlines stop at DENVER on way from BALTIMORE to SAN FRANCISCO
+flights leave from PHILADELPHIA to ATLANTA early THURSDAY morning before 8am
+information on flight between WASHINGTON and SAN FRANCISCO with layover in DALLAS
+on MONDAY to travel from CHARLOTTE to PHOENIX to arrive in PHOENIX before 4pm
+flight from NEW YORK to MONTREAL THURSDAY may 6
 DENVER to SAN FRANCISCO WEDNESDAY
 what flights from PITTSBURGH to NEWARK after 1020pm
-list evening flights tomorrow from PHOENIX to DETROIT
-show me DALLAS to BOSTON flights
+evening flights tomorrow from PHOENIX to DETROIT
+DALLAS to BOSTON flights
 on may four ATLANTA to DENVER DL flight 257
-i'd like to find the cheapest fare from ATLANTA to DALLAS
-what flights are there from BALTIMORE to SAN FRANCISCO
-can you list all flights that depart from ORLANDO to KANSAS CITY
+to cheapest fare from ATLANTA to DALLAS
+what flights from BALTIMORE to SAN FRANCISCO
+can flights depart from ORLANDO to KANSAS CITY
 flight from DENVER to SALT LAKE CITY
 flight from DENVER to DFW
-does CO flight from BOSTON to SAN FRANCISCO
-show me the flights into DAL
-do any of the CO flights from BOSTON to SAN FRANCISCO stop in DENVER
-show me cheap flights from BALTIMORE to DALLAS
-show me the flights from SAN DIEGO to WASHINGTON
-what are the flights from BOSTON to SAN FRANCISCO
-what flights are there on DL from BOSTON to DALLAS
+CO flight from BOSTON to SAN FRANCISCO
+flights into DAL
+do any of CO flights from BOSTON to SAN FRANCISCO stop in DENVER
+cheap flights from BALTIMORE to DALLAS
+flights from SAN DIEGO to WASHINGTON
+what flights from BOSTON to SAN FRANCISCO
+what flights on DL from BOSTON to DALLAS
 return from MIAMI to NEW YORK on FF on SATURDAY
 flight from MILWAUKEE to CHICAGO
-does YX serve CLEVELAND
+YX serve CLEVELAND
 what flights go from NEWARK to BOSTON after 5pm
-please list me the flights and their cost of all airlines flying from DENVER to BALTIMORE
-what flights leaving PITTSBURGH arrive in DENVER and leave after say 6 o'clock at night
+flights and their cost of airlines flying from DENVER to BALTIMORE
+what flights leaving PITTSBURGH arrive in DENVER and leave after say 6 at night
 train to NEWARK
 an early flight on WEDNESDAY morning from BALTIMORE to NEWARK
-what flights from DENVER to PITTSBURGH arrive before 8 in the morning
-show me flights leaving from BALTIMORE to DALLAS
-show me the flights from SAN FRANCISCO to BOSTON
-what flights are there from BALTIMORE to NEWARK
-i need a ticket from LOS ANGELES to CHARLOTTE that leaves early in the morning
-what is the fare going from ATLANTA to BOSTON one way on november 7
-does YX serve CHARLOTTE
-list flights between OAKLAND and SAN FRANCISCO
-what are the flights from BOSTON to BALTIMORE
-does any airline have an early afternoon flight from BOSTON to PITTSBURGH
+what flights from DENVER to PITTSBURGH arrive before 8 in morning
+flights leaving from BALTIMORE to DALLAS
+flights from SAN FRANCISCO to BOSTON
+what flights from BALTIMORE to NEWARK
+ticket from LOS ANGELES to CHARLOTTE leaves early in morning
+what fare going from ATLANTA to BOSTON one way on november 7
+YX serve CHARLOTTE
+flights between OAKLAND and SAN FRANCISCO
+what flights from BOSTON to BALTIMORE
+any airline an early afternoon flight from BOSTON to PITTSBURGH
 information on afternoon flights from PHILADELPHIA to DENVER
-show me the earliest flight from CLEVELAND to MEMPHIS
+earliest flight from CLEVELAND to MEMPHIS
 what flights leave PITTSBURGH for DENVER on MONDAY night
-show the flights from MILWAUKEE to ORLANDO on a THURSDAY morning
-i want a flight from SAN DIEGO to INDIANAPOLIS that leaves TUESDAY afternoon
-what is the ground transportation in SAN DIEGO
-show me the round trip tickets from BALTIMORE to ATLANTA
-i'd like to find a flight between DALLAS and PHILADELPHIA
-what is the cheapest one way fare from BOSTON to SAN FRANCISCO
-please show me flights from PITTSBURGH to BOSTON on SATURDAY morning after 8am
-which airline has the most arrivals in ATLANTA
-i would like to know the flights available from BOSTON to DENVER arriving in DENVER by 8 o'clock WEDNESDAY morning
-i want to go from DENVER to OAKLAND
-do i get a meal on the ATLANTA to BWI flight EA 210
-how much does it cost to flight one way from BOSTON to WASHINGTON FIRST
-what is restriction AP/57
-is there ground transportation from the BOSTON airport to downtown BOSTON
-give me the flights and fares on december 27 from ORLANDO to INDIANAPOLIS
-i would like to see the economy for PITTSBURGH to PHILADELPHIA
-listing of all FIRST flights from WASHINGTON to SAN FRANCISCO
-show me the last flight from DENVER to BOSTON
-i'd like the earliest flight information from BOSTON to SAN FRANCISCO with a meal
-what nonstop flights are available from OAKLAND to PITTSBURGH
-how do i get to PHILADELPHIA downtown from the airport
-list all the flights that takeoff from MKE
-what're the cheapest flights from NEW YORK to MIAMI
-please list all flights on NW and UA that go to DENVER
-what is the fare going one way on november 7 from DENVER to OAKLAND
-show me the flights from ATLANTA to PHILADELPHIA
-i would like to flight from SALT LAKE CITY back to ST. PETERSBURG on WEDNESDAY
-please list all flights on UA and NW which go to DENVER
-show me the flights from BALTIMORE to DALLAS
-i would like to book a flight going from TAMPA to SEATTLE on may 26 i would like to stop in MILWAUKEE on the way
+flights from MILWAUKEE to ORLANDO on THURSDAY morning
+flight from SAN DIEGO to INDIANAPOLIS leaves TUESDAY afternoon
+what ground transportation in SAN DIEGO
+round trip tickets from BALTIMORE to ATLANTA
+to flight between DALLAS and PHILADELPHIA
+what cheapest one way fare from BOSTON to SAN FRANCISCO
+flights from PITTSBURGH to BOSTON on SATURDAY morning after 8am
+airline has most arrivals in ATLANTA
+to know flights available from BOSTON to DENVER arriving in DENVER by 8 WEDNESDAY morning
+to go from DENVER to OAKLAND
+do meal on ATLANTA to BWI flight EA 210
+how much it cost to flight one way from BOSTON to WASHINGTON FIRST
+what restriction AP/57
+ground transportation from BOSTON airport to downtown BOSTON
+flights and fares on december 27 from ORLANDO to INDIANAPOLIS
+to economy for PITTSBURGH to PHILADELPHIA
+listing of FIRST flights from WASHINGTON to SAN FRANCISCO
+last flight from DENVER to BOSTON
+earliest flight information from BOSTON to SAN FRANCISCO with meal
+what nonstop flights available from OAKLAND to PITTSBURGH
+how do to PHILADELPHIA downtown from airport
+flights takeoff from MKE
+what're cheapest flights from NEW YORK to MIAMI
+flights on NW and UA go to DENVER
+what fare going one way on november 7 from DENVER to OAKLAND
+flights from ATLANTA to PHILADELPHIA
+to flight from SALT LAKE CITY back to ST. PETERSBURG on WEDNESDAY
+flights on UA and NW go to DENVER
+flights from BALTIMORE to DALLAS
+to book flight going from TAMPA to SEATTLE on may 26 to stop in MILWAUKEE on way
 what flights go from SAN FRANCISCO to WASHINGTON via INDIANAPOLIS
 flight from DENVER to PHILADELPHIA on CO
-what is the schedule of flights from BOSTON to DENVER next MONDAY
-what is the cheapest flight from BOSTON to ATLANTA
-show flights FIRST on AA from PHILADELPHIA to DFW
-list flights from DENVER to PHILADELPHIA
-show me the flights on TW from ATLANTA in the morning
-which transcontinental flight on UA from BOSTON to DALLAS makes a layover in PHILADELPHIA
-list DAILY flights from BOSTON to OAKLAND using UA
-show me all flights from INDIANAPOLIS to MONTREAL
-show me US flights from SAN FRANCISCO to PITTSBURGH on TUESDAY
+what schedule of flights from BOSTON to DENVER next MONDAY
+what cheapest flight from BOSTON to ATLANTA
+flights FIRST on AA from PHILADELPHIA to DFW
+flights from DENVER to PHILADELPHIA
+flights on TW from ATLANTA in morning
+transcontinental flight on UA from BOSTON to DALLAS makes layover in PHILADELPHIA
+DAILY flights from BOSTON to OAKLAND using UA
+flights from INDIANAPOLIS to MONTREAL
+US flights from SAN FRANCISCO to PITTSBURGH on TUESDAY
 what airlines flight from NEW YORK to MILWAUKEE to LOS ANGELES
-how can i get from the DEN to downtown
-i need one FIRST from DFW to SAN FRANCISCO
-show me the flights from DALLAS to SAN FRANCISCO
+how can from DEN to downtown
+one FIRST from DFW to SAN FRANCISCO
+flights from DALLAS to SAN FRANCISCO
 what flights from ST. PAUL to KANSAS CITY on FRIDAY with dinner served
-show me all round trip flights between HOUSTON and LAS VEGAS
-i need to catch an evening flight from BOSTON to PHILADELPHIA on august first
-can you list all flights from WASHINGTON to TORONTO
+round trip flights between HOUSTON and LAS VEGAS
+to catch an evening flight from BOSTON to PHILADELPHIA on august first
+can flights from WASHINGTON to TORONTO
 BALTIMORE to PHILADELPHIA WEDNESDAY
-please tell me which airline has the most departures from ATLANTA
-please list the morning flights from PHILADELPHIA to TORONTO
-what flights are there from NASHVILLE to HOUSTON tomorrow evening that serve dinner
-i'd like information on BOSTON to WASHINGTON
-what is the latest flight leaving NEWARK for LOS ANGELES WEDNESDAY
-what's the earliest flight i can get between BOSTON and DALLAS
-show me the round trip tickets from BALTIMORE to ATLANTA
-give me a flight from CHARLOTTE to BALTIMORE on TUESDAY morning
+tell airline has most departures from ATLANTA
+morning flights from PHILADELPHIA to TORONTO
+what flights from NASHVILLE to HOUSTON tomorrow evening serve dinner
+information on BOSTON to WASHINGTON
+what latest flight leaving NEWARK for LOS ANGELES WEDNESDAY
+earliest flight can between BOSTON and DALLAS
+round trip tickets from BALTIMORE to ATLANTA
+flight from CHARLOTTE to BALTIMORE on TUESDAY morning
 flights from PHILADELPHIA to OAKLAND
-what are the UA flights between BALTIMORE and DENVER on august 12
-show flights from NEW YORK to LAS VEGAS
-i would like a flight between DENVER and SAN FRANCISCO leaving from DENVER in the afternoon and arriving at 5pm it must be a nonstop flight
-what is the fare from ATLANTA to BOSTON on COACH one way
-show me all the flights to BALTIMORE after 6 o'clock pm
-what is the earliest flight that EA has between BOSTON and WASHINGTON
-show me one way flights from MILWAUKEE to ORLANDO WEDNESDAY
-list all US flights from MIAMI to CLEVELAND leaving on SUNDAY afternoon
+what UA flights between BALTIMORE and DENVER on august 12
+flights from NEW YORK to LAS VEGAS
+flight between DENVER and SAN FRANCISCO leaving from DENVER in afternoon and arriving at 5pm it must be nonstop flight
+what fare from ATLANTA to BOSTON on COACH one way
+flights to BALTIMORE after 6 pm
+what earliest flight EA has between BOSTON and WASHINGTON
+one way flights from MILWAUKEE to ORLANDO WEDNESDAY
+US flights from MIAMI to CLEVELAND leaving on SUNDAY afternoon
 DALLAS to OAKLAND MONDAY
-show me the flights from DENVER to ATLANTA on FRIDAY
-what are all flights from SAN FRANCISCO to PHILADELPHIA with stops in PITTSBURGH
-list the flights on WEDNESDAY from DENVER to WASHINGTON arriving in WASHINGTON between 1115am and 1245pm
-show fares and flights from DENVER to OAKLAND
-what are the fares for flights between ATLANTA and DFW provided by DL
-i would like information on ground transportation in ATLANTA from the airport to the city in the morning around 9am
-i would like to book on DL their earliest possible flight from WASHINGTON to SAN FRANCISCO
-show me flights from TAMPA to ST. LOUIS
-find all flights from PHILADELPHIA to DALLAS stopping in ATLANTA
+flights from DENVER to ATLANTA on FRIDAY
+what flights from SAN FRANCISCO to PHILADELPHIA with stops in PITTSBURGH
+flights on WEDNESDAY from DENVER to WASHINGTON arriving in WASHINGTON between 1115am and 1245pm
+fares and flights from DENVER to OAKLAND
+what fares for flights between ATLANTA and DFW provided by DL
+information on ground transportation in ATLANTA from airport to city in morning around 9am
+to book on DL their earliest possible flight from WASHINGTON to SAN FRANCISCO
+flights from TAMPA to ST. LOUIS
+flights from PHILADELPHIA to DALLAS stopping in ATLANTA
 flight from LONG BEACH to COLUMBUS on 27
-when are the AA flights from PHOENIX to MILWAUKEE
-show me flights from ATLANTA to WASHINGTON on WEDNESDAY evening
-i'd like to know the cost of FIRST seats from ATLANTA to SAN FRANCISCO
-show me the fares for a FIRST from BALTIMORE to DALLAS
+when AA flights from PHOENIX to MILWAUKEE
+flights from ATLANTA to WASHINGTON on WEDNESDAY evening
+to know cost of FIRST seats from ATLANTA to SAN FRANCISCO
+fares for FIRST from BALTIMORE to DALLAS
 information on flights from PHILADELPHIA to SAN FRANCISCO
-show me all flights from MONTREAL
-i would like the cheapest flight from BOSTON to SAN FRANCISCO
-DL 296 DENVER to PHILADELPHIA what is the fare
-flights from ATLANTA to DALLAS in the afternoon
-list all flights from BALTIMORE to SAN FRANCISCO on FRIDAY
-list all the landings at MKE
-is there a direct flight from DENVER to PITTSBURGH in the morning of august 31 that is nonstop
-i'd like a flight from INDIANAPOLIS to TORONTO leaving THURSDAY morning nonstop
-show me a list of flights from DENVER to SAN FRANCISCO for september first 1991
-list UA flights from DENVER to SAN FRANCISCO on WEDNESDAY
-all fares and flights from PHILADELPHIA
+flights from MONTREAL
+cheapest flight from BOSTON to SAN FRANCISCO
+DL 296 DENVER to PHILADELPHIA what fare
+flights from ATLANTA to DALLAS in afternoon
+flights from BALTIMORE to SAN FRANCISCO on FRIDAY
+landings at MKE
+direct flight from DENVER to PITTSBURGH in morning of august 31 nonstop
+flight from INDIANAPOLIS to TORONTO leaving THURSDAY morning nonstop
+of flights from DENVER to SAN FRANCISCO for september first 1991
+UA flights from DENVER to SAN FRANCISCO on WEDNESDAY
+fares and flights from PHILADELPHIA
 in flight meal OAKLAND to PHILADELPHIA SATURDAY
-i want to flight from PHILADELPHIA to DALLAS and make a layover in ATLANTA
-what is the flight schedule of the F28 from PITTSBURGH to BALTIMORE
-what is the distance from LGA to NEW YORK's downtown
-what is the cheapest one way fare from BOSTON to BALTIMORE
-hi i'd like a flight from TAMPA to MONTREAL
-what is the cheapest flight from BALTIMORE to SAN FRANCISCO
-list all UA flights from BOSTON to SAN FRANCISCO
-what is the earliest flight from MEMPHIS to CINCINNATI on june 30
-show me the flights from PITTSBURGH to PHILADELPHIA
-i want to make a trip from WASHINGTON to SAN FRANCISCO
-i will be staying downtown in ATLANTA for two hours could you tell me what the ground transportation is available
-i would like to flight from PITTSBURGH to SAN FRANCISCO
-i want to flight from MIAMI to CHICAGO on AA and arrive at around 5 o'clock in the afternoon show me all flights
-all NW and UA flights with layover in DENVER
-can you tell me about flights from SAN JOSE to NASHVILLE on SATURDAY afternoon
-what flights are there from BOSTON to DENVER on MONDAY morning
-are there any thrift economy flights to SAN FRANCISCO from BOSTON
-what is the cost of a one way fare from ATLANTA to BOSTON
+to flight from PHILADELPHIA to DALLAS and make layover in ATLANTA
+what flight schedule of F28 from PITTSBURGH to BALTIMORE
+what distance from LGA to NEW YORK's downtown
+what cheapest one way fare from BOSTON to BALTIMORE
+flight from TAMPA to MONTREAL
+what cheapest flight from BALTIMORE to SAN FRANCISCO
+UA flights from BOSTON to SAN FRANCISCO
+what earliest flight from MEMPHIS to CINCINNATI on june 30
+flights from PITTSBURGH to PHILADELPHIA
+to make trip from WASHINGTON to SAN FRANCISCO
+will be staying downtown in ATLANTA for two hours tell what ground transportation available
+to flight from PITTSBURGH to SAN FRANCISCO
+to flight from MIAMI to CHICAGO on AA and arrive at around 5 in afternoon flights
+NW and UA flights with layover in DENVER
+can tell about flights from SAN JOSE to NASHVILLE on SATURDAY afternoon
+what flights from BOSTON to DENVER on MONDAY morning
+any thrift economy flights to SAN FRANCISCO from BOSTON
+what cost of one way fare from ATLANTA to BOSTON
 FIRST round trip airfare from INDIANAPOLIS to MEMPHIS
-what is the transportation time from the airport to BOSTON
-all flights from BOSTON to WASHINGTON on november 11
-i want to leave PHILADELPHIA and arrive in ATLANTA on a THURSDAY
+what transportation time from airport to BOSTON
+flights from BOSTON to WASHINGTON on november 11
+to leave PHILADELPHIA and arrive in ATLANTA on THURSDAY
 what flights leave from PHOENIX
-i would like information on flights leaving early MONDAY morning from ATLANTA to BALTIMORE
-okay let's see do you have a flight on DL from ATLANTA to BOSTON
-on UA flying from DENVER to SAN FRANCISCO before 10am what type of aircraft is used
-what flights leave ATLANTA at about 3 in the afternoon and arrive in SAN FRANCISCO
-give me return flights from PHILADELPHIA to SAN FRANCISCO for december 3
-show all flights from MIAMI to JFK
-what cost is a limousine service in BOSTON
-show me the flights from BALTIMORE to OAKLAND
-what is the cheapest way to flight from DENVER to OAKLAND
-i would like to travel from BOSTON to DENVER
-list all TUESDAY night flights from BOSTON to DENVER
-okay i'm looking for a flight from TAMPA to ST. LOUIS leaving before 10am any day
-show me all flights from DALLAS to PITTSBURGH on MONDAY which leave after 8 o'clock pm
-what ground transportation is there in DALLAS
-can you show me what fares are available from OAKLAND to DALLAS on december 16 one way only
-list nonstop flights from LOS ANGELES to PITTSBURGH which arrive on MONDAY after 5pm
-what are all the flights available between PITTSBURGH and DFW
-in NEW YORK i'll need to rent a car
-what is the cheapest fare i can get from DALLAS to DENVER
-list all flights at MKE
-show me all flights from BOSTON to DFW both direct and connecting that arrive before noon
-what does fare code Y mean
-show me one way flights from TAMPA to ST. LOUIS departing before 10am FIRST
-show me flights DENVER to WASHINGTON on THURSDAY
-may i please see airlines and flight numbers from NEW YORK to TORONTO on the same date june 17 also arriving in TORONTO before noon thank you
-what's the earliest flight from ATLANTA to BOSTON
+information on flights leaving early MONDAY morning from ATLANTA to BALTIMORE
+let's do flight on DL from ATLANTA to BOSTON
+on UA flying from DENVER to SAN FRANCISCO before 10am what type of aircraft used
+what flights leave ATLANTA at about 3 in afternoon and arrive in SAN FRANCISCO
+return flights from PHILADELPHIA to SAN FRANCISCO for december 3
+flights from MIAMI to JFK
+what cost limousine service in BOSTON
+flights from BALTIMORE to OAKLAND
+what cheapest way to flight from DENVER to OAKLAND
+to travel from BOSTON to DENVER
+TUESDAY night flights from BOSTON to DENVER
+looking for flight from TAMPA to ST. LOUIS leaving before 10am any day
+flights from DALLAS to PITTSBURGH on MONDAY leave after 8 pm
+what ground transportation in DALLAS
+can what fares available from OAKLAND to DALLAS on december 16 one way only
+nonstop flights from LOS ANGELES to PITTSBURGH arrive on MONDAY after 5pm
+what flights available between PITTSBURGH and DFW
+in NEW YORK to RENTAL CAR
+what cheapest fare can from DALLAS to DENVER
+flights at MKE
+flights from BOSTON to DFW both direct and connecting arrive before noon
+what fare code Y mean
+one way flights from TAMPA to ST. LOUIS departing before 10am FIRST
+flights DENVER to WASHINGTON on THURSDAY
+may airlines and flight numbers from NEW YORK to TORONTO on same date june 17 arriving in TORONTO before noon
+earliest flight from ATLANTA to BOSTON
 describe PIT
 flights to BALTIMORE
-i'd like to book a flight from COLUMBUS to NASHVILLE please
-please list all flights on UA out of DENVER before noon
-on april 8 i would like to book a flight from CHARLOTTE to BALTIMORE
-i would like to book a flight that goes from MEMPHIS to LAS VEGAS
-give me morning flights from ATLANTA to BALTIMORE
-show me what fare codes symbols stand for
-find the cheapest one way fare from PITTSBURGH to SAN FRANCISCO
-what DL flights are available from PITTSBURGH to SAN FRANCISCO
-i need a flight tomorrow from ATLANTA to BALTIMORE
-show me all flights from PITTSBURGH to BOSTON both direct and connecting that depart PITTSBURGH after 7pm
-show me the flights from PITTSBURGH to BALTIMORE arriving in BALTIMORE on june 14
-i would like to book a flight from BALTIMORE to SAN FRANCISCO before 12 o'clock on TUESDAY
-please list all NW flights into DENVER
-show departures and arrivals in ATLANTA for AA
-what's the earliest flight from SAN FRANCISCO to BOSTON
-what is MCO
-show me all the prices of flights from BALTIMORE to DALLAS
-list the flights arriving in BALTIMORE from DENVER on august 3
-i would like an AA flight from TORONTO to SAN DIEGO with a layover in DENVER please
-i need a flight from LOS ANGELES to CHARLOTTE today
-list all nonstop flights from LOS ANGELES to PITTSBURGH before 5pm on TUESDAY
-give me a flight from BALTIMORE to NEWARK that arrives earliest
-find travel arrangements for a round trip flight from DALLAS to PITTSBURGH
+to book flight from COLUMBUS to NASHVILLE
+flights on UA out of DENVER before noon
+on april 8 to book flight from CHARLOTTE to BALTIMORE
+to book flight goes from MEMPHIS to LAS VEGAS
+morning flights from ATLANTA to BALTIMORE
+what fare codes symbols stand for
+cheapest one way fare from PITTSBURGH to SAN FRANCISCO
+what DL flights available from PITTSBURGH to SAN FRANCISCO
+flight tomorrow from ATLANTA to BALTIMORE
+flights from PITTSBURGH to BOSTON both direct and connecting depart PITTSBURGH after 7pm
+flights from PITTSBURGH to BALTIMORE arriving in BALTIMORE on june 14
+to book flight from BALTIMORE to SAN FRANCISCO before 12 on TUESDAY
+NW flights into DENVER
+departures and arrivals in ATLANTA for AA
+earliest flight from SAN FRANCISCO to BOSTON
+what MCO
+prices of flights from BALTIMORE to DALLAS
+flights arriving in BALTIMORE from DENVER on august 3
+an AA flight from TORONTO to SAN DIEGO with layover in DENVER
+flight from LOS ANGELES to CHARLOTTE today
+nonstop flights from LOS ANGELES to PITTSBURGH before 5pm on TUESDAY
+flight from BALTIMORE to NEWARK arrives earliest
+travel arrangements for round trip flight from DALLAS to PITTSBURGH
 round trip flights from SALT LAKE CITY to CINCINNATI nonstop flights if possible
-what is the cheapest one way ticket from DENVER to PITTSBURGH
-what ground transport is available in BALTIMORE
-show me the flights from OAKLAND to DENVER
+what cheapest one way ticket from DENVER to PITTSBURGH
+what ground transport available in BALTIMORE
+flights from OAKLAND to DENVER
 how many flights go from DALLAS to BALTIMORE on july 19
-show me flights from BOSTON to SAN FRANCISCO
-what are the afternoon flights for DENVER to SAN FRANCISCO
-what ground transportation is there from the airport in ATLANTA to downtown
-show me the cheapest one way fares from SAN DIEGO to MIAMI
-hello i'm trying to find a flight that goes from PITTSBURGH to DENVER after 2pm
-what is UA
-do you have a DL flight to SAN FRANCISCO from DENVER on august 30 in the early morning
-i'd like the cheapest one way fare from BOSTON to SAN FRANCISCO
-show me flights from WASHINGTON to SAN FRANCISCO with a layover in DENVER
-get me a FIRST flight on AA to SAN FRANCISCO on TUESDAY next week
+flights from BOSTON to SAN FRANCISCO
+what afternoon flights for DENVER to SAN FRANCISCO
+what ground transportation from airport in ATLANTA to downtown
+cheapest one way fares from SAN DIEGO to MIAMI
+hello trying to flight goes from PITTSBURGH to DENVER after 2pm
+what UA
+do DL flight to SAN FRANCISCO from DENVER on august 30 in early morning
+cheapest one way fare from BOSTON to SAN FRANCISCO
+flights from WASHINGTON to SAN FRANCISCO with layover in DENVER
+FIRST flight on AA to SAN FRANCISCO on TUESDAY next week
 MINNEAPOLIS to PHOENIX on MONDAY
 what flights go from CHICAGO to SEATTLE on CO on SATURDAY
-i'd like to make a round trip from LOS ANGELES to NEWARK by way of CHARLOTTE
-show me ground transportation in WASHINGTON
-please show me the flights from BOSTON to SAN FRANCISCO
-i would like a flight between BOSTON and ATLANTA on any day at one in the afternoon
-how much does it cost to rent a car in TACOMA
-on CO flight 1765 from BOSTON to SAN FRANCISCO what type of meal is served
-and what are the flights from NASHVILLE to TACOMA on the 18 again
-what flights are there on WEDNESDAY evening from DENVER to SFO
-tell me the last flight from ATLANTA to PHILADELPHIA
-all flights from CHARLOTTE to anywhere on US around 1pm
-does EA have an early afternoon flight from BOSTON to SAN FRANCISCO
-what flights are there from NEWARK to SEATTLE on SATURDAY
-i need a flight from PHOENIX to DETROIT leaving MONDAY evening
-what is the round trip thrift fare on US from BOSTON to SAN FRANCISCO
-i'd like the cheapest one way fare from BOSTON to ATLANTA please
-give me the round trip COACH fare from BALTIMORE to DALLAS
-what's the name of the DEN
-show me FIRST flights one way TAMPA to ST. LOUIS
-please show me flights from PHILADELPHIA to BALTIMORE between 10am and 2pm
-show me the airlines that flight from TORONTO to BOSTON
-i am interested in a flight on AA from DALLAS to WASHINGTON
-are there any early flights from ATLANTA to WASHINGTON on THURSDAY mornings
-please list information regarding SAN FRANCISCO airport
-list nonstop flights from BURBANK to DENVER arriving by 6pm
-show me all round trips from NEW YORK to MIAMI leaving on TUESDAY
-i need to go from BOSTON to DENVER and then to SAN FRANCISCO
-show me the round trip tickets from BALTIMORE to DALLAS
-show me all flights from SAN FRANCISCO to ATLANTA
-show me all flights from PITTSBURGH to BALTIMORE tomorrow
-show me the flights that go from ATLANTA to WASHINGTON on THURSDAY mornings
-i would like a flight from PHILADELPHIA to SAN FRANCISCO
-what flights are available from BOSTON to DENVER on WEDNESDAY in early morning
-show me all flights from SAN FRANCISCO to PITTSBURGH
-may i have a listing of flights from LONG BEACH CALIFORNIA to COLUMBUS on WEDNESDAY
-what does code QW mean
-what is the most expensive flight from DALLAS to BALTIMORE
-show me the flights from PHILADELPHIA to BALTIMORE
+to make round trip from LOS ANGELES to NEWARK by way of CHARLOTTE
+ground transportation in WASHINGTON
+flights from BOSTON to SAN FRANCISCO
+flight between BOSTON and ATLANTA on any day at one in afternoon
+how much it cost to RENTAL CAR in TACOMA
+on CO flight 1765 from BOSTON to SAN FRANCISCO what type of meal served
+and what flights from NASHVILLE to TACOMA on 18 again
+what flights on WEDNESDAY evening from DENVER to SFO
+tell last flight from ATLANTA to PHILADELPHIA
+flights from CHARLOTTE to anywhere on US around 1pm
+EA an early afternoon flight from BOSTON to SAN FRANCISCO
+what flights from NEWARK to SEATTLE on SATURDAY
+flight from PHOENIX to DETROIT leaving MONDAY evening
+what round trip thrift fare on US from BOSTON to SAN FRANCISCO
+cheapest one way fare from BOSTON to ATLANTA
+round trip COACH fare from BALTIMORE to DALLAS
+name of DEN
+FIRST flights one way TAMPA to ST. LOUIS
+flights from PHILADELPHIA to BALTIMORE between 10am and 2pm
+airlines flight from TORONTO to BOSTON
+am interested in flight on AA from DALLAS to WASHINGTON
+any early flights from ATLANTA to WASHINGTON on THURSDAY mornings
+information regarding SAN FRANCISCO airport
+nonstop flights from BURBANK to DENVER arriving by 6pm
+round trips from NEW YORK to MIAMI leaving on TUESDAY
+to go from BOSTON to DENVER and then to SAN FRANCISCO
+round trip tickets from BALTIMORE to DALLAS
+flights from SAN FRANCISCO to ATLANTA
+flights from PITTSBURGH to BALTIMORE tomorrow
+flights go from ATLANTA to WASHINGTON on THURSDAY mornings
+flight from PHILADELPHIA to SAN FRANCISCO
+what flights available from BOSTON to DENVER on WEDNESDAY in early morning
+flights from SAN FRANCISCO to PITTSBURGH
+may listing of flights from LONG BEACH CALIFORNIA to COLUMBUS on WEDNESDAY
+what code QW mean
+what most expensive flight from DALLAS to BALTIMORE
+flights from PHILADELPHIA to BALTIMORE
 flight from DALLAS to MILWAUKEE
-what is airline NW
-show me all flights between BOSTON and WASHINGTON
-i need a flight from KANSAS CITY to CHICAGO next WEDNESDAY that reaches CHICAGO around 7 in the evening
-show me flights from BALTIMORE to BOSTON
-what flight from BOSTON to BALTIMORE is the cheapest flight
-how far is it from ORLANDO airport to ORLANDO
-show me flights from PHILADELPHIA to OAKLAND on FRIDAY
-again i will repeat i want to make a one way flight from BOSTON to ATLANTA will you tell me how much the fares are i would like the cheapest fare
-what flights are there from HOUSTON to DALLAS
-list all flights from SEATTLE on CO which depart after 430pm
-i would like a flight from PHILADELPHIA to DALLAS
-i would like to flight from DENVER to ATLANTA by way of PITTSBURGH
-does AA flight to SAN FRANCISCO from ATLANTA
-tell me the flights from BALTIMORE to DALLAS
-give me the flights from BALTIMORE to PITTSBURGH
-show me all flights from BOSTON to DENVER which arrive in DENVER WEDNESDAY before 6
-give me the flights from CHICAGO to SEATTLE on SATURDAY morning
-could you show me all the flights from OAKLAND to SALT LAKE CITY
+what airline NW
+flights between BOSTON and WASHINGTON
+flight from KANSAS CITY to CHICAGO next WEDNESDAY reaches CHICAGO around 7 in evening
+flights from BALTIMORE to BOSTON
+what flight from BOSTON to BALTIMORE cheapest flight
+how far it from ORLANDO airport to ORLANDO
+flights from PHILADELPHIA to OAKLAND on FRIDAY
+again will repeat to make one way flight from BOSTON to ATLANTA will tell how much fares cheapest fare
+what flights from HOUSTON to DALLAS
+flights from SEATTLE on CO depart after 430pm
+flight from PHILADELPHIA to DALLAS
+to flight from DENVER to ATLANTA by way of PITTSBURGH
+AA flight to SAN FRANCISCO from ATLANTA
+tell flights from BALTIMORE to DALLAS
+flights from BALTIMORE to PITTSBURGH
+flights from BOSTON to DENVER arrive in DENVER WEDNESDAY before 6
+flights from CHICAGO to SEATTLE on SATURDAY morning
+flights from OAKLAND to SALT LAKE CITY
 lowest fare from SAN FRANCISCO to LOS ANGELES
-show me flights from DENVER to ATLANTA
-how much is the cheapest flight from DENVER to PITTSBURGH
-give me the flights with the fares on december 27 from INDIANAPOLIS to ORLANDO
-all flights from BOSTON to WASHINGTON on november 10
-yes what flights will be used on july 7 in the morning from ATLANTA to BOSTON
-what are the RENTAL CAR rates in DALLAS
-show me flights from NEW YORK to MIAMI
-please show me UA nonstop flights between BOSTON and SAN FRANCISCO departing around 5 in the evening
-show me all flights from BALTIMORE to SAN FRANCISCO
-show me the evening flights from BALTIMORE to ATLANTA
-what is EWR
-i also need to go to SAN FRANCISCO on WEDNESDAY evening from DALLAS
-what type of ground transportation is available in WASHINGTON
-can you help me with ground transportation information i need to get from the airport in PHILADELPHIA to downtown PHILADELPHIA
-show me nonstop flights from MIAMI to NEW YORK with COACHs
+flights from DENVER to ATLANTA
+how much cheapest flight from DENVER to PITTSBURGH
+flights with fares on december 27 from INDIANAPOLIS to ORLANDO
+flights from BOSTON to WASHINGTON on november 10
+what flights will be used on july 7 in morning from ATLANTA to BOSTON
+what RENTAL CAR rates in DALLAS
+flights from NEW YORK to MIAMI
+UA nonstop flights between BOSTON and SAN FRANCISCO departing around 5 in evening
+flights from BALTIMORE to SAN FRANCISCO
+evening flights from BALTIMORE to ATLANTA
+what EWR
+to go to SAN FRANCISCO on WEDNESDAY evening from DALLAS
+what type of ground transportation available in WASHINGTON
+can help with ground transportation information to from airport in PHILADELPHIA to downtown PHILADELPHIA
+nonstop flights from MIAMI to NEW YORK with COACHs
 WEDNESDAY morning flights between BALTIMORE and NEWARK
 afternoon flight from DENVER to SAN FRANCISCO
-show nonstop flights from NEW YORK to MIAMI on a TUESDAY which cost less than 466 dollars one way
-list the earliest flights from ST. PAUL to SAN JOSE
-what does fare code QW mean
-show me all flights and fares from DENVER to SAN FRANCISCO
-how do i get from the airport to downtown in TACOMA
-show me the flights from DENVER to LAS VEGAS
-what's the cheapest flight from ATLANTA to BALTIMORE
-hi could i get a one way ticket from MILWAUKEE to ORLANDO
-okay could you tell me what flight leaves DALLAS to SAN FRANCISCO by UA
-all am flights departing PITTSBURGH arriving DENVER
-show me all connecting flights on UA between BOSTON and SAN FRANCISCO
-list the cheapest flight from CHARLOTTE to MEMPHIS
-show me the flights on DL or TW which go through ATLANTA
-i would like information on flights leaving ATLANTA and arriving in DALLAS
-list all flights leaving on THURSDAY morning from NEW YORK to MONTREAL
-show me flights between DENVER and BALTIMORE
-show me ground transportation in DENVER
-what is the earliest arrival in SALT LAKE CITY of a flight from TORONTO
-show the flights from DENVER to SAN FRANCISCO
+nonstop flights from NEW YORK to MIAMI on TUESDAY cost less than 466 dollars one way
+earliest flights from ST. PAUL to SAN JOSE
+what fare code QW mean
+flights and fares from DENVER to SAN FRANCISCO
+how do from airport to downtown in TACOMA
+flights from DENVER to LAS VEGAS
+cheapest flight from ATLANTA to BALTIMORE
+one way ticket from MILWAUKEE to ORLANDO
+tell what flight leaves DALLAS to SAN FRANCISCO by UA
+am flights departing PITTSBURGH arriving DENVER
+connecting flights on UA between BOSTON and SAN FRANCISCO
+cheapest flight from CHARLOTTE to MEMPHIS
+flights on DL or TW go through ATLANTA
+information on flights leaving ATLANTA and arriving in DALLAS
+flights leaving on THURSDAY morning from NEW YORK to MONTREAL
+flights between DENVER and BALTIMORE
+ground transportation in DENVER
+what earliest arrival in SALT LAKE CITY of flight from TORONTO
+flights from DENVER to SAN FRANCISCO
 flying from PITTSBURGH to PHILADELPHIA on US
-i'd like to see all flights from BALTIMORE to PHILADELPHIA
-what is the earliest AA flight leaving PHILADELPHIA for DALLAS
-show me the flights from PITTSBURGH to BALTIMORE
-list all DAILY flights between BOSTON and OAKLAND using AA
-how do you travel from SAN FRANCISCO airport to downtown SAN FRANCISCO
-i need information for a flight from DENVER to ATLANTA
-i would like to flight from ATLANTA to DENVER on september 15
-list a round trip fare from KANSAS CITY to MINNEAPOLIS flights
-what does the fare code QX mean
-i want a flight from BOSTON to ATLANTA
-what is the ground transportation available in the city of PHILADELPHIA
-show me flights going from SAN FRANCISCO to PITTSBURGH FIRST on MONDAY of leaving after 12 noon
-what is the cheapest flight from LONG BEACH to MEMPHIS
-i'm requesting flight information on a flight from SAN FRANCISCO to PITTSBURGH on FRIDAY
-does flight DL 323 / DL 229 from BOSTON to DENVER stop in PHILADELPHIA
-what city is the airport MCO in
-can you list all the airlines that have flights from BOSTON to SAN FRANCISCO
-show flights from PITTSBURGH into SAN FRANCISCO
-can you tell me the flights on october 15 1991 from BOSTON to OAKLAND
+to flights from BALTIMORE to PHILADELPHIA
+what earliest AA flight leaving PHILADELPHIA for DALLAS
+flights from PITTSBURGH to BALTIMORE
+DAILY flights between BOSTON and OAKLAND using AA
+how do travel from SAN FRANCISCO airport to downtown SAN FRANCISCO
+information for flight from DENVER to ATLANTA
+to flight from ATLANTA to DENVER on september 15
+round trip fare from KANSAS CITY to MINNEAPOLIS flights
+what fare code QX mean
+flight from BOSTON to ATLANTA
+what ground transportation available in city of PHILADELPHIA
+flights going from SAN FRANCISCO to PITTSBURGH FIRST on MONDAY of leaving after 12 noon
+what cheapest flight from LONG BEACH to MEMPHIS
+requesting flight information on flight from SAN FRANCISCO to PITTSBURGH on FRIDAY
+flight DL 323 / DL 229 from BOSTON to DENVER stop in PHILADELPHIA
+what city airport MCO in
+can airlines flights from BOSTON to SAN FRANCISCO
+flights from PITTSBURGH into SAN FRANCISCO
+can tell flights on october 15 1991 from BOSTON to OAKLAND
 what flights go from DENVER to ATLANTA
-what flights are available between BALTIMORE and BOSTON on august 12
+what flights available between BALTIMORE and BOSTON on august 12
 from LAS VEGAS to MONTREAL
-show me all the UA flights leaving DALLAS
+UA flights leaving DALLAS
 flight information from OAKLAND to DENVER
-how much is a round trip fare from NASHVILLE to SEATTLE
-what are the flights and fares from ATLANTA to PHILADELPHIA
-show me prices and times for FIRST travel from BALTIMORE to DALLAS next summer
-i need a flight from BOS to ATLANTA this afternoon
-show me all flights from PHILADELPHIA to BOSTON on MONDAY which serve a meal and arrive before noon
+how much round trip fare from NASHVILLE to SEATTLE
+what flights and fares from ATLANTA to PHILADELPHIA
+prices and times for FIRST travel from BALTIMORE to DALLAS next summer
+flight from BOS to ATLANTA afternoon
+flights from PHILADELPHIA to BOSTON on MONDAY serve meal and arrive before noon
 cheapest fare from INDIANAPOLIS to SEATTLE
-i'm looking for a flight leaving DENVER traveling to ATLANTA and stopping at PITTSBURGH is this possible
-show me all flights from ATLANTA to DENVER which leave after 5 o'clock pm the day after tomorrow
-show me the cheapest one way flights from DALLAS to SAN FRANCISCO leaving DALLAS after 4pm
-what is the ground transportation between airport and BALTIMORE
-i'm flying from BOSTON to DALLAS
-i will need a car at NEW YORK
-show me the cheapest one way flight from ATLANTA to PITTSBURGH
-please give me a flight from PITTSBURGH to SAN FRANCISCO MONDAY
-i would like a flight from NASHVILLE to ST. LOUIS that arrives in ST. LOUIS around 6pm and is nonstop
-i'm looking for a flight from CHARLOTTE to LAS VEGAS that stops in ST. LOUIS hopefully a dinner flight how can i find that out
+looking for flight leaving DENVER traveling to ATLANTA and stopping at PITTSBURGH possible
+flights from ATLANTA to DENVER leave after 5 pm day after tomorrow
+cheapest one way flights from DALLAS to SAN FRANCISCO leaving DALLAS after 4pm
+what ground transportation between airport and BALTIMORE
+flying from BOSTON to DALLAS
+will car at NEW YORK
+cheapest one way flight from ATLANTA to PITTSBURGH
+flight from PITTSBURGH to SAN FRANCISCO MONDAY
+flight from NASHVILLE to ST. LOUIS arrives in ST. LOUIS around 6pm and nonstop
+looking for flight from CHARLOTTE to LAS VEGAS stops in ST. LOUIS hopefully dinner flight how can out
 what flights from MEMPHIS to MIAMI on WEDNESDAY
-i want to flight from MILWAUKEE to ORLANDO
-could you tell me what morning flights are available from OAKLAND to DENVER before 10am
+to flight from MILWAUKEE to ORLANDO
+tell what morning flights available from OAKLAND to DENVER before 10am
 what airlines flight from ST. PETERSBURG to MILWAUKEE and from MILWAUKEE to TACOMA
-i would like to flight from BOSTON to BALTIMORE in the afternoon what flights are there
-which UA flight flies from BOSTON to SAN FRANCISCO and makes a layover in PHILADELPHIA
-what are the flights from ATLANTA to BALTIMORE
-is there a UA flight from BALTIMORE to SAN FRANCISCO on the morning of august 27
-list the nonstop flights from DENVER to WASHINGTON
-i would like to see the flights from DENVER to PHILADELPHIA
-what are the flights from ORLANDO to KANSAS CITY
-show me the lowest cost from DALLAS to BALTIMORE
-show me the flights that go from SAN DIEGO to NEWARK with one stop in HOUSTON
-show me flights between MEMPHIS and LAS VEGAS on SUNDAY
-what is EWR
-i'd like to see flights from PITTSBURGH to PHILADELPHIA
-what flights are available from PITTSBURGH to OAKLAND airport
-what DL flights flight from WASHINGTON to DALLAS in the morning
-what flights are available THURSDAY afternoon from BALTIMORE to ATLANTA
-show me the fare from DALLAS to SAN FRANCISCO
+to flight from BOSTON to BALTIMORE in afternoon what flights
+UA flight flies from BOSTON to SAN FRANCISCO and makes layover in PHILADELPHIA
+what flights from ATLANTA to BALTIMORE
+UA flight from BALTIMORE to SAN FRANCISCO on morning of august 27
+nonstop flights from DENVER to WASHINGTON
+to flights from DENVER to PHILADELPHIA
+what flights from ORLANDO to KANSAS CITY
+lowest cost from DALLAS to BALTIMORE
+flights go from SAN DIEGO to NEWARK with one stop in HOUSTON
+flights between MEMPHIS and LAS VEGAS on SUNDAY
+what EWR
+to flights from PITTSBURGH to PHILADELPHIA
+what flights available from PITTSBURGH to OAKLAND airport
+what DL flights flight from WASHINGTON to DALLAS in morning
+what flights available THURSDAY afternoon from BALTIMORE to ATLANTA
+fare from DALLAS to SAN FRANCISCO
 what flights go from BOSTON to DENVER before 10am
-i'd like to see flights from BALTIMORE to ATLANTA that arrive before noon
-show me flights with FIRST reservations from SAN FRANCISCO to PITTSBURGH for MONDAY
-i'd like to see the flights from DENVER to PHILADELPHIA again
-what ground transportation is available from the PIT
-find a flight from PHILADELPHIA to SAN FRANCISCO please on DL
-i would like to book a flight for august 27 from BALTIMORE to SAN FRANCISCO on US
+to flights from BALTIMORE to ATLANTA arrive before noon
+flights with FIRST reservations from SAN FRANCISCO to PITTSBURGH for MONDAY
+to flights from DENVER to PHILADELPHIA again
+what ground transportation available from PIT
+flight from PHILADELPHIA to SAN FRANCISCO on DL
+to book flight for august 27 from BALTIMORE to SAN FRANCISCO on US
 flight information on january 23 from DENVER to SAN FRANCISCO
-list all flights arriving at MKE
+flights arriving at MKE
 flights from WESTCHESTER COUNTY to ST. PAUL
-what is the last flight from SAN FRANCISCO to DFW
-what type of aircraft is used flying from ATLANTA to DENVER before 12 noon
-what types of ground transportation are there to SAN FRANCISCO airport
-i'd like to go from BOSTON to SAN FRANCISCO
-which is the flight number for the US flight from PHILADELPHIA to BOSTON is it 279 or is it 137338
-show me the list of flights from PHILADELPHIA to DENVER that leave in the afternoon
-show me ground transportation in BOSTON and in BALTIMORE
+what last flight from SAN FRANCISCO to DFW
+what type of aircraft used flying from ATLANTA to DENVER before 12 noon
+what types of ground transportation to SAN FRANCISCO airport
+to go from BOSTON to SAN FRANCISCO
+flight number for US flight from PHILADELPHIA to BOSTON it 279 or it 137338
+of flights from PHILADELPHIA to DENVER leave in afternoon
+ground transportation in BOSTON and in BALTIMORE
 information on FIRST round trip from PITTSBURGH to SAN FRANCISCO
 what airlines flight between BOSTON and SAN FRANCISCO
-show me the flights on CO from INDIANAPOLIS to SAN DIEGO in the afternoon tomorrow
-show flights from DALLAS to OAKLAND
-is there a flight from ATLANTA to SAN FRANCISCO on november 7 at noon
-show me flights from MILWAUKEE to ORLANDO on WEDNESDAY evening or THURSDAY mornings
-list all flights from MINNEAPOLIS to LONG BEACH on SATURDAY
-which flights on NW and UA stop in DENVER before noon
-show me the flights from MONTREAL to CHICAGO
-show me the cities served by NX
-show me all the LH flights between PHILADELPHIA and DENVER
-show flights between BOSTON and PHILADELPHIA
-give me all the flights from NEW YORK to MIAMI round trip
-please list the TW flights from LAS VEGAS to NEW YORK and fare
-i want a one way ticket from DALLAS to BALTIMORE
-what ground transportation is available in BALTIMORE
+flights on CO from INDIANAPOLIS to SAN DIEGO in afternoon tomorrow
+flights from DALLAS to OAKLAND
+flight from ATLANTA to SAN FRANCISCO on november 7 at noon
+flights from MILWAUKEE to ORLANDO on WEDNESDAY evening or THURSDAY mornings
+flights from MINNEAPOLIS to LONG BEACH on SATURDAY
+flights on NW and UA stop in DENVER before noon
+flights from MONTREAL to CHICAGO
+cities served by NX
+LH flights between PHILADELPHIA and DENVER
+flights between BOSTON and PHILADELPHIA
+flights from NEW YORK to MIAMI round trip
+TW flights from LAS VEGAS to NEW YORK and fare
+one way ticket from DALLAS to BALTIMORE
+what ground transportation available in BALTIMORE
 explain restriction AP/57
 cheapest fare from MEMPHIS to SEATTLE
-tell me about ground transportation at TORONTO
-show me all flights from PITTSBURGH to BALTIMORE
+tell about ground transportation at TORONTO
+flights from PITTSBURGH to BALTIMORE
 what flights from LAS VEGAS to SAN DIEGO
-i'd like to flight round trip from BOSTON to PITTSBURGH
-what is the latest flight from MILWAUKEE to SEATTLE tomorrow
+to flight round trip from BOSTON to PITTSBURGH
+what latest flight from MILWAUKEE to SEATTLE tomorrow
 flights from INDIANAPOLIS to SEATTLE
-what does MCO stand for
-find any flight from BOSTON to OAKLAND stopping in DENVER
-find a flight from TORONTO to SAN DIEGO with a layover in dc on DL
-i need a flight from NEW YORK to SAN FRANCISCO
+what MCO stand for
+any flight from BOSTON to OAKLAND stopping in DENVER
+flight from TORONTO to SAN DIEGO with layover in dc on DL
+flight from NEW YORK to SAN FRANCISCO
 ground transportation in OAKLAND
-i would like to flight from DENVER to PITTSBURGH and ATLANTA
-from WASHINGTON to PHILADELPHIA departing in the afternoon
-show me flights from anywhere to PHILADELPHIA arriving after 2100
-what is the cost of a ticket going from DENVER to BOSTON july 25 1991
-what are the cheapest one way flights from PITTSBURGH to ATLANTA
-what is the ground transportation available in DFW texas
-find travel arrangements for a round trip flight from BOSTON to PITTSBURGH
-list types of aircraft that connect BOSTON and SAN FRANCISCO
-show flights between PHILADELPHIA and DENVER on september 16
-show me flights MONDAY night after 8pm for DALLAS to BOSTON
-please show me the return flights from MIAMI to NEW YORK
-what flights depart from CHARLOTTE to NEWARK that leave in the afternoon or leave in the evening
-i'd like to flight from DENVER to ATLANTA with a stop in PITTSBURGH
-i want to flight from BOSTON to BALTIMORE
-show me a list of RENTAL CAR fares at BOSTON airport
-i would like some information on the earliest flights you have leaving ATLANTA arriving in DENVER
-how much is a limousine between DFW international airport and DALLAS
-show me flights between MEMPHIS and LAS VEGAS
-all flights from PITTSBURGH to DALLAS round trip after 12pm less than 100
-list all the flights that depart from MKE
-what is restriction AP/57
-i'd like to take a flight from WASHINGTON stop in DENVER and with my final destination AS SAN FRANCISCO
-how do i get downtown from the YYZ
+to flight from DENVER to PITTSBURGH and ATLANTA
+from WASHINGTON to PHILADELPHIA departing in afternoon
+flights from anywhere to PHILADELPHIA arriving after 2100
+what cost of ticket going from DENVER to BOSTON july 25 1991
+what cheapest one way flights from PITTSBURGH to ATLANTA
+what ground transportation available in DFW texas
+travel arrangements for round trip flight from BOSTON to PITTSBURGH
+types of aircraft connect BOSTON and SAN FRANCISCO
+flights between PHILADELPHIA and DENVER on september 16
+flights MONDAY night after 8pm for DALLAS to BOSTON
+return flights from MIAMI to NEW YORK
+what flights depart from CHARLOTTE to NEWARK leave in afternoon or leave in evening
+to flight from DENVER to ATLANTA with stop in PITTSBURGH
+to flight from BOSTON to BALTIMORE
+of RENTAL CAR fares at BOSTON airport
+some information on earliest flights leaving ATLANTA arriving in DENVER
+how much limousine between DFW international airport and DALLAS
+flights between MEMPHIS and LAS VEGAS
+flights from PITTSBURGH to DALLAS round trip after 12pm less than 100
+flights depart from MKE
+what restriction AP/57
+to take flight from WASHINGTON stop in DENVER and with final destination AS SAN FRANCISCO
+how do downtown from YYZ
 flight from NASHVILLE to CLEVELAND
-do you have the fare for traveling from OAKLAND airport to OAKLAND downtown
-i would like to flight to BALTIMORE
-what flights are there TUESDAY morning from DALLAS to ATLANTA
-what is the seating capacity for the F28
-i want a flight between OAKLAND and BOSTON that arrives before 5pm
-what is your earliest morning flight from INDIANAPOLIS to CHARLOTTE
-i would like a nonstop flight from NEW YORK to LAS VEGAS on march 2
-i want to flight from BOSTON to SAN FRANCISCO
-list the DL flights from BOSTON to PHILADELPHIA
-show me all the flights between PHILADELPHIA and DENVER
-give me a list of flights between PITTSBURGH and BALTIMORE
-show me flights from BALTIMORE to PHILADELPHIA
-how many people fit on a 72S airplane
+do fare for traveling from OAKLAND airport to OAKLAND downtown
+to flight to BALTIMORE
+what flights TUESDAY morning from DALLAS to ATLANTA
+what seating capacity for F28
+flight between OAKLAND and BOSTON arrives before 5pm
+what your earliest morning flight from INDIANAPOLIS to CHARLOTTE
+nonstop flight from NEW YORK to LAS VEGAS on march 2
+to flight from BOSTON to SAN FRANCISCO
+DL flights from BOSTON to PHILADELPHIA
+flights between PHILADELPHIA and DENVER
+of flights between PITTSBURGH and BALTIMORE
+flights from BALTIMORE to PHILADELPHIA
+how many people fit on 72S airplane
 ground transportation ATL to ATLANTA
-show me the cheapest flights round trip from NEW YORK to SAN JOSE
-what does DFW mean
-what about the flights from BOSTON to LOS ANGELES
-is there ground transportation from SAN DIEGO airport to the downtown area
-okay on the following WEDNESDAY i'd like to go from MEMPHIS to CINCINNATI earliest
-is the AA flight 813 from BOSTON to OAKLAND a flight that goes straight through from BOSTON to OAKLAND without stopping at another city
+cheapest flights round trip from NEW YORK to SAN JOSE
+what DFW mean
+what about flights from BOSTON to LOS ANGELES
+ground transportation from SAN DIEGO airport to downtown area
+on following WEDNESDAY to go from MEMPHIS to CINCINNATI earliest
+AA flight 813 from BOSTON to OAKLAND flight goes straight through from BOSTON to OAKLAND without stopping at another city
 PHILADELPHIA to BOSTON SATURDAY
-what are the flights from BOSTON to WASHINGTON
-give me the first flight from BOSTON to ATLANTA
-show me all flights from SAN FRANCISCO to BOSTON on november 10
-flights that go from OAKLAND to PHILADELPHIA on FRIDAY
-SAN FRANCISCO to PHILADELPHIA please
-i would like to flight on AA from BALTIMORE to SAN FRANCISCO
-show flights from DENVER to OAKLAND arriving between 12 and 1 o'clock
-what flights are there from INDIANAPOLIS to ORLANDO
+what flights from BOSTON to WASHINGTON
+first flight from BOSTON to ATLANTA
+flights from SAN FRANCISCO to BOSTON on november 10
+flights go from OAKLAND to PHILADELPHIA on FRIDAY
+SAN FRANCISCO to PHILADELPHIA
+to flight on AA from BALTIMORE to SAN FRANCISCO
+flights from DENVER to OAKLAND arriving between 12 and 1
+what flights from INDIANAPOLIS to ORLANDO
 what flights from KANSAS CITY to CHICAGO arrive at CHICAGO at 7pm next WEDNESDAY
-what is the cheapest flight flying from BOSTON to ATLANTA before 8
-PITTSBURGH to ATLANTA please with a layover in DFW
-what is the schedule of ground transportation from WASHINGTON airport into downtown
-all flights from SFO to LONG BEACH
-i need to flight from BOSTON to BALTIMORE please give me the times of your flights in the morning before 8 o'clock
-show me the flights from SAN FRANCISCO to DALLAS on CO
-all flights from BOSTON to PHILADELPHIA which show up on TUESDAY afternoon
+what cheapest flight flying from BOSTON to ATLANTA before 8
+PITTSBURGH to ATLANTA with layover in DFW
+what schedule of ground transportation from WASHINGTON airport into downtown
+flights from SFO to LONG BEACH
+to flight from BOSTON to BALTIMORE times of your flights in morning before 8
+flights from SAN FRANCISCO to DALLAS on CO
+flights from BOSTON to PHILADELPHIA up on TUESDAY afternoon
 flights from PITTSBURGH to BALTIMORE between 10am and 2pm
-give me all the flights from NEW YORK to MIAMI round trip with costs less than 466 dollars
-what is the fare code Y and what is the fare code H
-show me the flights from PITTSBURGH to PHILADELPHIA
-DL flights to DALLAS please
-how much time does it take to go between the airport and downtown by ground transportation in DALLAS
-show me flights from PITTSBURGH to SAN FRANCISCO on FRIDAY leaving after 12 noon
+flights from NEW YORK to MIAMI round trip with costs less than 466 dollars
+what fare code Y and what fare code H
+flights from PITTSBURGH to PHILADELPHIA
+DL flights to DALLAS
+how much time it take to go between airport and downtown by ground transportation in DALLAS
+flights from PITTSBURGH to SAN FRANCISCO on FRIDAY leaving after 12 noon
 PITTSBURGH to DENVER
 flight information from PITTSBURGH to DENVER
-please arrange a flight for me from DENVER to SAN FRANCISCO on US
-what time does the flight leave DENVER going to SAN FRANCISCO on CO
-is there a THURSDAY night flight from PITTSBURGH to SAN FRANCISCO on US
-i'd like a list of the flights from OAKLAND to DFW on SUNDAY
+arrange flight for from DENVER to SAN FRANCISCO on US
+what time flight leave DENVER going to SAN FRANCISCO on CO
+THURSDAY night flight from PITTSBURGH to SAN FRANCISCO on US
+of flights from OAKLAND to DFW on SUNDAY
 PHILADELPHIA to SAN FRANCISCO
-show me flights from SEATTLE to SAN FRANCISCO that leave after 5pm
-do you have a flight on WEDNESDAY from DENVER to WASHINGTON nonstop
-what are the COACH fares from LOS ANGELES to CHARLOTTE MONDAY morning
-do you have a night flight from WASHINGTON to BOSTON on august 27
-list the shortest flight from SAN JOSE to HOUSTON
+flights from SEATTLE to SAN FRANCISCO leave after 5pm
+do flight on WEDNESDAY from DENVER to WASHINGTON nonstop
+what COACH fares from LOS ANGELES to CHARLOTTE MONDAY morning
+do night flight from WASHINGTON to BOSTON on august 27
+shortest flight from SAN JOSE to HOUSTON
 what airlines flight into SALT LAKE CITY
-show me all fares between PHILADELPHIA and SAN FRANCISCO that are less than 200 dollars one way
+fares between PHILADELPHIA and SAN FRANCISCO less than 200 dollars one way
 one way flights from ONTARIO to TACOMA leaving before 10am on any day and FIRST
-list all flights leaving DENVER on CO on SUNDAY
-what is the latest flight you have departing DALLAS to PHILADELPHIA
-what is the FIRST on UA flight 352 from DENVER to BOSTON
+flights leaving DENVER on CO on SUNDAY
+what latest flight departing DALLAS to PHILADELPHIA
+what FIRST on UA flight 352 from DENVER to BOSTON
 flights from DENVER to PITTSBURGH on WEDNESDAY
-what is the earliest flight from BOSTON to SAN FRANCISCO on november 7
-show me flights from PITTSBURGH to LOS ANGELES THURSDAY evening
-show me all flights from PITTSBURGH to BOSTON which leave before noon
-what is the earliest flight from WASHINGTON to ATLANTA leaving on WEDNESDAY september 4
-what flights are there between ATLANTA and DENVER
-does YX serve BALTIMORE
-what does restriction AP/80 mean
-show flights from DENVER to OAKLAND that arrive after 12 o'clock
-show all airlines flying from PITTSBURGH to SAN FRANCISCO
-show me all the flights from MILWAUKEE to ORLANDO that leave after noon on WEDNESDAY and before noon on THURSDAY
+what earliest flight from BOSTON to SAN FRANCISCO on november 7
+flights from PITTSBURGH to LOS ANGELES THURSDAY evening
+flights from PITTSBURGH to BOSTON leave before noon
+what earliest flight from WASHINGTON to ATLANTA leaving on WEDNESDAY september 4
+what flights between ATLANTA and DENVER
+YX serve BALTIMORE
+what restriction AP/80 mean
+flights from DENVER to OAKLAND arrive after 12
+airlines flying from PITTSBURGH to SAN FRANCISCO
+flights from MILWAUKEE to ORLANDO leave after noon on WEDNESDAY and before noon on THURSDAY
 what flights leave PITTSBURGH after 5pm on THURSDAY and arrive in LOS ANGELES
 SAN FRANCISCO to PITTSBURGH FRIDAY
-are there any flights from DENVER to PITTSBURGH with a layover in ATLANTA
+any flights from DENVER to PITTSBURGH with layover in ATLANTA
 DALLAS to OAKLAND SATURDAY
-list all flights please from WASHINGTON to SAN FRANCISCO
-show me all flights from BOSTON to DENVER
+flights from WASHINGTON to SAN FRANCISCO
+flights from BOSTON to DENVER
 BOSTON to DENVER MONDAY
-show me the available flights from SAN FRANCISCO to BOSTON on november 24
+available flights from SAN FRANCISCO to BOSTON on november 24
 what flights leave from NASHVILLE to PHOENIX
-show me the cheapest flights round trip from NEW YORK to SAN JOSE arriving in SAN JOSE before 7pm
-show all nonstop flights from BOSTON to SAN FRANCISCO
-what is the FIRST from BALTIMORE to DALLAS
-all flights and fares from DALLAS
-what is BUR
-what is the first flight from BOSTON to stapleton airport for tomorrow
-do you have an AA flight from DENVER to SAN FRANCISCO in the early morning
-please list all flights from DALLAS to PITTSBURGH on july 4 1991
-show me all DAILY flights between MILWAUKEE and ORLANDO
+cheapest flights round trip from NEW YORK to SAN JOSE arriving in SAN JOSE before 7pm
+nonstop flights from BOSTON to SAN FRANCISCO
+what FIRST from BALTIMORE to DALLAS
+flights and fares from DALLAS
+what BUR
+what first flight from BOSTON to stapleton airport for tomorrow
+do an AA flight from DENVER to SAN FRANCISCO in early morning
+flights from DALLAS to PITTSBURGH on july 4 1991
+DAILY flights between MILWAUKEE and ORLANDO
 what flights from ATLANTA to WASHINGTON
-show me the flights from SAN FRANCISCO to DALLAS
-please give me all the flights from LONG BEACH CALIFORNIA to MEMPHIS
+flights from SAN FRANCISCO to DALLAS
+flights from LONG BEACH CALIFORNIA to MEMPHIS
 CO on SATURDAY from CHICAGO to SEATTLE
-please give me the flights from SAN FRANCISCO to WASHINGTON
-which companies flight between BOSTON and OAKLAND
-show me fares leaving on TUESDAY from DENVER to DALLAS
-show me the flights on FRIDAY from NEWARK to TAMPA
+flights from SAN FRANCISCO to WASHINGTON
+companies flight between BOSTON and OAKLAND
+fares leaving on TUESDAY from DENVER to DALLAS
+flights on FRIDAY from NEWARK to TAMPA
 ATLANTA to PITTSBURGH july 23
-i'd like to see flights from BALTIMORE to ATLANTA that arrive before noon and i'd like to see flights from DENVER to ATLANTA that arrive before noon
-please list the flights from DFW to BOSTON on july 23
-what is the cheapest fare between BOSTON and SAN FRANCISCO
-what ground transportation is available in DALLAS tomorrow
-what flights are there from PHOENIX to MILWAUKEE
-i'm interested in flying from ATLANTA to BOSTON i'd like to flight during breakfast
-what ground transportation is there in ATLANTA
-show me all the flights from ATLANTA to BALTIMORE on any airline on THURSDAY
-show SUNDAY flights from SEATTLE to CHICAGO
-i would like a schedule of flights from DENVER to SAN FRANCISCO on TUESDAY
-leaving WASHINGTON going to SAN FRANCISCO the latest flight
-what is the cheapest fare from BOSTON to SAN FRANCISCO
-i would like to leave around 7 o'clock in the morning
-what transportation is available from the DALLAS airport to downtown
-i want information on flights from ATLANTA to WASHINGTON i want to leave after 4pm on WEDNESDAY or before 9am on THURSDAY
-what about a flight from BOSTON to SAN FRANCISCO stopping in DENVER
-i would like direct COACH flights from PITTSBURGH to ATLANTA
-how many flights does AA have from BOSTON to ATLANTA
+to flights from BALTIMORE to ATLANTA arrive before noon and to flights from DENVER to ATLANTA arrive before noon
+flights from DFW to BOSTON on july 23
+what cheapest fare between BOSTON and SAN FRANCISCO
+what ground transportation available in DALLAS tomorrow
+what flights from PHOENIX to MILWAUKEE
+interested in flying from ATLANTA to BOSTON to flight during breakfast
+what ground transportation in ATLANTA
+flights from ATLANTA to BALTIMORE on any airline on THURSDAY
+SUNDAY flights from SEATTLE to CHICAGO
+schedule of flights from DENVER to SAN FRANCISCO on TUESDAY
+leaving WASHINGTON going to SAN FRANCISCO latest flight
+what cheapest fare from BOSTON to SAN FRANCISCO
+to leave around 7 in morning
+what transportation available from DALLAS airport to downtown
+information on flights from ATLANTA to WASHINGTON to leave after 4pm on WEDNESDAY or before 9am on THURSDAY
+what about flight from BOSTON to SAN FRANCISCO stopping in DENVER
+direct COACH flights from PITTSBURGH to ATLANTA
+how many flights AA from BOSTON to ATLANTA
 what flights from MIAMI to INDIANAPOLIS
-show me all flights from BOSTON to DFW
-show me the air fare for the flights from BALTIMORE to DALLAS
-show me fares leaving on TUESDAY from DENVER to go to DALLAS
-show me the flights from SAN DIEGO to NEWARK
-i need information for flights leaving SAN FRANCISCO on THURSDAY evening and returning to BOSTON
-what flights from KANSAS CITY to CHICAGO leave next WEDNESDAY returning the following day
-first flights from PITTSBURGH to ATLANTA on a THURSDAY
-what's the schedule of flights from ATLANTA to BOSTON on august first
-now show me flights from PITTSBURGH to PHILADELPHIA
-what is the earliest flight between PITTSBURGH and DENVER that serves breakfast
-is there ground transportation from ATL to downtown ATLANTA
-show me FIRST flights from NEW YORK to MIAMI leaving on a TUESDAY
-list flights tomorrow from SAN DIEGO to PHOENIX
-find me flights that are nonstop between BOSTON and DALLAS
-what is the earliest flight leaving DENVER and arriving in BALTIMORE on UA FIRST on july 4
-what are connecting flights from CHICAGO to SEATTLE on june first
-i would like to find a flight that goes from BOSTON to ORLANDO i would like it to have a stop in NEW YORK and i would like a flight that serves breakfast
-what flights are available WEDNESDAY afternoon from ATLANTA to SAN FRANCISCO
+flights from BOSTON to DFW
+air fare for flights from BALTIMORE to DALLAS
+fares leaving on TUESDAY from DENVER to go to DALLAS
+flights from SAN DIEGO to NEWARK
+information for flights leaving SAN FRANCISCO on THURSDAY evening and returning to BOSTON
+what flights from KANSAS CITY to CHICAGO leave next WEDNESDAY returning following day
+first flights from PITTSBURGH to ATLANTA on THURSDAY
+schedule of flights from ATLANTA to BOSTON on august first
+flights from PITTSBURGH to PHILADELPHIA
+what earliest flight between PITTSBURGH and DENVER serves breakfast
+ground transportation from ATL to downtown ATLANTA
+FIRST flights from NEW YORK to MIAMI leaving on TUESDAY
+flights tomorrow from SAN DIEGO to PHOENIX
+flights nonstop between BOSTON and DALLAS
+what earliest flight leaving DENVER and arriving in BALTIMORE on UA FIRST on july 4
+what connecting flights from CHICAGO to SEATTLE on june first
+to flight goes from BOSTON to ORLANDO it to stop in NEW YORK and flight serves breakfast
+what flights available WEDNESDAY afternoon from ATLANTA to SAN FRANCISCO
 what airlines flight from BOSTON to DENVER
-show me the cheapest fare from BALTIMORE to DALLAS
-how much is a round trip FIRST between BOSTON and WASHINGTON
-what is the code for BUSINESS
-is there an early morning DL flight between BOSTON and WASHINGTON
-what flights does DL have between DALLAS and DENVER
-what flights are available from PHILADELPHIA to DENVER on SUNDAY
-what is the earliest flight from BOSTON to SAN FRANCISCO
-what's the earliest flight leaving DENVER for PITTSBURGH
-what flights are there from PITTSBURGH to SAN FRANCISCO on FRIDAY
-i would like to book a flight on US FIRST from CLEVELAND to MIAMI on february 22
-what are the afternoon flights from DENVER to SAN FRANCISCO
-show me flights from SAN FRANCISCO to DENVER after 4pm
+cheapest fare from BALTIMORE to DALLAS
+how much round trip FIRST between BOSTON and WASHINGTON
+what code for BUSINESS
+an early morning DL flight between BOSTON and WASHINGTON
+what flights DL between DALLAS and DENVER
+what flights available from PHILADELPHIA to DENVER on SUNDAY
+what earliest flight from BOSTON to SAN FRANCISCO
+earliest flight leaving DENVER for PITTSBURGH
+what flights from PITTSBURGH to SAN FRANCISCO on FRIDAY
+to book flight on US FIRST from CLEVELAND to MIAMI on february 22
+what afternoon flights from DENVER to SAN FRANCISCO
+flights from SAN FRANCISCO to DENVER after 4pm
 information on AA flight from WASHINGTON to PHILADELPHIA
-i'd like to flight from BOSTON to SAN FRANCISCO
-show me flights from OAKLAND to DALLAS on SUNDAY
-show me the aircraft that CP uses
-what type of aircraft is used on the flight from ATLANTA to PHILADELPHIA before 12 o'clock noon
-how much is an economy ticket from WASHINGTON to SAN FRANCISCO on september 30
-can you tell me the flights that go from BOSTON to ATLANTA sometime after 5pm
+to flight from BOSTON to SAN FRANCISCO
+flights from OAKLAND to DALLAS on SUNDAY
+aircraft CP uses
+what type of aircraft used on flight from ATLANTA to PHILADELPHIA before 12 noon
+how much an economy ticket from WASHINGTON to SAN FRANCISCO on september 30
+can tell flights go from BOSTON to ATLANTA sometime after 5pm
 round trip fares from DENVER to PHILADELPHIA less than 1000 dollars
-please give all flights from DALLAS to OAKLAND MONDAY
-show me the earliest flight from SAN JOSE to PITTSBURGH that serves a snack
-i'd like to go from ST. PAUL to KANSAS CITY on FRIDAY with a meal
-show all flights leaving MONDAY morning from BOSTON to PITTSBURGH
-what flights does DL have between BOSTON and SAN FRANCISCO
-please list available ground transportation in PITTSBURGH
+flights from DALLAS to OAKLAND MONDAY
+earliest flight from SAN JOSE to PITTSBURGH serves snack
+to go from ST. PAUL to KANSAS CITY on FRIDAY with meal
+flights leaving MONDAY morning from BOSTON to PITTSBURGH
+what flights DL between BOSTON and SAN FRANCISCO
+available ground transportation in PITTSBURGH
 AA from PHOENIX to MILWAUKEE
-show me all flights from PITTSBURGH to BALTIMORE which leave THURSDAY after 3 o'clock pm
-show me all the flights that go from BALTIMORE to SEATTLE
-show me all flights from ATLANTA to SAN FRANCISCO
-show me the flights from SAN DIEGO to SAN FRANCISCO on WN
-i'd like a flight on UA from DALLAS to SAN FRANCISCO that leaves after 815am
-what flights are there from ATLANTA to OAKLAND on THURSDAY with in flight meal
-what's the lowest round trip fare from BWI to any city
-tell me about flights from ATLANTA to CHARLOTTE leaving on MONDAY and arriving in CHARLOTTE
+flights from PITTSBURGH to BALTIMORE leave THURSDAY after 3 pm
+flights go from BALTIMORE to SEATTLE
+flights from ATLANTA to SAN FRANCISCO
+flights from SAN DIEGO to SAN FRANCISCO on WN
+flight on UA from DALLAS to SAN FRANCISCO leaves after 815am
+what flights from ATLANTA to OAKLAND on THURSDAY with in flight meal
+lowest round trip fare from BWI to any city
+tell about flights from ATLANTA to CHARLOTTE leaving on MONDAY and arriving in CHARLOTTE
 UA stopping in DENVER
-can you show me evening flights from NASHVILLE to HOUSTON that serve dinner
-how much is a US BOSTON to PITTSBURGH DAILY nonstop flight
-show me the flights from TACOMA to MIAMI after 6pm
-does EA flight early in the morning between BOS and BWI
-show me the flights arriving at DAL
-show me morning flights from TORONTO
-is there ground transportation in BALTIMORE
-show me all the flights from PHILADELPHIA to NEWARK
-please give ground transportation at DEN
-show me flights from MIAMI to NEW YORK leaving on a SUNDAY FIRST
-what is the fare for a one way flight from BOSTON to ATLANTA
-i would like to know the flights that are available leaving out of PITTSBURGH to SAN FRANCISCO on THURSDAY night after 9pm
-list UA flights from DENVER to SAN FRANCISCO on TUESDAY or WEDNESDAY
-i want a return flight from WASHINGTON to DALLAS on AA
-does YX serve NASHVILLE
+can evening flights from NASHVILLE to HOUSTON serve dinner
+how much US BOSTON to PITTSBURGH DAILY nonstop flight
+flights from TACOMA to MIAMI after 6pm
+EA flight early in morning between BOS and BWI
+flights arriving at DAL
+morning flights from TORONTO
+ground transportation in BALTIMORE
+flights from PHILADELPHIA to NEWARK
+ground transportation at DEN
+flights from MIAMI to NEW YORK leaving on SUNDAY FIRST
+what fare for one way flight from BOSTON to ATLANTA
+to know flights available leaving out of PITTSBURGH to SAN FRANCISCO on THURSDAY night after 9pm
+UA flights from DENVER to SAN FRANCISCO on TUESDAY or WEDNESDAY
+return flight from WASHINGTON to DALLAS on AA
+YX serve NASHVILLE
 define airline UA
-list all flights from NEW YORK to LAS VEGAS that flight nonstop on SUNDAY and list flights from MEMPHIS to LAS VEGAS that flight nonstop on SUNDAY
-what are the classes of service for AA
-please give me flight schedules from BALTIMORE to PHILADELPHIA
-i would like to flight from PITTSBURGH to ATLANTA on US at the latest time possible in the evening
-please list the afternoon flights from CHARLOTTE to MINNEAPOLIS
+flights from NEW YORK to LAS VEGAS flight nonstop on SUNDAY and flights from MEMPHIS to LAS VEGAS flight nonstop on SUNDAY
+what classes of service for AA
+flight schedules from BALTIMORE to PHILADELPHIA
+to flight from PITTSBURGH to ATLANTA on US at latest time possible in evening
+afternoon flights from CHARLOTTE to MINNEAPOLIS
 DALLAS to BALTIMORE MONDAY
-show the flights that leave PHILADELPHIA that go to ATLANTA that leave early on THURSDAY morning
+flights leave PHILADELPHIA go to ATLANTA leave early on THURSDAY morning
 information on ground transportation in DENVER
-what is the cost of BUSINESS from BOSTON to SAN FRANCISCO on TW
-show me the flights on DL from ATLANTA in the morning
-what is the earliest flight between BOS and BWI
-what are connecting flights from CHICAGO into SEATTLE on june 5
-show flights from ATLANTA to BALTIMORE
-show me the flights from TORONTO to CINCINNATI
-show me the flights from PITTSBURGH to SAN FRANCISCO
-hi i'd like a flight on AS from SAN DIEGO to TORONTO please
+what cost of BUSINESS from BOSTON to SAN FRANCISCO on TW
+flights on DL from ATLANTA in morning
+what earliest flight between BOS and BWI
+what connecting flights from CHICAGO into SEATTLE on june 5
+flights from ATLANTA to BALTIMORE
+flights from TORONTO to CINCINNATI
+flights from PITTSBURGH to SAN FRANCISCO
+flight on AS from SAN DIEGO to TORONTO
 ground transportation in LAS VEGAS
-could you please tell me the airlines that flight from TORONTO to SAN DIEGO
+tell airlines flight from TORONTO to SAN DIEGO
 next SUNDAY flights from MIAMI to CLEVELAND after 1200 hours
-how many stops are on all flights from BOSTON to SAN FRANCISCO that depart before 12 o'clock noon
+how many stops on flights from BOSTON to SAN FRANCISCO depart before 12 noon
 from BALTIMORE to SAN FRANCISCO
-how much does it cost to flight EA from ATLANTA to BOSTON
-give me flights that arrive in BALTIMORE from ATLANTA
-okay what i'd like to do on this one is go from WASHINGTON to ATLANTA i want a nonstop and i'd like to leave around 5pm
-what is your cheapest flight from PITTSBURGH to DENVER
-show all flights PHILADELPHIA to DALLAS
-now i need a flight from DETROIT to SAN DIEGO leaving TUESDAY evening
+how much it cost to flight EA from ATLANTA to BOSTON
+flights arrive in BALTIMORE from ATLANTA
+what to do on one go from WASHINGTON to ATLANTA nonstop and to leave around 5pm
+what your cheapest flight from PITTSBURGH to DENVER
+flights PHILADELPHIA to DALLAS
+flight from DETROIT to SAN DIEGO leaving TUESDAY evening
 how many nonstop flights going from DALLAS to OAKLAND july 27
-from LAS VEGAS to PHOENIX departing in the morning
-i would like to book an early morning flight from TAMPA to CHARLOTTE on april 6
-what flights are available TUESDAY afternoon from PITTSBURGH to ATLANTA
+from LAS VEGAS to PHOENIX departing in morning
+to book an early morning flight from TAMPA to CHARLOTTE on april 6
+what flights available TUESDAY afternoon from PITTSBURGH to ATLANTA
 what flights go from CHICAGO to SEATTLE on SATURDAY on CO
-show me all the flights from BALTIMORE to COLUMBUS
-list departure times from DENVER to PHILADELPHIA which are later than 10 o'clock and earlier than 2pm
-i would like a flight from BOSTON to DENVER on MONDAY
-what ground transportation is available in DENVER
-is there ground transportation available in DENVER
-all flights from MONTREAL less than 150 dollars
-i would like some information on a flight from DENVER to SAN FRANCISCO on UA
-please show me all the flights from DENVER to OAKLAND that are nonstop
-show me all flights from NEW YORK to MIAMI leaving on a TUESDAY
-what flights are there from TAMPA to CHARLOTTE
-show me ground transportation information for PITTSBURGH
-please list the earliest lunch flight from COLUMBUS to PHOENIX
-find the earliest flight from BOSTON to OAKLAND that serves breakfast
-show me the flights from BOSTON to PHILADELPHIA
-is there a flight from BOSTON to SAN FRANCISCO making a layover in DFW
-is there transportation from the ATL to downtown ATLANTA
-does US flight from dc to DALLAS
-can i get a taxi from LONG BEACH airport to downtown LONG BEACH
-show me all flights with fares from PITTSBURGH to SAN FRANCISCO
-i want to leave before 8 in the morning what flight should i take to ATLANTA from BOSTON
-can you show me flights from BALTIMORE to DALLAS
-show me all direct flights from SAN FRANCISCO to BOSTON departing before noon
-what are the flights in the month of december from ATLANTA to DENVER which stop in BOSTON
-what is the last flight from SAN FRANCISCO to BOSTON this WEDNESDAY
-can you list the latest flights from OAKLAND to SALT LAKE CITY on WEDNESDAY
+flights from BALTIMORE to COLUMBUS
+departure times from DENVER to PHILADELPHIA later than 10 and earlier than 2pm
+flight from BOSTON to DENVER on MONDAY
+what ground transportation available in DENVER
+ground transportation available in DENVER
+flights from MONTREAL less than 150 dollars
+some information on flight from DENVER to SAN FRANCISCO on UA
+flights from DENVER to OAKLAND nonstop
+flights from NEW YORK to MIAMI leaving on TUESDAY
+what flights from TAMPA to CHARLOTTE
+ground transportation information for PITTSBURGH
+earliest lunch flight from COLUMBUS to PHOENIX
+earliest flight from BOSTON to OAKLAND serves breakfast
+flights from BOSTON to PHILADELPHIA
+flight from BOSTON to SAN FRANCISCO making layover in DFW
+transportation from ATL to downtown ATLANTA
+US flight from dc to DALLAS
+can taxi from LONG BEACH airport to downtown LONG BEACH
+flights with fares from PITTSBURGH to SAN FRANCISCO
+to leave before 8 in morning what flight should take to ATLANTA from BOSTON
+can flights from BALTIMORE to DALLAS
+direct flights from SAN FRANCISCO to BOSTON departing before noon
+what flights in month of december from ATLANTA to DENVER stop in BOSTON
+what last flight from SAN FRANCISCO to BOSTON WEDNESDAY
+can latest flights from OAKLAND to SALT LAKE CITY on WEDNESDAY
 what flights from KANSAS CITY to DENVER
-show me the flights from DAL to any other airport
-what are the morning flights from BOSTON to PHILADELPHIA
-does NW flight into DENVER
-show me all flights from PHOENIX to MILWAUKEE on WEDNESDAY
+flights from DAL to any other airport
+what morning flights from BOSTON to PHILADELPHIA
+NW flight into DENVER
+flights from PHOENIX to MILWAUKEE on WEDNESDAY
 UA flights stopping in DENVER
-what's a flight that goes from BALTIMORE to SEATTLE
-i want to flight from BOSTON at 838am and arrive in DENVER at 1110 in the morning
-would you tell me the cheapest one way fare from BOSTON to OAKLAND
-what is the cheapest round trip fare from ATLANTA to PITTSBURGH
-what types of aircraft does DL flight
-US 771 PITTSBURGH to PHILADELPHIA what is the fare
-what is fare code F
-what is airline US
-show all flights from BALTIMORE to DALLAS on MONDAY evening and the cost of each flight
+flight goes from BALTIMORE to SEATTLE
+to flight from BOSTON at 838am and arrive in DENVER at 1110 in morning
+tell cheapest one way fare from BOSTON to OAKLAND
+what cheapest round trip fare from ATLANTA to PITTSBURGH
+what types of aircraft DL flight
+US 771 PITTSBURGH to PHILADELPHIA what fare
+what fare code F
+what airline US
+flights from BALTIMORE to DALLAS on MONDAY evening and cost of each flight
 what airlines flight from BOSTON to PITTSBURGH
 what flights go from BALTIMORE to NEWARK WEDNESDAY morning
-what is the fare on the thrift economy flight from BOSTON to SAN FRANCISCO
-what does FN under fare code mean
-show me airlines with flights from PITTSBURGH to BOSTON please
-what is the cheapest fare for flights from BOSTON to DALLAS
-what are your flights from DENVER to BALTIMORE
-please list the flight schedule from BALTIMORE to SAN FRANCISCO on FRIDAY nights
-please tell me the type of aircraft used from ATLANTA to DENVER before 12 o'clock noon
-i'd like a flight tomorrow late from NASHVILLE to HOUSTON with dinner please
-show me flights to SAN FRANCISCO from PHILADELPHIA stopping in DALLAS
+what fare on thrift economy flight from BOSTON to SAN FRANCISCO
+what FN under fare code mean
+airlines with flights from PITTSBURGH to BOSTON
+what cheapest fare for flights from BOSTON to DALLAS
+what your flights from DENVER to BALTIMORE
+flight schedule from BALTIMORE to SAN FRANCISCO on FRIDAY nights
+tell type of aircraft used from ATLANTA to DENVER before 12 noon
+flight tomorrow late from NASHVILLE to HOUSTON with dinner
+flights to SAN FRANCISCO from PHILADELPHIA stopping in DALLAS
 what type of aircraft leaving after 2pm from BOSTON to OAKLAND
-does YX have any flights
-show me flights from DENVER to dc on WEDNESDAY
-no i want to go from DENVER to OAKLAND
-please list all flights from DALLAS to PHILADELPHIA on MONDAY
-what are the flights from MILWAUKEE to TAMPA
-i need a flight on FRIDAY from NEWARK to TAMPA
-does UA provide any FIRST flights from DENVER to BALTIMORE
-show me the flights from DENVER to SAN FRANCISCO
+YX any flights
+flights from DENVER to dc on WEDNESDAY
+no to go from DENVER to OAKLAND
+flights from DALLAS to PHILADELPHIA on MONDAY
+what flights from MILWAUKEE to TAMPA
+flight on FRIDAY from NEWARK to TAMPA
+UA provide any FIRST flights from DENVER to BALTIMORE
+flights from DENVER to SAN FRANCISCO
 describe fare code QX
-what is the earliest flight from BOSTON that will arrive in DENVER
-what ground transportation is available from PITTSBURGH to downtown
-show me the flights that go from TACOMA to MIAMI
-show me a list of ground transportation at DENVER
+what earliest flight from BOSTON will arrive in DENVER
+what ground transportation available from PITTSBURGH to downtown
+flights go from TACOMA to MIAMI
+of ground transportation at DENVER
 flight from DALLAS to OAKLAND on MONDAY
-i'm looking for a flight that goes from SAN JOSE to HOUSTON on may 30 and that leaves after noon
+looking for flight goes from SAN JOSE to HOUSTON on may 30 and leaves after noon
 from SEATTLE to SALT LAKE CITY
-show me the flights from DALLAS to ATLANTA
+flights from DALLAS to ATLANTA
 ATLANTA ground transportation
-show me fares from MIAMI to NEW YORK
-i'd like to go from BOSTON to SAN FRANCISCO
+fares from MIAMI to NEW YORK
+to go from BOSTON to SAN FRANCISCO
 flights between BALTIMORE and WASHINGTON
-show me the flights from SALT LAKE CITY to MILWAUKEE
-i want to flight from DALLAS to SAN FRANCISCO
+flights from SALT LAKE CITY to MILWAUKEE
+to flight from DALLAS to SAN FRANCISCO
 flights between TAMPA and ST. LOUIS
-okay what i would like to know is does TW flight 505 from CHARLOTTE to LAS VEGAS with a stop in ST. LOUIS serve dinner that's TW flight 505 or 163
-please list all flights from BALTIMORE to ATLANTA
-which DL flights depart from SAN FRANCISCO heading toward BOSTON after 12 noon
-what flights does AA have from BOSTON to DALLAS
-i would like to flight UA from WASHINGTON to DENVER colorado
-i'd like to flight from PHILADELPHIA to SAN FRANCISCO with a layover in DALLAS
-is there a UA flight from MIAMI to WASHINGTON arriving around noon
-show me flights from BALTIMORE to PHILADELPHIA
+what to know TW flight 505 from CHARLOTTE to LAS VEGAS with stop in ST. LOUIS serve dinner that's TW flight 505 or 163
+flights from BALTIMORE to ATLANTA
+DL flights depart from SAN FRANCISCO heading toward BOSTON after 12 noon
+what flights AA from BOSTON to DALLAS
+to flight UA from WASHINGTON to DENVER colorado
+to flight from PHILADELPHIA to SAN FRANCISCO with layover in DALLAS
+UA flight from MIAMI to WASHINGTON arriving around noon
+flights from BALTIMORE to PHILADELPHIA
 ground transportation in BALTIMORE
-okay tell me what the earliest flight is that leaves between ATLANTA and DENVER
-i would like information on flights from PHILADELPHIA to OAKLAND on FRIDAY afternoon
-i would like the time of your earliest flight in the morning from PHILADELPHIA to WASHINGTON on AA
-show me all flights from PHILADELPHIA to SAN FRANCISCO with one stop in DALLAS
+tell what earliest flight leaves between ATLANTA and DENVER
+information on flights from PHILADELPHIA to OAKLAND on FRIDAY afternoon
+time of your earliest flight in morning from PHILADELPHIA to WASHINGTON on AA
+flights from PHILADELPHIA to SAN FRANCISCO with one stop in DALLAS
 cost of flight from NASHVILLE to CLEVELAND
-i want a flight from LOS ANGELES to PITTSBURGH that arrives before 3pm on TUESDAY
-what flights are available between BOSTON and WASHINGTON arriving in WASHINGTON at 630
-which airlines have flights between CHARLOTTE and NEWARK
-show me airlines between BOSTON and SAN FRANCISCO
-list all the takeoffs and landings at MKE
-what are the cities that AA serves
-show me all the US flights leaving PITTSBURGH between 12 and 4 in the afternoon
-i actually want to go from ONTARIO to westchester via CHICAGO
-list the flights arriving in ATLANTA from BOSTON between 4 and 8pm
-list all the airlines that flight into MKE
-show me all flights between SAN FRANCISCO and PHILADELPHIA for september 15
-which UA flights from BOSTON to SAN FRANCISCO make connections
+flight from LOS ANGELES to PITTSBURGH arrives before 3pm on TUESDAY
+what flights available between BOSTON and WASHINGTON arriving in WASHINGTON at 630
+airlines flights between CHARLOTTE and NEWARK
+airlines between BOSTON and SAN FRANCISCO
+takeoffs and landings at MKE
+what cities AA serves
+US flights leaving PITTSBURGH between 12 and 4 in afternoon
+actually to go from ONTARIO to westchester via CHICAGO
+flights arriving in ATLANTA from BOSTON between 4 and 8pm
+airlines flight into MKE
+flights between SAN FRANCISCO and PHILADELPHIA for september 15
+UA flights from BOSTON to SAN FRANCISCO make connections
 WEDNESDAY from BALTIMORE to NEWARK
-is there a round trip flight from BALTIMORE to DENVER connecting in DALLAS
+round trip flight from BALTIMORE to DENVER connecting in DALLAS
 ground transport in OAKLAND
 what flights from MILWAUKEE to SAN JOSE on WEDNESDAY on AA
-show me the flights arriving in BALTIMORE on june 15 leaving either from DENVER or DALLAS
-i'd like to book a flight from ATLANTA to DENVER
-what is the YN code
-show me the flights from PHILADELPHIA to BALTIMORE
-please give me ground transportation information for DENVER
-show me all flights from SAN FRANCISCO to LGA nonstop
-are there any direct flights from ATLANTA to PHILADELPHIA arriving in PHILADELPHIA about 12 noon
-US 3724 BALTIMORE to PHILADELPHIA what is the round trip fare
-on the earliest flight from SAN FRANCISCO to ATLANTA on DL is a meal being served
-i'm trying to find a flight from COLUMBUS to PHOENIX through CINCINNATI
-list all UA flights from BOSTON to SAN FRANCISCO with fare code QX
-i would like to book a flight for august 27 with US from BALTIMORE to OAKLAND what flights do you have available
-what are the flights available after 3pm between DENVER and SAN FRANCISCO
-what type of ground transportation is available at PHILADELPHIA airport
-show me the flights from BOSTON to SAN FRANCISCO that stop in DALLAS
-i need a flight to ATLANTA this afternoon
-i want to leave BOSTON at 838 and arrive in DENVER at 1110 in the morning
-what UA FIRST airfare flights are available from DENVER to BALTIMORE on july three
-what is the fare on CO 271 from DALLAS to SAN FRANCISCO
-from TORONTO to ATLANTA in the afternoon
-what is the cost of flight DL 106 from PHILADELPHIA to BOSTON
-is there a flight on EA from BOSTON to DENVER
-i want to flight from DENVER to SAN FRANCISCO
-what is the meaning of fare code QX and QW
-give me the CO flights from SEATTLE
-what is the latest flight from SAN FRANCISCO to BOSTON
-what is the AP/57 restriction
-all right do you have a flight from WASHINGTON to BOSTON that stops in PHILADELPHIA
-please list all the flights from BOSTON to SAN FRANCISCO leaving before 10am
-please list the flights taking off and landing on MKE
-show me the flights from BALTIMORE to OAKLAND please
-does AA flight from DENVER to PITTSBURGH
-i would like to travel from WASHINGTON to PITTSBURGH on august 20
-i would like to flight from ATLANTA to SAN FRANCISCO with a layover in DALLAS
+flights arriving in BALTIMORE on june 15 leaving either from DENVER or DALLAS
+to book flight from ATLANTA to DENVER
+what YN code
+flights from PHILADELPHIA to BALTIMORE
+ground transportation information for DENVER
+flights from SAN FRANCISCO to LGA nonstop
+any direct flights from ATLANTA to PHILADELPHIA arriving in PHILADELPHIA about 12 noon
+US 3724 BALTIMORE to PHILADELPHIA what round trip fare
+on earliest flight from SAN FRANCISCO to ATLANTA on DL meal being served
+trying to flight from COLUMBUS to PHOENIX through CINCINNATI
+UA flights from BOSTON to SAN FRANCISCO with fare code QX
+to book flight for august 27 with US from BALTIMORE to OAKLAND what flights do available
+what flights available after 3pm between DENVER and SAN FRANCISCO
+what type of ground transportation available at PHILADELPHIA airport
+flights from BOSTON to SAN FRANCISCO stop in DALLAS
+flight to ATLANTA afternoon
+to leave BOSTON at 838 and arrive in DENVER at 1110 in morning
+what UA FIRST airfare flights available from DENVER to BALTIMORE on july three
+what fare on CO 271 from DALLAS to SAN FRANCISCO
+from TORONTO to ATLANTA in afternoon
+what cost of flight DL 106 from PHILADELPHIA to BOSTON
+flight on EA from BOSTON to DENVER
+to flight from DENVER to SAN FRANCISCO
+what meaning of fare code QX and QW
+CO flights from SEATTLE
+what latest flight from SAN FRANCISCO to BOSTON
+what AP/57 restriction
+right do flight from WASHINGTON to BOSTON stops in PHILADELPHIA
+flights from BOSTON to SAN FRANCISCO leaving before 10am
+flights taking off and landing on MKE
+flights from BALTIMORE to OAKLAND
+AA flight from DENVER to PITTSBURGH
+to travel from WASHINGTON to PITTSBURGH on august 20
+to flight from ATLANTA to SAN FRANCISCO with layover in DALLAS
 what flights from PHOENIX to LAS VEGAS on SATURDAY
-are there any flights on US from PITTSBURGH to ATLANTA on WEDNESDAY
-list the flights from DALLAS to BALTIMORE
-the earliest flight from BOSTON to SAN FRANCISCO please that will be serving a meal
-what is the departure time of the latest flight of UA from DENVER to BOSTON
-i'd like to book an flight on AA from BOSTON to SAN FRANCISCO with one stop in PITTSBURGH
-i want a flight from SAN FRANCISCO to DENVER leaving SAN FRANCISCO in the afternoon arriving DENVER around 5 in the afternoon
-do you flight a 747 from BALTIMORE to SAN FRANCISCO
-i want a flight from PHILADELPHIA to DALLAS with a stop in ATLANTA
-i'd like to find the earliest flight possible from SAN FRANCISCO to ATLANTA
-i want the flights from TORONTO to SAN DIEGO that stop in ST. LOUIS
-show flights from BOSTON to DENVER on WEDNESDAY morning
-i need to find a flight from PHILADELPHIA to SAN FRANCISCO that has a layover in DALLAS
-i would like to flight to SAN FRANCISCO from WASHINGTON
-show flights from PHILADELPHIA to BOSTON
-list the flights from ST. PETERSBURG to TORONTO
-i need flight information on SATURDAY for a flight from PHILADELPHIA to DALLAS
-what is the cheapest flight from DENVER to OAKLAND
-show me flights from PITTSBURGH to PHILADELPHIA
-show afternoon flights from HOUSTON to DALLAS
+any flights on US from PITTSBURGH to ATLANTA on WEDNESDAY
+flights from DALLAS to BALTIMORE
+earliest flight from BOSTON to SAN FRANCISCO will be serving meal
+what departure time of latest flight of UA from DENVER to BOSTON
+to book an flight on AA from BOSTON to SAN FRANCISCO with one stop in PITTSBURGH
+flight from SAN FRANCISCO to DENVER leaving SAN FRANCISCO in afternoon arriving DENVER around 5 in afternoon
+do flight 747 from BALTIMORE to SAN FRANCISCO
+flight from PHILADELPHIA to DALLAS with stop in ATLANTA
+to earliest flight possible from SAN FRANCISCO to ATLANTA
+flights from TORONTO to SAN DIEGO stop in ST. LOUIS
+flights from BOSTON to DENVER on WEDNESDAY morning
+to flight from PHILADELPHIA to SAN FRANCISCO has layover in DALLAS
+to flight to SAN FRANCISCO from WASHINGTON
+flights from PHILADELPHIA to BOSTON
+flights from ST. PETERSBURG to TORONTO
+flight information on SATURDAY for flight from PHILADELPHIA to DALLAS
+what cheapest flight from DENVER to OAKLAND
+flights from PITTSBURGH to PHILADELPHIA
+afternoon flights from HOUSTON to DALLAS
 flights from MONTREAL to LAS VEGAS
-what flights are there from ATLANTA to BALTIMORE
-show me flights DENVER to WASHINGTON on THURSDAY
+what flights from ATLANTA to BALTIMORE
+flights DENVER to WASHINGTON on THURSDAY
 DALLAS ground transportation
-for each airline flying between BOSTON and SAN FRANCISCO what is the earliest flight
-show flights from PITTSBURGH into SAN FRANCISCO arriving after 12 noon
-what are the FIRST from DALLAS to BALTIMORE
+for each airline flying between BOSTON and SAN FRANCISCO what earliest flight
+flights from PITTSBURGH into SAN FRANCISCO arriving after 12 noon
+what FIRST from DALLAS to BALTIMORE
 flights from KANSAS CITY to CLEVELAND on WEDNESDAY arriving before 5pm
-what flight do you have from SAN FRANCISCO to PITTSBURGH on the evening of august 27
-instead of DENVER can i have the same flight from TORONTO to SAN DIEGO but stopping in DFW
+what flight do from SAN FRANCISCO to PITTSBURGH on evening of august 27
+instead of DENVER can same flight from TORONTO to SAN DIEGO but stopping in DFW
 bring up flights from MILWAUKEE to ORLANDO on WEDNESDAY night or THURSDAY morning
-show me flights from LOS ANGELES to PITTSBURGH on MONDAY evening
-i'd like a flight tomorrow evening from NASHVILLE to HOUSTON that includes dinner for tomorrow
-show me all the types of aircraft
-show me all flights between SAN FRANCISCO and PHILADELPHIA for september 15
-show me the cost of all flights from ATLANTA to WASHINGTON
-show me flights from BALTIMORE to PHILADELPHIA
-does LH flight between BOSTON and OAKLAND
-are there any flights available from BALTIMORE to DALLAS MONDAY afternoon
-all DL flights to everywhere if you can
-what are the costs of RENTAL CAR in DALLAS
-show me all flights from DENVER to BURBANK
-show me the flights from DENVER to PHILADELPHIA again
-i would like a flight from PHILADELPHIA to DALLAS
-is there a DL flight from BOSTON to DENVER
-show me flights from BALTIMORE to DALLAS
+flights from LOS ANGELES to PITTSBURGH on MONDAY evening
+flight tomorrow evening from NASHVILLE to HOUSTON includes dinner for tomorrow
+types of aircraft
+flights between SAN FRANCISCO and PHILADELPHIA for september 15
+cost of flights from ATLANTA to WASHINGTON
+flights from BALTIMORE to PHILADELPHIA
+LH flight between BOSTON and OAKLAND
+any flights available from BALTIMORE to DALLAS MONDAY afternoon
+DL flights to everywhere if can
+what costs of RENTAL CAR in DALLAS
+flights from DENVER to BURBANK
+flights from DENVER to PHILADELPHIA again
+flight from PHILADELPHIA to DALLAS
+DL flight from BOSTON to DENVER
+flights from BALTIMORE to DALLAS
 flights from PITTSBURGH to LOS ANGELES THURSDAY evening
-i'm sorry i wanted to flight TW is there a flight between OAKLAND and BOSTON with a layover in DFW on TW
-what does the abbreviation UA mean
+sorry wanted to flight TW flight between OAKLAND and BOSTON with layover in DFW on TW
+what abbreviation UA mean
 what flights from TORONTO to PHILADELPHIA
-i want a flight on TW from BOSTON to DENVER
-what flights are available WEDNESDAY morning from BOSTON to DENVER
-what nonstop flights between BOSTON and WASHINGTON arrive after 5 o'clock pm
-i need a listing of flights from NEW YORK to MONTREAL departing THURSDAY in the morning
-show first flight from BOSTON to PHILADELPHIA
-i want to go and take a plane in ATLANTA and flight to BOSTON
-what are the flights from NASHVILLE to TACOMA on TUESDAY the 18 of may
-what's the difference between fare code Q and fare code F
-show me round trips from HOUSTON to LAS VEGAS nonstop
-tell me about flights from CHARLOTTE to ATLANTA next TUESDAY
-i'd like to see all flights from PITTSBURGH to PHILADELPHIA again
-show flights on US from PITTSBURGH to OAKLAND connecting through DENVER
-please list the THURSDAY morning flights from ST. LOUIS to ST. PAUL
-list all nonstop flights from LOS ANGELES to PITTSBURGH before 5pm on TUESDAY
-how many seats in a 72S
-i would like an early morning nonstop flight from NEW YORK to LAS VEGAS on february 28
-i want to go from BOSTON to OAKLAND
-show me the fare for DL flight 296 from ATLANTA to PHILADELPHIA
-show me flights from PITTSBURGH to PHILADELPHIA on WEDNESDAY morning
-list all round trip fares from ST. PETERSBURG to WASHINGTON
-show me all the flights that arrive in BALTIMORE in the evening
-please list all flights from OAKLAND to DALLAS on SUNDAY morning
-what is the first flight that goes from ATLANTA to BALTIMORE that serves breakfast
-what are the restrictions on the cheapest one way fare between BOSTON and OAKLAND
-what is AS
-what is the earliest flight that goes from ATLANTA to WASHINGTON on THURSDAY
-i want an early morning flight from BOSTON to PHILADELPHIA
-DL flights from SAN FRANCISCO please
-is there an afternoon flight from CHARLOTTE to MINNEAPOLIS around 2pm
-what ground transportation is available in DENVER
-fare code Y what does that mean
-show me flights from ATLANTA to WASHINGTON please
-show me the flight from DETROIT to WESTCHESTER COUNTY with the highest one way fare
-let's see how much would a direct flight from ATLANTA to DENVER be on may 7
-do you have flights from ST. PETERSBURG to TORONTO on MONDAY
-need a flight from PITTSBURGH to DENVER
-show me the cheapest flights from BALTIMORE to DALLAS
+flight on TW from BOSTON to DENVER
+what flights available WEDNESDAY morning from BOSTON to DENVER
+what nonstop flights between BOSTON and WASHINGTON arrive after 5 pm
+listing of flights from NEW YORK to MONTREAL departing THURSDAY in morning
+first flight from BOSTON to PHILADELPHIA
+to go and take plane in ATLANTA and flight to BOSTON
+what flights from NASHVILLE to TACOMA on TUESDAY 18 of may
+difference between fare code Q and fare code F
+round trips from HOUSTON to LAS VEGAS nonstop
+tell about flights from CHARLOTTE to ATLANTA next TUESDAY
+to flights from PITTSBURGH to PHILADELPHIA again
+flights on US from PITTSBURGH to OAKLAND connecting through DENVER
+THURSDAY morning flights from ST. LOUIS to ST. PAUL
+nonstop flights from LOS ANGELES to PITTSBURGH before 5pm on TUESDAY
+how many seats in 72S
+an early morning nonstop flight from NEW YORK to LAS VEGAS on february 28
+to go from BOSTON to OAKLAND
+fare for DL flight 296 from ATLANTA to PHILADELPHIA
+flights from PITTSBURGH to PHILADELPHIA on WEDNESDAY morning
+round trip fares from ST. PETERSBURG to WASHINGTON
+flights arrive in BALTIMORE in evening
+flights from OAKLAND to DALLAS on SUNDAY morning
+what first flight goes from ATLANTA to BALTIMORE serves breakfast
+what restrictions on cheapest one way fare between BOSTON and OAKLAND
+what AS
+what earliest flight goes from ATLANTA to WASHINGTON on THURSDAY
+an early morning flight from BOSTON to PHILADELPHIA
+DL flights from SAN FRANCISCO
+an afternoon flight from CHARLOTTE to MINNEAPOLIS around 2pm
+what ground transportation available in DENVER
+fare code Y what mean
+flights from ATLANTA to WASHINGTON
+flight from DETROIT to WESTCHESTER COUNTY with highest one way fare
+let's how much direct flight from ATLANTA to DENVER be on may 7
+do flights from ST. PETERSBURG to TORONTO on MONDAY
+flight from PITTSBURGH to DENVER
+cheapest flights from BALTIMORE to DALLAS
 what flights depart BALTIMORE and arrive by 8pm FRIDAY in SAN FRANCISCO
-i want a flight from PITTSBURGH to LOS ANGELES that departs after 6pm on THURSDAY
+flight from PITTSBURGH to LOS ANGELES departs after 6pm on THURSDAY

@@ -63,10 +63,12 @@ def print_train(nl):
 def load_dev():
     with open('data/dev.nl', "r+") as file:
          nlData = file.readlines()
+         nlData = [line.strip() for line in nlData]
 
              
     with open('data/dev.sql', "r+") as file:
          sqlData = file.readlines()
+         sqlData = [line.strip() for line in sqlData]
 
     return (nlData, sqlData)
 
@@ -188,54 +190,13 @@ def main():
     
     devNL, devSQL = load_dev()
     
-    with open('data/train.sql', "r+") as file:
-         testSQL = file.readlines()
-         testSQL = [line.strip() for line in testSQL]
-
-    with open('data/tokens_sql.txt', "r+") as file:
-         tkns = [line.replace('\n', '') 
-         for line in file.readlines()]
-
-    s = get_unique_set([line.split() for line in trainSQL])
-    for w in s:
-        if w[0] == "'" and w not in tkns:
-            print(w)
-
-    with open('data/dev.nl', "r+") as file:
-         trainNL = [line.replace('\n', '') 
-         for line in file.readlines()]
-    
-    new = preprocessing(trainNL)
-
-    with open('data/nl_post.nl', "w+") as file:
-        for ex in new:
-            print(" ".join(ex.split()), file=file)
-
-    sample = ["flights from denver to la on american airlines",
-        "vegas to dwi"]
-    print(sample)
-    sample = preprocessing(sample)
-    print(sample)
-    print(tokenizer(sample).input_ids)
-
-    space = tokenizer(" ").input_ids[0]
-    print(space)
-
-    sample = tokenizer(sample).input_ids
-    print(sample)
-    sample = [[id for id in element if id != space and id != 1 ] for element in sample]
-    print(sample)
-    print(pad_sequence([torch.tensor(ex) for ex in sample], batch_first=True))
-
-    print(tokenizer("Hello world").attention_mask)
-
-    return
-    
     train_nl_tkns = [t_old(ex).input_ids for ex in trainNL]
     train_sql_tkns = [t_old(SOS + ex).input_ids for ex in trainSQL]
 
     dev_nl_tkns = [t_old(ex).input_ids for ex in devNL]
     dev_sql_tkns = [t_old(SOS + ex).input_ids for ex in devSQL]
+
+    print("\t\t Before preprocessing")
 
     print("\t Training NL Stats")
     print_statistics(train_nl_tkns)
@@ -243,22 +204,27 @@ def main():
     print("\t Training SQL Stats")
     print_statistics(train_sql_tkns)
 
-    print(trainNL[0])
-
     print("\t Dev NL Stats")
     print_statistics(dev_nl_tkns)
 
     print("\t Dev SQL Stats")
     print_statistics(dev_sql_tkns)
 
-    post_train = preprocessing(trainNL)
-    post_dev = preprocessing(devNL)
+    post_train_nl = preprocessing(trainNL)
+    post_train_sql = preprocessing(trainSQL)
+    post_dev_nl = preprocessing(devNL)
+    post_dev_sql = preprocessing(devSQL)
 
-    post_train_nl_tkns = [tokenizer(ex.split(), is_split_into_words=True).input_ids for ex in post_train]
-    post_dev_nl_tkns = [tokenizer(ex.split(), is_split_into_words=True).input_ids for ex in post_dev]
+    post_train_nl_tkns = [tokenizer(ex).input_ids for ex in post_train_nl]
+    post_dev_nl_tkns = [tokenizer(ex).input_ids for ex in post_dev_nl]
 
-    post_train_sql_tkns = [tokenizer(ex).input_ids for ex in preprocessing(trainSQL)]
-    post_dev_sql_tkns = [tokenizer(ex).input_ids for ex in preprocessing(devSQL)]
+    post_train_nl_tkns = [[id for id in element if id != Tokens.Space and id != 1 ] for element in post_train_nl_tkns]
+    post_dev_nl_tkns = [[id for id in element if id != Tokens.Space and id != 1 ] for element in post_dev_nl_tkns]
+
+    post_train_sql_tkns = [tokenizer(ex).input_ids for ex in post_train_sql]
+    post_dev_sql_tkns = [tokenizer(ex).input_ids for ex in post_dev_sql]
+
+    print("\n\n\t\t After preprocessing")
 
     print("\t Post Train NL Stats")
     print_statistics(post_train_nl_tkns)
@@ -271,20 +237,6 @@ def main():
 
     print("\t Post Dev SQL Stats")
     print_statistics(post_dev_sql_tkns)
-    """
-    for x in post_train_sql_tkns:
-        x = torch.tensor(x)
-        x[x > 30000] = 0
-        print(tokenizer.decode(x, skip_special_tokens = True))
-    """
-    print("Space token: ", tokenizer(' ').input_ids[0])
-    x = tokenizer(["hello world".split(), "la_guardia_airport".split()], padding="longest", is_split_into_words=True)
-    print(x.input_ids)
-    print(x.attention_mask)
-    print(trainNL[0])
-    print(train_nl_tkns[0])
-    print(post_train_nl_tkns[0])
-
 
 if __name__ == "__main__":
     main()
