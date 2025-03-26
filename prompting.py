@@ -9,7 +9,7 @@ from transformers import BitsAndBytesConfig
 from load_data import load_lines
 
 from utils import set_random_seeds, compute_metrics, save_queries_and_records, compute_records
-from prompting_utils import read_schema, extract_sql_query, save_logs
+from prompting_utils import read_schema, extract_sql_query, save_logs, process_nl, get_key_words
 from load_data import load_prompting_data
 
 DEVICE = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu') # you can add mps
@@ -19,6 +19,11 @@ MAX_NEW_TOKENS = 1500
 SHOT_X = load_lines('prompts/train_nl.txt')
 SHOT_Y = load_lines('prompts/train_sql.txt')
 
+schema = read_schema("data/schema.txt")
+train_nl = None
+train_nl_list = None
+train_nl_keys = None
+train_sql = None
 
 def get_args():
     '''
@@ -43,6 +48,39 @@ def get_args():
     args = parser.parse_args()
     return args
 
+def set_diff(s1, s2):
+    cost = 0
+    for x in s1:
+        if x not in s2:
+            cost += 1
+    for x in s2:
+        if x not in s1:
+            cost += 1
+    return cost
+
+def get_matching_ex(key_words, k):
+
+    costs = [set_diff(key_words, nl) for nl in train_nl_keys]
+    
+    min_cost = 0
+    idx = []
+    i = 0
+    while len(idx) < k:
+        if costs[i] == min_cost and i not in idx:
+            idx.append(i)
+
+        i += 1
+        i %= len(costs)
+        if i == 0:
+            min_cost += 1
+            #print("Up cost")
+    
+    #print(idx)
+    return idx
+
+
+def rotate(l):
+    return l[-1:] + l[:-1]
 
 def create_prompt(sentence, k):
     '''
@@ -54,23 +92,34 @@ def create_prompt(sentence, k):
         * sentence (str): A text string
         * k (int): Number of examples in k-shot prompting
     '''
-    prompt = ''
 
-    k = min(k, 4)
+    prompt = 'You are a very powerful text-to-sql model. \n\n'
+    #prompt += schema
+
+    key_words = get_key_words(sentence)
+
+    cur_idx = []
+    k = min(k, 10)
     if k > 0:
-        for i in range(k):
-            prompt += '[Instruction]: ' + SHOT_X[i] + '\n'
-            prompt += '[Answer]: ' + SHOT_Y[i] + '\n\n'
-        prompt += 'Give your answer using the syntax and schema from the examples provided. \n'
+        #prompt += '\n Construct your SQL query using the exact syntax from the examples provided. \n\n'
+        cur_idx = get_matching_ex(key_words, k)
+    
+    for i in cur_idx:
+        prompt += '[Question]: ' + train_nl[i] + '\n'
+        prompt += '[Answer]: ' + train_sql[i] + '\n\n'
+        
+    if len(cur_idx) > 0:
+        prompt += 'Base your answer on these examples. \n'
 
-    prompt += 'Convert the following natural language instruction into its equivalent SQL instruction. \
-    Make sure your response is a syntactically valid SQL instruction. \
-    Only return the output and nothing else. \n'
+    prompt += 'Create an SQL Query for the following question. \
+    Only return the query and nothing else.  \
+    \n'
     
 
-    prompt += '[Instruction]: ' + sentence + '\n'
+    prompt += '[Question]: ' + sentence + '\n'
     prompt += '[Answer]: '
 
+    print(prompt)
 
     return prompt
 
@@ -97,7 +146,7 @@ def exp_kshot(tokenizer, model, inputs, k):
 
         input_ids = tokenizer(prompt, return_tensors="pt").to(DEVICE)
         outputs = model.generate(**input_ids, max_new_tokens=MAX_NEW_TOKENS) # You should set MAX_NEW_TOKENS
-        response = tokenizer.decode(outputs[0]) # How does the response look like? You may need to parse it
+        response = tokenizer.decode(outputs[0], skip_special_tokens=True) # How does the response look like? You may need to parse it
         raw_outputs.append(response)
 
         # Extract the SQL query
@@ -169,6 +218,7 @@ def main():
     are not required to use this pipeline.
     You can design your own pipeline, and you can also modify the code below.
     '''
+
     args = get_args()
     shot = args.shot
     ptype = args.ptype
@@ -181,11 +231,48 @@ def main():
     data_folder = 'data'
     train_x, train_y, dev_x, dev_y, test_x = load_prompting_data(data_folder)
 
+    global train_nl, train_nl_list, train_sql, train_nl_keys
+
+    train_nl = process_nl(train_x)
+    train_nl_list = [line.split() for line in train_nl]
+    train_nl_keys = [get_key_words(line) for line in train_nl]
+    train_sql = train_y
+
+    with open('data/prompt_t_x.nl', "w") as f:
+        for line in train_nl:
+            print(line, file=f)
+
+    test_nl = process_nl(test_x)
+
+    #print(create_prompt(test_nl[0], 10))
+
+    #test_nl = test_nl[0:9]
+
     # Model and tokenizer
     tokenizer, model = initialize_model_and_tokenizer(model_name, to_quantize)
+    """
+    input_ids = tokenizer(test_c, return_tensors="pt").to(DEVICE)
+    print(len(input_ids[0].ids))
+    outputs = model.generate(**input_ids, max_new_tokens=MAX_NEW_TOKENS) # You should set MAX_NEW_TOKENS
+    response = tokenizer.decode(outputs[0], skip_special_tokens=True) # How does the response look like? You may need to parse it
 
-    for eval_split in ["dev"]:
-        eval_x, eval_y = (dev_x, dev_y) if eval_split == "dev" else (test_x, None)
+    # Extract the SQL query
+    extracted_query = extract_sql_query(response)
+
+    with open("data/sample.sql", "w") as file:
+        print(extracted_query, file=file)
+
+    
+    raw_outputs, extracted_queries = exp_kshot(tokenizer, model, train_x[0:7], 3)
+    
+    with open('data/prompt_train.sql', "w") as file:
+         for q in extracted_queries:
+            print(q, file=file)
+    
+    return
+    """
+    for eval_split in ["dev", "test"]:
+        eval_x, eval_y = (dev_x, dev_y) if eval_split == "dev" else (test_nl, None)
 
         raw_outputs, extracted_queries = exp_kshot(tokenizer, model, eval_x, shot)
 

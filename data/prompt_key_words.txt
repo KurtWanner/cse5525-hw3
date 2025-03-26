@@ -1,0 +1,169 @@
+MKE
+JFK
+BWI
+YYZ
+ATL
+DFW
+DEN
+LGA
+BOS
+MIA
+DAL
+TPA
+DTW
+DFW
+IAD
+CVG
+MCO
+PIT
+BUR
+OAK
+LAX
+NEW YORK
+ORLANDO
+MILWAUKEE
+DENVER
+TORONTO
+BOSTON
+RENTAL CAR
+BURBANK
+NASHVILLE
+TAMPA
+PHILADELPHIA
+MIAMI
+CHICAGO
+PITTSBURGH
+MEMPHIS
+SAN FRANCISCO
+CHARLOTTE
+MONTREAL
+TACOMA
+DETROIT
+WESTCHESTER COUNTY
+DALLAS
+SAN DIEGO
+LAS VEGAS
+OAKLAND
+INDIANAPOLIS
+HOUSTON
+CLEVELAND
+ST. LOUIS
+ST. PAUL
+ST. PETERSBURG
+NEWARK
+INDIANAPOLIS
+LOS ANGELES
+WASHINGTON
+SALT LAKE CITY
+PHOENIX
+SAN JOSE
+NEVADA
+CALIFORNIA
+UTAH
+ARIZONA
+MONDAY
+TUESDAY
+WEDNESDAY
+THURSDAY
+FRIDAY
+SATURDAY
+SUNDAY
+DAILY
+72S
+73S
+QX
+QO
+F
+FF
+J31
+F28
+D10
+D9S
+M80
+DC10
+D/S
+H
+QW
+ML
+YN
+YX
+NX
+Y
+Q
+B
+BB
+BH
+HP
+EWR
+M
+AC
+SD/D
+AP/55
+AP/57
+AP/68
+AP/80
+AP/55
+AP/57
+AP/68
+AP/80
+AS
+DL
+AA
+EA
+LH
+FN
+TW
+YX
+NW
+WN
+HP
+CO
+AC
+CP
+NX
+US
+FIRST
+BUSINESS
+COACH
+economy
+january
+february
+march
+april
+may
+june
+july
+august
+september
+october
+november
+december
+ground transport
+nonstop
+layover
+aircraft
+abbreviation
+abbreviations
+restrictions
+restriction
+fare code
+round trip
+fare
+seating capacity
+airlines
+airline
+airport
+airports
+morning
+afternoon
+evening
+noon
+cheapest
+earliest
+latest
+dinner
+cost
+meal
+limousine
+tomorrow
+dollars
