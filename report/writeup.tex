@@ -137,54 +137,47 @@ For all entries, you need to specify the corresponding values of $k$.
 \toprule
 \textbf{Shot} & \textbf{Prompt} \\
 \midrule
-    \textcolor{gray}{0} & \textcolor{gray}{Convert the following natural language instruction into its equivalent SQL instruction.} \\
-    & \textcolor{gray}{Ensure your response is a syntactically valid SQL instruction.} \\
-    & \textcolor{gray}{The instructions are for a flight database.} \\
-    & \textcolor{gray}{Only return the output and nothing else.} \\
-    & \textcolor{gray}{[Instruction]: [NL INSTRUCTION]} \\
-    & \textcolor{gray}{[Answer]: } \\
+    \textcolor{gray}{0} & \textcolor{gray}{You are a very powerful text-to-sql model.} \\
+    & \textcolor{gray}{Given the following SQL tables, create an SQL query for a user request.} \\
+	& \textcolor{gray}{} \\
+	& \textcolor{gray}{[SCHEMA FOR FLIGHT DATABASE]} \\
+	& \textcolor{gray}{} \\
+	& \textcolor{gray}{Create an SQL Query for the following question.} \\
+	& \textcolor{gray}{Only return the output and nothing else.} \\
+	& \textcolor{gray}{[Question]: [NL INSTRUCTION]} \\
+	& \textcolor{gray}{[Answer]: } \\
 \midrule
-
-\textcolor{gray}{$k > 0$} & \textcolor{gray}{[Instruction]: what evening flights do you have available from baltimore to philadelphia }\\
-& \textcolor{gray}{[Answer]: [CORRESPONDING SQL QUERY]} \\
-& \\
-& \textcolor{gray}{[Instruction]: how much is coach flight from pittsburgh to atlanta} \\
-& \textcolor{gray}{[Answer]: [CORRESPONDING SQL QUERY]} \\
-& \\
-& \textcolor{gray}{[Instruction]: get saturday fares from washington to montreal} \\
-& \textcolor{gray}{[Answer]: [CORRESPONDING SQL QUERY]} \\
-& \\
-& \textcolor{gray}{[Instruction]: all flights and fares from atlanta to dallas round trip after 12pm less than 1100 dollars} \\
-& \textcolor{gray}{[Answer]: [CORRESPONDING SQL QUERY]} \\
-& \\
-& \textcolor{gray}{Give your answer using the syntax and schema from the examples provided.} \\
-& \\
-& \textcolor{gray}{Convert the following natural language instruction into its equivalent SQL instruction.} \\
-& \textcolor{gray}{Ensure your response is a syntactically valid SQL instruction.} \\
-& \textcolor{gray}{The instructions are for a flight database.} \\
-& \textcolor{gray}{Only return the output and nothing else.} \\
-& \textcolor{gray}{[Instruction]: [NL INSTRUCTION]} \\
-& \textcolor{gray}{[Answer]: } \\
+	\textcolor{gray}{$k > 0$} & \textcolor{gray}{You are a very powerful text-to-sql model. }\\
+	& \textcolor{gray}{Given the following SQL tables, create an SQL query for a user request.} \\
+	& \textcolor{gray}{} \\
+	& \textcolor{gray}{[SCHEMA FOR FLIGHT DATABASE]} \\
+	& \textcolor{gray}{} \\
+	& \textcolor{gray}{[Question]: [TRAINING NL INSTRUCTION] }\\
+	& \textcolor{gray}{[Answer]: [CORRESPONDING SQL QUERY]} \\
+	& \\
+	& \textcolor{gray}{\vdots} \\
+	& \\
+	& \textcolor{gray}{Base your answer on these examples.} \\
+	& \textcolor{gray}{Create an SQL Query for the following question.} \\
+	& \textcolor{gray}{Only return the output and nothing else.} \\
+	& \textcolor{gray}{[Question]: [NL INSTRUCTION]} \\
+	& \textcolor{gray}{[Answer]: } \\
 \bottomrule
 \end{tabular}
 \caption{Instruction prompts used for zero- and/or few-shot prompting.}
 \label{tab:icl_prompts}
 \end{table}
 
-
 \paragraph{Example selections:} Please provide a clear, detailed, and succinct description of how you selected the examples when $k > 0$.
 
-\textcolor{gray}{The examples were selected based on how well representative their task was to the rest of the training data. The first example provided above I felt was most representative of the training dataset in terms of both the NL instruction and the corresponding SQL elements. The second example provided was second most representative and so on. For $k$-shot prompting, the first $k$ examples were selected from the above list.}
+\textcolor{gray}{The examples were chosen dynamically based on a simple similarity score between the given NL instruction and all training examples. The similarity score is based on the set of key words in each NL instruction. This list of key words can be found in} \verb|data/prompt_key_words.txt|.
 
-
-
+\textcolor{gray}{The calculation for the similarity score is $Score(key_1, key_2) = |key_1$ \textbackslash  $ key_2| + |key_2$ \textbackslash  $ key_1|$}
+ 
 \newpage
 
 
-
 \subsection{Best Prompt and Ablation Study}
-
-
 
 \paragraph{Instructions:} Report the best prompt you used in \autoref{tab:best_prompt}.
 If the best prompt you used is the same as the one specified in \autoref{tab:icl_prompts}, you can just copy the best prompt and label it.
@@ -202,22 +195,25 @@ When reporting your results in \autoref{tab:results}, you will need to refer to 
 \toprule
 \textbf{Prompt} \\
 \midrule
-\textcolor{gray}{[Instruction]: what evening flights do you have available from baltimore to philadelphia}\\
- \textcolor{gray}{[Answer]: [CORRESPONDING SQL QUERY]} \\
- \\
- \textcolor{Red}{Give your answer using the syntax and schema from the examples provided.} \\
- \\
- \textcolor{gray}{Convert the following natural language instruction into its equivalent SQL instruction.} \\
- \textcolor{Blue}{The instructions are for a flight database.} \\
- \textcolor{gray}{Ensure your response is a syntactically valid SQL instruction.} \\
- \textcolor{gray}{Only return the output and nothing else.} \\
- \textcolor{gray}{[Instruction]: [NL INSTRUCTION]} \\
- \textcolor{gray}{[Answer]: } \\
-
+\textcolor{gray}{You are a very powerful text-to-sql model. }\\
+\textcolor{gray}{Given the following SQL tables, create an SQL query for a user request.} \\
+\textcolor{gray}{} \\
+\textcolor{gray}{[SCHEMA FOR FLIGHT DATABASE]} \\
+\textcolor{gray}{} \\
+\textcolor{gray}{[Question]: [TRAINING NL INSTRUCTION] }\\
+\textcolor{gray}{[Answer]: [CORRESPONDING SQL QUERY]} \\
+\\
+\textcolor{gray}{\vdots} \\
+\\
+\textcolor{gray}{Base your answer on these examples.} \\
+\textcolor{gray}{Create an SQL Query for the following question.} \\
+\textcolor{gray}{Only return the output and nothing else.} \\
+\textcolor{gray}{[Question]: [NL INSTRUCTION]} \\
+\textcolor{gray}{[Answer]: } \\
 \bottomrule
 \end{tabular}
 \caption{The best prompt.
-{\textcolor{gray}{My best prompt was the Purple ablation experiment with $k=1$.}}
+{\textcolor{gray}{My best prompt was the prompt from \autoref{tab:icl_prompts}}}
 }
 \label{tab:best_prompt}
 \end{table}

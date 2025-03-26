@@ -1,0 +1,4 @@
+SQL EM: 0.0
+Record EM: 0.2
+Record F1: 0.2275862056587396
+Model Error Messages: ['', '', 'OperationalError: no such column: flight_1.flight_day', '', '', '', 'OperationalError: no such column: departure_date', '', '', '']

@@ -106,21 +106,22 @@ def create_prompt(sentence, k):
         cur_idx = get_matching_ex(key_words, k)
     
     for i in cur_idx:
-        prompt += '\n[Question]: ' + train_nl[i] + '\n'
-        prompt += '[Answer]: ' + train_sql[i] + '\n'
+        prompt += '\n[Instruction]: ' + train_nl[i] + '\n'
+        prompt += '[Query]: ' + train_sql[i] + '\n'
         
     if len(cur_idx) > 0:
-        prompt += '\nBase your answer on these examples. \n'
+        prompt += 'Base your answer on these examples. \n'
 
-    prompt += 'Create an SQL Query for the following question. \
+    prompt += 'Create an SQL Query for the following natural language instruction. \
+    Do not use outside information. \
     Only return the query and nothing else.  \
     \n'
     
 
-    prompt += '[Question]: ' + sentence + '\n'
-    prompt += '[Answer]: '
+    prompt += '[Instruction]: ' + sentence + '\n'
+    prompt += '[Query]: '
 
-    print(prompt)
+    #print(prompt)
 
     return prompt
 
@@ -245,12 +246,17 @@ def main():
 
     test_nl = process_nl(test_x)
 
+    range_start = 103
+    range_end = 108
     #print(create_prompt(test_nl[0], 10))
-
-    #test_nl = test_nl[0:10]
+    dev_x = dev_x[range_start:range_end]
+    dev_y = dev_y[range_start:range_end]
+    test_nl = test_nl[range_start:range_end]
 
     # Model and tokenizer
     tokenizer, model = initialize_model_and_tokenizer(model_name, to_quantize)
+
+    save_queries_and_records(dev_y, "results/dev_new_gt.sql", "records/dev_new_gt.pkl")
     """
     input_ids = tokenizer(test_c, return_tensors="pt").to(DEVICE)
     print(len(input_ids[0].ids))
@@ -272,7 +278,7 @@ def main():
     
     return
     """
-    for eval_split in ["dev", "test"]:
+    for eval_split in ["test"]:
         eval_x, eval_y = (dev_x, dev_y) if eval_split == "dev" else (test_nl, None)
 
         raw_outputs, extracted_queries = exp_kshot(tokenizer, model, eval_x, shot)
@@ -280,9 +286,10 @@ def main():
         # You can add any post-processing if needed
         # You can compute the records with `compute_records``
 
-        gt_query_records = f"records/{eval_split}_gt_records.pkl"
-        gt_sql_pth = os.path.join(f'data/{eval_split}.sql')
-        gt_record_path = os.path.join(f'records/{eval_split}_gt_records.pkl')
+        #gt_query_records = f"records/{eval_split}_gt_records.pkl"
+        #gt_sql_pth = os.path.join(f'data/{eval_split}.sql')
+        gt_query_records = f"records/dev_new_gt.pkl"
+        gt_sql_pth = os.path.join(f'results/dev_new_gt.sql')
         model_sql_path = os.path.join(f'results/gemma_{experiment_name}_{eval_split}.sql')
         model_record_path = os.path.join(f'records/gemma_{experiment_name}_{eval_split}.pkl')
 
@@ -291,6 +298,7 @@ def main():
         if eval_split == "test":
             continue
 
+        
         sql_em, record_em, record_f1, model_error_msgs, error_rate = eval_outputs(
             eval_x, eval_y,
             gt_sql_pth=gt_sql_pth,
@@ -298,6 +306,7 @@ def main():
             gt_record_path=gt_query_records,
             model_record_path=model_record_path
         )
+        
         print(f"{eval_split} set results: ")
         print(f"Record F1: {record_f1}, Record EM: {record_em}, SQL EM: {sql_em}")
         print(f"{eval_split} set results: {error_rate*100:.2f}% of the generated outputs led to SQL errors")
