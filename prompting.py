@@ -107,19 +107,20 @@ def create_prompt(sentence, k):
     
     for i in cur_idx:
         prompt += '\n[Instruction]: ' + train_nl[i] + '\n'
-        prompt += '[Query]: ' + train_sql[i] + '\n'
+        prompt += '[Answer]: ' + train_sql[i] + '\n'
         
     if len(cur_idx) > 0:
         prompt += 'Base your answer on these examples. \n'
 
     prompt += 'Create an SQL Query for the following natural language instruction. \
     Do not use outside information. \
+    Capitalize strings in quotations.\
     Only return the query and nothing else.  \
     \n'
     
 
     prompt += '[Instruction]: ' + sentence + '\n'
-    prompt += '[Query]: '
+    prompt += '[Answer]: '
 
     #print(prompt)
 
@@ -246,38 +247,10 @@ def main():
 
     test_nl = process_nl(test_x)
 
-    range_start = 103
-    range_end = 108
-    #print(create_prompt(test_nl[0], 10))
-    dev_x = dev_x[range_start:range_end]
-    dev_y = dev_y[range_start:range_end]
-    test_nl = test_nl[range_start:range_end]
 
     # Model and tokenizer
     tokenizer, model = initialize_model_and_tokenizer(model_name, to_quantize)
 
-    save_queries_and_records(dev_y, "results/dev_new_gt.sql", "records/dev_new_gt.pkl")
-    """
-    input_ids = tokenizer(test_c, return_tensors="pt").to(DEVICE)
-    print(len(input_ids[0].ids))
-    outputs = model.generate(**input_ids, max_new_tokens=MAX_NEW_TOKENS) # You should set MAX_NEW_TOKENS
-    response = tokenizer.decode(outputs[0], skip_special_tokens=True) # How does the response look like? You may need to parse it
-
-    # Extract the SQL query
-    extracted_query = extract_sql_query(response)
-
-    with open("data/sample.sql", "w") as file:
-        print(extracted_query, file=file)
-
-    
-    raw_outputs, extracted_queries = exp_kshot(tokenizer, model, train_x[0:7], 3)
-    
-    with open('data/prompt_train.sql', "w") as file:
-         for q in extracted_queries:
-            print(q, file=file)
-    
-    return
-    """
     for eval_split in ["test"]:
         eval_x, eval_y = (dev_x, dev_y) if eval_split == "dev" else (test_nl, None)
 
@@ -286,10 +259,8 @@ def main():
         # You can add any post-processing if needed
         # You can compute the records with `compute_records``
 
-        #gt_query_records = f"records/{eval_split}_gt_records.pkl"
-        #gt_sql_pth = os.path.join(f'data/{eval_split}.sql')
-        gt_query_records = f"records/dev_new_gt.pkl"
-        gt_sql_pth = os.path.join(f'results/dev_new_gt.sql')
+        gt_query_records = f"records/{eval_split}_gt_records.pkl"
+        gt_sql_pth = os.path.join(f'data/{eval_split}.sql')
         model_sql_path = os.path.join(f'results/gemma_{experiment_name}_{eval_split}.sql')
         model_record_path = os.path.join(f'records/gemma_{experiment_name}_{eval_split}.pkl')
 

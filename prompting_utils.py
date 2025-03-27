@@ -66,7 +66,7 @@ def extract_sql_query(response):
     Extract the SQL query from the model's response
     '''
 
-    start_index = response.rfind("[Query]") + 9
+    start_index = response.rfind("[Answer]") + 10
 
     sql = response[start_index:]
 
